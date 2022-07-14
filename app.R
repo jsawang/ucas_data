@@ -1,5 +1,6 @@
 library(shiny)
 library(tidyverse)
+library(plotly)
 
 apps_agegp <- read_csv("data/EOC_data_resource_2021_002_1.csv",
                        skip = 15, col_select = c("Year",
@@ -15,9 +16,10 @@ apps_agegp <- apps_agegp[apps_agegp$Domicile == "All" &
                            apps_agegp$`Age group` != "All",]
 
 ui <- fluidPage(
+  titlePanel("UCAS End of Cycle 2021 data explorer"),
   selectInput("gender","Gender",c("All","Men","Women")),
   
-  plotOutput("byAge")
+  plotlyOutput("byAge")
 )
 
 server <- function(input, output){
@@ -30,7 +32,7 @@ server <- function(input, output){
                  filter(Gender == filterGender)}
                )
   
-  output$byAge <- renderPlot({
+  output$byAge <- renderPlotly({
     ggplot(data = ageData$data,
            aes(x = Year, 
                y = Applicants, 

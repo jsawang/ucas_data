@@ -1,0 +1,14 @@
+name: ucas_data
+title: ucas_data
+username:
+account: jennia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6642960
+bundleId: 6098899
+url: https://jennia.shinyapps.io/ucas_data/
+when: 1657823996.82604
+lastSyncTime: 1657823996.82605
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: chart_replications.R|README.md
