@@ -1,0 +1,3174 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2021 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 9 December 2021"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2021_073_1"
+"Cycles: 2008 - 2021"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Additional qualification group, POLAR4 Quintile, Applicant type                                           "
+"Coverage: UK applicants"
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Data lines are comma delimited."
+"Data follows -     3158 lines in total"
+"------------------------------------------------------------------"
+Year,Additional qualification group,POLAR4 Quintile,Applicant type,Applicants,
+2008,All,All,All,501070
+2009,All,All,All,542915
+2010,All,All,All,585300
+2011,All,All,All,587865
+2012,All,All,All,543340
+2013,All,All,All,561985
+2014,All,All,All,578290
+2015,All,All,All,592025
+2016,All,All,All,590505
+2017,All,All,All,572285
+2018,All,All,All,561615
+2019,All,All,All,565480
+2020,All,All,All,577260
+2021,All,All,All,606645
+2008,All,All,Main scheme applicant,460080
+2008,All,All,Non-main scheme applicant,40990
+2009,All,All,Main scheme applicant,504480
+2009,All,All,Non-main scheme applicant,38435
+2010,All,All,Main scheme applicant,559245
+2010,All,All,Non-main scheme applicant,26055
+2011,All,All,Main scheme applicant,564020
+2011,All,All,Non-main scheme applicant,23845
+2012,All,All,Main scheme applicant,513885
+2012,All,All,Non-main scheme applicant,29455
+2013,All,All,Main scheme applicant,527645
+2013,All,All,Non-main scheme applicant,34340
+2014,All,All,Main scheme applicant,544525
+2014,All,All,Non-main scheme applicant,33765
+2015,All,All,Main scheme applicant,553525
+2015,All,All,Non-main scheme applicant,38500
+2016,All,All,Main scheme applicant,553665
+2016,All,All,Non-main scheme applicant,36835
+2017,All,All,Main scheme applicant,529555
+2017,All,All,Non-main scheme applicant,42730
+2018,All,All,Main scheme applicant,511390
+2018,All,All,Non-main scheme applicant,50225
+2019,All,All,Main scheme applicant,506030
+2019,All,All,Non-main scheme applicant,59450
+2020,All,All,Main scheme applicant,513965
+2020,All,All,Non-main scheme applicant,63295
+2021,All,All,Main scheme applicant,551730
+2021,All,All,Non-main scheme applicant,54915
+2008,All,Quintile 1,All,56855
+2008,All,Quintile 2,All,76685
+2008,All,Quintile 3,All,93535
+2008,All,Quintile 4,All,113590
+2008,All,Quintile 5,All,151205
+2008,All,Unknown,All,9195
+2009,All,Quintile 1,All,63305
+2009,All,Quintile 2,All,85165
+2009,All,Quintile 3,All,102505
+2009,All,Quintile 4,All,124000
+2009,All,Quintile 5,All,163085
+2009,All,Unknown,All,4855
+2010,All,Quintile 1,All,70075
+2010,All,Quintile 2,All,93810
+2010,All,Quintile 3,All,112510
+2010,All,Quintile 4,All,134280
+2010,All,Quintile 5,All,172985
+2010,All,Unknown,All,1640
+2011,All,Quintile 1,All,71365
+2011,All,Quintile 2,All,94100
+2011,All,Quintile 3,All,112295
+2011,All,Quintile 4,All,135020
+2011,All,Quintile 5,All,173610
+2011,All,Unknown,All,1475
+2012,All,Quintile 1,All,66990
+2012,All,Quintile 2,All,87290
+2012,All,Quintile 3,All,104740
+2012,All,Quintile 4,All,124155
+2012,All,Quintile 5,All,158690
+2012,All,Unknown,All,1470
+2013,All,Quintile 1,All,69850
+2013,All,Quintile 2,All,90070
+2013,All,Quintile 3,All,108390
+2013,All,Quintile 4,All,128710
+2013,All,Quintile 5,All,163695
+2013,All,Unknown,All,1265
+2014,All,Quintile 1,All,74375
+2014,All,Quintile 2,All,94385
+2014,All,Quintile 3,All,111840
+2014,All,Quintile 4,All,131545
+2014,All,Quintile 5,All,165065
+2014,All,Unknown,All,1080
+2015,All,Quintile 1,All,75665
+2015,All,Quintile 2,All,96500
+2015,All,Quintile 3,All,114320
+2015,All,Quintile 4,All,135225
+2015,All,Quintile 5,All,169185
+2015,All,Unknown,All,1125
+2016,All,Quintile 1,All,75595
+2016,All,Quintile 2,All,96215
+2016,All,Quintile 3,All,113540
+2016,All,Quintile 4,All,134210
+2016,All,Quintile 5,All,169890
+2016,All,Unknown,All,1055
+2017,All,Quintile 1,All,73250
+2017,All,Quintile 2,All,92260
+2017,All,Quintile 3,All,109975
+2017,All,Quintile 4,All,130255
+2017,All,Quintile 5,All,165540
+2017,All,Unknown,All,1010
+2018,All,Quintile 1,All,72215
+2018,All,Quintile 2,All,90535
+2018,All,Quintile 3,All,106735
+2018,All,Quintile 4,All,128660
+2018,All,Quintile 5,All,162415
+2018,All,Unknown,All,1055
+2019,All,Quintile 1,All,73915
+2019,All,Quintile 2,All,91375
+2019,All,Quintile 3,All,108540
+2019,All,Quintile 4,All,128700
+2019,All,Quintile 5,All,161835
+2019,All,Unknown,All,1110
+2020,All,Quintile 1,All,77095
+2020,All,Quintile 2,All,94300
+2020,All,Quintile 3,All,109955
+2020,All,Quintile 4,All,129690
+2020,All,Quintile 5,All,165165
+2020,All,Unknown,All,1050
+2021,All,Quintile 1,All,80890
+2021,All,Quintile 2,All,98455
+2021,All,Quintile 3,All,115650
+2021,All,Quintile 4,All,135740
+2021,All,Quintile 5,All,172740
+2021,All,Unknown,All,3170
+2008,All,Quintile 1,Main scheme applicant,51520
+2008,All,Quintile 1,Non-main scheme applicant,5335
+2008,All,Quintile 2,Main scheme applicant,69865
+2008,All,Quintile 2,Non-main scheme applicant,6820
+2008,All,Quintile 3,Main scheme applicant,85480
+2008,All,Quintile 3,Non-main scheme applicant,8055
+2008,All,Quintile 4,Main scheme applicant,103985
+2008,All,Quintile 4,Non-main scheme applicant,9610
+2008,All,Quintile 5,Main scheme applicant,141335
+2008,All,Quintile 5,Non-main scheme applicant,9870
+2008,All,Unknown,Main scheme applicant,7895
+2008,All,Unknown,Non-main scheme applicant,1300
+2009,All,Quintile 1,Main scheme applicant,58400
+2009,All,Quintile 1,Non-main scheme applicant,4905
+2009,All,Quintile 2,Main scheme applicant,78880
+2009,All,Quintile 2,Non-main scheme applicant,6285
+2009,All,Quintile 3,Main scheme applicant,95080
+2009,All,Quintile 3,Non-main scheme applicant,7425
+2009,All,Quintile 4,Main scheme applicant,115560
+2009,All,Quintile 4,Non-main scheme applicant,8440
+2009,All,Quintile 5,Main scheme applicant,154600
+2009,All,Quintile 5,Non-main scheme applicant,8485
+2009,All,Unknown,Main scheme applicant,1960
+2009,All,Unknown,Non-main scheme applicant,2895
+2010,All,Quintile 1,Main scheme applicant,66880
+2010,All,Quintile 1,Non-main scheme applicant,3195
+2010,All,Quintile 2,Main scheme applicant,89275
+2010,All,Quintile 2,Non-main scheme applicant,4535
+2010,All,Quintile 3,Main scheme applicant,107200
+2010,All,Quintile 3,Non-main scheme applicant,5305
+2010,All,Quintile 4,Main scheme applicant,127765
+2010,All,Quintile 4,Non-main scheme applicant,6515
+2010,All,Quintile 5,Main scheme applicant,166660
+2010,All,Quintile 5,Non-main scheme applicant,6325
+2010,All,Unknown,Main scheme applicant,1465
+2010,All,Unknown,Non-main scheme applicant,180
+2011,All,Quintile 1,Main scheme applicant,68530
+2011,All,Quintile 1,Non-main scheme applicant,2835
+2011,All,Quintile 2,Main scheme applicant,90100
+2011,All,Quintile 2,Non-main scheme applicant,3995
+2011,All,Quintile 3,Main scheme applicant,107470
+2011,All,Quintile 3,Non-main scheme applicant,4830
+2011,All,Quintile 4,Main scheme applicant,128770
+2011,All,Quintile 4,Non-main scheme applicant,6250
+2011,All,Quintile 5,Main scheme applicant,167815
+2011,All,Quintile 5,Non-main scheme applicant,5795
+2011,All,Unknown,Main scheme applicant,1330
+2011,All,Unknown,Non-main scheme applicant,145
+2012,All,Quintile 1,Main scheme applicant,63140
+2012,All,Quintile 1,Non-main scheme applicant,3850
+2012,All,Quintile 2,Main scheme applicant,82225
+2012,All,Quintile 2,Non-main scheme applicant,5065
+2012,All,Quintile 3,Main scheme applicant,98745
+2012,All,Quintile 3,Non-main scheme applicant,5995
+2012,All,Quintile 4,Main scheme applicant,116940
+2012,All,Quintile 4,Non-main scheme applicant,7215
+2012,All,Quintile 5,Main scheme applicant,151650
+2012,All,Quintile 5,Non-main scheme applicant,7040
+2012,All,Unknown,Main scheme applicant,1185
+2012,All,Unknown,Non-main scheme applicant,290
+2013,All,Quintile 1,Main scheme applicant,65270
+2013,All,Quintile 1,Non-main scheme applicant,4580
+2013,All,Quintile 2,Main scheme applicant,84355
+2013,All,Quintile 2,Non-main scheme applicant,5715
+2013,All,Quintile 3,Main scheme applicant,101440
+2013,All,Quintile 3,Non-main scheme applicant,6950
+2013,All,Quintile 4,Main scheme applicant,120160
+2013,All,Quintile 4,Non-main scheme applicant,8550
+2013,All,Quintile 5,Main scheme applicant,155435
+2013,All,Quintile 5,Non-main scheme applicant,8265
+2013,All,Unknown,Main scheme applicant,980
+2013,All,Unknown,Non-main scheme applicant,285
+2014,All,Quintile 1,Main scheme applicant,69840
+2014,All,Quintile 1,Non-main scheme applicant,4540
+2014,All,Quintile 2,Main scheme applicant,88755
+2014,All,Quintile 2,Non-main scheme applicant,5630
+2014,All,Quintile 3,Main scheme applicant,104885
+2014,All,Quintile 3,Non-main scheme applicant,6955
+2014,All,Quintile 4,Main scheme applicant,122970
+2014,All,Quintile 4,Non-main scheme applicant,8570
+2014,All,Quintile 5,Main scheme applicant,157170
+2014,All,Quintile 5,Non-main scheme applicant,7895
+2014,All,Unknown,Main scheme applicant,905
+2014,All,Unknown,Non-main scheme applicant,175
+2015,All,Quintile 1,Main scheme applicant,70410
+2015,All,Quintile 1,Non-main scheme applicant,5255
+2015,All,Quintile 2,Main scheme applicant,89965
+2015,All,Quintile 2,Non-main scheme applicant,6535
+2015,All,Quintile 3,Main scheme applicant,106420
+2015,All,Quintile 3,Non-main scheme applicant,7900
+2015,All,Quintile 4,Main scheme applicant,125540
+2015,All,Quintile 4,Non-main scheme applicant,9685
+2015,All,Quintile 5,Main scheme applicant,160345
+2015,All,Quintile 5,Non-main scheme applicant,8840
+2015,All,Unknown,Main scheme applicant,840
+2015,All,Unknown,Non-main scheme applicant,285
+2016,All,Quintile 1,Main scheme applicant,70510
+2016,All,Quintile 1,Non-main scheme applicant,5085
+2016,All,Quintile 2,Main scheme applicant,89785
+2016,All,Quintile 2,Non-main scheme applicant,6430
+2016,All,Quintile 3,Main scheme applicant,106055
+2016,All,Quintile 3,Non-main scheme applicant,7490
+2016,All,Quintile 4,Main scheme applicant,124960
+2016,All,Quintile 4,Non-main scheme applicant,9250
+2016,All,Quintile 5,Main scheme applicant,161490
+2016,All,Quintile 5,Non-main scheme applicant,8400
+2016,All,Unknown,Main scheme applicant,865
+2016,All,Unknown,Non-main scheme applicant,190
+2017,All,Quintile 1,Main scheme applicant,67315
+2017,All,Quintile 1,Non-main scheme applicant,5935
+2017,All,Quintile 2,Main scheme applicant,84895
+2017,All,Quintile 2,Non-main scheme applicant,7365
+2017,All,Quintile 3,Main scheme applicant,101225
+2017,All,Quintile 3,Non-main scheme applicant,8750
+2017,All,Quintile 4,Main scheme applicant,119495
+2017,All,Quintile 4,Non-main scheme applicant,10760
+2017,All,Quintile 5,Main scheme applicant,155865
+2017,All,Quintile 5,Non-main scheme applicant,9670
+2017,All,Unknown,Main scheme applicant,760
+2017,All,Unknown,Non-main scheme applicant,250
+2018,All,Quintile 1,Main scheme applicant,64855
+2018,All,Quintile 1,Non-main scheme applicant,7360
+2018,All,Quintile 2,Main scheme applicant,81830
+2018,All,Quintile 2,Non-main scheme applicant,8705
+2018,All,Quintile 3,Main scheme applicant,96515
+2018,All,Quintile 3,Non-main scheme applicant,10220
+2018,All,Quintile 4,Main scheme applicant,115910
+2018,All,Quintile 4,Non-main scheme applicant,12750
+2018,All,Quintile 5,Main scheme applicant,151520
+2018,All,Quintile 5,Non-main scheme applicant,10900
+2018,All,Unknown,Main scheme applicant,765
+2018,All,Unknown,Non-main scheme applicant,290
+2019,All,Quintile 1,Main scheme applicant,64895
+2019,All,Quintile 1,Non-main scheme applicant,9020
+2019,All,Quintile 2,Main scheme applicant,80495
+2019,All,Quintile 2,Non-main scheme applicant,10875
+2019,All,Quintile 3,Main scheme applicant,96230
+2019,All,Quintile 3,Non-main scheme applicant,12310
+2019,All,Quintile 4,Main scheme applicant,114200
+2019,All,Quintile 4,Non-main scheme applicant,14500
+2019,All,Quintile 5,Main scheme applicant,149435
+2019,All,Quintile 5,Non-main scheme applicant,12400
+2019,All,Unknown,Main scheme applicant,765
+2019,All,Unknown,Non-main scheme applicant,345
+2020,All,Quintile 1,Main scheme applicant,67045
+2020,All,Quintile 1,Non-main scheme applicant,10050
+2020,All,Quintile 2,Main scheme applicant,82670
+2020,All,Quintile 2,Non-main scheme applicant,11630
+2020,All,Quintile 3,Main scheme applicant,97080
+2020,All,Quintile 3,Non-main scheme applicant,12875
+2020,All,Quintile 4,Main scheme applicant,115115
+2020,All,Quintile 4,Non-main scheme applicant,14575
+2020,All,Quintile 5,Main scheme applicant,151355
+2020,All,Quintile 5,Non-main scheme applicant,13810
+2020,All,Unknown,Main scheme applicant,700
+2020,All,Unknown,Non-main scheme applicant,350
+2021,All,Quintile 1,Main scheme applicant,72170
+2021,All,Quintile 1,Non-main scheme applicant,8720
+2021,All,Quintile 2,Main scheme applicant,88940
+2021,All,Quintile 2,Non-main scheme applicant,9515
+2021,All,Quintile 3,Main scheme applicant,104850
+2021,All,Quintile 3,Non-main scheme applicant,10800
+2021,All,Quintile 4,Main scheme applicant,123130
+2021,All,Quintile 4,Non-main scheme applicant,12605
+2021,All,Quintile 5,Main scheme applicant,161925
+2021,All,Quintile 5,Non-main scheme applicant,10815
+2021,All,Unknown,Main scheme applicant,715
+2021,All,Unknown,Non-main scheme applicant,2455
+2008,A level & BTEC,All,All,1855
+2008,A level & WB,All,All,890
+2008,A level Only (With extended project),All,All,505
+2008,A level Only (Without extended project),All,All,246665
+2008,BTEC Only,All,All,8390
+2008,IB Only,All,All,121300
+2008,Other,All,All,93385
+2008,SQA Only,All,All,28080
+2009,A level & BTEC,All,All,3405
+2009,A level & WB,All,All,1905
+2009,A level Only (With extended project),All,All,2555
+2009,A level Only (Without extended project),All,All,260235
+2009,Access to HE only,All,All,1430
+2009,BTEC Only,All,All,11035
+2009,IB Only,All,All,134850
+2009,Other,All,All,97860
+2009,SQA Only,All,All,29630
+2010,A level & BTEC,All,All,5040
+2010,A level & WB,All,All,3355
+2010,A level Only (With extended project),All,All,10380
+2010,A level Only (Without extended project),All,All,267775
+2010,Access to HE only,All,All,1150
+2010,BTEC Only,All,All,16040
+2010,IB Only,All,All,152085
+2010,Other,All,All,95755
+2010,SQA Only,All,All,33720
+2011,A level & BTEC,All,All,6890
+2011,A level & WB,All,All,5475
+2011,A level Only (With extended project),All,All,17890
+2011,A level Only (Without extended project),All,All,264510
+2011,Access to HE only,All,All,515
+2011,BTEC Only,All,All,18505
+2011,IB Only,All,All,155265
+2011,Other,All,All,84395
+2011,SQA Only,All,All,34420
+2012,A level & BTEC,All,All,21050
+2012,A level & WB,All,All,6190
+2012,A level Only (With extended project),All,All,21240
+2012,A level Only (Without extended project),All,All,230170
+2012,Access to HE only,All,All,3950
+2012,BTEC Only,All,All,62040
+2012,IB Only,All,All,91410
+2012,Other,All,All,72840
+2012,SQA Only,All,All,34445
+2013,A level & BTEC,All,All,25220
+2013,A level & Cambridge Technicals,All,All,105
+2013,A level & WB,All,All,6525
+2013,A level Only (With extended project),All,All,25910
+2013,A level Only (Without extended project),All,All,228300
+2013,Access to HE only,All,All,17875
+2013,BTEC Only,All,All,68865
+2013,Cambridge Technicals only,All,All,50
+2013,IB Only,All,All,79415
+2013,Other,All,All,74695
+2013,SQA Only,All,All,35020
+2014,A level & BTEC,All,All,30870
+2014,A level & Cambridge Technicals,All,All,1500
+2014,A level & WB,All,All,6720
+2014,A level Only (With extended project),All,All,29575
+2014,A level Only (Without extended project),All,All,218940
+2014,Access to HE only,All,All,19280
+2014,BTEC Only,All,All,80135
+2014,Cambridge Technicals only,All,All,530
+2014,IB Only,All,All,81375
+2014,Other,All,All,73250
+2014,SQA Only,All,All,36115
+2015,A level & BTEC,All,All,34525
+2015,A level & Cambridge Technicals,All,All,2515
+2015,A level & WB,All,All,6765
+2015,A level Only (With extended project),All,All,31120
+2015,A level Only (Without extended project),All,All,218055
+2015,Access to HE only,All,All,18825
+2015,BTEC Only,All,All,83950
+2015,Cambridge Technicals only,All,All,835
+2015,IB Only,All,All,80440
+2015,Other,All,All,75230
+2015,SQA Only,All,All,39760
+2016,A level & BTEC,All,All,34335
+2016,A level & Cambridge Technicals,All,All,3280
+2016,A level & WB,All,All,7105
+2016,A level Only (With extended project),All,All,32070
+2016,A level Only (Without extended project),All,All,214900
+2016,Access to HE only,All,All,20645
+2016,BTEC Only,All,All,81575
+2016,Cambridge Technicals only,All,All,1345
+2016,IB Only,All,All,80420
+2016,Other,All,All,73920
+2016,SQA Only,All,All,40905
+2017,A level & BTEC,All,All,31670
+2017,A level & Cambridge Technicals,All,All,3605
+2017,A level & WB,All,All,6615
+2017,A level Only (With extended project),All,All,34020
+2017,A level Only (Without extended project),All,All,207605
+2017,Access to HE only,All,All,20060
+2017,BTEC Only,All,All,76350
+2017,Cambridge Technicals only,All,All,2045
+2017,IB Only,All,All,77790
+2017,Other,All,All,72025
+2017,SQA Only,All,All,40500
+2018,A level & BTEC,All,All,26810
+2018,A level & Cambridge Technicals,All,All,4580
+2018,A level & WB,All,All,6210
+2018,A level Only (With extended project),All,All,37030
+2018,A level Only (Without extended project),All,All,196520
+2018,Access to HE only,All,All,19030
+2018,BTEC Only,All,All,70665
+2018,Cambridge Technicals only,All,All,2600
+2018,IB Only,All,All,80350
+2018,Other,All,All,77690
+2018,SQA Only,All,All,40130
+2019,A level & BTEC,All,All,26795
+2019,A level & Cambridge Technicals,All,All,6065
+2019,A level & WB,All,All,5880
+2019,A level Only (With extended project),All,All,39135
+2019,A level Only (Without extended project),All,All,189485
+2019,Access to HE only,All,All,19195
+2019,BTEC Only,All,All,66180
+2019,Cambridge Technicals only,All,All,3700
+2019,IB Only,All,All,84735
+2019,Other,All,All,85805
+2019,SQA Only,All,All,38500
+2020,A level & BTEC,All,All,28450
+2020,A level & Cambridge Technicals,All,All,7105
+2020,A level & WB,All,All,5745
+2020,A level Only (With extended project),All,All,39405
+2020,A level Only (Without extended project),All,All,194500
+2020,Access to HE only,All,All,20780
+2020,BTEC Only,All,All,66720
+2020,Cambridge Technicals only,All,All,4125
+2020,IB Only,All,All,91765
+2020,Other,All,All,79795
+2020,SQA Only,All,All,38870
+2021,A level & BTEC,All,All,31305
+2021,A level & Cambridge Technicals,All,All,7385
+2021,A level & WB,All,All,6445
+2021,A level Only (With extended project),All,All,40145
+2021,A level Only (Without extended project),All,All,199670
+2021,Access to HE only,All,All,20905
+2021,BTEC Only,All,All,67390
+2021,Cambridge Technicals only,All,All,4380
+2021,IB Only,All,All,85995
+2021,Other,All,All,100395
+2021,SQA Only,All,All,42625
+2008,A level & BTEC,All,Main scheme applicant,1780
+2008,A level & BTEC,All,Non-main scheme applicant,75
+2008,A level & WB,All,Main scheme applicant,890
+2008,A level Only (With extended project),All,Main scheme applicant,505
+2008,A level Only (Without extended project),All,Main scheme applicant,243025
+2008,A level Only (Without extended project),All,Non-main scheme applicant,3640
+2008,BTEC Only,All,Main scheme applicant,7715
+2008,BTEC Only,All,Non-main scheme applicant,675
+2008,IB Only,All,Main scheme applicant,107520
+2008,IB Only,All,Non-main scheme applicant,13780
+2008,Other,All,Main scheme applicant,71025
+2008,Other,All,Non-main scheme applicant,22360
+2008,SQA Only,All,Main scheme applicant,27625
+2008,SQA Only,All,Non-main scheme applicant,455
+2009,A level & BTEC,All,Main scheme applicant,3275
+2009,A level & BTEC,All,Non-main scheme applicant,130
+2009,A level & WB,All,Main scheme applicant,1895
+2009,A level & WB,All,Non-main scheme applicant,15
+2009,A level Only (With extended project),All,Main scheme applicant,2555
+2009,A level Only (Without extended project),All,Main scheme applicant,255930
+2009,A level Only (Without extended project),All,Non-main scheme applicant,4300
+2009,Access to HE only,All,Main scheme applicant,1330
+2009,Access to HE only,All,Non-main scheme applicant,100
+2009,BTEC Only,All,Main scheme applicant,10130
+2009,BTEC Only,All,Non-main scheme applicant,910
+2009,IB Only,All,Main scheme applicant,122305
+2009,IB Only,All,Non-main scheme applicant,12545
+2009,Other,All,Main scheme applicant,78025
+2009,Other,All,Non-main scheme applicant,19840
+2009,SQA Only,All,Main scheme applicant,29030
+2009,SQA Only,All,Non-main scheme applicant,600
+2010,A level & BTEC,All,Main scheme applicant,4845
+2010,A level & BTEC,All,Non-main scheme applicant,195
+2010,A level & WB,All,Main scheme applicant,3320
+2010,A level & WB,All,Non-main scheme applicant,30
+2010,A level Only (With extended project),All,Main scheme applicant,10375
+2010,A level Only (With extended project),All,Non-main scheme applicant,10
+2010,A level Only (Without extended project),All,Main scheme applicant,263185
+2010,A level Only (Without extended project),All,Non-main scheme applicant,4590
+2010,Access to HE only,All,Main scheme applicant,1015
+2010,Access to HE only,All,Non-main scheme applicant,135
+2010,BTEC Only,All,Main scheme applicant,14335
+2010,BTEC Only,All,Non-main scheme applicant,1700
+2010,IB Only,All,Main scheme applicant,142635
+2010,IB Only,All,Non-main scheme applicant,9450
+2010,Other,All,Main scheme applicant,86245
+2010,Other,All,Non-main scheme applicant,9510
+2010,SQA Only,All,Main scheme applicant,33285
+2010,SQA Only,All,Non-main scheme applicant,435
+2011,A level & BTEC,All,Main scheme applicant,6650
+2011,A level & BTEC,All,Non-main scheme applicant,240
+2011,A level & WB,All,Main scheme applicant,5430
+2011,A level & WB,All,Non-main scheme applicant,45
+2011,A level Only (With extended project),All,Main scheme applicant,17860
+2011,A level Only (With extended project),All,Non-main scheme applicant,30
+2011,A level Only (Without extended project),All,Main scheme applicant,259595
+2011,A level Only (Without extended project),All,Non-main scheme applicant,4915
+2011,Access to HE only,All,Main scheme applicant,340
+2011,Access to HE only,All,Non-main scheme applicant,170
+2011,BTEC Only,All,Main scheme applicant,16540
+2011,BTEC Only,All,Non-main scheme applicant,1965
+2011,IB Only,All,Main scheme applicant,145465
+2011,IB Only,All,Non-main scheme applicant,9800
+2011,Other,All,Main scheme applicant,78065
+2011,Other,All,Non-main scheme applicant,6335
+2011,SQA Only,All,Main scheme applicant,34070
+2011,SQA Only,All,Non-main scheme applicant,350
+2012,A level & BTEC,All,Main scheme applicant,20970
+2012,A level & BTEC,All,Non-main scheme applicant,80
+2012,A level & WB,All,Main scheme applicant,6075
+2012,A level & WB,All,Non-main scheme applicant,115
+2012,A level Only (With extended project),All,Main scheme applicant,21170
+2012,A level Only (With extended project),All,Non-main scheme applicant,70
+2012,A level Only (Without extended project),All,Main scheme applicant,224140
+2012,A level Only (Without extended project),All,Non-main scheme applicant,6035
+2012,Access to HE only,All,Main scheme applicant,3375
+2012,Access to HE only,All,Non-main scheme applicant,575
+2012,BTEC Only,All,Main scheme applicant,59260
+2012,BTEC Only,All,Non-main scheme applicant,2780
+2012,IB Only,All,Main scheme applicant,80535
+2012,IB Only,All,Non-main scheme applicant,10875
+2012,Other,All,Main scheme applicant,64360
+2012,Other,All,Non-main scheme applicant,8480
+2012,SQA Only,All,Main scheme applicant,34005
+2012,SQA Only,All,Non-main scheme applicant,445
+2013,A level & BTEC,All,Main scheme applicant,25095
+2013,A level & BTEC,All,Non-main scheme applicant,130
+2013,A level & Cambridge Technicals,All,Main scheme applicant,105
+2013,A level & WB,All,Main scheme applicant,6405
+2013,A level & WB,All,Non-main scheme applicant,120
+2013,A level Only (With extended project),All,Main scheme applicant,25795
+2013,A level Only (With extended project),All,Non-main scheme applicant,110
+2013,A level Only (Without extended project),All,Main scheme applicant,222035
+2013,A level Only (Without extended project),All,Non-main scheme applicant,6270
+2013,Access to HE only,All,Main scheme applicant,17145
+2013,Access to HE only,All,Non-main scheme applicant,730
+2013,BTEC Only,All,Main scheme applicant,65300
+2013,BTEC Only,All,Non-main scheme applicant,3565
+2013,Cambridge Technicals only,All,Main scheme applicant,40
+2013,Cambridge Technicals only,All,Non-main scheme applicant,10
+2013,IB Only,All,Main scheme applicant,66620
+2013,IB Only,All,Non-main scheme applicant,12790
+2013,Other,All,Main scheme applicant,64505
+2013,Other,All,Non-main scheme applicant,10190
+2013,SQA Only,All,Main scheme applicant,34600
+2013,SQA Only,All,Non-main scheme applicant,425
+2014,A level & BTEC,All,Main scheme applicant,30730
+2014,A level & BTEC,All,Non-main scheme applicant,140
+2014,A level & Cambridge Technicals,All,Main scheme applicant,1490
+2014,A level & Cambridge Technicals,All,Non-main scheme applicant,10
+2014,A level & WB,All,Main scheme applicant,6610
+2014,A level & WB,All,Non-main scheme applicant,110
+2014,A level Only (With extended project),All,Main scheme applicant,29460
+2014,A level Only (With extended project),All,Non-main scheme applicant,115
+2014,A level Only (Without extended project),All,Main scheme applicant,213085
+2014,A level Only (Without extended project),All,Non-main scheme applicant,5855
+2014,Access to HE only,All,Main scheme applicant,18620
+2014,Access to HE only,All,Non-main scheme applicant,655
+2014,BTEC Only,All,Main scheme applicant,75680
+2014,BTEC Only,All,Non-main scheme applicant,4455
+2014,Cambridge Technicals only,All,Main scheme applicant,515
+2014,Cambridge Technicals only,All,Non-main scheme applicant,20
+2014,IB Only,All,Main scheme applicant,68575
+2014,IB Only,All,Non-main scheme applicant,12805
+2014,Other,All,Main scheme applicant,64085
+2014,Other,All,Non-main scheme applicant,9160
+2014,SQA Only,All,Main scheme applicant,35670
+2014,SQA Only,All,Non-main scheme applicant,445
+2015,A level & BTEC,All,Main scheme applicant,34295
+2015,A level & BTEC,All,Non-main scheme applicant,230
+2015,A level & Cambridge Technicals,All,Main scheme applicant,2490
+2015,A level & Cambridge Technicals,All,Non-main scheme applicant,25
+2015,A level & WB,All,Main scheme applicant,6630
+2015,A level & WB,All,Non-main scheme applicant,130
+2015,A level Only (With extended project),All,Main scheme applicant,30990
+2015,A level Only (With extended project),All,Non-main scheme applicant,130
+2015,A level Only (Without extended project),All,Main scheme applicant,212100
+2015,A level Only (Without extended project),All,Non-main scheme applicant,5960
+2015,Access to HE only,All,Main scheme applicant,18045
+2015,Access to HE only,All,Non-main scheme applicant,780
+2015,BTEC Only,All,Main scheme applicant,78880
+2015,BTEC Only,All,Non-main scheme applicant,5075
+2015,Cambridge Technicals only,All,Main scheme applicant,800
+2015,Cambridge Technicals only,All,Non-main scheme applicant,40
+2015,IB Only,All,Main scheme applicant,67005
+2015,IB Only,All,Non-main scheme applicant,13435
+2015,Other,All,Main scheme applicant,63080
+2015,Other,All,Non-main scheme applicant,12150
+2015,SQA Only,All,Main scheme applicant,39210
+2015,SQA Only,All,Non-main scheme applicant,555
+2016,A level & BTEC,All,Main scheme applicant,34100
+2016,A level & BTEC,All,Non-main scheme applicant,240
+2016,A level & Cambridge Technicals,All,Main scheme applicant,3240
+2016,A level & Cambridge Technicals,All,Non-main scheme applicant,40
+2016,A level & WB,All,Main scheme applicant,6970
+2016,A level & WB,All,Non-main scheme applicant,135
+2016,A level Only (With extended project),All,Main scheme applicant,31905
+2016,A level Only (With extended project),All,Non-main scheme applicant,165
+2016,A level Only (Without extended project),All,Main scheme applicant,209130
+2016,A level Only (Without extended project),All,Non-main scheme applicant,5775
+2016,Access to HE only,All,Main scheme applicant,19585
+2016,Access to HE only,All,Non-main scheme applicant,1060
+2016,BTEC Only,All,Main scheme applicant,76610
+2016,BTEC Only,All,Non-main scheme applicant,4965
+2016,Cambridge Technicals only,All,Main scheme applicant,1295
+2016,Cambridge Technicals only,All,Non-main scheme applicant,50
+2016,IB Only,All,Main scheme applicant,67800
+2016,IB Only,All,Non-main scheme applicant,12620
+2016,Other,All,Main scheme applicant,62805
+2016,Other,All,Non-main scheme applicant,11115
+2016,SQA Only,All,Main scheme applicant,40230
+2016,SQA Only,All,Non-main scheme applicant,675
+2017,A level & BTEC,All,Main scheme applicant,31395
+2017,A level & BTEC,All,Non-main scheme applicant,275
+2017,A level & Cambridge Technicals,All,Main scheme applicant,3535
+2017,A level & Cambridge Technicals,All,Non-main scheme applicant,65
+2017,A level & WB,All,Main scheme applicant,6530
+2017,A level & WB,All,Non-main scheme applicant,90
+2017,A level Only (With extended project),All,Main scheme applicant,33775
+2017,A level Only (With extended project),All,Non-main scheme applicant,245
+2017,A level Only (Without extended project),All,Main scheme applicant,201290
+2017,A level Only (Without extended project),All,Non-main scheme applicant,6315
+2017,Access to HE only,All,Main scheme applicant,18740
+2017,Access to HE only,All,Non-main scheme applicant,1320
+2017,BTEC Only,All,Main scheme applicant,70905
+2017,BTEC Only,All,Non-main scheme applicant,5445
+2017,Cambridge Technicals only,All,Main scheme applicant,1955
+2017,Cambridge Technicals only,All,Non-main scheme applicant,90
+2017,IB Only,All,Main scheme applicant,62650
+2017,IB Only,All,Non-main scheme applicant,15140
+2017,Other,All,Main scheme applicant,58965
+2017,Other,All,Non-main scheme applicant,13060
+2017,SQA Only,All,Main scheme applicant,39815
+2017,SQA Only,All,Non-main scheme applicant,685
+2018,A level & BTEC,All,Main scheme applicant,26610
+2018,A level & BTEC,All,Non-main scheme applicant,200
+2018,A level & Cambridge Technicals,All,Main scheme applicant,4490
+2018,A level & Cambridge Technicals,All,Non-main scheme applicant,95
+2018,A level & WB,All,Main scheme applicant,6140
+2018,A level & WB,All,Non-main scheme applicant,70
+2018,A level Only (With extended project),All,Main scheme applicant,36795
+2018,A level Only (With extended project),All,Non-main scheme applicant,230
+2018,A level Only (Without extended project),All,Main scheme applicant,189885
+2018,A level Only (Without extended project),All,Non-main scheme applicant,6640
+2018,Access to HE only,All,Main scheme applicant,17730
+2018,Access to HE only,All,Non-main scheme applicant,1300
+2018,BTEC Only,All,Main scheme applicant,64860
+2018,BTEC Only,All,Non-main scheme applicant,5810
+2018,Cambridge Technicals only,All,Main scheme applicant,2465
+2018,Cambridge Technicals only,All,Non-main scheme applicant,135
+2018,IB Only,All,Main scheme applicant,62585
+2018,IB Only,All,Non-main scheme applicant,17765
+2018,Other,All,Main scheme applicant,60440
+2018,Other,All,Non-main scheme applicant,17250
+2018,SQA Only,All,Main scheme applicant,39395
+2018,SQA Only,All,Non-main scheme applicant,735
+2019,A level & BTEC,All,Main scheme applicant,26455
+2019,A level & BTEC,All,Non-main scheme applicant,340
+2019,A level & Cambridge Technicals,All,Main scheme applicant,5915
+2019,A level & Cambridge Technicals,All,Non-main scheme applicant,145
+2019,A level & WB,All,Main scheme applicant,5815
+2019,A level & WB,All,Non-main scheme applicant,65
+2019,A level Only (With extended project),All,Main scheme applicant,38730
+2019,A level Only (With extended project),All,Non-main scheme applicant,405
+2019,A level Only (Without extended project),All,Main scheme applicant,182105
+2019,A level Only (Without extended project),All,Non-main scheme applicant,7385
+2019,Access to HE only,All,Main scheme applicant,17555
+2019,Access to HE only,All,Non-main scheme applicant,1640
+2019,BTEC Only,All,Main scheme applicant,59870
+2019,BTEC Only,All,Non-main scheme applicant,6310
+2019,Cambridge Technicals only,All,Main scheme applicant,3470
+2019,Cambridge Technicals only,All,Non-main scheme applicant,230
+2019,IB Only,All,Main scheme applicant,65865
+2019,IB Only,All,Non-main scheme applicant,18870
+2019,Other,All,Main scheme applicant,62575
+2019,Other,All,Non-main scheme applicant,23230
+2019,SQA Only,All,Main scheme applicant,37675
+2019,SQA Only,All,Non-main scheme applicant,820
+2020,A level & BTEC,All,Main scheme applicant,28155
+2020,A level & BTEC,All,Non-main scheme applicant,295
+2020,A level & Cambridge Technicals,All,Main scheme applicant,6865
+2020,A level & Cambridge Technicals,All,Non-main scheme applicant,235
+2020,A level & WB,All,Main scheme applicant,5670
+2020,A level & WB,All,Non-main scheme applicant,75
+2020,A level Only (With extended project),All,Main scheme applicant,38965
+2020,A level Only (With extended project),All,Non-main scheme applicant,440
+2020,A level Only (Without extended project),All,Main scheme applicant,186030
+2020,A level Only (Without extended project),All,Non-main scheme applicant,8470
+2020,Access to HE only,All,Main scheme applicant,19085
+2020,Access to HE only,All,Non-main scheme applicant,1695
+2020,BTEC Only,All,Main scheme applicant,59995
+2020,BTEC Only,All,Non-main scheme applicant,6720
+2020,Cambridge Technicals only,All,Main scheme applicant,3810
+2020,Cambridge Technicals only,All,Non-main scheme applicant,315
+2020,IB Only,All,Main scheme applicant,69855
+2020,IB Only,All,Non-main scheme applicant,21910
+2020,Other,All,Main scheme applicant,58110
+2020,Other,All,Non-main scheme applicant,21690
+2020,SQA Only,All,Main scheme applicant,37420
+2020,SQA Only,All,Non-main scheme applicant,1450
+2021,A level & BTEC,All,Main scheme applicant,31090
+2021,A level & BTEC,All,Non-main scheme applicant,215
+2021,A level & Cambridge Technicals,All,Main scheme applicant,7280
+2021,A level & Cambridge Technicals,All,Non-main scheme applicant,105
+2021,A level & WB,All,Main scheme applicant,6420
+2021,A level & WB,All,Non-main scheme applicant,25
+2021,A level Only (With extended project),All,Main scheme applicant,39940
+2021,A level Only (With extended project),All,Non-main scheme applicant,205
+2021,A level Only (Without extended project),All,Main scheme applicant,196025
+2021,A level Only (Without extended project),All,Non-main scheme applicant,3645
+2021,Access to HE only,All,Main scheme applicant,20185
+2021,Access to HE only,All,Non-main scheme applicant,720
+2021,BTEC Only,All,Main scheme applicant,64635
+2021,BTEC Only,All,Non-main scheme applicant,2755
+2021,Cambridge Technicals only,All,Main scheme applicant,4215
+2021,Cambridge Technicals only,All,Non-main scheme applicant,165
+2021,IB Only,All,Main scheme applicant,78010
+2021,IB Only,All,Non-main scheme applicant,7985
+2021,Other,All,Main scheme applicant,61895
+2021,Other,All,Non-main scheme applicant,38500
+2021,SQA Only,All,Main scheme applicant,42035
+2021,SQA Only,All,Non-main scheme applicant,595
+2008,A level & BTEC,Quintile 1,All,265
+2008,A level & BTEC,Quintile 2,All,340
+2008,A level & BTEC,Quintile 3,All,380
+2008,A level & BTEC,Quintile 4,All,415
+2008,A level & BTEC,Quintile 5,All,430
+2008,A level & BTEC,Unknown,All,25
+2008,A level & WB,Quintile 1,All,135
+2008,A level & WB,Quintile 2,All,150
+2008,A level & WB,Quintile 3,All,215
+2008,A level & WB,Quintile 4,All,185
+2008,A level & WB,Quintile 5,All,190
+2008,A level & WB,Unknown,All,20
+2008,A level Only (With extended project),Quintile 1,All,45
+2008,A level Only (With extended project),Quintile 2,All,60
+2008,A level Only (With extended project),Quintile 3,All,110
+2008,A level Only (With extended project),Quintile 4,All,135
+2008,A level Only (With extended project),Quintile 5,All,155
+2008,A level Only (With extended project),Unknown,All,5
+2008,A level Only (Without extended project),Quintile 1,All,20595
+2008,A level Only (Without extended project),Quintile 2,All,32955
+2008,A level Only (Without extended project),Quintile 3,All,43635
+2008,A level Only (Without extended project),Quintile 4,All,56740
+2008,A level Only (Without extended project),Quintile 5,All,89200
+2008,A level Only (Without extended project),Unknown,All,3535
+2008,BTEC Only,Quintile 1,All,1445
+2008,BTEC Only,Quintile 2,All,1670
+2008,BTEC Only,Quintile 3,All,1660
+2008,BTEC Only,Quintile 4,All,1825
+2008,BTEC Only,Quintile 5,All,1665
+2008,BTEC Only,Unknown,All,120
+2008,IB Only,Quintile 1,All,20090
+2008,IB Only,Quintile 2,All,22575
+2008,IB Only,Quintile 3,All,24185
+2008,IB Only,Quintile 4,All,26605
+2008,IB Only,Quintile 5,All,25140
+2008,IB Only,Unknown,All,2710
+2008,Other,Quintile 1,All,13035
+2008,Other,Quintile 2,All,16150
+2008,Other,Quintile 3,All,18725
+2008,Other,Quintile 4,All,21310
+2008,Other,Quintile 5,All,21905
+2008,Other,Unknown,All,2260
+2008,SQA Only,Quintile 1,All,1245
+2008,SQA Only,Quintile 2,All,2790
+2008,SQA Only,Quintile 3,All,4625
+2008,SQA Only,Quintile 4,All,6375
+2008,SQA Only,Quintile 5,All,12520
+2008,SQA Only,Unknown,All,520
+2009,A level & BTEC,Quintile 1,All,535
+2009,A level & BTEC,Quintile 2,All,685
+2009,A level & BTEC,Quintile 3,All,720
+2009,A level & BTEC,Quintile 4,All,775
+2009,A level & BTEC,Quintile 5,All,685
+2009,A level & BTEC,Unknown,All,5
+2009,A level & WB,Quintile 1,All,220
+2009,A level & WB,Quintile 2,All,365
+2009,A level & WB,Quintile 3,All,475
+2009,A level & WB,Quintile 4,All,420
+2009,A level & WB,Quintile 5,All,420
+2009,A level & WB,Unknown,All,5
+2009,A level Only (With extended project),Quintile 1,All,245
+2009,A level Only (With extended project),Quintile 2,All,395
+2009,A level Only (With extended project),Quintile 3,All,500
+2009,A level Only (With extended project),Quintile 4,All,660
+2009,A level Only (With extended project),Quintile 5,All,755
+2009,A level Only (With extended project),Unknown,All,5
+2009,A level Only (Without extended project),Quintile 1,All,21800
+2009,A level Only (Without extended project),Quintile 2,All,34985
+2009,A level Only (Without extended project),Quintile 3,All,46700
+2009,A level Only (Without extended project),Quintile 4,All,60990
+2009,A level Only (Without extended project),Quintile 5,All,95150
+2009,A level Only (Without extended project),Unknown,All,610
+2009,Access to HE only,Quintile 1,All,275
+2009,Access to HE only,Quintile 2,All,290
+2009,Access to HE only,Quintile 3,All,285
+2009,Access to HE only,Quintile 4,All,315
+2009,Access to HE only,Quintile 5,All,260
+2009,Access to HE only,Unknown,All,5
+2009,BTEC Only,Quintile 1,All,1905
+2009,BTEC Only,Quintile 2,All,2225
+2009,BTEC Only,Quintile 3,All,2260
+2009,BTEC Only,Quintile 4,All,2440
+2009,BTEC Only,Quintile 5,All,2170
+2009,BTEC Only,Unknown,All,35
+2009,IB Only,Quintile 1,All,22970
+2009,IB Only,Quintile 2,All,25665
+2009,IB Only,Quintile 3,All,27045
+2009,IB Only,Quintile 4,All,29820
+2009,IB Only,Quintile 5,All,28135
+2009,IB Only,Unknown,All,1215
+2009,Other,Quintile 1,All,13995
+2009,Other,Quintile 2,All,17570
+2009,Other,Quintile 3,All,19540
+2009,Other,Quintile 4,All,21685
+2009,Other,Quintile 5,All,22155
+2009,Other,Unknown,All,2920
+2009,SQA Only,Quintile 1,All,1360
+2009,SQA Only,Quintile 2,All,2980
+2009,SQA Only,Quintile 3,All,4980
+2009,SQA Only,Quintile 4,All,6895
+2009,SQA Only,Quintile 5,All,13350
+2009,SQA Only,Unknown,All,65
+2010,A level & BTEC,Quintile 1,All,865
+2010,A level & BTEC,Quintile 2,All,1025
+2010,A level & BTEC,Quintile 3,All,1075
+2010,A level & BTEC,Quintile 4,All,1045
+2010,A level & BTEC,Quintile 5,All,1020
+2010,A level & BTEC,Unknown,All,10
+2010,A level & WB,Quintile 1,All,390
+2010,A level & WB,Quintile 2,All,675
+2010,A level & WB,Quintile 3,All,715
+2010,A level & WB,Quintile 4,All,795
+2010,A level & WB,Quintile 5,All,770
+2010,A level & WB,Unknown,All,5
+2010,A level Only (With extended project),Quintile 1,All,945
+2010,A level Only (With extended project),Quintile 2,All,1460
+2010,A level Only (With extended project),Quintile 3,All,1935
+2010,A level Only (With extended project),Quintile 4,All,2540
+2010,A level Only (With extended project),Quintile 5,All,3485
+2010,A level Only (With extended project),Unknown,All,20
+2010,A level Only (Without extended project),Quintile 1,All,22895
+2010,A level Only (Without extended project),Quintile 2,All,36315
+2010,A level Only (Without extended project),Quintile 3,All,48505
+2010,A level Only (Without extended project),Quintile 4,All,62565
+2010,A level Only (Without extended project),Quintile 5,All,97060
+2010,A level Only (Without extended project),Unknown,All,440
+2010,Access to HE only,Quintile 1,All,260
+2010,Access to HE only,Quintile 2,All,265
+2010,Access to HE only,Quintile 3,All,240
+2010,Access to HE only,Quintile 4,All,205
+2010,Access to HE only,Quintile 5,All,185
+2010,BTEC Only,Quintile 1,All,2710
+2010,BTEC Only,Quintile 2,All,3215
+2010,BTEC Only,Quintile 3,All,3300
+2010,BTEC Only,Quintile 4,All,3600
+2010,BTEC Only,Quintile 5,All,3175
+2010,BTEC Only,Unknown,All,40
+2010,IB Only,Quintile 1,All,25985
+2010,IB Only,Quintile 2,All,29565
+2010,IB Only,Quintile 3,All,31315
+2010,IB Only,Quintile 4,All,33750
+2010,IB Only,Quintile 5,All,30805
+2010,IB Only,Unknown,All,665
+2010,Other,Quintile 1,All,14360
+2010,Other,Quintile 2,All,17580
+2010,Other,Quintile 3,All,19650
+2010,Other,Quintile 4,All,21920
+2010,Other,Quintile 5,All,21855
+2010,Other,Unknown,All,395
+2010,SQA Only,Quintile 1,All,1665
+2010,SQA Only,Quintile 2,All,3715
+2010,SQA Only,Quintile 3,All,5780
+2010,SQA Only,Quintile 4,All,7865
+2010,SQA Only,Quintile 5,All,14630
+2010,SQA Only,Unknown,All,65
+2011,A level & BTEC,Quintile 1,All,1215
+2011,A level & BTEC,Quintile 2,All,1455
+2011,A level & BTEC,Quintile 3,All,1380
+2011,A level & BTEC,Quintile 4,All,1470
+2011,A level & BTEC,Quintile 5,All,1360
+2011,A level & BTEC,Unknown,All,10
+2011,A level & WB,Quintile 1,All,630
+2011,A level & WB,Quintile 2,All,1105
+2011,A level & WB,Quintile 3,All,1230
+2011,A level & WB,Quintile 4,All,1180
+2011,A level & WB,Quintile 5,All,1325
+2011,A level Only (With extended project),Quintile 1,All,1620
+2011,A level Only (With extended project),Quintile 2,All,2510
+2011,A level Only (With extended project),Quintile 3,All,3250
+2011,A level Only (With extended project),Quintile 4,All,4360
+2011,A level Only (With extended project),Quintile 5,All,6130
+2011,A level Only (With extended project),Unknown,All,20
+2011,A level Only (Without extended project),Quintile 1,All,23135
+2011,A level Only (Without extended project),Quintile 2,All,35750
+2011,A level Only (Without extended project),Quintile 3,All,47730
+2011,A level Only (Without extended project),Quintile 4,All,61800
+2011,A level Only (Without extended project),Quintile 5,All,95715
+2011,A level Only (Without extended project),Unknown,All,370
+2011,Access to HE only,Quintile 1,All,100
+2011,Access to HE only,Quintile 2,All,110
+2011,Access to HE only,Quintile 3,All,90
+2011,Access to HE only,Quintile 4,All,100
+2011,Access to HE only,Quintile 5,All,110
+2011,Access to HE only,Unknown,All,5
+2011,BTEC Only,Quintile 1,All,3295
+2011,BTEC Only,Quintile 2,All,3715
+2011,BTEC Only,Quintile 3,All,3850
+2011,BTEC Only,Quintile 4,All,4120
+2011,BTEC Only,Quintile 5,All,3495
+2011,BTEC Only,Unknown,All,30
+2011,IB Only,Quintile 1,All,26780
+2011,IB Only,Quintile 2,All,29790
+2011,IB Only,Quintile 3,All,31520
+2011,IB Only,Quintile 4,All,35070
+2011,IB Only,Quintile 5,All,31405
+2011,IB Only,Unknown,All,705
+2011,Other,Quintile 1,All,12950
+2011,Other,Quintile 2,All,15945
+2011,Other,Quintile 3,All,17230
+2011,Other,Quintile 4,All,18860
+2011,Other,Quintile 5,All,19120
+2011,Other,Unknown,All,285
+2011,SQA Only,Quintile 1,All,1635
+2011,SQA Only,Quintile 2,All,3715
+2011,SQA Only,Quintile 3,All,6015
+2011,SQA Only,Quintile 4,All,8060
+2011,SQA Only,Quintile 5,All,14950
+2011,SQA Only,Unknown,All,50
+2012,A level & BTEC,Quintile 1,All,3340
+2012,A level & BTEC,Quintile 2,All,4260
+2012,A level & BTEC,Quintile 3,All,4685
+2012,A level & BTEC,Quintile 4,All,4615
+2012,A level & BTEC,Quintile 5,All,4120
+2012,A level & BTEC,Unknown,All,35
+2012,A level & WB,Quintile 1,All,720
+2012,A level & WB,Quintile 2,All,1250
+2012,A level & WB,Quintile 3,All,1395
+2012,A level & WB,Quintile 4,All,1260
+2012,A level & WB,Quintile 5,All,1555
+2012,A level & WB,Unknown,All,5
+2012,A level Only (With extended project),Quintile 1,All,1790
+2012,A level Only (With extended project),Quintile 2,All,2945
+2012,A level Only (With extended project),Quintile 3,All,3820
+2012,A level Only (With extended project),Quintile 4,All,5120
+2012,A level Only (With extended project),Quintile 5,All,7535
+2012,A level Only (With extended project),Unknown,All,30
+2012,A level Only (Without extended project),Quintile 1,All,19895
+2012,A level Only (Without extended project),Quintile 2,All,30975
+2012,A level Only (Without extended project),Quintile 3,All,41265
+2012,A level Only (Without extended project),Quintile 4,All,53830
+2012,A level Only (Without extended project),Quintile 5,All,83855
+2012,A level Only (Without extended project),Unknown,All,350
+2012,Access to HE only,Quintile 1,All,380
+2012,Access to HE only,Quintile 2,All,420
+2012,Access to HE only,Quintile 3,All,770
+2012,Access to HE only,Quintile 4,All,1280
+2012,Access to HE only,Quintile 5,All,1085
+2012,Access to HE only,Unknown,All,10
+2012,BTEC Only,Quintile 1,All,11620
+2012,BTEC Only,Quintile 2,All,12715
+2012,BTEC Only,Quintile 3,All,13120
+2012,BTEC Only,Quintile 4,All,13625
+2012,BTEC Only,Quintile 5,All,10850
+2012,BTEC Only,Unknown,All,110
+2012,IB Only,Quintile 1,All,16495
+2012,IB Only,Quintile 2,All,17740
+2012,IB Only,Quintile 3,All,18480
+2012,IB Only,Quintile 4,All,19740
+2012,IB Only,Quintile 5,All,18415
+2012,IB Only,Unknown,All,540
+2012,Other,Quintile 1,All,11035
+2012,Other,Quintile 2,All,13330
+2012,Other,Quintile 3,All,15070
+2012,Other,Quintile 4,All,16545
+2012,Other,Quintile 5,All,16515
+2012,Other,Unknown,All,350
+2012,SQA Only,Quintile 1,All,1710
+2012,SQA Only,Quintile 2,All,3660
+2012,SQA Only,Quintile 3,All,6135
+2012,SQA Only,Quintile 4,All,8145
+2012,SQA Only,Quintile 5,All,14760
+2012,SQA Only,Unknown,All,40
+2013,A level & BTEC,Quintile 1,All,3940
+2013,A level & BTEC,Quintile 2,All,5140
+2013,A level & BTEC,Quintile 3,All,5505
+2013,A level & BTEC,Quintile 4,All,5515
+2013,A level & BTEC,Quintile 5,All,5070
+2013,A level & BTEC,Unknown,All,50
+2013,A level & Cambridge Technicals,Quintile 1,All,10
+2013,A level & Cambridge Technicals,Quintile 2,All,30
+2013,A level & Cambridge Technicals,Quintile 3,All,20
+2013,A level & Cambridge Technicals,Quintile 4,All,20
+2013,A level & Cambridge Technicals,Quintile 5,All,20
+2013,A level & WB,Quintile 1,All,775
+2013,A level & WB,Quintile 2,All,1265
+2013,A level & WB,Quintile 3,All,1500
+2013,A level & WB,Quintile 4,All,1345
+2013,A level & WB,Quintile 5,All,1635
+2013,A level & WB,Unknown,All,10
+2013,A level Only (With extended project),Quintile 1,All,2105
+2013,A level Only (With extended project),Quintile 2,All,3290
+2013,A level Only (With extended project),Quintile 3,All,4600
+2013,A level Only (With extended project),Quintile 4,All,6335
+2013,A level Only (With extended project),Quintile 5,All,9545
+2013,A level Only (With extended project),Unknown,All,30
+2013,A level Only (Without extended project),Quintile 1,All,19575
+2013,A level Only (Without extended project),Quintile 2,All,30180
+2013,A level Only (Without extended project),Quintile 3,All,40980
+2013,A level Only (Without extended project),Quintile 4,All,53730
+2013,A level Only (Without extended project),Quintile 5,All,83580
+2013,A level Only (Without extended project),Unknown,All,260
+2013,Access to HE only,Quintile 1,All,4195
+2013,Access to HE only,Quintile 2,All,3865
+2013,Access to HE only,Quintile 3,All,3425
+2013,Access to HE only,Quintile 4,All,3595
+2013,Access to HE only,Quintile 5,All,2760
+2013,Access to HE only,Unknown,All,35
+2013,BTEC Only,Quintile 1,All,12430
+2013,BTEC Only,Quintile 2,All,14030
+2013,BTEC Only,Quintile 3,All,14765
+2013,BTEC Only,Quintile 4,All,15365
+2013,BTEC Only,Quintile 5,All,12160
+2013,BTEC Only,Unknown,All,115
+2013,Cambridge Technicals only,Quintile 1,All,10
+2013,Cambridge Technicals only,Quintile 2,All,5
+2013,Cambridge Technicals only,Quintile 3,All,20
+2013,Cambridge Technicals only,Quintile 4,All,5
+2013,Cambridge Technicals only,Quintile 5,All,10
+2013,IB Only,Quintile 1,All,13230
+2013,IB Only,Quintile 2,All,14770
+2013,IB Only,Quintile 3,All,16145
+2013,IB Only,Quintile 4,All,17655
+2013,IB Only,Quintile 5,All,17185
+2013,IB Only,Unknown,All,425
+2013,Other,Quintile 1,All,11790
+2013,Other,Quintile 2,All,13620
+2013,Other,Quintile 3,All,15405
+2013,Other,Quintile 4,All,16855
+2013,Other,Quintile 5,All,16725
+2013,Other,Unknown,All,295
+2013,SQA Only,Quintile 1,All,1785
+2013,SQA Only,Quintile 2,All,3870
+2013,SQA Only,Quintile 3,All,6030
+2013,SQA Only,Quintile 4,All,8280
+2013,SQA Only,Quintile 5,All,15005
+2013,SQA Only,Unknown,All,45
+2014,A level & BTEC,Quintile 1,All,4935
+2014,A level & BTEC,Quintile 2,All,6125
+2014,A level & BTEC,Quintile 3,All,6885
+2014,A level & BTEC,Quintile 4,All,6850
+2014,A level & BTEC,Quintile 5,All,6035
+2014,A level & BTEC,Unknown,All,40
+2014,A level & Cambridge Technicals,Quintile 1,All,215
+2014,A level & Cambridge Technicals,Quintile 2,All,340
+2014,A level & Cambridge Technicals,Quintile 3,All,330
+2014,A level & Cambridge Technicals,Quintile 4,All,325
+2014,A level & Cambridge Technicals,Quintile 5,All,290
+2014,A level & WB,Quintile 1,All,815
+2014,A level & WB,Quintile 2,All,1330
+2014,A level & WB,Quintile 3,All,1530
+2014,A level & WB,Quintile 4,All,1400
+2014,A level & WB,Quintile 5,All,1640
+2014,A level & WB,Unknown,All,5
+2014,A level Only (With extended project),Quintile 1,All,2400
+2014,A level Only (With extended project),Quintile 2,All,3720
+2014,A level Only (With extended project),Quintile 3,All,5260
+2014,A level Only (With extended project),Quintile 4,All,7255
+2014,A level Only (With extended project),Quintile 5,All,10910
+2014,A level Only (With extended project),Unknown,All,30
+2014,A level Only (Without extended project),Quintile 1,All,19005
+2014,A level Only (Without extended project),Quintile 2,All,29090
+2014,A level Only (Without extended project),Quintile 3,All,39175
+2014,A level Only (Without extended project),Quintile 4,All,51105
+2014,A level Only (Without extended project),Quintile 5,All,80305
+2014,A level Only (Without extended project),Unknown,All,260
+2014,Access to HE only,Quintile 1,All,4555
+2014,Access to HE only,Quintile 2,All,4235
+2014,Access to HE only,Quintile 3,All,3785
+2014,Access to HE only,Quintile 4,All,3720
+2014,Access to HE only,Quintile 5,All,2950
+2014,Access to HE only,Unknown,All,30
+2014,BTEC Only,Quintile 1,All,15060
+2014,BTEC Only,Quintile 2,All,16480
+2014,BTEC Only,Quintile 3,All,16825
+2014,BTEC Only,Quintile 4,All,17655
+2014,BTEC Only,Quintile 5,All,14005
+2014,BTEC Only,Unknown,All,110
+2014,Cambridge Technicals only,Quintile 1,All,115
+2014,Cambridge Technicals only,Quintile 2,All,105
+2014,Cambridge Technicals only,Quintile 3,All,120
+2014,Cambridge Technicals only,Quintile 4,All,120
+2014,Cambridge Technicals only,Quintile 5,All,75
+2014,IB Only,Quintile 1,All,13575
+2014,IB Only,Quintile 2,All,15250
+2014,IB Only,Quintile 3,All,16525
+2014,IB Only,Quintile 4,All,17970
+2014,IB Only,Quintile 5,All,17665
+2014,IB Only,Unknown,All,395
+2014,Other,Quintile 1,All,11705
+2014,Other,Quintile 2,All,13565
+2014,Other,Quintile 3,All,15125
+2014,Other,Quintile 4,All,16610
+2014,Other,Quintile 5,All,16065
+2014,Other,Unknown,All,185
+2014,SQA Only,Quintile 1,All,2000
+2014,SQA Only,Quintile 2,All,4140
+2014,SQA Only,Quintile 3,All,6280
+2014,SQA Only,Quintile 4,All,8535
+2014,SQA Only,Quintile 5,All,15135
+2014,SQA Only,Unknown,All,25
+2015,A level & BTEC,Quintile 1,All,5665
+2015,A level & BTEC,Quintile 2,All,6950
+2015,A level & BTEC,Quintile 3,All,7455
+2015,A level & BTEC,Quintile 4,All,7460
+2015,A level & BTEC,Quintile 5,All,6960
+2015,A level & BTEC,Unknown,All,35
+2015,A level & Cambridge Technicals,Quintile 1,All,395
+2015,A level & Cambridge Technicals,Quintile 2,All,530
+2015,A level & Cambridge Technicals,Quintile 3,All,540
+2015,A level & Cambridge Technicals,Quintile 4,All,540
+2015,A level & Cambridge Technicals,Quintile 5,All,505
+2015,A level & Cambridge Technicals,Unknown,All,5
+2015,A level & WB,Quintile 1,All,845
+2015,A level & WB,Quintile 2,All,1300
+2015,A level & WB,Quintile 3,All,1555
+2015,A level & WB,Quintile 4,All,1415
+2015,A level & WB,Quintile 5,All,1645
+2015,A level & WB,Unknown,All,5
+2015,A level Only (With extended project),Quintile 1,All,2500
+2015,A level Only (With extended project),Quintile 2,All,3900
+2015,A level Only (With extended project),Quintile 3,All,5615
+2015,A level Only (With extended project),Quintile 4,All,7620
+2015,A level Only (With extended project),Quintile 5,All,11465
+2015,A level Only (With extended project),Unknown,All,25
+2015,A level Only (Without extended project),Quintile 1,All,18710
+2015,A level Only (Without extended project),Quintile 2,All,28430
+2015,A level Only (Without extended project),Quintile 3,All,38860
+2015,A level Only (Without extended project),Quintile 4,All,51350
+2015,A level Only (Without extended project),Quintile 5,All,80475
+2015,A level Only (Without extended project),Unknown,All,225
+2015,Access to HE only,Quintile 1,All,4455
+2015,Access to HE only,Quintile 2,All,4210
+2015,Access to HE only,Quintile 3,All,3620
+2015,Access to HE only,Quintile 4,All,3610
+2015,Access to HE only,Quintile 5,All,2895
+2015,Access to HE only,Unknown,All,30
+2015,BTEC Only,Quintile 1,All,15595
+2015,BTEC Only,Quintile 2,All,17250
+2015,BTEC Only,Quintile 3,All,17865
+2015,BTEC Only,Quintile 4,All,18410
+2015,BTEC Only,Quintile 5,All,14715
+2015,BTEC Only,Unknown,All,120
+2015,Cambridge Technicals only,Quintile 1,All,150
+2015,Cambridge Technicals only,Quintile 2,All,180
+2015,Cambridge Technicals only,Quintile 3,All,190
+2015,Cambridge Technicals only,Quintile 4,All,185
+2015,Cambridge Technicals only,Quintile 5,All,135
+2015,IB Only,Quintile 1,All,13320
+2015,IB Only,Quintile 2,All,15040
+2015,IB Only,Quintile 3,All,16195
+2015,IB Only,Quintile 4,All,18110
+2015,IB Only,Quintile 5,All,17370
+2015,IB Only,Unknown,All,405
+2015,Other,Quintile 1,All,11955
+2015,Other,Quintile 2,All,14045
+2015,Other,Quintile 3,All,15330
+2015,Other,Quintile 4,All,17220
+2015,Other,Quintile 5,All,16435
+2015,Other,Unknown,All,245
+2015,SQA Only,Quintile 1,All,2080
+2015,SQA Only,Quintile 2,All,4670
+2015,SQA Only,Quintile 3,All,7090
+2015,SQA Only,Quintile 4,All,9305
+2015,SQA Only,Quintile 5,All,16585
+2015,SQA Only,Unknown,All,30
+2016,A level & BTEC,Quintile 1,All,5460
+2016,A level & BTEC,Quintile 2,All,6700
+2016,A level & BTEC,Quintile 3,All,7280
+2016,A level & BTEC,Quintile 4,All,7670
+2016,A level & BTEC,Quintile 5,All,7175
+2016,A level & BTEC,Unknown,All,45
+2016,A level & Cambridge Technicals,Quintile 1,All,510
+2016,A level & Cambridge Technicals,Quintile 2,All,695
+2016,A level & Cambridge Technicals,Quintile 3,All,660
+2016,A level & Cambridge Technicals,Quintile 4,All,695
+2016,A level & Cambridge Technicals,Quintile 5,All,715
+2016,A level & Cambridge Technicals,Unknown,All,5
+2016,A level & WB,Quintile 1,All,910
+2016,A level & WB,Quintile 2,All,1400
+2016,A level & WB,Quintile 3,All,1650
+2016,A level & WB,Quintile 4,All,1390
+2016,A level & WB,Quintile 5,All,1760
+2016,A level Only (With extended project),Quintile 1,All,2620
+2016,A level Only (With extended project),Quintile 2,All,4130
+2016,A level Only (With extended project),Quintile 3,All,5675
+2016,A level Only (With extended project),Quintile 4,All,7765
+2016,A level Only (With extended project),Quintile 5,All,11845
+2016,A level Only (With extended project),Unknown,All,35
+2016,A level Only (Without extended project),Quintile 1,All,18795
+2016,A level Only (Without extended project),Quintile 2,All,28165
+2016,A level Only (Without extended project),Quintile 3,All,38040
+2016,A level Only (Without extended project),Quintile 4,All,49990
+2016,A level Only (Without extended project),Quintile 5,All,79705
+2016,A level Only (Without extended project),Unknown,All,210
+2016,Access to HE only,Quintile 1,All,4865
+2016,Access to HE only,Quintile 2,All,4575
+2016,Access to HE only,Quintile 3,All,4075
+2016,Access to HE only,Quintile 4,All,4015
+2016,Access to HE only,Quintile 5,All,3090
+2016,Access to HE only,Unknown,All,25
+2016,BTEC Only,Quintile 1,All,14925
+2016,BTEC Only,Quintile 2,All,16660
+2016,BTEC Only,Quintile 3,All,17220
+2016,BTEC Only,Quintile 4,All,18020
+2016,BTEC Only,Quintile 5,All,14635
+2016,BTEC Only,Unknown,All,115
+2016,Cambridge Technicals only,Quintile 1,All,245
+2016,Cambridge Technicals only,Quintile 2,All,280
+2016,Cambridge Technicals only,Quintile 3,All,295
+2016,Cambridge Technicals only,Quintile 4,All,285
+2016,Cambridge Technicals only,Quintile 5,All,235
+2016,IB Only,Quintile 1,All,13360
+2016,IB Only,Quintile 2,All,14850
+2016,IB Only,Quintile 3,All,16365
+2016,IB Only,Quintile 4,All,18045
+2016,IB Only,Quintile 5,All,17410
+2016,IB Only,Unknown,All,390
+2016,Other,Quintile 1,All,11745
+2016,Other,Quintile 2,All,13940
+2016,Other,Quintile 3,All,15020
+2016,Other,Quintile 4,All,16755
+2016,Other,Quintile 5,All,16265
+2016,Other,Unknown,All,195
+2016,SQA Only,Quintile 1,All,2155
+2016,SQA Only,Quintile 2,All,4815
+2016,SQA Only,Quintile 3,All,7255
+2016,SQA Only,Quintile 4,All,9580
+2016,SQA Only,Quintile 5,All,17055
+2016,SQA Only,Unknown,All,40
+2017,A level & BTEC,Quintile 1,All,5070
+2017,A level & BTEC,Quintile 2,All,6030
+2017,A level & BTEC,Quintile 3,All,6855
+2017,A level & BTEC,Quintile 4,All,7000
+2017,A level & BTEC,Quintile 5,All,6680
+2017,A level & BTEC,Unknown,All,35
+2017,A level & Cambridge Technicals,Quintile 1,All,565
+2017,A level & Cambridge Technicals,Quintile 2,All,740
+2017,A level & Cambridge Technicals,Quintile 3,All,755
+2017,A level & Cambridge Technicals,Quintile 4,All,780
+2017,A level & Cambridge Technicals,Quintile 5,All,760
+2017,A level & Cambridge Technicals,Unknown,All,5
+2017,A level & WB,Quintile 1,All,845
+2017,A level & WB,Quintile 2,All,1290
+2017,A level & WB,Quintile 3,All,1625
+2017,A level & WB,Quintile 4,All,1240
+2017,A level & WB,Quintile 5,All,1610
+2017,A level & WB,Unknown,All,5
+2017,A level Only (With extended project),Quintile 1,All,2830
+2017,A level Only (With extended project),Quintile 2,All,4390
+2017,A level Only (With extended project),Quintile 3,All,5865
+2017,A level Only (With extended project),Quintile 4,All,7980
+2017,A level Only (With extended project),Quintile 5,All,12935
+2017,A level Only (With extended project),Unknown,All,25
+2017,A level Only (Without extended project),Quintile 1,All,18360
+2017,A level Only (Without extended project),Quintile 2,All,27170
+2017,A level Only (Without extended project),Quintile 3,All,36595
+2017,A level Only (Without extended project),Quintile 4,All,48690
+2017,A level Only (Without extended project),Quintile 5,All,76560
+2017,A level Only (Without extended project),Unknown,All,225
+2017,Access to HE only,Quintile 1,All,4750
+2017,Access to HE only,Quintile 2,All,4430
+2017,Access to HE only,Quintile 3,All,3995
+2017,Access to HE only,Quintile 4,All,3840
+2017,Access to HE only,Quintile 5,All,3005
+2017,Access to HE only,Unknown,All,35
+2017,BTEC Only,Quintile 1,All,13730
+2017,BTEC Only,Quintile 2,All,15165
+2017,BTEC Only,Quintile 3,All,16205
+2017,BTEC Only,Quintile 4,All,17285
+2017,BTEC Only,Quintile 5,All,13895
+2017,BTEC Only,Unknown,All,75
+2017,Cambridge Technicals only,Quintile 1,All,405
+2017,Cambridge Technicals only,Quintile 2,All,420
+2017,Cambridge Technicals only,Quintile 3,All,390
+2017,Cambridge Technicals only,Quintile 4,All,460
+2017,Cambridge Technicals only,Quintile 5,All,370
+2017,IB Only,Quintile 1,All,13030
+2017,IB Only,Quintile 2,All,14370
+2017,IB Only,Quintile 3,All,15700
+2017,IB Only,Quintile 4,All,17255
+2017,IB Only,Quintile 5,All,17060
+2017,IB Only,Unknown,All,375
+2017,Other,Quintile 1,All,11355
+2017,Other,Quintile 2,All,13360
+2017,Other,Quintile 3,All,14780
+2017,Other,Quintile 4,All,16165
+2017,Other,Quintile 5,All,16170
+2017,Other,Unknown,All,195
+2017,SQA Only,Quintile 1,All,2310
+2017,SQA Only,Quintile 2,All,4900
+2017,SQA Only,Quintile 3,All,7205
+2017,SQA Only,Quintile 4,All,9555
+2017,SQA Only,Quintile 5,All,16495
+2017,SQA Only,Unknown,All,35
+2018,A level & BTEC,Quintile 1,All,4230
+2018,A level & BTEC,Quintile 2,All,5080
+2018,A level & BTEC,Quintile 3,All,5750
+2018,A level & BTEC,Quintile 4,All,5965
+2018,A level & BTEC,Quintile 5,All,5760
+2018,A level & BTEC,Unknown,All,25
+2018,A level & Cambridge Technicals,Quintile 1,All,650
+2018,A level & Cambridge Technicals,Quintile 2,All,850
+2018,A level & Cambridge Technicals,Quintile 3,All,995
+2018,A level & Cambridge Technicals,Quintile 4,All,1070
+2018,A level & Cambridge Technicals,Quintile 5,All,1010
+2018,A level & Cambridge Technicals,Unknown,All,5
+2018,A level & WB,Quintile 1,All,805
+2018,A level & WB,Quintile 2,All,1275
+2018,A level & WB,Quintile 3,All,1420
+2018,A level & WB,Quintile 4,All,1220
+2018,A level & WB,Quintile 5,All,1485
+2018,A level & WB,Unknown,All,5
+2018,A level Only (With extended project),Quintile 1,All,2950
+2018,A level Only (With extended project),Quintile 2,All,4625
+2018,A level Only (With extended project),Quintile 3,All,6430
+2018,A level Only (With extended project),Quintile 4,All,8615
+2018,A level Only (With extended project),Quintile 5,All,14375
+2018,A level Only (With extended project),Unknown,All,35
+2018,A level Only (Without extended project),Quintile 1,All,17600
+2018,A level Only (Without extended project),Quintile 2,All,25950
+2018,A level Only (Without extended project),Quintile 3,All,34580
+2018,A level Only (Without extended project),Quintile 4,All,46350
+2018,A level Only (Without extended project),Quintile 5,All,71830
+2018,A level Only (Without extended project),Unknown,All,205
+2018,Access to HE only,Quintile 1,All,4700
+2018,Access to HE only,Quintile 2,All,4135
+2018,Access to HE only,Quintile 3,All,3790
+2018,Access to HE only,Quintile 4,All,3570
+2018,Access to HE only,Quintile 5,All,2800
+2018,Access to HE only,Unknown,All,35
+2018,BTEC Only,Quintile 1,All,12885
+2018,BTEC Only,Quintile 2,All,13775
+2018,BTEC Only,Quintile 3,All,14870
+2018,BTEC Only,Quintile 4,All,16060
+2018,BTEC Only,Quintile 5,All,12990
+2018,BTEC Only,Unknown,All,85
+2018,Cambridge Technicals only,Quintile 1,All,490
+2018,Cambridge Technicals only,Quintile 2,All,530
+2018,Cambridge Technicals only,Quintile 3,All,535
+2018,Cambridge Technicals only,Quintile 4,All,605
+2018,Cambridge Technicals only,Quintile 5,All,435
+2018,Cambridge Technicals only,Unknown,All,5
+2018,IB Only,Quintile 1,All,13580
+2018,IB Only,Quintile 2,All,15040
+2018,IB Only,Quintile 3,All,15775
+2018,IB Only,Quintile 4,All,18035
+2018,IB Only,Quintile 5,All,17550
+2018,IB Only,Unknown,All,375
+2018,Other,Quintile 1,All,11990
+2018,Other,Quintile 2,All,14385
+2018,Other,Quintile 3,All,15700
+2018,Other,Quintile 4,All,17870
+2018,Other,Quintile 5,All,17505
+2018,Other,Unknown,All,240
+2018,SQA Only,Quintile 1,All,2345
+2018,SQA Only,Quintile 2,All,4890
+2018,SQA Only,Quintile 3,All,6890
+2018,SQA Only,Quintile 4,All,9300
+2018,SQA Only,Quintile 5,All,16675
+2018,SQA Only,Unknown,All,35
+2019,A level & BTEC,Quintile 1,All,4245
+2019,A level & BTEC,Quintile 2,All,5090
+2019,A level & BTEC,Quintile 3,All,5695
+2019,A level & BTEC,Quintile 4,All,5795
+2019,A level & BTEC,Quintile 5,All,5945
+2019,A level & BTEC,Unknown,All,25
+2019,A level & Cambridge Technicals,Quintile 1,All,960
+2019,A level & Cambridge Technicals,Quintile 2,All,1145
+2019,A level & Cambridge Technicals,Quintile 3,All,1220
+2019,A level & Cambridge Technicals,Quintile 4,All,1355
+2019,A level & Cambridge Technicals,Quintile 5,All,1375
+2019,A level & Cambridge Technicals,Unknown,All,10
+2019,A level & WB,Quintile 1,All,820
+2019,A level & WB,Quintile 2,All,1275
+2019,A level & WB,Quintile 3,All,1360
+2019,A level & WB,Quintile 4,All,1075
+2019,A level & WB,Quintile 5,All,1345
+2019,A level & WB,Unknown,All,5
+2019,A level Only (With extended project),Quintile 1,All,3140
+2019,A level Only (With extended project),Quintile 2,All,4710
+2019,A level Only (With extended project),Quintile 3,All,6650
+2019,A level Only (With extended project),Quintile 4,All,9035
+2019,A level Only (With extended project),Quintile 5,All,15560
+2019,A level Only (With extended project),Unknown,All,40
+2019,A level Only (Without extended project),Quintile 1,All,17125
+2019,A level Only (Without extended project),Quintile 2,All,24465
+2019,A level Only (Without extended project),Quintile 3,All,33520
+2019,A level Only (Without extended project),Quintile 4,All,45135
+2019,A level Only (Without extended project),Quintile 5,All,69060
+2019,A level Only (Without extended project),Unknown,All,190
+2019,Access to HE only,Quintile 1,All,4755
+2019,Access to HE only,Quintile 2,All,4220
+2019,Access to HE only,Quintile 3,All,3715
+2019,Access to HE only,Quintile 4,All,3660
+2019,Access to HE only,Quintile 5,All,2815
+2019,Access to HE only,Unknown,All,35
+2019,BTEC Only,Quintile 1,All,11805
+2019,BTEC Only,Quintile 2,All,13090
+2019,BTEC Only,Quintile 3,All,14140
+2019,BTEC Only,Quintile 4,All,14945
+2019,BTEC Only,Quintile 5,All,12110
+2019,BTEC Only,Unknown,All,90
+2019,Cambridge Technicals only,Quintile 1,All,740
+2019,Cambridge Technicals only,Quintile 2,All,720
+2019,Cambridge Technicals only,Quintile 3,All,750
+2019,Cambridge Technicals only,Quintile 4,All,810
+2019,Cambridge Technicals only,Quintile 5,All,670
+2019,Cambridge Technicals only,Unknown,All,5
+2019,IB Only,Quintile 1,All,14705
+2019,IB Only,Quintile 2,All,16055
+2019,IB Only,Quintile 3,All,16760
+2019,IB Only,Quintile 4,All,18385
+2019,IB Only,Quintile 5,All,18440
+2019,IB Only,Unknown,All,390
+2019,Other,Quintile 1,All,13355
+2019,Other,Quintile 2,All,15775
+2019,Other,Quintile 3,All,17895
+2019,Other,Quintile 4,All,19715
+2019,Other,Quintile 5,All,18780
+2019,Other,Unknown,All,285
+2019,SQA Only,Quintile 1,All,2265
+2019,SQA Only,Quintile 2,All,4830
+2019,SQA Only,Quintile 3,All,6845
+2019,SQA Only,Quintile 4,All,8790
+2019,SQA Only,Quintile 5,All,15735
+2019,SQA Only,Unknown,All,35
+2020,A level & BTEC,Quintile 1,All,4465
+2020,A level & BTEC,Quintile 2,All,5395
+2020,A level & BTEC,Quintile 3,All,5935
+2020,A level & BTEC,Quintile 4,All,6045
+2020,A level & BTEC,Quintile 5,All,6580
+2020,A level & BTEC,Unknown,All,25
+2020,A level & Cambridge Technicals,Quintile 1,All,1125
+2020,A level & Cambridge Technicals,Quintile 2,All,1275
+2020,A level & Cambridge Technicals,Quintile 3,All,1515
+2020,A level & Cambridge Technicals,Quintile 4,All,1600
+2020,A level & Cambridge Technicals,Quintile 5,All,1575
+2020,A level & Cambridge Technicals,Unknown,All,5
+2020,A level & WB,Quintile 1,All,850
+2020,A level & WB,Quintile 2,All,1195
+2020,A level & WB,Quintile 3,All,1220
+2020,A level & WB,Quintile 4,All,1130
+2020,A level & WB,Quintile 5,All,1345
+2020,A level & WB,Unknown,All,5
+2020,A level Only (With extended project),Quintile 1,All,3070
+2020,A level Only (With extended project),Quintile 2,All,4780
+2020,A level Only (With extended project),Quintile 3,All,6725
+2020,A level Only (With extended project),Quintile 4,All,9165
+2020,A level Only (With extended project),Quintile 5,All,15625
+2020,A level Only (With extended project),Unknown,All,40
+2020,A level Only (Without extended project),Quintile 1,All,17935
+2020,A level Only (Without extended project),Quintile 2,All,25390
+2020,A level Only (Without extended project),Quintile 3,All,34095
+2020,A level Only (Without extended project),Quintile 4,All,45805
+2020,A level Only (Without extended project),Quintile 5,All,71130
+2020,A level Only (Without extended project),Unknown,All,150
+2020,Access to HE only,Quintile 1,All,5070
+2020,Access to HE only,Quintile 2,All,4750
+2020,Access to HE only,Quintile 3,All,4190
+2020,Access to HE only,Quintile 4,All,3805
+2020,Access to HE only,Quintile 5,All,2935
+2020,Access to HE only,Unknown,All,25
+2020,BTEC Only,Quintile 1,All,11965
+2020,BTEC Only,Quintile 2,All,13155
+2020,BTEC Only,Quintile 3,All,14325
+2020,BTEC Only,Quintile 4,All,15140
+2020,BTEC Only,Quintile 5,All,12045
+2020,BTEC Only,Unknown,All,80
+2020,Cambridge Technicals only,Quintile 1,All,815
+2020,Cambridge Technicals only,Quintile 2,All,875
+2020,Cambridge Technicals only,Quintile 3,All,845
+2020,Cambridge Technicals only,Quintile 4,All,885
+2020,Cambridge Technicals only,Quintile 5,All,700
+2020,Cambridge Technicals only,Unknown,All,5
+2020,IB Only,Quintile 1,All,16300
+2020,IB Only,Quintile 2,All,17355
+2020,IB Only,Quintile 3,All,18045
+2020,IB Only,Quintile 4,All,19600
+2020,IB Only,Quintile 5,All,20030
+2020,IB Only,Unknown,All,430
+2020,Other,Quintile 1,All,13160
+2020,Other,Quintile 2,All,15260
+2020,Other,Quintile 3,All,16150
+2020,Other,Quintile 4,All,17440
+2020,Other,Quintile 5,All,17530
+2020,Other,Unknown,All,255
+2020,SQA Only,Quintile 1,All,2335
+2020,SQA Only,Quintile 2,All,4860
+2020,SQA Only,Quintile 3,All,6910
+2020,SQA Only,Quintile 4,All,9070
+2020,SQA Only,Quintile 5,All,15665
+2020,SQA Only,Unknown,All,30
+2021,A level & BTEC,Quintile 1,All,4740
+2021,A level & BTEC,Quintile 2,All,5735
+2021,A level & BTEC,Quintile 3,All,6535
+2021,A level & BTEC,Quintile 4,All,6700
+2021,A level & BTEC,Quintile 5,All,7570
+2021,A level & BTEC,Unknown,All,25
+2021,A level & Cambridge Technicals,Quintile 1,All,1090
+2021,A level & Cambridge Technicals,Quintile 2,All,1285
+2021,A level & Cambridge Technicals,Quintile 3,All,1485
+2021,A level & Cambridge Technicals,Quintile 4,All,1790
+2021,A level & Cambridge Technicals,Quintile 5,All,1725
+2021,A level & Cambridge Technicals,Unknown,All,5
+2021,A level & WB,Quintile 1,All,930
+2021,A level & WB,Quintile 2,All,1430
+2021,A level & WB,Quintile 3,All,1475
+2021,A level & WB,Quintile 4,All,1220
+2021,A level & WB,Quintile 5,All,1385
+2021,A level & WB,Unknown,All,5
+2021,A level Only (With extended project),Quintile 1,All,2870
+2021,A level Only (With extended project),Quintile 2,All,4680
+2021,A level Only (With extended project),Quintile 3,All,6720
+2021,A level Only (With extended project),Quintile 4,All,9135
+2021,A level Only (With extended project),Quintile 5,All,16710
+2021,A level Only (With extended project),Unknown,All,35
+2021,A level Only (Without extended project),Quintile 1,All,18640
+2021,A level Only (Without extended project),Quintile 2,All,26470
+2021,A level Only (Without extended project),Quintile 3,All,35280
+2021,A level Only (Without extended project),Quintile 4,All,46710
+2021,A level Only (Without extended project),Quintile 5,All,72395
+2021,A level Only (Without extended project),Unknown,All,180
+2021,Access to HE only,Quintile 1,All,5105
+2021,Access to HE only,Quintile 2,All,4585
+2021,Access to HE only,Quintile 3,All,4230
+2021,Access to HE only,Quintile 4,All,3935
+2021,Access to HE only,Quintile 5,All,3020
+2021,Access to HE only,Unknown,All,35
+2021,BTEC Only,Quintile 1,All,11745
+2021,BTEC Only,Quintile 2,All,13020
+2021,BTEC Only,Quintile 3,All,14620
+2021,BTEC Only,Quintile 4,All,15285
+2021,BTEC Only,Quintile 5,All,12660
+2021,BTEC Only,Unknown,All,60
+2021,Cambridge Technicals only,Quintile 1,All,780
+2021,Cambridge Technicals only,Quintile 2,All,835
+2021,Cambridge Technicals only,Quintile 3,All,905
+2021,Cambridge Technicals only,Quintile 4,All,1070
+2021,Cambridge Technicals only,Quintile 5,All,790
+2021,Cambridge Technicals only,Unknown,All,5
+2021,IB Only,Quintile 1,All,15385
+2021,IB Only,Quintile 2,All,16430
+2021,IB Only,Quintile 3,All,17225
+2021,IB Only,Quintile 4,All,18140
+2021,IB Only,Quintile 5,All,18525
+2021,IB Only,Unknown,All,285
+2021,Other,Quintile 1,All,16905
+2021,Other,Quintile 2,All,18630
+2021,Other,Quintile 3,All,19580
+2021,Other,Quintile 4,All,21790
+2021,Other,Quintile 5,All,20990
+2021,Other,Unknown,All,2500
+2021,SQA Only,Quintile 1,All,2705
+2021,SQA Only,Quintile 2,All,5355
+2021,SQA Only,Quintile 3,All,7590
+2021,SQA Only,Quintile 4,All,9965
+2021,SQA Only,Quintile 5,All,16980
+2021,SQA Only,Unknown,All,30
+2008,A level & BTEC,Quintile 1,Main scheme applicant,260
+2008,A level & BTEC,Quintile 1,Non-main scheme applicant,5
+2008,A level & BTEC,Quintile 2,Main scheme applicant,325
+2008,A level & BTEC,Quintile 2,Non-main scheme applicant,10
+2008,A level & BTEC,Quintile 3,Main scheme applicant,370
+2008,A level & BTEC,Quintile 3,Non-main scheme applicant,10
+2008,A level & BTEC,Quintile 4,Main scheme applicant,395
+2008,A level & BTEC,Quintile 4,Non-main scheme applicant,20
+2008,A level & BTEC,Quintile 5,Main scheme applicant,400
+2008,A level & BTEC,Quintile 5,Non-main scheme applicant,25
+2008,A level & BTEC,Unknown,Main scheme applicant,25
+2008,A level & WB,Quintile 1,Main scheme applicant,135
+2008,A level & WB,Quintile 2,Main scheme applicant,145
+2008,A level & WB,Quintile 3,Main scheme applicant,210
+2008,A level & WB,Quintile 4,Main scheme applicant,185
+2008,A level & WB,Quintile 5,Main scheme applicant,190
+2008,A level & WB,Unknown,Main scheme applicant,20
+2008,A level Only (With extended project),Quintile 1,Main scheme applicant,45
+2008,A level Only (With extended project),Quintile 2,Main scheme applicant,60
+2008,A level Only (With extended project),Quintile 3,Main scheme applicant,110
+2008,A level Only (With extended project),Quintile 4,Main scheme applicant,135
+2008,A level Only (With extended project),Quintile 5,Main scheme applicant,155
+2008,A level Only (With extended project),Unknown,Main scheme applicant,5
+2008,A level Only (Without extended project),Quintile 1,Main scheme applicant,20260
+2008,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,340
+2008,A level Only (Without extended project),Quintile 2,Main scheme applicant,32410
+2008,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,545
+2008,A level Only (Without extended project),Quintile 3,Main scheme applicant,42970
+2008,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,665
+2008,A level Only (Without extended project),Quintile 4,Main scheme applicant,55875
+2008,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,870
+2008,A level Only (Without extended project),Quintile 5,Main scheme applicant,87985
+2008,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1215
+2008,A level Only (Without extended project),Unknown,Main scheme applicant,3525
+2008,A level Only (Without extended project),Unknown,Non-main scheme applicant,10
+2008,BTEC Only,Quintile 1,Main scheme applicant,1320
+2008,BTEC Only,Quintile 1,Non-main scheme applicant,130
+2008,BTEC Only,Quintile 2,Main scheme applicant,1535
+2008,BTEC Only,Quintile 2,Non-main scheme applicant,140
+2008,BTEC Only,Quintile 3,Main scheme applicant,1540
+2008,BTEC Only,Quintile 3,Non-main scheme applicant,120
+2008,BTEC Only,Quintile 4,Main scheme applicant,1670
+2008,BTEC Only,Quintile 4,Non-main scheme applicant,155
+2008,BTEC Only,Quintile 5,Main scheme applicant,1530
+2008,BTEC Only,Quintile 5,Non-main scheme applicant,130
+2008,BTEC Only,Unknown,Main scheme applicant,120
+2008,IB Only,Quintile 1,Main scheme applicant,17985
+2008,IB Only,Quintile 1,Non-main scheme applicant,2105
+2008,IB Only,Quintile 2,Main scheme applicant,20170
+2008,IB Only,Quintile 2,Non-main scheme applicant,2400
+2008,IB Only,Quintile 3,Main scheme applicant,21400
+2008,IB Only,Quintile 3,Non-main scheme applicant,2785
+2008,IB Only,Quintile 4,Main scheme applicant,23630
+2008,IB Only,Quintile 4,Non-main scheme applicant,2975
+2008,IB Only,Quintile 5,Main scheme applicant,22045
+2008,IB Only,Quintile 5,Non-main scheme applicant,3095
+2008,IB Only,Unknown,Main scheme applicant,2290
+2008,IB Only,Unknown,Non-main scheme applicant,420
+2008,Other,Quintile 1,Main scheme applicant,10300
+2008,Other,Quintile 1,Non-main scheme applicant,2735
+2008,Other,Quintile 2,Main scheme applicant,12485
+2008,Other,Quintile 2,Non-main scheme applicant,3660
+2008,Other,Quintile 3,Main scheme applicant,14330
+2008,Other,Quintile 3,Non-main scheme applicant,4395
+2008,Other,Quintile 4,Main scheme applicant,15815
+2008,Other,Quintile 4,Non-main scheme applicant,5495
+2008,Other,Quintile 5,Main scheme applicant,16695
+2008,Other,Quintile 5,Non-main scheme applicant,5210
+2008,Other,Unknown,Main scheme applicant,1395
+2008,Other,Unknown,Non-main scheme applicant,865
+2008,SQA Only,Quintile 1,Main scheme applicant,1220
+2008,SQA Only,Quintile 1,Non-main scheme applicant,30
+2008,SQA Only,Quintile 2,Main scheme applicant,2730
+2008,SQA Only,Quintile 2,Non-main scheme applicant,60
+2008,SQA Only,Quintile 3,Main scheme applicant,4550
+2008,SQA Only,Quintile 3,Non-main scheme applicant,75
+2008,SQA Only,Quintile 4,Main scheme applicant,6280
+2008,SQA Only,Quintile 4,Non-main scheme applicant,95
+2008,SQA Only,Quintile 5,Main scheme applicant,12330
+2008,SQA Only,Quintile 5,Non-main scheme applicant,190
+2008,SQA Only,Unknown,Main scheme applicant,520
+2009,A level & BTEC,Quintile 1,Main scheme applicant,520
+2009,A level & BTEC,Quintile 1,Non-main scheme applicant,15
+2009,A level & BTEC,Quintile 2,Main scheme applicant,660
+2009,A level & BTEC,Quintile 2,Non-main scheme applicant,25
+2009,A level & BTEC,Quintile 3,Main scheme applicant,690
+2009,A level & BTEC,Quintile 3,Non-main scheme applicant,30
+2009,A level & BTEC,Quintile 4,Main scheme applicant,745
+2009,A level & BTEC,Quintile 4,Non-main scheme applicant,30
+2009,A level & BTEC,Quintile 5,Main scheme applicant,655
+2009,A level & BTEC,Quintile 5,Non-main scheme applicant,30
+2009,A level & BTEC,Unknown,Main scheme applicant,5
+2009,A level & WB,Quintile 1,Main scheme applicant,215
+2009,A level & WB,Quintile 1,Non-main scheme applicant,5
+2009,A level & WB,Quintile 2,Main scheme applicant,365
+2009,A level & WB,Quintile 2,Non-main scheme applicant,5
+2009,A level & WB,Quintile 3,Main scheme applicant,470
+2009,A level & WB,Quintile 3,Non-main scheme applicant,5
+2009,A level & WB,Quintile 4,Main scheme applicant,420
+2009,A level & WB,Quintile 5,Main scheme applicant,420
+2009,A level & WB,Unknown,Main scheme applicant,5
+2009,A level Only (With extended project),Quintile 1,Main scheme applicant,245
+2009,A level Only (With extended project),Quintile 2,Main scheme applicant,395
+2009,A level Only (With extended project),Quintile 3,Main scheme applicant,495
+2009,A level Only (With extended project),Quintile 4,Main scheme applicant,660
+2009,A level Only (With extended project),Quintile 5,Main scheme applicant,755
+2009,A level Only (With extended project),Unknown,Main scheme applicant,5
+2009,A level Only (Without extended project),Quintile 1,Main scheme applicant,21395
+2009,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,405
+2009,A level Only (Without extended project),Quintile 2,Main scheme applicant,34350
+2009,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,640
+2009,A level Only (Without extended project),Quintile 3,Main scheme applicant,45895
+2009,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,805
+2009,A level Only (Without extended project),Quintile 4,Main scheme applicant,59985
+2009,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1005
+2009,A level Only (Without extended project),Quintile 5,Main scheme applicant,93710
+2009,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1440
+2009,A level Only (Without extended project),Unknown,Main scheme applicant,595
+2009,A level Only (Without extended project),Unknown,Non-main scheme applicant,15
+2009,Access to HE only,Quintile 1,Main scheme applicant,255
+2009,Access to HE only,Quintile 1,Non-main scheme applicant,20
+2009,Access to HE only,Quintile 2,Main scheme applicant,270
+2009,Access to HE only,Quintile 2,Non-main scheme applicant,20
+2009,Access to HE only,Quintile 3,Main scheme applicant,260
+2009,Access to HE only,Quintile 3,Non-main scheme applicant,25
+2009,Access to HE only,Quintile 4,Main scheme applicant,300
+2009,Access to HE only,Quintile 4,Non-main scheme applicant,15
+2009,Access to HE only,Quintile 5,Main scheme applicant,240
+2009,Access to HE only,Quintile 5,Non-main scheme applicant,20
+2009,Access to HE only,Unknown,Main scheme applicant,5
+2009,BTEC Only,Quintile 1,Main scheme applicant,1760
+2009,BTEC Only,Quintile 1,Non-main scheme applicant,145
+2009,BTEC Only,Quintile 2,Main scheme applicant,2065
+2009,BTEC Only,Quintile 2,Non-main scheme applicant,160
+2009,BTEC Only,Quintile 3,Main scheme applicant,2040
+2009,BTEC Only,Quintile 3,Non-main scheme applicant,220
+2009,BTEC Only,Quintile 4,Main scheme applicant,2210
+2009,BTEC Only,Quintile 4,Non-main scheme applicant,230
+2009,BTEC Only,Quintile 5,Main scheme applicant,2015
+2009,BTEC Only,Quintile 5,Non-main scheme applicant,155
+2009,BTEC Only,Unknown,Main scheme applicant,35
+2009,IB Only,Quintile 1,Main scheme applicant,20980
+2009,IB Only,Quintile 1,Non-main scheme applicant,1990
+2009,IB Only,Quintile 2,Main scheme applicant,23405
+2009,IB Only,Quintile 2,Non-main scheme applicant,2260
+2009,IB Only,Quintile 3,Main scheme applicant,24510
+2009,IB Only,Quintile 3,Non-main scheme applicant,2535
+2009,IB Only,Quintile 4,Main scheme applicant,27140
+2009,IB Only,Quintile 4,Non-main scheme applicant,2675
+2009,IB Only,Quintile 5,Main scheme applicant,25465
+2009,IB Only,Quintile 5,Non-main scheme applicant,2670
+2009,IB Only,Unknown,Main scheme applicant,805
+2009,IB Only,Unknown,Non-main scheme applicant,410
+2009,Other,Quintile 1,Main scheme applicant,11710
+2009,Other,Quintile 1,Non-main scheme applicant,2285
+2009,Other,Quintile 2,Main scheme applicant,14460
+2009,Other,Quintile 2,Non-main scheme applicant,3110
+2009,Other,Quintile 3,Main scheme applicant,15850
+2009,Other,Quintile 3,Non-main scheme applicant,3695
+2009,Other,Quintile 4,Main scheme applicant,17345
+2009,Other,Quintile 4,Non-main scheme applicant,4340
+2009,Other,Quintile 5,Main scheme applicant,18215
+2009,Other,Quintile 5,Non-main scheme applicant,3940
+2009,Other,Unknown,Main scheme applicant,450
+2009,Other,Unknown,Non-main scheme applicant,2470
+2009,SQA Only,Quintile 1,Main scheme applicant,1320
+2009,SQA Only,Quintile 1,Non-main scheme applicant,40
+2009,SQA Only,Quintile 2,Main scheme applicant,2915
+2009,SQA Only,Quintile 2,Non-main scheme applicant,70
+2009,SQA Only,Quintile 3,Main scheme applicant,4865
+2009,SQA Only,Quintile 3,Non-main scheme applicant,115
+2009,SQA Only,Quintile 4,Main scheme applicant,6750
+2009,SQA Only,Quintile 4,Non-main scheme applicant,150
+2009,SQA Only,Quintile 5,Main scheme applicant,13125
+2009,SQA Only,Quintile 5,Non-main scheme applicant,230
+2009,SQA Only,Unknown,Main scheme applicant,60
+2010,A level & BTEC,Quintile 1,Main scheme applicant,845
+2010,A level & BTEC,Quintile 1,Non-main scheme applicant,20
+2010,A level & BTEC,Quintile 2,Main scheme applicant,980
+2010,A level & BTEC,Quintile 2,Non-main scheme applicant,40
+2010,A level & BTEC,Quintile 3,Main scheme applicant,1035
+2010,A level & BTEC,Quintile 3,Non-main scheme applicant,35
+2010,A level & BTEC,Quintile 4,Main scheme applicant,995
+2010,A level & BTEC,Quintile 4,Non-main scheme applicant,50
+2010,A level & BTEC,Quintile 5,Main scheme applicant,970
+2010,A level & BTEC,Quintile 5,Non-main scheme applicant,50
+2010,A level & BTEC,Unknown,Main scheme applicant,10
+2010,A level & WB,Quintile 1,Main scheme applicant,390
+2010,A level & WB,Quintile 2,Main scheme applicant,675
+2010,A level & WB,Quintile 2,Non-main scheme applicant,5
+2010,A level & WB,Quintile 3,Main scheme applicant,705
+2010,A level & WB,Quintile 3,Non-main scheme applicant,5
+2010,A level & WB,Quintile 4,Main scheme applicant,785
+2010,A level & WB,Quintile 4,Non-main scheme applicant,10
+2010,A level & WB,Quintile 5,Main scheme applicant,765
+2010,A level & WB,Quintile 5,Non-main scheme applicant,10
+2010,A level & WB,Unknown,Main scheme applicant,5
+2010,A level Only (With extended project),Quintile 1,Main scheme applicant,945
+2010,A level Only (With extended project),Quintile 2,Main scheme applicant,1455
+2010,A level Only (With extended project),Quintile 3,Main scheme applicant,1935
+2010,A level Only (With extended project),Quintile 4,Main scheme applicant,2535
+2010,A level Only (With extended project),Quintile 4,Non-main scheme applicant,5
+2010,A level Only (With extended project),Quintile 5,Main scheme applicant,3485
+2010,A level Only (With extended project),Unknown,Main scheme applicant,20
+2010,A level Only (Without extended project),Quintile 1,Main scheme applicant,22415
+2010,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,480
+2010,A level Only (Without extended project),Quintile 2,Main scheme applicant,35645
+2010,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,665
+2010,A level Only (Without extended project),Quintile 3,Main scheme applicant,47650
+2010,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,855
+2010,A level Only (Without extended project),Quintile 4,Main scheme applicant,61445
+2010,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1115
+2010,A level Only (Without extended project),Quintile 5,Main scheme applicant,95600
+2010,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1460
+2010,A level Only (Without extended project),Unknown,Main scheme applicant,425
+2010,A level Only (Without extended project),Unknown,Non-main scheme applicant,20
+2010,Access to HE only,Quintile 1,Main scheme applicant,230
+2010,Access to HE only,Quintile 1,Non-main scheme applicant,30
+2010,Access to HE only,Quintile 2,Main scheme applicant,240
+2010,Access to HE only,Quintile 2,Non-main scheme applicant,25
+2010,Access to HE only,Quintile 3,Main scheme applicant,215
+2010,Access to HE only,Quintile 3,Non-main scheme applicant,25
+2010,Access to HE only,Quintile 4,Main scheme applicant,175
+2010,Access to HE only,Quintile 4,Non-main scheme applicant,30
+2010,Access to HE only,Quintile 5,Main scheme applicant,160
+2010,Access to HE only,Quintile 5,Non-main scheme applicant,20
+2010,BTEC Only,Quintile 1,Main scheme applicant,2470
+2010,BTEC Only,Quintile 1,Non-main scheme applicant,240
+2010,BTEC Only,Quintile 2,Main scheme applicant,2895
+2010,BTEC Only,Quintile 2,Non-main scheme applicant,320
+2010,BTEC Only,Quintile 3,Main scheme applicant,2960
+2010,BTEC Only,Quintile 3,Non-main scheme applicant,340
+2010,BTEC Only,Quintile 4,Main scheme applicant,3165
+2010,BTEC Only,Quintile 4,Non-main scheme applicant,435
+2010,BTEC Only,Quintile 5,Main scheme applicant,2820
+2010,BTEC Only,Quintile 5,Non-main scheme applicant,355
+2010,BTEC Only,Unknown,Main scheme applicant,30
+2010,BTEC Only,Unknown,Non-main scheme applicant,10
+2010,IB Only,Quintile 1,Main scheme applicant,24625
+2010,IB Only,Quintile 1,Non-main scheme applicant,1365
+2010,IB Only,Quintile 2,Main scheme applicant,27770
+2010,IB Only,Quintile 2,Non-main scheme applicant,1795
+2010,IB Only,Quintile 3,Main scheme applicant,29295
+2010,IB Only,Quintile 3,Non-main scheme applicant,2020
+2010,IB Only,Quintile 4,Main scheme applicant,31520
+2010,IB Only,Quintile 4,Non-main scheme applicant,2230
+2010,IB Only,Quintile 5,Main scheme applicant,28845
+2010,IB Only,Quintile 5,Non-main scheme applicant,1965
+2010,IB Only,Unknown,Main scheme applicant,580
+2010,IB Only,Unknown,Non-main scheme applicant,80
+2010,Other,Quintile 1,Main scheme applicant,13315
+2010,Other,Quintile 1,Non-main scheme applicant,1040
+2010,Other,Quintile 2,Main scheme applicant,15960
+2010,Other,Quintile 2,Non-main scheme applicant,1620
+2010,Other,Quintile 3,Main scheme applicant,17695
+2010,Other,Quintile 3,Non-main scheme applicant,1955
+2010,Other,Quintile 4,Main scheme applicant,19370
+2010,Other,Quintile 4,Non-main scheme applicant,2550
+2010,Other,Quintile 5,Main scheme applicant,19575
+2010,Other,Quintile 5,Non-main scheme applicant,2280
+2010,Other,Unknown,Main scheme applicant,330
+2010,Other,Unknown,Non-main scheme applicant,60
+2010,SQA Only,Quintile 1,Main scheme applicant,1650
+2010,SQA Only,Quintile 1,Non-main scheme applicant,20
+2010,SQA Only,Quintile 2,Main scheme applicant,3655
+2010,SQA Only,Quintile 2,Non-main scheme applicant,60
+2010,SQA Only,Quintile 3,Main scheme applicant,5710
+2010,SQA Only,Quintile 3,Non-main scheme applicant,70
+2010,SQA Only,Quintile 4,Main scheme applicant,7775
+2010,SQA Only,Quintile 4,Non-main scheme applicant,95
+2010,SQA Only,Quintile 5,Main scheme applicant,14440
+2010,SQA Only,Quintile 5,Non-main scheme applicant,190
+2010,SQA Only,Unknown,Main scheme applicant,60
+2010,SQA Only,Unknown,Non-main scheme applicant,5
+2011,A level & BTEC,Quintile 1,Main scheme applicant,1185
+2011,A level & BTEC,Quintile 1,Non-main scheme applicant,30
+2011,A level & BTEC,Quintile 2,Main scheme applicant,1410
+2011,A level & BTEC,Quintile 2,Non-main scheme applicant,45
+2011,A level & BTEC,Quintile 3,Main scheme applicant,1340
+2011,A level & BTEC,Quintile 3,Non-main scheme applicant,40
+2011,A level & BTEC,Quintile 4,Main scheme applicant,1405
+2011,A level & BTEC,Quintile 4,Non-main scheme applicant,65
+2011,A level & BTEC,Quintile 5,Main scheme applicant,1300
+2011,A level & BTEC,Quintile 5,Non-main scheme applicant,60
+2011,A level & BTEC,Unknown,Main scheme applicant,10
+2011,A level & WB,Quintile 1,Main scheme applicant,625
+2011,A level & WB,Quintile 1,Non-main scheme applicant,10
+2011,A level & WB,Quintile 2,Main scheme applicant,1090
+2011,A level & WB,Quintile 2,Non-main scheme applicant,10
+2011,A level & WB,Quintile 3,Main scheme applicant,1225
+2011,A level & WB,Quintile 3,Non-main scheme applicant,5
+2011,A level & WB,Quintile 4,Main scheme applicant,1170
+2011,A level & WB,Quintile 4,Non-main scheme applicant,10
+2011,A level & WB,Quintile 5,Main scheme applicant,1320
+2011,A level & WB,Quintile 5,Non-main scheme applicant,5
+2011,A level Only (With extended project),Quintile 1,Main scheme applicant,1620
+2011,A level Only (With extended project),Quintile 1,Non-main scheme applicant,5
+2011,A level Only (With extended project),Quintile 2,Main scheme applicant,2505
+2011,A level Only (With extended project),Quintile 2,Non-main scheme applicant,5
+2011,A level Only (With extended project),Quintile 3,Main scheme applicant,3245
+2011,A level Only (With extended project),Quintile 3,Non-main scheme applicant,5
+2011,A level Only (With extended project),Quintile 4,Main scheme applicant,4350
+2011,A level Only (With extended project),Quintile 4,Non-main scheme applicant,10
+2011,A level Only (With extended project),Quintile 5,Main scheme applicant,6125
+2011,A level Only (With extended project),Quintile 5,Non-main scheme applicant,10
+2011,A level Only (With extended project),Unknown,Main scheme applicant,20
+2011,A level Only (Without extended project),Quintile 1,Main scheme applicant,22680
+2011,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,455
+2011,A level Only (Without extended project),Quintile 2,Main scheme applicant,35080
+2011,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,670
+2011,A level Only (Without extended project),Quintile 3,Main scheme applicant,46820
+2011,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,910
+2011,A level Only (Without extended project),Quintile 4,Main scheme applicant,60530
+2011,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1270
+2011,A level Only (Without extended project),Quintile 5,Main scheme applicant,94125
+2011,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1595
+2011,A level Only (Without extended project),Unknown,Main scheme applicant,355
+2011,A level Only (Without extended project),Unknown,Non-main scheme applicant,15
+2011,Access to HE only,Quintile 1,Main scheme applicant,80
+2011,Access to HE only,Quintile 1,Non-main scheme applicant,20
+2011,Access to HE only,Quintile 2,Main scheme applicant,75
+2011,Access to HE only,Quintile 2,Non-main scheme applicant,35
+2011,Access to HE only,Quintile 3,Main scheme applicant,55
+2011,Access to HE only,Quintile 3,Non-main scheme applicant,35
+2011,Access to HE only,Quintile 4,Main scheme applicant,55
+2011,Access to HE only,Quintile 4,Non-main scheme applicant,45
+2011,Access to HE only,Quintile 5,Main scheme applicant,75
+2011,Access to HE only,Quintile 5,Non-main scheme applicant,35
+2011,Access to HE only,Unknown,Non-main scheme applicant,5
+2011,BTEC Only,Quintile 1,Main scheme applicant,3025
+2011,BTEC Only,Quintile 1,Non-main scheme applicant,270
+2011,BTEC Only,Quintile 2,Main scheme applicant,3385
+2011,BTEC Only,Quintile 2,Non-main scheme applicant,330
+2011,BTEC Only,Quintile 3,Main scheme applicant,3455
+2011,BTEC Only,Quintile 3,Non-main scheme applicant,395
+2011,BTEC Only,Quintile 4,Main scheme applicant,3585
+2011,BTEC Only,Quintile 4,Non-main scheme applicant,535
+2011,BTEC Only,Quintile 5,Main scheme applicant,3070
+2011,BTEC Only,Quintile 5,Non-main scheme applicant,425
+2011,BTEC Only,Unknown,Main scheme applicant,20
+2011,BTEC Only,Unknown,Non-main scheme applicant,10
+2011,IB Only,Quintile 1,Main scheme applicant,25415
+2011,IB Only,Quintile 1,Non-main scheme applicant,1365
+2011,IB Only,Quintile 2,Main scheme applicant,28005
+2011,IB Only,Quintile 2,Non-main scheme applicant,1785
+2011,IB Only,Quintile 3,Main scheme applicant,29460
+2011,IB Only,Quintile 3,Non-main scheme applicant,2060
+2011,IB Only,Quintile 4,Main scheme applicant,32590
+2011,IB Only,Quintile 4,Non-main scheme applicant,2480
+2011,IB Only,Quintile 5,Main scheme applicant,29365
+2011,IB Only,Quintile 5,Non-main scheme applicant,2040
+2011,IB Only,Unknown,Main scheme applicant,630
+2011,IB Only,Unknown,Non-main scheme applicant,75
+2011,Other,Quintile 1,Main scheme applicant,12290
+2011,Other,Quintile 1,Non-main scheme applicant,660
+2011,Other,Quintile 2,Main scheme applicant,14865
+2011,Other,Quintile 2,Non-main scheme applicant,1080
+2011,Other,Quintile 3,Main scheme applicant,15930
+2011,Other,Quintile 3,Non-main scheme applicant,1305
+2011,Other,Quintile 4,Main scheme applicant,17095
+2011,Other,Quintile 4,Non-main scheme applicant,1765
+2011,Other,Quintile 5,Main scheme applicant,17640
+2011,Other,Quintile 5,Non-main scheme applicant,1480
+2011,Other,Unknown,Main scheme applicant,250
+2011,Other,Unknown,Non-main scheme applicant,40
+2011,SQA Only,Quintile 1,Main scheme applicant,1615
+2011,SQA Only,Quintile 1,Non-main scheme applicant,15
+2011,SQA Only,Quintile 2,Main scheme applicant,3680
+2011,SQA Only,Quintile 2,Non-main scheme applicant,35
+2011,SQA Only,Quintile 3,Main scheme applicant,5940
+2011,SQA Only,Quintile 3,Non-main scheme applicant,75
+2011,SQA Only,Quintile 4,Main scheme applicant,7985
+2011,SQA Only,Quintile 4,Non-main scheme applicant,75
+2011,SQA Only,Quintile 5,Main scheme applicant,14805
+2011,SQA Only,Quintile 5,Non-main scheme applicant,145
+2011,SQA Only,Unknown,Main scheme applicant,45
+2012,A level & BTEC,Quintile 1,Main scheme applicant,3320
+2012,A level & BTEC,Quintile 1,Non-main scheme applicant,20
+2012,A level & BTEC,Quintile 2,Main scheme applicant,4245
+2012,A level & BTEC,Quintile 2,Non-main scheme applicant,15
+2012,A level & BTEC,Quintile 3,Main scheme applicant,4670
+2012,A level & BTEC,Quintile 3,Non-main scheme applicant,20
+2012,A level & BTEC,Quintile 4,Main scheme applicant,4600
+2012,A level & BTEC,Quintile 4,Non-main scheme applicant,10
+2012,A level & BTEC,Quintile 5,Main scheme applicant,4105
+2012,A level & BTEC,Quintile 5,Non-main scheme applicant,15
+2012,A level & BTEC,Unknown,Main scheme applicant,30
+2012,A level & WB,Quintile 1,Main scheme applicant,700
+2012,A level & WB,Quintile 1,Non-main scheme applicant,20
+2012,A level & WB,Quintile 2,Main scheme applicant,1225
+2012,A level & WB,Quintile 2,Non-main scheme applicant,25
+2012,A level & WB,Quintile 3,Main scheme applicant,1375
+2012,A level & WB,Quintile 3,Non-main scheme applicant,20
+2012,A level & WB,Quintile 4,Main scheme applicant,1235
+2012,A level & WB,Quintile 4,Non-main scheme applicant,30
+2012,A level & WB,Quintile 5,Main scheme applicant,1535
+2012,A level & WB,Quintile 5,Non-main scheme applicant,20
+2012,A level & WB,Unknown,Main scheme applicant,5
+2012,A level Only (With extended project),Quintile 1,Main scheme applicant,1785
+2012,A level Only (With extended project),Quintile 1,Non-main scheme applicant,5
+2012,A level Only (With extended project),Quintile 2,Main scheme applicant,2935
+2012,A level Only (With extended project),Quintile 2,Non-main scheme applicant,10
+2012,A level Only (With extended project),Quintile 3,Main scheme applicant,3805
+2012,A level Only (With extended project),Quintile 3,Non-main scheme applicant,15
+2012,A level Only (With extended project),Quintile 4,Main scheme applicant,5100
+2012,A level Only (With extended project),Quintile 4,Non-main scheme applicant,20
+2012,A level Only (With extended project),Quintile 5,Main scheme applicant,7510
+2012,A level Only (With extended project),Quintile 5,Non-main scheme applicant,20
+2012,A level Only (With extended project),Unknown,Main scheme applicant,30
+2012,A level Only (Without extended project),Quintile 1,Main scheme applicant,19345
+2012,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,555
+2012,A level Only (Without extended project),Quintile 2,Main scheme applicant,30115
+2012,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,860
+2012,A level Only (Without extended project),Quintile 3,Main scheme applicant,40125
+2012,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1140
+2012,A level Only (Without extended project),Quintile 4,Main scheme applicant,52340
+2012,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1490
+2012,A level Only (Without extended project),Quintile 5,Main scheme applicant,81890
+2012,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1965
+2012,A level Only (Without extended project),Unknown,Main scheme applicant,325
+2012,A level Only (Without extended project),Unknown,Non-main scheme applicant,25
+2012,Access to HE only,Quintile 1,Main scheme applicant,280
+2012,Access to HE only,Quintile 1,Non-main scheme applicant,100
+2012,Access to HE only,Quintile 2,Main scheme applicant,315
+2012,Access to HE only,Quintile 2,Non-main scheme applicant,105
+2012,Access to HE only,Quintile 3,Main scheme applicant,640
+2012,Access to HE only,Quintile 3,Non-main scheme applicant,135
+2012,Access to HE only,Quintile 4,Main scheme applicant,1140
+2012,Access to HE only,Quintile 4,Non-main scheme applicant,135
+2012,Access to HE only,Quintile 5,Main scheme applicant,990
+2012,Access to HE only,Quintile 5,Non-main scheme applicant,95
+2012,Access to HE only,Unknown,Main scheme applicant,10
+2012,BTEC Only,Quintile 1,Main scheme applicant,11180
+2012,BTEC Only,Quintile 1,Non-main scheme applicant,440
+2012,BTEC Only,Quintile 2,Main scheme applicant,12225
+2012,BTEC Only,Quintile 2,Non-main scheme applicant,490
+2012,BTEC Only,Quintile 3,Main scheme applicant,12520
+2012,BTEC Only,Quintile 3,Non-main scheme applicant,595
+2012,BTEC Only,Quintile 4,Main scheme applicant,12965
+2012,BTEC Only,Quintile 4,Non-main scheme applicant,660
+2012,BTEC Only,Quintile 5,Main scheme applicant,10270
+2012,BTEC Only,Quintile 5,Non-main scheme applicant,580
+2012,BTEC Only,Unknown,Main scheme applicant,95
+2012,BTEC Only,Unknown,Non-main scheme applicant,15
+2012,IB Only,Quintile 1,Main scheme applicant,14780
+2012,IB Only,Quintile 1,Non-main scheme applicant,1715
+2012,IB Only,Quintile 2,Main scheme applicant,15720
+2012,IB Only,Quintile 2,Non-main scheme applicant,2015
+2012,IB Only,Quintile 3,Main scheme applicant,16250
+2012,IB Only,Quintile 3,Non-main scheme applicant,2230
+2012,IB Only,Quintile 4,Main scheme applicant,17180
+2012,IB Only,Quintile 4,Non-main scheme applicant,2560
+2012,IB Only,Quintile 5,Main scheme applicant,16145
+2012,IB Only,Quintile 5,Non-main scheme applicant,2270
+2012,IB Only,Unknown,Main scheme applicant,460
+2012,IB Only,Unknown,Non-main scheme applicant,85
+2012,Other,Quintile 1,Main scheme applicant,10065
+2012,Other,Quintile 1,Non-main scheme applicant,970
+2012,Other,Quintile 2,Main scheme applicant,11830
+2012,Other,Quintile 2,Non-main scheme applicant,1500
+2012,Other,Quintile 3,Main scheme applicant,13305
+2012,Other,Quintile 3,Non-main scheme applicant,1765
+2012,Other,Quintile 4,Main scheme applicant,14335
+2012,Other,Quintile 4,Non-main scheme applicant,2210
+2012,Other,Quintile 5,Main scheme applicant,14625
+2012,Other,Quintile 5,Non-main scheme applicant,1885
+2012,Other,Unknown,Main scheme applicant,195
+2012,Other,Unknown,Non-main scheme applicant,155
+2012,SQA Only,Quintile 1,Main scheme applicant,1680
+2012,SQA Only,Quintile 1,Non-main scheme applicant,30
+2012,SQA Only,Quintile 2,Main scheme applicant,3615
+2012,SQA Only,Quintile 2,Non-main scheme applicant,45
+2012,SQA Only,Quintile 3,Main scheme applicant,6055
+2012,SQA Only,Quintile 3,Non-main scheme applicant,80
+2012,SQA Only,Quintile 4,Main scheme applicant,8045
+2012,SQA Only,Quintile 4,Non-main scheme applicant,100
+2012,SQA Only,Quintile 5,Main scheme applicant,14575
+2012,SQA Only,Quintile 5,Non-main scheme applicant,190
+2012,SQA Only,Unknown,Main scheme applicant,35
+2012,SQA Only,Unknown,Non-main scheme applicant,5
+2013,A level & BTEC,Quintile 1,Main scheme applicant,3925
+2013,A level & BTEC,Quintile 1,Non-main scheme applicant,15
+2013,A level & BTEC,Quintile 2,Main scheme applicant,5120
+2013,A level & BTEC,Quintile 2,Non-main scheme applicant,20
+2013,A level & BTEC,Quintile 3,Main scheme applicant,5480
+2013,A level & BTEC,Quintile 3,Non-main scheme applicant,30
+2013,A level & BTEC,Quintile 4,Main scheme applicant,5485
+2013,A level & BTEC,Quintile 4,Non-main scheme applicant,35
+2013,A level & BTEC,Quintile 5,Main scheme applicant,5040
+2013,A level & BTEC,Quintile 5,Non-main scheme applicant,25
+2013,A level & BTEC,Unknown,Main scheme applicant,50
+2013,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,10
+2013,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,30
+2013,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,20
+2013,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,20
+2013,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,20
+2013,A level & WB,Quintile 1,Main scheme applicant,770
+2013,A level & WB,Quintile 1,Non-main scheme applicant,10
+2013,A level & WB,Quintile 2,Main scheme applicant,1230
+2013,A level & WB,Quintile 2,Non-main scheme applicant,35
+2013,A level & WB,Quintile 3,Main scheme applicant,1475
+2013,A level & WB,Quintile 3,Non-main scheme applicant,25
+2013,A level & WB,Quintile 4,Main scheme applicant,1330
+2013,A level & WB,Quintile 4,Non-main scheme applicant,20
+2013,A level & WB,Quintile 5,Main scheme applicant,1595
+2013,A level & WB,Quintile 5,Non-main scheme applicant,40
+2013,A level & WB,Unknown,Main scheme applicant,10
+2013,A level Only (With extended project),Quintile 1,Main scheme applicant,2095
+2013,A level Only (With extended project),Quintile 1,Non-main scheme applicant,10
+2013,A level Only (With extended project),Quintile 2,Main scheme applicant,3280
+2013,A level Only (With extended project),Quintile 2,Non-main scheme applicant,10
+2013,A level Only (With extended project),Quintile 3,Main scheme applicant,4575
+2013,A level Only (With extended project),Quintile 3,Non-main scheme applicant,25
+2013,A level Only (With extended project),Quintile 4,Main scheme applicant,6305
+2013,A level Only (With extended project),Quintile 4,Non-main scheme applicant,30
+2013,A level Only (With extended project),Quintile 5,Main scheme applicant,9510
+2013,A level Only (With extended project),Quintile 5,Non-main scheme applicant,35
+2013,A level Only (With extended project),Unknown,Main scheme applicant,30
+2013,A level Only (Without extended project),Quintile 1,Main scheme applicant,18975
+2013,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,595
+2013,A level Only (Without extended project),Quintile 2,Main scheme applicant,29260
+2013,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,920
+2013,A level Only (Without extended project),Quintile 3,Main scheme applicant,39790
+2013,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1185
+2013,A level Only (Without extended project),Quintile 4,Main scheme applicant,52160
+2013,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1570
+2013,A level Only (Without extended project),Quintile 5,Main scheme applicant,81605
+2013,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1975
+2013,A level Only (Without extended project),Unknown,Main scheme applicant,240
+2013,A level Only (Without extended project),Unknown,Non-main scheme applicant,20
+2013,Access to HE only,Quintile 1,Main scheme applicant,4060
+2013,Access to HE only,Quintile 1,Non-main scheme applicant,135
+2013,Access to HE only,Quintile 2,Main scheme applicant,3735
+2013,Access to HE only,Quintile 2,Non-main scheme applicant,130
+2013,Access to HE only,Quintile 3,Main scheme applicant,3265
+2013,Access to HE only,Quintile 3,Non-main scheme applicant,160
+2013,Access to HE only,Quintile 4,Main scheme applicant,3420
+2013,Access to HE only,Quintile 4,Non-main scheme applicant,170
+2013,Access to HE only,Quintile 5,Main scheme applicant,2625
+2013,Access to HE only,Quintile 5,Non-main scheme applicant,135
+2013,Access to HE only,Unknown,Main scheme applicant,35
+2013,BTEC Only,Quintile 1,Main scheme applicant,11880
+2013,BTEC Only,Quintile 1,Non-main scheme applicant,550
+2013,BTEC Only,Quintile 2,Main scheme applicant,13370
+2013,BTEC Only,Quintile 2,Non-main scheme applicant,665
+2013,BTEC Only,Quintile 3,Main scheme applicant,14015
+2013,BTEC Only,Quintile 3,Non-main scheme applicant,750
+2013,BTEC Only,Quintile 4,Main scheme applicant,14470
+2013,BTEC Only,Quintile 4,Non-main scheme applicant,895
+2013,BTEC Only,Quintile 5,Main scheme applicant,11470
+2013,BTEC Only,Quintile 5,Non-main scheme applicant,690
+2013,BTEC Only,Unknown,Main scheme applicant,100
+2013,BTEC Only,Unknown,Non-main scheme applicant,15
+2013,Cambridge Technicals only,Quintile 1,Main scheme applicant,10
+2013,Cambridge Technicals only,Quintile 2,Main scheme applicant,5
+2013,Cambridge Technicals only,Quintile 3,Main scheme applicant,15
+2013,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,5
+2013,Cambridge Technicals only,Quintile 4,Main scheme applicant,5
+2013,Cambridge Technicals only,Quintile 5,Main scheme applicant,5
+2013,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,5
+2013,IB Only,Quintile 1,Main scheme applicant,11235
+2013,IB Only,Quintile 1,Non-main scheme applicant,1995
+2013,IB Only,Quintile 2,Main scheme applicant,12550
+2013,IB Only,Quintile 2,Non-main scheme applicant,2220
+2013,IB Only,Quintile 3,Main scheme applicant,13520
+2013,IB Only,Quintile 3,Non-main scheme applicant,2625
+2013,IB Only,Quintile 4,Main scheme applicant,14575
+2013,IB Only,Quintile 4,Non-main scheme applicant,3080
+2013,IB Only,Quintile 5,Main scheme applicant,14415
+2013,IB Only,Quintile 5,Non-main scheme applicant,2770
+2013,IB Only,Unknown,Main scheme applicant,325
+2013,IB Only,Unknown,Non-main scheme applicant,100
+2013,Other,Quintile 1,Main scheme applicant,10550
+2013,Other,Quintile 1,Non-main scheme applicant,1240
+2013,Other,Quintile 2,Main scheme applicant,11955
+2013,Other,Quintile 2,Non-main scheme applicant,1665
+2013,Other,Quintile 3,Main scheme applicant,13320
+2013,Other,Quintile 3,Non-main scheme applicant,2085
+2013,Other,Quintile 4,Main scheme applicant,14220
+2013,Other,Quintile 4,Non-main scheme applicant,2635
+2013,Other,Quintile 5,Main scheme applicant,14305
+2013,Other,Quintile 5,Non-main scheme applicant,2425
+2013,Other,Unknown,Main scheme applicant,155
+2013,Other,Unknown,Non-main scheme applicant,140
+2013,SQA Only,Quintile 1,Main scheme applicant,1760
+2013,SQA Only,Quintile 1,Non-main scheme applicant,25
+2013,SQA Only,Quintile 2,Main scheme applicant,3815
+2013,SQA Only,Quintile 2,Non-main scheme applicant,50
+2013,SQA Only,Quintile 3,Main scheme applicant,5970
+2013,SQA Only,Quintile 3,Non-main scheme applicant,65
+2013,SQA Only,Quintile 4,Main scheme applicant,8170
+2013,SQA Only,Quintile 4,Non-main scheme applicant,110
+2013,SQA Only,Quintile 5,Main scheme applicant,14835
+2013,SQA Only,Quintile 5,Non-main scheme applicant,170
+2013,SQA Only,Unknown,Main scheme applicant,45
+2014,A level & BTEC,Quintile 1,Main scheme applicant,4920
+2014,A level & BTEC,Quintile 1,Non-main scheme applicant,20
+2014,A level & BTEC,Quintile 2,Main scheme applicant,6105
+2014,A level & BTEC,Quintile 2,Non-main scheme applicant,20
+2014,A level & BTEC,Quintile 3,Main scheme applicant,6855
+2014,A level & BTEC,Quintile 3,Non-main scheme applicant,30
+2014,A level & BTEC,Quintile 4,Main scheme applicant,6820
+2014,A level & BTEC,Quintile 4,Non-main scheme applicant,30
+2014,A level & BTEC,Quintile 5,Main scheme applicant,6000
+2014,A level & BTEC,Quintile 5,Non-main scheme applicant,35
+2014,A level & BTEC,Unknown,Main scheme applicant,40
+2014,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,215
+2014,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,340
+2014,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,5
+2014,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,330
+2014,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,325
+2014,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,285
+2014,A level & WB,Quintile 1,Main scheme applicant,805
+2014,A level & WB,Quintile 1,Non-main scheme applicant,10
+2014,A level & WB,Quintile 2,Main scheme applicant,1305
+2014,A level & WB,Quintile 2,Non-main scheme applicant,30
+2014,A level & WB,Quintile 3,Main scheme applicant,1505
+2014,A level & WB,Quintile 3,Non-main scheme applicant,30
+2014,A level & WB,Quintile 4,Main scheme applicant,1380
+2014,A level & WB,Quintile 4,Non-main scheme applicant,20
+2014,A level & WB,Quintile 5,Main scheme applicant,1615
+2014,A level & WB,Quintile 5,Non-main scheme applicant,20
+2014,A level & WB,Unknown,Main scheme applicant,5
+2014,A level Only (With extended project),Quintile 1,Main scheme applicant,2385
+2014,A level Only (With extended project),Quintile 1,Non-main scheme applicant,15
+2014,A level Only (With extended project),Quintile 2,Main scheme applicant,3705
+2014,A level Only (With extended project),Quintile 2,Non-main scheme applicant,15
+2014,A level Only (With extended project),Quintile 3,Main scheme applicant,5235
+2014,A level Only (With extended project),Quintile 3,Non-main scheme applicant,25
+2014,A level Only (With extended project),Quintile 4,Main scheme applicant,7230
+2014,A level Only (With extended project),Quintile 4,Non-main scheme applicant,25
+2014,A level Only (With extended project),Quintile 5,Main scheme applicant,10870
+2014,A level Only (With extended project),Quintile 5,Non-main scheme applicant,40
+2014,A level Only (With extended project),Unknown,Main scheme applicant,30
+2014,A level Only (Without extended project),Quintile 1,Main scheme applicant,18455
+2014,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,545
+2014,A level Only (Without extended project),Quintile 2,Main scheme applicant,28320
+2014,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,775
+2014,A level Only (Without extended project),Quintile 3,Main scheme applicant,38060
+2014,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1115
+2014,A level Only (Without extended project),Quintile 4,Main scheme applicant,49645
+2014,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1460
+2014,A level Only (Without extended project),Quintile 5,Main scheme applicant,78370
+2014,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1940
+2014,A level Only (Without extended project),Unknown,Main scheme applicant,235
+2014,A level Only (Without extended project),Unknown,Non-main scheme applicant,20
+2014,Access to HE only,Quintile 1,Main scheme applicant,4430
+2014,Access to HE only,Quintile 1,Non-main scheme applicant,125
+2014,Access to HE only,Quintile 2,Main scheme applicant,4110
+2014,Access to HE only,Quintile 2,Non-main scheme applicant,125
+2014,Access to HE only,Quintile 3,Main scheme applicant,3655
+2014,Access to HE only,Quintile 3,Non-main scheme applicant,130
+2014,Access to HE only,Quintile 4,Main scheme applicant,3565
+2014,Access to HE only,Quintile 4,Non-main scheme applicant,155
+2014,Access to HE only,Quintile 5,Main scheme applicant,2830
+2014,Access to HE only,Quintile 5,Non-main scheme applicant,115
+2014,Access to HE only,Unknown,Main scheme applicant,25
+2014,Access to HE only,Unknown,Non-main scheme applicant,5
+2014,BTEC Only,Quintile 1,Main scheme applicant,14340
+2014,BTEC Only,Quintile 1,Non-main scheme applicant,725
+2014,BTEC Only,Quintile 2,Main scheme applicant,15685
+2014,BTEC Only,Quintile 2,Non-main scheme applicant,790
+2014,BTEC Only,Quintile 3,Main scheme applicant,15865
+2014,BTEC Only,Quintile 3,Non-main scheme applicant,960
+2014,BTEC Only,Quintile 4,Main scheme applicant,16530
+2014,BTEC Only,Quintile 4,Non-main scheme applicant,1125
+2014,BTEC Only,Quintile 5,Main scheme applicant,13170
+2014,BTEC Only,Quintile 5,Non-main scheme applicant,835
+2014,BTEC Only,Unknown,Main scheme applicant,90
+2014,BTEC Only,Unknown,Non-main scheme applicant,20
+2014,Cambridge Technicals only,Quintile 1,Main scheme applicant,110
+2014,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,5
+2014,Cambridge Technicals only,Quintile 2,Main scheme applicant,100
+2014,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,5
+2014,Cambridge Technicals only,Quintile 3,Main scheme applicant,120
+2014,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,5
+2014,Cambridge Technicals only,Quintile 4,Main scheme applicant,115
+2014,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,5
+2014,Cambridge Technicals only,Quintile 5,Main scheme applicant,70
+2014,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,5
+2014,IB Only,Quintile 1,Main scheme applicant,11590
+2014,IB Only,Quintile 1,Non-main scheme applicant,1985
+2014,IB Only,Quintile 2,Main scheme applicant,12870
+2014,IB Only,Quintile 2,Non-main scheme applicant,2380
+2014,IB Only,Quintile 3,Main scheme applicant,13920
+2014,IB Only,Quintile 3,Non-main scheme applicant,2610
+2014,IB Only,Quintile 4,Main scheme applicant,14915
+2014,IB Only,Quintile 4,Non-main scheme applicant,3055
+2014,IB Only,Quintile 5,Main scheme applicant,14980
+2014,IB Only,Quintile 5,Non-main scheme applicant,2685
+2014,IB Only,Unknown,Main scheme applicant,305
+2014,IB Only,Unknown,Non-main scheme applicant,90
+2014,Other,Quintile 1,Main scheme applicant,10615
+2014,Other,Quintile 1,Non-main scheme applicant,1090
+2014,Other,Quintile 2,Main scheme applicant,12130
+2014,Other,Quintile 2,Non-main scheme applicant,1430
+2014,Other,Quintile 3,Main scheme applicant,13145
+2014,Other,Quintile 3,Non-main scheme applicant,1980
+2014,Other,Quintile 4,Main scheme applicant,14020
+2014,Other,Quintile 4,Non-main scheme applicant,2590
+2014,Other,Quintile 5,Main scheme applicant,14025
+2014,Other,Quintile 5,Non-main scheme applicant,2035
+2014,Other,Unknown,Main scheme applicant,145
+2014,Other,Unknown,Non-main scheme applicant,35
+2014,SQA Only,Quintile 1,Main scheme applicant,1980
+2014,SQA Only,Quintile 1,Non-main scheme applicant,20
+2014,SQA Only,Quintile 2,Main scheme applicant,4090
+2014,SQA Only,Quintile 2,Non-main scheme applicant,55
+2014,SQA Only,Quintile 3,Main scheme applicant,6200
+2014,SQA Only,Quintile 3,Non-main scheme applicant,80
+2014,SQA Only,Quintile 4,Main scheme applicant,8425
+2014,SQA Only,Quintile 4,Non-main scheme applicant,110
+2014,SQA Only,Quintile 5,Main scheme applicant,14955
+2014,SQA Only,Quintile 5,Non-main scheme applicant,180
+2014,SQA Only,Unknown,Main scheme applicant,25
+2015,A level & BTEC,Quintile 1,Main scheme applicant,5630
+2015,A level & BTEC,Quintile 1,Non-main scheme applicant,35
+2015,A level & BTEC,Quintile 2,Main scheme applicant,6900
+2015,A level & BTEC,Quintile 2,Non-main scheme applicant,50
+2015,A level & BTEC,Quintile 3,Main scheme applicant,7405
+2015,A level & BTEC,Quintile 3,Non-main scheme applicant,45
+2015,A level & BTEC,Quintile 4,Main scheme applicant,7405
+2015,A level & BTEC,Quintile 4,Non-main scheme applicant,55
+2015,A level & BTEC,Quintile 5,Main scheme applicant,6920
+2015,A level & BTEC,Quintile 5,Non-main scheme applicant,45
+2015,A level & BTEC,Unknown,Main scheme applicant,35
+2015,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,385
+2015,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,5
+2015,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,530
+2015,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,535
+2015,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,5
+2015,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,535
+2015,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,5
+2015,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,505
+2015,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,5
+2015,A level & Cambridge Technicals,Unknown,Main scheme applicant,5
+2015,A level & WB,Quintile 1,Main scheme applicant,820
+2015,A level & WB,Quintile 1,Non-main scheme applicant,20
+2015,A level & WB,Quintile 2,Main scheme applicant,1270
+2015,A level & WB,Quintile 2,Non-main scheme applicant,25
+2015,A level & WB,Quintile 3,Main scheme applicant,1525
+2015,A level & WB,Quintile 3,Non-main scheme applicant,30
+2015,A level & WB,Quintile 4,Main scheme applicant,1395
+2015,A level & WB,Quintile 4,Non-main scheme applicant,20
+2015,A level & WB,Quintile 5,Main scheme applicant,1610
+2015,A level & WB,Quintile 5,Non-main scheme applicant,30
+2015,A level & WB,Unknown,Main scheme applicant,5
+2015,A level Only (With extended project),Quintile 1,Main scheme applicant,2495
+2015,A level Only (With extended project),Quintile 1,Non-main scheme applicant,5
+2015,A level Only (With extended project),Quintile 2,Main scheme applicant,3880
+2015,A level Only (With extended project),Quintile 2,Non-main scheme applicant,20
+2015,A level Only (With extended project),Quintile 3,Main scheme applicant,5595
+2015,A level Only (With extended project),Quintile 3,Non-main scheme applicant,20
+2015,A level Only (With extended project),Quintile 4,Main scheme applicant,7570
+2015,A level Only (With extended project),Quintile 4,Non-main scheme applicant,45
+2015,A level Only (With extended project),Quintile 5,Main scheme applicant,11420
+2015,A level Only (With extended project),Quintile 5,Non-main scheme applicant,40
+2015,A level Only (With extended project),Unknown,Main scheme applicant,25
+2015,A level Only (Without extended project),Quintile 1,Main scheme applicant,18140
+2015,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,570
+2015,A level Only (Without extended project),Quintile 2,Main scheme applicant,27590
+2015,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,840
+2015,A level Only (Without extended project),Quintile 3,Main scheme applicant,37765
+2015,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1095
+2015,A level Only (Without extended project),Quintile 4,Main scheme applicant,49905
+2015,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1445
+2015,A level Only (Without extended project),Quintile 5,Main scheme applicant,78490
+2015,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1985
+2015,A level Only (Without extended project),Unknown,Main scheme applicant,205
+2015,A level Only (Without extended project),Unknown,Non-main scheme applicant,25
+2015,Access to HE only,Quintile 1,Main scheme applicant,4285
+2015,Access to HE only,Quintile 1,Non-main scheme applicant,170
+2015,Access to HE only,Quintile 2,Main scheme applicant,4065
+2015,Access to HE only,Quintile 2,Non-main scheme applicant,145
+2015,Access to HE only,Quintile 3,Main scheme applicant,3460
+2015,Access to HE only,Quintile 3,Non-main scheme applicant,165
+2015,Access to HE only,Quintile 4,Main scheme applicant,3455
+2015,Access to HE only,Quintile 4,Non-main scheme applicant,155
+2015,Access to HE only,Quintile 5,Main scheme applicant,2760
+2015,Access to HE only,Quintile 5,Non-main scheme applicant,140
+2015,Access to HE only,Unknown,Main scheme applicant,25
+2015,Access to HE only,Unknown,Non-main scheme applicant,5
+2015,BTEC Only,Quintile 1,Main scheme applicant,14750
+2015,BTEC Only,Quintile 1,Non-main scheme applicant,845
+2015,BTEC Only,Quintile 2,Main scheme applicant,16275
+2015,BTEC Only,Quintile 2,Non-main scheme applicant,975
+2015,BTEC Only,Quintile 3,Main scheme applicant,16760
+2015,BTEC Only,Quintile 3,Non-main scheme applicant,1105
+2015,BTEC Only,Quintile 4,Main scheme applicant,17205
+2015,BTEC Only,Quintile 4,Non-main scheme applicant,1205
+2015,BTEC Only,Quintile 5,Main scheme applicant,13795
+2015,BTEC Only,Quintile 5,Non-main scheme applicant,920
+2015,BTEC Only,Unknown,Main scheme applicant,95
+2015,BTEC Only,Unknown,Non-main scheme applicant,25
+2015,Cambridge Technicals only,Quintile 1,Main scheme applicant,145
+2015,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,5
+2015,Cambridge Technicals only,Quintile 2,Main scheme applicant,175
+2015,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,5
+2015,Cambridge Technicals only,Quintile 3,Main scheme applicant,180
+2015,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,10
+2015,Cambridge Technicals only,Quintile 4,Main scheme applicant,170
+2015,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,15
+2015,Cambridge Technicals only,Quintile 5,Main scheme applicant,130
+2015,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,5
+2015,IB Only,Quintile 1,Main scheme applicant,11125
+2015,IB Only,Quintile 1,Non-main scheme applicant,2195
+2015,IB Only,Quintile 2,Main scheme applicant,12560
+2015,IB Only,Quintile 2,Non-main scheme applicant,2480
+2015,IB Only,Quintile 3,Main scheme applicant,13400
+2015,IB Only,Quintile 3,Non-main scheme applicant,2800
+2015,IB Only,Quintile 4,Main scheme applicant,14975
+2015,IB Only,Quintile 4,Non-main scheme applicant,3135
+2015,IB Only,Quintile 5,Main scheme applicant,14665
+2015,IB Only,Quintile 5,Non-main scheme applicant,2710
+2015,IB Only,Unknown,Main scheme applicant,285
+2015,IB Only,Unknown,Non-main scheme applicant,120
+2015,Other,Quintile 1,Main scheme applicant,10585
+2015,Other,Quintile 1,Non-main scheme applicant,1365
+2015,Other,Quintile 2,Main scheme applicant,12120
+2015,Other,Quintile 2,Non-main scheme applicant,1925
+2015,Other,Quintile 3,Main scheme applicant,12815
+2015,Other,Quintile 3,Non-main scheme applicant,2515
+2015,Other,Quintile 4,Main scheme applicant,13750
+2015,Other,Quintile 4,Non-main scheme applicant,3470
+2015,Other,Quintile 5,Main scheme applicant,13670
+2015,Other,Quintile 5,Non-main scheme applicant,2770
+2015,Other,Unknown,Main scheme applicant,140
+2015,Other,Unknown,Non-main scheme applicant,105
+2015,SQA Only,Quintile 1,Main scheme applicant,2045
+2015,SQA Only,Quintile 1,Non-main scheme applicant,35
+2015,SQA Only,Quintile 2,Main scheme applicant,4595
+2015,SQA Only,Quintile 2,Non-main scheme applicant,75
+2015,SQA Only,Quintile 3,Main scheme applicant,6980
+2015,SQA Only,Quintile 3,Non-main scheme applicant,115
+2015,SQA Only,Quintile 4,Main scheme applicant,9170
+2015,SQA Only,Quintile 4,Non-main scheme applicant,135
+2015,SQA Only,Quintile 5,Main scheme applicant,16390
+2015,SQA Only,Quintile 5,Non-main scheme applicant,195
+2015,SQA Only,Unknown,Main scheme applicant,25
+2015,SQA Only,Unknown,Non-main scheme applicant,5
+2016,A level & BTEC,Quintile 1,Main scheme applicant,5420
+2016,A level & BTEC,Quintile 1,Non-main scheme applicant,40
+2016,A level & BTEC,Quintile 2,Main scheme applicant,6660
+2016,A level & BTEC,Quintile 2,Non-main scheme applicant,40
+2016,A level & BTEC,Quintile 3,Main scheme applicant,7230
+2016,A level & BTEC,Quintile 3,Non-main scheme applicant,55
+2016,A level & BTEC,Quintile 4,Main scheme applicant,7620
+2016,A level & BTEC,Quintile 4,Non-main scheme applicant,50
+2016,A level & BTEC,Quintile 5,Main scheme applicant,7120
+2016,A level & BTEC,Quintile 5,Non-main scheme applicant,55
+2016,A level & BTEC,Unknown,Main scheme applicant,45
+2016,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,505
+2016,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,10
+2016,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,685
+2016,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,15
+2016,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,655
+2016,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,5
+2016,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,685
+2016,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,10
+2016,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,715
+2016,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,5
+2016,A level & Cambridge Technicals,Unknown,Main scheme applicant,5
+2016,A level & WB,Quintile 1,Main scheme applicant,880
+2016,A level & WB,Quintile 1,Non-main scheme applicant,25
+2016,A level & WB,Quintile 2,Main scheme applicant,1375
+2016,A level & WB,Quintile 2,Non-main scheme applicant,25
+2016,A level & WB,Quintile 3,Main scheme applicant,1620
+2016,A level & WB,Quintile 3,Non-main scheme applicant,30
+2016,A level & WB,Quintile 4,Main scheme applicant,1365
+2016,A level & WB,Quintile 4,Non-main scheme applicant,25
+2016,A level & WB,Quintile 5,Main scheme applicant,1730
+2016,A level & WB,Quintile 5,Non-main scheme applicant,30
+2016,A level Only (With extended project),Quintile 1,Main scheme applicant,2610
+2016,A level Only (With extended project),Quintile 1,Non-main scheme applicant,10
+2016,A level Only (With extended project),Quintile 2,Main scheme applicant,4110
+2016,A level Only (With extended project),Quintile 2,Non-main scheme applicant,25
+2016,A level Only (With extended project),Quintile 3,Main scheme applicant,5655
+2016,A level Only (With extended project),Quintile 3,Non-main scheme applicant,25
+2016,A level Only (With extended project),Quintile 4,Main scheme applicant,7725
+2016,A level Only (With extended project),Quintile 4,Non-main scheme applicant,40
+2016,A level Only (With extended project),Quintile 5,Main scheme applicant,11775
+2016,A level Only (With extended project),Quintile 5,Non-main scheme applicant,65
+2016,A level Only (With extended project),Unknown,Main scheme applicant,30
+2016,A level Only (Without extended project),Quintile 1,Main scheme applicant,18250
+2016,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,545
+2016,A level Only (Without extended project),Quintile 2,Main scheme applicant,27335
+2016,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,830
+2016,A level Only (Without extended project),Quintile 3,Main scheme applicant,36920
+2016,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1115
+2016,A level Only (Without extended project),Quintile 4,Main scheme applicant,48625
+2016,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1365
+2016,A level Only (Without extended project),Quintile 5,Main scheme applicant,77795
+2016,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1905
+2016,A level Only (Without extended project),Unknown,Main scheme applicant,195
+2016,A level Only (Without extended project),Unknown,Non-main scheme applicant,10
+2016,Access to HE only,Quintile 1,Main scheme applicant,4635
+2016,Access to HE only,Quintile 1,Non-main scheme applicant,230
+2016,Access to HE only,Quintile 2,Main scheme applicant,4350
+2016,Access to HE only,Quintile 2,Non-main scheme applicant,225
+2016,Access to HE only,Quintile 3,Main scheme applicant,3895
+2016,Access to HE only,Quintile 3,Non-main scheme applicant,180
+2016,Access to HE only,Quintile 4,Main scheme applicant,3765
+2016,Access to HE only,Quintile 4,Non-main scheme applicant,245
+2016,Access to HE only,Quintile 5,Main scheme applicant,2920
+2016,Access to HE only,Quintile 5,Non-main scheme applicant,170
+2016,Access to HE only,Unknown,Main scheme applicant,20
+2016,Access to HE only,Unknown,Non-main scheme applicant,5
+2016,BTEC Only,Quintile 1,Main scheme applicant,14090
+2016,BTEC Only,Quintile 1,Non-main scheme applicant,835
+2016,BTEC Only,Quintile 2,Main scheme applicant,15695
+2016,BTEC Only,Quintile 2,Non-main scheme applicant,965
+2016,BTEC Only,Quintile 3,Main scheme applicant,16155
+2016,BTEC Only,Quintile 3,Non-main scheme applicant,1065
+2016,BTEC Only,Quintile 4,Main scheme applicant,16810
+2016,BTEC Only,Quintile 4,Non-main scheme applicant,1210
+2016,BTEC Only,Quintile 5,Main scheme applicant,13780
+2016,BTEC Only,Quintile 5,Non-main scheme applicant,855
+2016,BTEC Only,Unknown,Main scheme applicant,85
+2016,BTEC Only,Unknown,Non-main scheme applicant,30
+2016,Cambridge Technicals only,Quintile 1,Main scheme applicant,240
+2016,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,10
+2016,Cambridge Technicals only,Quintile 2,Main scheme applicant,275
+2016,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,5
+2016,Cambridge Technicals only,Quintile 3,Main scheme applicant,285
+2016,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,10
+2016,Cambridge Technicals only,Quintile 4,Main scheme applicant,275
+2016,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,10
+2016,Cambridge Technicals only,Quintile 5,Main scheme applicant,220
+2016,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,15
+2016,IB Only,Quintile 1,Main scheme applicant,11320
+2016,IB Only,Quintile 1,Non-main scheme applicant,2045
+2016,IB Only,Quintile 2,Main scheme applicant,12475
+2016,IB Only,Quintile 2,Non-main scheme applicant,2375
+2016,IB Only,Quintile 3,Main scheme applicant,13715
+2016,IB Only,Quintile 3,Non-main scheme applicant,2655
+2016,IB Only,Quintile 4,Main scheme applicant,15065
+2016,IB Only,Quintile 4,Non-main scheme applicant,2980
+2016,IB Only,Quintile 5,Main scheme applicant,14920
+2016,IB Only,Quintile 5,Non-main scheme applicant,2485
+2016,IB Only,Unknown,Main scheme applicant,305
+2016,IB Only,Unknown,Non-main scheme applicant,80
+2016,Other,Quintile 1,Main scheme applicant,10445
+2016,Other,Quintile 1,Non-main scheme applicant,1295
+2016,Other,Quintile 2,Main scheme applicant,12095
+2016,Other,Quintile 2,Non-main scheme applicant,1845
+2016,Other,Quintile 3,Main scheme applicant,12795
+2016,Other,Quintile 3,Non-main scheme applicant,2225
+2016,Other,Quintile 4,Main scheme applicant,13615
+2016,Other,Quintile 4,Non-main scheme applicant,3140
+2016,Other,Quintile 5,Main scheme applicant,13715
+2016,Other,Quintile 5,Non-main scheme applicant,2550
+2016,Other,Unknown,Main scheme applicant,140
+2016,Other,Unknown,Non-main scheme applicant,60
+2016,SQA Only,Quintile 1,Main scheme applicant,2115
+2016,SQA Only,Quintile 1,Non-main scheme applicant,40
+2016,SQA Only,Quintile 2,Main scheme applicant,4730
+2016,SQA Only,Quintile 2,Non-main scheme applicant,85
+2016,SQA Only,Quintile 3,Main scheme applicant,7135
+2016,SQA Only,Quintile 3,Non-main scheme applicant,120
+2016,SQA Only,Quintile 4,Main scheme applicant,9410
+2016,SQA Only,Quintile 4,Non-main scheme applicant,170
+2016,SQA Only,Quintile 5,Main scheme applicant,16795
+2016,SQA Only,Quintile 5,Non-main scheme applicant,260
+2016,SQA Only,Unknown,Main scheme applicant,40
+2017,A level & BTEC,Quintile 1,Main scheme applicant,5035
+2017,A level & BTEC,Quintile 1,Non-main scheme applicant,35
+2017,A level & BTEC,Quintile 2,Main scheme applicant,5980
+2017,A level & BTEC,Quintile 2,Non-main scheme applicant,50
+2017,A level & BTEC,Quintile 3,Main scheme applicant,6785
+2017,A level & BTEC,Quintile 3,Non-main scheme applicant,70
+2017,A level & BTEC,Quintile 4,Main scheme applicant,6940
+2017,A level & BTEC,Quintile 4,Non-main scheme applicant,60
+2017,A level & BTEC,Quintile 5,Main scheme applicant,6615
+2017,A level & BTEC,Quintile 5,Non-main scheme applicant,65
+2017,A level & BTEC,Unknown,Main scheme applicant,35
+2017,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,555
+2017,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,10
+2017,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,725
+2017,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,15
+2017,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,745
+2017,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,15
+2017,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,770
+2017,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,15
+2017,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,745
+2017,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,15
+2017,A level & WB,Quintile 1,Main scheme applicant,830
+2017,A level & WB,Quintile 1,Non-main scheme applicant,15
+2017,A level & WB,Quintile 2,Main scheme applicant,1270
+2017,A level & WB,Quintile 2,Non-main scheme applicant,20
+2017,A level & WB,Quintile 3,Main scheme applicant,1600
+2017,A level & WB,Quintile 3,Non-main scheme applicant,20
+2017,A level & WB,Quintile 4,Main scheme applicant,1225
+2017,A level & WB,Quintile 4,Non-main scheme applicant,15
+2017,A level & WB,Quintile 5,Main scheme applicant,1590
+2017,A level & WB,Quintile 5,Non-main scheme applicant,15
+2017,A level & WB,Unknown,Main scheme applicant,5
+2017,A level Only (With extended project),Quintile 1,Main scheme applicant,2810
+2017,A level Only (With extended project),Quintile 1,Non-main scheme applicant,20
+2017,A level Only (With extended project),Quintile 2,Main scheme applicant,4355
+2017,A level Only (With extended project),Quintile 2,Non-main scheme applicant,30
+2017,A level Only (With extended project),Quintile 3,Main scheme applicant,5820
+2017,A level Only (With extended project),Quintile 3,Non-main scheme applicant,45
+2017,A level Only (With extended project),Quintile 4,Main scheme applicant,7920
+2017,A level Only (With extended project),Quintile 4,Non-main scheme applicant,60
+2017,A level Only (With extended project),Quintile 5,Main scheme applicant,12850
+2017,A level Only (With extended project),Quintile 5,Non-main scheme applicant,85
+2017,A level Only (With extended project),Unknown,Main scheme applicant,25
+2017,A level Only (Without extended project),Quintile 1,Main scheme applicant,17740
+2017,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,620
+2017,A level Only (Without extended project),Quintile 2,Main scheme applicant,26260
+2017,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,910
+2017,A level Only (Without extended project),Quintile 3,Main scheme applicant,35430
+2017,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1170
+2017,A level Only (Without extended project),Quintile 4,Main scheme applicant,47160
+2017,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1530
+2017,A level Only (Without extended project),Quintile 5,Main scheme applicant,74500
+2017,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,2060
+2017,A level Only (Without extended project),Unknown,Main scheme applicant,200
+2017,A level Only (Without extended project),Unknown,Non-main scheme applicant,20
+2017,Access to HE only,Quintile 1,Main scheme applicant,4465
+2017,Access to HE only,Quintile 1,Non-main scheme applicant,280
+2017,Access to HE only,Quintile 2,Main scheme applicant,4195
+2017,Access to HE only,Quintile 2,Non-main scheme applicant,240
+2017,Access to HE only,Quintile 3,Main scheme applicant,3715
+2017,Access to HE only,Quintile 3,Non-main scheme applicant,280
+2017,Access to HE only,Quintile 4,Main scheme applicant,3545
+2017,Access to HE only,Quintile 4,Non-main scheme applicant,295
+2017,Access to HE only,Quintile 5,Main scheme applicant,2790
+2017,Access to HE only,Quintile 5,Non-main scheme applicant,215
+2017,Access to HE only,Unknown,Main scheme applicant,25
+2017,Access to HE only,Unknown,Non-main scheme applicant,10
+2017,BTEC Only,Quintile 1,Main scheme applicant,12800
+2017,BTEC Only,Quintile 1,Non-main scheme applicant,930
+2017,BTEC Only,Quintile 2,Main scheme applicant,14105
+2017,BTEC Only,Quintile 2,Non-main scheme applicant,1060
+2017,BTEC Only,Quintile 3,Main scheme applicant,15095
+2017,BTEC Only,Quintile 3,Non-main scheme applicant,1110
+2017,BTEC Only,Quintile 4,Main scheme applicant,15995
+2017,BTEC Only,Quintile 4,Non-main scheme applicant,1290
+2017,BTEC Only,Quintile 5,Main scheme applicant,12850
+2017,BTEC Only,Quintile 5,Non-main scheme applicant,1045
+2017,BTEC Only,Unknown,Main scheme applicant,60
+2017,BTEC Only,Unknown,Non-main scheme applicant,15
+2017,Cambridge Technicals only,Quintile 1,Main scheme applicant,385
+2017,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,20
+2017,Cambridge Technicals only,Quintile 2,Main scheme applicant,405
+2017,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,20
+2017,Cambridge Technicals only,Quintile 3,Main scheme applicant,370
+2017,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,15
+2017,Cambridge Technicals only,Quintile 4,Main scheme applicant,440
+2017,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,20
+2017,Cambridge Technicals only,Quintile 5,Main scheme applicant,350
+2017,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,15
+2017,IB Only,Quintile 1,Main scheme applicant,10570
+2017,IB Only,Quintile 1,Non-main scheme applicant,2460
+2017,IB Only,Quintile 2,Main scheme applicant,11530
+2017,IB Only,Quintile 2,Non-main scheme applicant,2835
+2017,IB Only,Quintile 3,Main scheme applicant,12645
+2017,IB Only,Quintile 3,Non-main scheme applicant,3060
+2017,IB Only,Quintile 4,Main scheme applicant,13645
+2017,IB Only,Quintile 4,Non-main scheme applicant,3610
+2017,IB Only,Quintile 5,Main scheme applicant,14005
+2017,IB Only,Quintile 5,Non-main scheme applicant,3060
+2017,IB Only,Unknown,Main scheme applicant,260
+2017,IB Only,Unknown,Non-main scheme applicant,115
+2017,Other,Quintile 1,Main scheme applicant,9855
+2017,Other,Quintile 1,Non-main scheme applicant,1500
+2017,Other,Quintile 2,Main scheme applicant,11270
+2017,Other,Quintile 2,Non-main scheme applicant,2085
+2017,Other,Quintile 3,Main scheme applicant,11935
+2017,Other,Quintile 3,Non-main scheme applicant,2845
+2017,Other,Quintile 4,Main scheme applicant,12465
+2017,Other,Quintile 4,Non-main scheme applicant,3700
+2017,Other,Quintile 5,Main scheme applicant,13325
+2017,Other,Quintile 5,Non-main scheme applicant,2845
+2017,Other,Unknown,Main scheme applicant,110
+2017,Other,Unknown,Non-main scheme applicant,85
+2017,SQA Only,Quintile 1,Main scheme applicant,2265
+2017,SQA Only,Quintile 1,Non-main scheme applicant,45
+2017,SQA Only,Quintile 2,Main scheme applicant,4800
+2017,SQA Only,Quintile 2,Non-main scheme applicant,100
+2017,SQA Only,Quintile 3,Main scheme applicant,7085
+2017,SQA Only,Quintile 3,Non-main scheme applicant,120
+2017,SQA Only,Quintile 4,Main scheme applicant,9390
+2017,SQA Only,Quintile 4,Non-main scheme applicant,165
+2017,SQA Only,Quintile 5,Main scheme applicant,16245
+2017,SQA Only,Quintile 5,Non-main scheme applicant,250
+2017,SQA Only,Unknown,Main scheme applicant,30
+2017,SQA Only,Unknown,Non-main scheme applicant,5
+2018,A level & BTEC,Quintile 1,Main scheme applicant,4190
+2018,A level & BTEC,Quintile 1,Non-main scheme applicant,35
+2018,A level & BTEC,Quintile 2,Main scheme applicant,5050
+2018,A level & BTEC,Quintile 2,Non-main scheme applicant,30
+2018,A level & BTEC,Quintile 3,Main scheme applicant,5705
+2018,A level & BTEC,Quintile 3,Non-main scheme applicant,45
+2018,A level & BTEC,Quintile 4,Main scheme applicant,5920
+2018,A level & BTEC,Quintile 4,Non-main scheme applicant,45
+2018,A level & BTEC,Quintile 5,Main scheme applicant,5720
+2018,A level & BTEC,Quintile 5,Non-main scheme applicant,40
+2018,A level & BTEC,Unknown,Main scheme applicant,25
+2018,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,630
+2018,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,15
+2018,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,830
+2018,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,20
+2018,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,975
+2018,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,20
+2018,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,1060
+2018,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,15
+2018,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,990
+2018,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,20
+2018,A level & Cambridge Technicals,Unknown,Main scheme applicant,5
+2018,A level & WB,Quintile 1,Main scheme applicant,795
+2018,A level & WB,Quintile 1,Non-main scheme applicant,10
+2018,A level & WB,Quintile 2,Main scheme applicant,1255
+2018,A level & WB,Quintile 2,Non-main scheme applicant,20
+2018,A level & WB,Quintile 3,Main scheme applicant,1405
+2018,A level & WB,Quintile 3,Non-main scheme applicant,15
+2018,A level & WB,Quintile 4,Main scheme applicant,1205
+2018,A level & WB,Quintile 4,Non-main scheme applicant,15
+2018,A level & WB,Quintile 5,Main scheme applicant,1480
+2018,A level & WB,Quintile 5,Non-main scheme applicant,10
+2018,A level Only (With extended project),Quintile 1,Main scheme applicant,2925
+2018,A level Only (With extended project),Quintile 1,Non-main scheme applicant,25
+2018,A level Only (With extended project),Quintile 2,Main scheme applicant,4595
+2018,A level Only (With extended project),Quintile 2,Non-main scheme applicant,30
+2018,A level Only (With extended project),Quintile 3,Main scheme applicant,6385
+2018,A level Only (With extended project),Quintile 3,Non-main scheme applicant,45
+2018,A level Only (With extended project),Quintile 4,Main scheme applicant,8560
+2018,A level Only (With extended project),Quintile 4,Non-main scheme applicant,55
+2018,A level Only (With extended project),Quintile 5,Main scheme applicant,14300
+2018,A level Only (With extended project),Quintile 5,Non-main scheme applicant,75
+2018,A level Only (With extended project),Unknown,Main scheme applicant,35
+2018,A level Only (Without extended project),Quintile 1,Main scheme applicant,16895
+2018,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,705
+2018,A level Only (Without extended project),Quintile 2,Main scheme applicant,25010
+2018,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,940
+2018,A level Only (Without extended project),Quintile 3,Main scheme applicant,33335
+2018,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1245
+2018,A level Only (Without extended project),Quintile 4,Main scheme applicant,44670
+2018,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1680
+2018,A level Only (Without extended project),Quintile 5,Main scheme applicant,69790
+2018,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,2045
+2018,A level Only (Without extended project),Unknown,Main scheme applicant,185
+2018,A level Only (Without extended project),Unknown,Non-main scheme applicant,20
+2018,Access to HE only,Quintile 1,Main scheme applicant,4425
+2018,Access to HE only,Quintile 1,Non-main scheme applicant,275
+2018,Access to HE only,Quintile 2,Main scheme applicant,3895
+2018,Access to HE only,Quintile 2,Non-main scheme applicant,240
+2018,Access to HE only,Quintile 3,Main scheme applicant,3540
+2018,Access to HE only,Quintile 3,Non-main scheme applicant,255
+2018,Access to HE only,Quintile 4,Main scheme applicant,3260
+2018,Access to HE only,Quintile 4,Non-main scheme applicant,310
+2018,Access to HE only,Quintile 5,Main scheme applicant,2590
+2018,Access to HE only,Quintile 5,Non-main scheme applicant,215
+2018,Access to HE only,Unknown,Main scheme applicant,25
+2018,Access to HE only,Unknown,Non-main scheme applicant,10
+2018,BTEC Only,Quintile 1,Main scheme applicant,11840
+2018,BTEC Only,Quintile 1,Non-main scheme applicant,1045
+2018,BTEC Only,Quintile 2,Main scheme applicant,12700
+2018,BTEC Only,Quintile 2,Non-main scheme applicant,1075
+2018,BTEC Only,Quintile 3,Main scheme applicant,13625
+2018,BTEC Only,Quintile 3,Non-main scheme applicant,1245
+2018,BTEC Only,Quintile 4,Main scheme applicant,14680
+2018,BTEC Only,Quintile 4,Non-main scheme applicant,1380
+2018,BTEC Only,Quintile 5,Main scheme applicant,11945
+2018,BTEC Only,Quintile 5,Non-main scheme applicant,1045
+2018,BTEC Only,Unknown,Main scheme applicant,65
+2018,BTEC Only,Unknown,Non-main scheme applicant,20
+2018,Cambridge Technicals only,Quintile 1,Main scheme applicant,470
+2018,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,20
+2018,Cambridge Technicals only,Quintile 2,Main scheme applicant,500
+2018,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,25
+2018,Cambridge Technicals only,Quintile 3,Main scheme applicant,500
+2018,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,35
+2018,Cambridge Technicals only,Quintile 4,Main scheme applicant,575
+2018,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,30
+2018,Cambridge Technicals only,Quintile 5,Main scheme applicant,420
+2018,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,20
+2018,IB Only,Quintile 1,Main scheme applicant,10490
+2018,IB Only,Quintile 1,Non-main scheme applicant,3090
+2018,IB Only,Quintile 2,Main scheme applicant,11635
+2018,IB Only,Quintile 2,Non-main scheme applicant,3405
+2018,IB Only,Quintile 3,Main scheme applicant,12240
+2018,IB Only,Quintile 3,Non-main scheme applicant,3535
+2018,IB Only,Quintile 4,Main scheme applicant,13860
+2018,IB Only,Quintile 4,Non-main scheme applicant,4175
+2018,IB Only,Quintile 5,Main scheme applicant,14105
+2018,IB Only,Quintile 5,Non-main scheme applicant,3445
+2018,IB Only,Unknown,Main scheme applicant,255
+2018,IB Only,Unknown,Non-main scheme applicant,120
+2018,Other,Quintile 1,Main scheme applicant,9890
+2018,Other,Quintile 1,Non-main scheme applicant,2095
+2018,Other,Quintile 2,Main scheme applicant,11560
+2018,Other,Quintile 2,Non-main scheme applicant,2825
+2018,Other,Quintile 3,Main scheme applicant,12065
+2018,Other,Quintile 3,Non-main scheme applicant,3635
+2018,Other,Quintile 4,Main scheme applicant,13010
+2018,Other,Quintile 4,Non-main scheme applicant,4865
+2018,Other,Quintile 5,Main scheme applicant,13790
+2018,Other,Quintile 5,Non-main scheme applicant,3715
+2018,Other,Unknown,Main scheme applicant,130
+2018,Other,Unknown,Non-main scheme applicant,115
+2018,SQA Only,Quintile 1,Main scheme applicant,2300
+2018,SQA Only,Quintile 1,Non-main scheme applicant,40
+2018,SQA Only,Quintile 2,Main scheme applicant,4795
+2018,SQA Only,Quintile 2,Non-main scheme applicant,90
+2018,SQA Only,Quintile 3,Main scheme applicant,6745
+2018,SQA Only,Quintile 3,Non-main scheme applicant,145
+2018,SQA Only,Quintile 4,Main scheme applicant,9115
+2018,SQA Only,Quintile 4,Non-main scheme applicant,185
+2018,SQA Only,Quintile 5,Main scheme applicant,16405
+2018,SQA Only,Quintile 5,Non-main scheme applicant,270
+2018,SQA Only,Unknown,Main scheme applicant,30
+2018,SQA Only,Unknown,Non-main scheme applicant,5
+2019,A level & BTEC,Quintile 1,Main scheme applicant,4195
+2019,A level & BTEC,Quintile 1,Non-main scheme applicant,50
+2019,A level & BTEC,Quintile 2,Main scheme applicant,5030
+2019,A level & BTEC,Quintile 2,Non-main scheme applicant,60
+2019,A level & BTEC,Quintile 3,Main scheme applicant,5620
+2019,A level & BTEC,Quintile 3,Non-main scheme applicant,75
+2019,A level & BTEC,Quintile 4,Main scheme applicant,5730
+2019,A level & BTEC,Quintile 4,Non-main scheme applicant,65
+2019,A level & BTEC,Quintile 5,Main scheme applicant,5855
+2019,A level & BTEC,Quintile 5,Non-main scheme applicant,90
+2019,A level & BTEC,Unknown,Main scheme applicant,25
+2019,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,945
+2019,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,15
+2019,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,1120
+2019,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,25
+2019,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,1190
+2019,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,25
+2019,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,1320
+2019,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,35
+2019,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,1330
+2019,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,45
+2019,A level & Cambridge Technicals,Unknown,Main scheme applicant,10
+2019,A level & WB,Quintile 1,Main scheme applicant,810
+2019,A level & WB,Quintile 1,Non-main scheme applicant,10
+2019,A level & WB,Quintile 2,Main scheme applicant,1255
+2019,A level & WB,Quintile 2,Non-main scheme applicant,25
+2019,A level & WB,Quintile 3,Main scheme applicant,1345
+2019,A level & WB,Quintile 3,Non-main scheme applicant,15
+2019,A level & WB,Quintile 4,Main scheme applicant,1065
+2019,A level & WB,Quintile 4,Non-main scheme applicant,10
+2019,A level & WB,Quintile 5,Main scheme applicant,1330
+2019,A level & WB,Quintile 5,Non-main scheme applicant,15
+2019,A level & WB,Unknown,Main scheme applicant,5
+2019,A level Only (With extended project),Quintile 1,Main scheme applicant,3095
+2019,A level Only (With extended project),Quintile 1,Non-main scheme applicant,45
+2019,A level Only (With extended project),Quintile 2,Main scheme applicant,4670
+2019,A level Only (With extended project),Quintile 2,Non-main scheme applicant,45
+2019,A level Only (With extended project),Quintile 3,Main scheme applicant,6590
+2019,A level Only (With extended project),Quintile 3,Non-main scheme applicant,55
+2019,A level Only (With extended project),Quintile 4,Main scheme applicant,8940
+2019,A level Only (With extended project),Quintile 4,Non-main scheme applicant,95
+2019,A level Only (With extended project),Quintile 5,Main scheme applicant,15400
+2019,A level Only (With extended project),Quintile 5,Non-main scheme applicant,160
+2019,A level Only (With extended project),Unknown,Main scheme applicant,40
+2019,A level Only (With extended project),Unknown,Non-main scheme applicant,5
+2019,A level Only (Without extended project),Quintile 1,Main scheme applicant,16395
+2019,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,730
+2019,A level Only (Without extended project),Quintile 2,Main scheme applicant,23385
+2019,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,1075
+2019,A level Only (Without extended project),Quintile 3,Main scheme applicant,32115
+2019,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1400
+2019,A level Only (Without extended project),Quintile 4,Main scheme applicant,43280
+2019,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1855
+2019,A level Only (Without extended project),Quintile 5,Main scheme applicant,66760
+2019,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,2300
+2019,A level Only (Without extended project),Unknown,Main scheme applicant,160
+2019,A level Only (Without extended project),Unknown,Non-main scheme applicant,25
+2019,Access to HE only,Quintile 1,Main scheme applicant,4385
+2019,Access to HE only,Quintile 1,Non-main scheme applicant,370
+2019,Access to HE only,Quintile 2,Main scheme applicant,3875
+2019,Access to HE only,Quintile 2,Non-main scheme applicant,345
+2019,Access to HE only,Quintile 3,Main scheme applicant,3405
+2019,Access to HE only,Quintile 3,Non-main scheme applicant,310
+2019,Access to HE only,Quintile 4,Main scheme applicant,3315
+2019,Access to HE only,Quintile 4,Non-main scheme applicant,345
+2019,Access to HE only,Quintile 5,Main scheme applicant,2545
+2019,Access to HE only,Quintile 5,Non-main scheme applicant,270
+2019,Access to HE only,Unknown,Main scheme applicant,25
+2019,Access to HE only,Unknown,Non-main scheme applicant,5
+2019,BTEC Only,Quintile 1,Main scheme applicant,10775
+2019,BTEC Only,Quintile 1,Non-main scheme applicant,1030
+2019,BTEC Only,Quintile 2,Main scheme applicant,11800
+2019,BTEC Only,Quintile 2,Non-main scheme applicant,1290
+2019,BTEC Only,Quintile 3,Main scheme applicant,12840
+2019,BTEC Only,Quintile 3,Non-main scheme applicant,1300
+2019,BTEC Only,Quintile 4,Main scheme applicant,13435
+2019,BTEC Only,Quintile 4,Non-main scheme applicant,1510
+2019,BTEC Only,Quintile 5,Main scheme applicant,10955
+2019,BTEC Only,Quintile 5,Non-main scheme applicant,1155
+2019,BTEC Only,Unknown,Main scheme applicant,65
+2019,BTEC Only,Unknown,Non-main scheme applicant,25
+2019,Cambridge Technicals only,Quintile 1,Main scheme applicant,690
+2019,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,50
+2019,Cambridge Technicals only,Quintile 2,Main scheme applicant,670
+2019,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,55
+2019,Cambridge Technicals only,Quintile 3,Main scheme applicant,705
+2019,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,45
+2019,Cambridge Technicals only,Quintile 4,Main scheme applicant,760
+2019,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,50
+2019,Cambridge Technicals only,Quintile 5,Main scheme applicant,645
+2019,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,25
+2019,Cambridge Technicals only,Unknown,Main scheme applicant,5
+2019,IB Only,Quintile 1,Main scheme applicant,11235
+2019,IB Only,Quintile 1,Non-main scheme applicant,3470
+2019,IB Only,Quintile 2,Main scheme applicant,12300
+2019,IB Only,Quintile 2,Non-main scheme applicant,3755
+2019,IB Only,Quintile 3,Main scheme applicant,13085
+2019,IB Only,Quintile 3,Non-main scheme applicant,3670
+2019,IB Only,Quintile 4,Main scheme applicant,14190
+2019,IB Only,Quintile 4,Non-main scheme applicant,4195
+2019,IB Only,Quintile 5,Main scheme applicant,14785
+2019,IB Only,Quintile 5,Non-main scheme applicant,3660
+2019,IB Only,Unknown,Main scheme applicant,265
+2019,IB Only,Unknown,Non-main scheme applicant,120
+2019,Other,Quintile 1,Main scheme applicant,10160
+2019,Other,Quintile 1,Non-main scheme applicant,3195
+2019,Other,Quintile 2,Main scheme applicant,11680
+2019,Other,Quintile 2,Non-main scheme applicant,4090
+2019,Other,Quintile 3,Main scheme applicant,12635
+2019,Other,Quintile 3,Non-main scheme applicant,5255
+2019,Other,Quintile 4,Main scheme applicant,13575
+2019,Other,Quintile 4,Non-main scheme applicant,6140
+2019,Other,Quintile 5,Main scheme applicant,14390
+2019,Other,Quintile 5,Non-main scheme applicant,4390
+2019,Other,Unknown,Main scheme applicant,130
+2019,Other,Unknown,Non-main scheme applicant,155
+2019,SQA Only,Quintile 1,Main scheme applicant,2210
+2019,SQA Only,Quintile 1,Non-main scheme applicant,55
+2019,SQA Only,Quintile 2,Main scheme applicant,4710
+2019,SQA Only,Quintile 2,Non-main scheme applicant,120
+2019,SQA Only,Quintile 3,Main scheme applicant,6695
+2019,SQA Only,Quintile 3,Non-main scheme applicant,150
+2019,SQA Only,Quintile 4,Main scheme applicant,8590
+2019,SQA Only,Quintile 4,Non-main scheme applicant,200
+2019,SQA Only,Quintile 5,Main scheme applicant,15440
+2019,SQA Only,Quintile 5,Non-main scheme applicant,295
+2019,SQA Only,Unknown,Main scheme applicant,35
+2020,A level & BTEC,Quintile 1,Main scheme applicant,4420
+2020,A level & BTEC,Quintile 1,Non-main scheme applicant,45
+2020,A level & BTEC,Quintile 2,Main scheme applicant,5340
+2020,A level & BTEC,Quintile 2,Non-main scheme applicant,55
+2020,A level & BTEC,Quintile 3,Main scheme applicant,5875
+2020,A level & BTEC,Quintile 3,Non-main scheme applicant,60
+2020,A level & BTEC,Quintile 4,Main scheme applicant,5980
+2020,A level & BTEC,Quintile 4,Non-main scheme applicant,65
+2020,A level & BTEC,Quintile 5,Main scheme applicant,6510
+2020,A level & BTEC,Quintile 5,Non-main scheme applicant,70
+2020,A level & BTEC,Unknown,Main scheme applicant,25
+2020,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,1090
+2020,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,35
+2020,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,1230
+2020,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,45
+2020,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,1465
+2020,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,55
+2020,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,1555
+2020,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,45
+2020,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,1520
+2020,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,55
+2020,A level & Cambridge Technicals,Unknown,Main scheme applicant,5
+2020,A level & WB,Quintile 1,Main scheme applicant,845
+2020,A level & WB,Quintile 1,Non-main scheme applicant,10
+2020,A level & WB,Quintile 2,Main scheme applicant,1180
+2020,A level & WB,Quintile 2,Non-main scheme applicant,15
+2020,A level & WB,Quintile 3,Main scheme applicant,1210
+2020,A level & WB,Quintile 3,Non-main scheme applicant,10
+2020,A level & WB,Quintile 4,Main scheme applicant,1110
+2020,A level & WB,Quintile 4,Non-main scheme applicant,15
+2020,A level & WB,Quintile 5,Main scheme applicant,1325
+2020,A level & WB,Quintile 5,Non-main scheme applicant,20
+2020,A level & WB,Unknown,Main scheme applicant,5
+2020,A level Only (With extended project),Quintile 1,Main scheme applicant,3035
+2020,A level Only (With extended project),Quintile 1,Non-main scheme applicant,35
+2020,A level Only (With extended project),Quintile 2,Main scheme applicant,4730
+2020,A level Only (With extended project),Quintile 2,Non-main scheme applicant,50
+2020,A level Only (With extended project),Quintile 3,Main scheme applicant,6655
+2020,A level Only (With extended project),Quintile 3,Non-main scheme applicant,70
+2020,A level Only (With extended project),Quintile 4,Main scheme applicant,9050
+2020,A level Only (With extended project),Quintile 4,Non-main scheme applicant,120
+2020,A level Only (With extended project),Quintile 5,Main scheme applicant,15455
+2020,A level Only (With extended project),Quintile 5,Non-main scheme applicant,165
+2020,A level Only (With extended project),Unknown,Main scheme applicant,40
+2020,A level Only (Without extended project),Quintile 1,Main scheme applicant,17050
+2020,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,885
+2020,A level Only (Without extended project),Quintile 2,Main scheme applicant,24185
+2020,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,1210
+2020,A level Only (Without extended project),Quintile 3,Main scheme applicant,32545
+2020,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,1550
+2020,A level Only (Without extended project),Quintile 4,Main scheme applicant,43810
+2020,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,1990
+2020,A level Only (Without extended project),Quintile 5,Main scheme applicant,68315
+2020,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,2820
+2020,A level Only (Without extended project),Unknown,Main scheme applicant,135
+2020,A level Only (Without extended project),Unknown,Non-main scheme applicant,15
+2020,Access to HE only,Quintile 1,Main scheme applicant,4710
+2020,Access to HE only,Quintile 1,Non-main scheme applicant,360
+2020,Access to HE only,Quintile 2,Main scheme applicant,4405
+2020,Access to HE only,Quintile 2,Non-main scheme applicant,345
+2020,Access to HE only,Quintile 3,Main scheme applicant,3860
+2020,Access to HE only,Quintile 3,Non-main scheme applicant,330
+2020,Access to HE only,Quintile 4,Main scheme applicant,3435
+2020,Access to HE only,Quintile 4,Non-main scheme applicant,370
+2020,Access to HE only,Quintile 5,Main scheme applicant,2655
+2020,Access to HE only,Quintile 5,Non-main scheme applicant,280
+2020,Access to HE only,Unknown,Main scheme applicant,15
+2020,Access to HE only,Unknown,Non-main scheme applicant,10
+2020,BTEC Only,Quintile 1,Main scheme applicant,10685
+2020,BTEC Only,Quintile 1,Non-main scheme applicant,1285
+2020,BTEC Only,Quintile 2,Main scheme applicant,11825
+2020,BTEC Only,Quintile 2,Non-main scheme applicant,1335
+2020,BTEC Only,Quintile 3,Main scheme applicant,13000
+2020,BTEC Only,Quintile 3,Non-main scheme applicant,1330
+2020,BTEC Only,Quintile 4,Main scheme applicant,13575
+2020,BTEC Only,Quintile 4,Non-main scheme applicant,1565
+2020,BTEC Only,Quintile 5,Main scheme applicant,10860
+2020,BTEC Only,Quintile 5,Non-main scheme applicant,1185
+2020,BTEC Only,Unknown,Main scheme applicant,55
+2020,BTEC Only,Unknown,Non-main scheme applicant,25
+2020,Cambridge Technicals only,Quintile 1,Main scheme applicant,750
+2020,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,65
+2020,Cambridge Technicals only,Quintile 2,Main scheme applicant,805
+2020,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,65
+2020,Cambridge Technicals only,Quintile 3,Main scheme applicant,770
+2020,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,70
+2020,Cambridge Technicals only,Quintile 4,Main scheme applicant,830
+2020,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,55
+2020,Cambridge Technicals only,Quintile 5,Main scheme applicant,650
+2020,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,50
+2020,Cambridge Technicals only,Unknown,Non-main scheme applicant,5
+2020,IB Only,Quintile 1,Main scheme applicant,12320
+2020,IB Only,Quintile 1,Non-main scheme applicant,3980
+2020,IB Only,Quintile 2,Main scheme applicant,13070
+2020,IB Only,Quintile 2,Non-main scheme applicant,4285
+2020,IB Only,Quintile 3,Main scheme applicant,13655
+2020,IB Only,Quintile 3,Non-main scheme applicant,4385
+2020,IB Only,Quintile 4,Main scheme applicant,14880
+2020,IB Only,Quintile 4,Non-main scheme applicant,4715
+2020,IB Only,Quintile 5,Main scheme applicant,15650
+2020,IB Only,Quintile 5,Non-main scheme applicant,4380
+2020,IB Only,Unknown,Main scheme applicant,275
+2020,IB Only,Unknown,Non-main scheme applicant,160
+2020,Other,Quintile 1,Main scheme applicant,9910
+2020,Other,Quintile 1,Non-main scheme applicant,3250
+2020,Other,Quintile 2,Main scheme applicant,11210
+2020,Other,Quintile 2,Non-main scheme applicant,4050
+2020,Other,Quintile 3,Main scheme applicant,11390
+2020,Other,Quintile 3,Non-main scheme applicant,4755
+2020,Other,Quintile 4,Main scheme applicant,12185
+2020,Other,Quintile 4,Non-main scheme applicant,5255
+2020,Other,Quintile 5,Main scheme applicant,13285
+2020,Other,Quintile 5,Non-main scheme applicant,4245
+2020,Other,Unknown,Main scheme applicant,120
+2020,Other,Unknown,Non-main scheme applicant,130
+2020,SQA Only,Quintile 1,Main scheme applicant,2230
+2020,SQA Only,Quintile 1,Non-main scheme applicant,105
+2020,SQA Only,Quintile 2,Main scheme applicant,4685
+2020,SQA Only,Quintile 2,Non-main scheme applicant,175
+2020,SQA Only,Quintile 3,Main scheme applicant,6650
+2020,SQA Only,Quintile 3,Non-main scheme applicant,260
+2020,SQA Only,Quintile 4,Main scheme applicant,8705
+2020,SQA Only,Quintile 4,Non-main scheme applicant,370
+2020,SQA Only,Quintile 5,Main scheme applicant,15130
+2020,SQA Only,Quintile 5,Non-main scheme applicant,540
+2020,SQA Only,Unknown,Main scheme applicant,25
+2020,SQA Only,Unknown,Non-main scheme applicant,5
+2021,A level & BTEC,Quintile 1,Main scheme applicant,4705
+2021,A level & BTEC,Quintile 1,Non-main scheme applicant,35
+2021,A level & BTEC,Quintile 2,Main scheme applicant,5690
+2021,A level & BTEC,Quintile 2,Non-main scheme applicant,45
+2021,A level & BTEC,Quintile 3,Main scheme applicant,6500
+2021,A level & BTEC,Quintile 3,Non-main scheme applicant,35
+2021,A level & BTEC,Quintile 4,Main scheme applicant,6635
+2021,A level & BTEC,Quintile 4,Non-main scheme applicant,65
+2021,A level & BTEC,Quintile 5,Main scheme applicant,7535
+2021,A level & BTEC,Quintile 5,Non-main scheme applicant,35
+2021,A level & BTEC,Unknown,Main scheme applicant,25
+2021,A level & Cambridge Technicals,Quintile 1,Main scheme applicant,1070
+2021,A level & Cambridge Technicals,Quintile 1,Non-main scheme applicant,20
+2021,A level & Cambridge Technicals,Quintile 2,Main scheme applicant,1275
+2021,A level & Cambridge Technicals,Quintile 2,Non-main scheme applicant,15
+2021,A level & Cambridge Technicals,Quintile 3,Main scheme applicant,1465
+2021,A level & Cambridge Technicals,Quintile 3,Non-main scheme applicant,20
+2021,A level & Cambridge Technicals,Quintile 4,Main scheme applicant,1760
+2021,A level & Cambridge Technicals,Quintile 4,Non-main scheme applicant,30
+2021,A level & Cambridge Technicals,Quintile 5,Main scheme applicant,1705
+2021,A level & Cambridge Technicals,Quintile 5,Non-main scheme applicant,20
+2021,A level & Cambridge Technicals,Unknown,Main scheme applicant,5
+2021,A level & WB,Quintile 1,Main scheme applicant,925
+2021,A level & WB,Quintile 1,Non-main scheme applicant,5
+2021,A level & WB,Quintile 2,Main scheme applicant,1420
+2021,A level & WB,Quintile 2,Non-main scheme applicant,15
+2021,A level & WB,Quintile 3,Main scheme applicant,1470
+2021,A level & WB,Quintile 3,Non-main scheme applicant,5
+2021,A level & WB,Quintile 4,Main scheme applicant,1215
+2021,A level & WB,Quintile 4,Non-main scheme applicant,5
+2021,A level & WB,Quintile 5,Main scheme applicant,1385
+2021,A level & WB,Unknown,Main scheme applicant,5
+2021,A level Only (With extended project),Quintile 1,Main scheme applicant,2845
+2021,A level Only (With extended project),Quintile 1,Non-main scheme applicant,25
+2021,A level Only (With extended project),Quintile 2,Main scheme applicant,4655
+2021,A level Only (With extended project),Quintile 2,Non-main scheme applicant,25
+2021,A level Only (With extended project),Quintile 3,Main scheme applicant,6690
+2021,A level Only (With extended project),Quintile 3,Non-main scheme applicant,30
+2021,A level Only (With extended project),Quintile 4,Main scheme applicant,9080
+2021,A level Only (With extended project),Quintile 4,Non-main scheme applicant,55
+2021,A level Only (With extended project),Quintile 5,Main scheme applicant,16635
+2021,A level Only (With extended project),Quintile 5,Non-main scheme applicant,70
+2021,A level Only (With extended project),Unknown,Main scheme applicant,35
+2021,A level Only (Without extended project),Quintile 1,Main scheme applicant,18250
+2021,A level Only (Without extended project),Quintile 1,Non-main scheme applicant,390
+2021,A level Only (Without extended project),Quintile 2,Main scheme applicant,25940
+2021,A level Only (Without extended project),Quintile 2,Non-main scheme applicant,525
+2021,A level Only (Without extended project),Quintile 3,Main scheme applicant,34580
+2021,A level Only (Without extended project),Quintile 3,Non-main scheme applicant,705
+2021,A level Only (Without extended project),Quintile 4,Main scheme applicant,45840
+2021,A level Only (Without extended project),Quintile 4,Non-main scheme applicant,865
+2021,A level Only (Without extended project),Quintile 5,Main scheme applicant,71245
+2021,A level Only (Without extended project),Quintile 5,Non-main scheme applicant,1150
+2021,A level Only (Without extended project),Unknown,Main scheme applicant,170
+2021,A level Only (Without extended project),Unknown,Non-main scheme applicant,5
+2021,Access to HE only,Quintile 1,Main scheme applicant,4935
+2021,Access to HE only,Quintile 1,Non-main scheme applicant,170
+2021,Access to HE only,Quintile 2,Main scheme applicant,4445
+2021,Access to HE only,Quintile 2,Non-main scheme applicant,135
+2021,Access to HE only,Quintile 3,Main scheme applicant,4080
+2021,Access to HE only,Quintile 3,Non-main scheme applicant,150
+2021,Access to HE only,Quintile 4,Main scheme applicant,3785
+2021,Access to HE only,Quintile 4,Non-main scheme applicant,150
+2021,Access to HE only,Quintile 5,Main scheme applicant,2905
+2021,Access to HE only,Quintile 5,Non-main scheme applicant,115
+2021,Access to HE only,Unknown,Main scheme applicant,35
+2021,BTEC Only,Quintile 1,Main scheme applicant,11280
+2021,BTEC Only,Quintile 1,Non-main scheme applicant,465
+2021,BTEC Only,Quintile 2,Main scheme applicant,12495
+2021,BTEC Only,Quintile 2,Non-main scheme applicant,525
+2021,BTEC Only,Quintile 3,Main scheme applicant,14035
+2021,BTEC Only,Quintile 3,Non-main scheme applicant,585
+2021,BTEC Only,Quintile 4,Main scheme applicant,14620
+2021,BTEC Only,Quintile 4,Non-main scheme applicant,670
+2021,BTEC Only,Quintile 5,Main scheme applicant,12145
+2021,BTEC Only,Quintile 5,Non-main scheme applicant,510
+2021,BTEC Only,Unknown,Main scheme applicant,60
+2021,Cambridge Technicals only,Quintile 1,Main scheme applicant,760
+2021,Cambridge Technicals only,Quintile 1,Non-main scheme applicant,20
+2021,Cambridge Technicals only,Quintile 2,Main scheme applicant,800
+2021,Cambridge Technicals only,Quintile 2,Non-main scheme applicant,35
+2021,Cambridge Technicals only,Quintile 3,Main scheme applicant,870
+2021,Cambridge Technicals only,Quintile 3,Non-main scheme applicant,35
+2021,Cambridge Technicals only,Quintile 4,Main scheme applicant,1035
+2021,Cambridge Technicals only,Quintile 4,Non-main scheme applicant,35
+2021,Cambridge Technicals only,Quintile 5,Main scheme applicant,750
+2021,Cambridge Technicals only,Quintile 5,Non-main scheme applicant,40
+2021,Cambridge Technicals only,Unknown,Main scheme applicant,5
+2021,IB Only,Quintile 1,Main scheme applicant,13985
+2021,IB Only,Quintile 1,Non-main scheme applicant,1400
+2021,IB Only,Quintile 2,Main scheme applicant,14975
+2021,IB Only,Quintile 2,Non-main scheme applicant,1460
+2021,IB Only,Quintile 3,Main scheme applicant,15570
+2021,IB Only,Quintile 3,Non-main scheme applicant,1655
+2021,IB Only,Quintile 4,Main scheme applicant,16365
+2021,IB Only,Quintile 4,Non-main scheme applicant,1775
+2021,IB Only,Quintile 5,Main scheme applicant,16865
+2021,IB Only,Quintile 5,Non-main scheme applicant,1660
+2021,IB Only,Unknown,Main scheme applicant,255
+2021,IB Only,Unknown,Non-main scheme applicant,30
+2021,Other,Quintile 1,Main scheme applicant,10755
+2021,Other,Quintile 1,Non-main scheme applicant,6145
+2021,Other,Quintile 2,Main scheme applicant,11970
+2021,Other,Quintile 2,Non-main scheme applicant,6660
+2021,Other,Quintile 3,Main scheme applicant,12115
+2021,Other,Quintile 3,Non-main scheme applicant,7465
+2021,Other,Quintile 4,Main scheme applicant,12990
+2021,Other,Quintile 4,Non-main scheme applicant,8800
+2021,Other,Quintile 5,Main scheme applicant,13975
+2021,Other,Quintile 5,Non-main scheme applicant,7015
+2021,Other,Unknown,Main scheme applicant,85
+2021,Other,Unknown,Non-main scheme applicant,2415
+2021,SQA Only,Quintile 1,Main scheme applicant,2660
+2021,SQA Only,Quintile 1,Non-main scheme applicant,45
+2021,SQA Only,Quintile 2,Main scheme applicant,5280
+2021,SQA Only,Quintile 2,Non-main scheme applicant,75
+2021,SQA Only,Quintile 3,Main scheme applicant,7475
+2021,SQA Only,Quintile 3,Non-main scheme applicant,115
+2021,SQA Only,Quintile 4,Main scheme applicant,9805
+2021,SQA Only,Quintile 4,Non-main scheme applicant,160
+2021,SQA Only,Quintile 5,Main scheme applicant,16785
+2021,SQA Only,Quintile 5,Non-main scheme applicant,195
+2021,SQA Only,Unknown,Main scheme applicant,30

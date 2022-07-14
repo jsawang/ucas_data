@@ -1,0 +1,2132 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2021 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 9 December 2021"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2021_027_1"
+"Cycles: 2010 - 2021"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Difference between predicted and achieved A level points, POLAR4 Quintile, Applicant type                                        "
+"Coverage: UK, 18 year old, main scheme applicants with at least 3 predicted A levels"
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Data lines are comma delimited."
+"Data follows -     2116 lines in total"
+"------------------------------------------------------------------"
+Year,Difference between predicted and achieved A level points,POLAR4 Quintile,Applicant type,Applicants,
+2010,All,All,All,181990
+2011,All,All,All,181405
+2012,All,All,All,173800
+2013,All,All,All,173070
+2014,All,All,All,170795
+2015,All,All,All,175020
+2016,All,All,All,174660
+2017,All,All,All,176340
+2018,All,All,All,171360
+2019,All,All,All,169400
+2020,All,All,All,168770
+2021,All,All,All,182055
+2010,All,All,Main scheme applicant,181990
+2011,All,All,Main scheme applicant,181405
+2012,All,All,Main scheme applicant,173800
+2013,All,All,Main scheme applicant,173070
+2014,All,All,Main scheme applicant,170795
+2015,All,All,Main scheme applicant,175020
+2016,All,All,Main scheme applicant,174660
+2017,All,All,Main scheme applicant,176340
+2018,All,All,Main scheme applicant,171360
+2019,All,All,Main scheme applicant,169400
+2020,All,All,Main scheme applicant,168770
+2021,All,All,Main scheme applicant,182055
+2010,All,Quintile 1,All,14895
+2010,All,Quintile 2,All,24330
+2010,All,Quintile 3,All,33160
+2010,All,Quintile 4,All,42795
+2010,All,Quintile 5,All,66575
+2010,All,Unknown,All,235
+2011,All,Quintile 1,All,14860
+2011,All,Quintile 2,All,24180
+2011,All,Quintile 3,All,32750
+2011,All,Quintile 4,All,42910
+2011,All,Quintile 5,All,66500
+2011,All,Unknown,All,205
+2012,All,Quintile 1,All,14140
+2012,All,Quintile 2,All,23075
+2012,All,Quintile 3,All,31105
+2012,All,Quintile 4,All,40745
+2012,All,Quintile 5,All,64530
+2012,All,Unknown,All,200
+2013,All,Quintile 1,All,14180
+2013,All,Quintile 2,All,22795
+2013,All,Quintile 3,All,31085
+2013,All,Quintile 4,All,40875
+2013,All,Quintile 5,All,63970
+2013,All,Unknown,All,165
+2014,All,Quintile 1,All,14355
+2014,All,Quintile 2,All,22715
+2014,All,Quintile 3,All,30665
+2014,All,Quintile 4,All,39995
+2014,All,Quintile 5,All,62900
+2014,All,Unknown,All,170
+2015,All,Quintile 1,All,14970
+2015,All,Quintile 2,All,23090
+2015,All,Quintile 3,All,31540
+2015,All,Quintile 4,All,40975
+2015,All,Quintile 5,All,64315
+2015,All,Unknown,All,135
+2016,All,Quintile 1,All,14925
+2016,All,Quintile 2,All,23230
+2016,All,Quintile 3,All,31270
+2016,All,Quintile 4,All,40480
+2016,All,Quintile 5,All,64615
+2016,All,Unknown,All,140
+2017,All,Quintile 1,All,15655
+2017,All,Quintile 2,All,23455
+2017,All,Quintile 3,All,31505
+2017,All,Quintile 4,All,41015
+2017,All,Quintile 5,All,64570
+2017,All,Unknown,All,145
+2018,All,Quintile 1,All,15050
+2018,All,Quintile 2,All,22980
+2018,All,Quintile 3,All,30405
+2018,All,Quintile 4,All,40085
+2018,All,Quintile 5,All,62690
+2018,All,Unknown,All,145
+2019,All,Quintile 1,All,15190
+2019,All,Quintile 2,All,22185
+2019,All,Quintile 3,All,30095
+2019,All,Quintile 4,All,39835
+2019,All,Quintile 5,All,61960
+2019,All,Unknown,All,130
+2020,All,Quintile 1,All,15140
+2020,All,Quintile 2,All,21955
+2020,All,Quintile 3,All,29500
+2020,All,Quintile 4,All,39495
+2020,All,Quintile 5,All,62570
+2020,All,Unknown,All,115
+2021,All,Quintile 1,All,16245
+2021,All,Quintile 2,All,24025
+2021,All,Quintile 3,All,31945
+2021,All,Quintile 4,All,42020
+2021,All,Quintile 5,All,67700
+2021,All,Unknown,All,125
+2010,All,Quintile 1,Main scheme applicant,14895
+2010,All,Quintile 2,Main scheme applicant,24330
+2010,All,Quintile 3,Main scheme applicant,33160
+2010,All,Quintile 4,Main scheme applicant,42795
+2010,All,Quintile 5,Main scheme applicant,66575
+2010,All,Unknown,Main scheme applicant,235
+2011,All,Quintile 1,Main scheme applicant,14860
+2011,All,Quintile 2,Main scheme applicant,24180
+2011,All,Quintile 3,Main scheme applicant,32750
+2011,All,Quintile 4,Main scheme applicant,42910
+2011,All,Quintile 5,Main scheme applicant,66500
+2011,All,Unknown,Main scheme applicant,205
+2012,All,Quintile 1,Main scheme applicant,14140
+2012,All,Quintile 2,Main scheme applicant,23075
+2012,All,Quintile 3,Main scheme applicant,31105
+2012,All,Quintile 4,Main scheme applicant,40745
+2012,All,Quintile 5,Main scheme applicant,64530
+2012,All,Unknown,Main scheme applicant,200
+2013,All,Quintile 1,Main scheme applicant,14180
+2013,All,Quintile 2,Main scheme applicant,22795
+2013,All,Quintile 3,Main scheme applicant,31085
+2013,All,Quintile 4,Main scheme applicant,40875
+2013,All,Quintile 5,Main scheme applicant,63970
+2013,All,Unknown,Main scheme applicant,165
+2014,All,Quintile 1,Main scheme applicant,14355
+2014,All,Quintile 2,Main scheme applicant,22715
+2014,All,Quintile 3,Main scheme applicant,30665
+2014,All,Quintile 4,Main scheme applicant,39995
+2014,All,Quintile 5,Main scheme applicant,62900
+2014,All,Unknown,Main scheme applicant,170
+2015,All,Quintile 1,Main scheme applicant,14970
+2015,All,Quintile 2,Main scheme applicant,23090
+2015,All,Quintile 3,Main scheme applicant,31540
+2015,All,Quintile 4,Main scheme applicant,40975
+2015,All,Quintile 5,Main scheme applicant,64315
+2015,All,Unknown,Main scheme applicant,135
+2016,All,Quintile 1,Main scheme applicant,14925
+2016,All,Quintile 2,Main scheme applicant,23230
+2016,All,Quintile 3,Main scheme applicant,31270
+2016,All,Quintile 4,Main scheme applicant,40480
+2016,All,Quintile 5,Main scheme applicant,64615
+2016,All,Unknown,Main scheme applicant,140
+2017,All,Quintile 1,Main scheme applicant,15655
+2017,All,Quintile 2,Main scheme applicant,23455
+2017,All,Quintile 3,Main scheme applicant,31505
+2017,All,Quintile 4,Main scheme applicant,41015
+2017,All,Quintile 5,Main scheme applicant,64570
+2017,All,Unknown,Main scheme applicant,145
+2018,All,Quintile 1,Main scheme applicant,15050
+2018,All,Quintile 2,Main scheme applicant,22980
+2018,All,Quintile 3,Main scheme applicant,30405
+2018,All,Quintile 4,Main scheme applicant,40085
+2018,All,Quintile 5,Main scheme applicant,62690
+2018,All,Unknown,Main scheme applicant,145
+2019,All,Quintile 1,Main scheme applicant,15190
+2019,All,Quintile 2,Main scheme applicant,22185
+2019,All,Quintile 3,Main scheme applicant,30095
+2019,All,Quintile 4,Main scheme applicant,39835
+2019,All,Quintile 5,Main scheme applicant,61960
+2019,All,Unknown,Main scheme applicant,130
+2020,All,Quintile 1,Main scheme applicant,15140
+2020,All,Quintile 2,Main scheme applicant,21955
+2020,All,Quintile 3,Main scheme applicant,29500
+2020,All,Quintile 4,Main scheme applicant,39495
+2020,All,Quintile 5,Main scheme applicant,62570
+2020,All,Unknown,Main scheme applicant,115
+2021,All,Quintile 1,Main scheme applicant,16245
+2021,All,Quintile 2,Main scheme applicant,24025
+2021,All,Quintile 3,Main scheme applicant,31945
+2021,All,Quintile 4,Main scheme applicant,42020
+2021,All,Quintile 5,Main scheme applicant,67700
+2021,All,Unknown,Main scheme applicant,125
+2010,-1 points,All,All,40730
+2010,-2 points,All,All,34920
+2010,-3 points,All,All,22320
+2010,-4 points,All,All,11230
+2010,-5 points,All,All,5395
+2010,-6 points,All,All,2505
+2010,0 points,All,All,35440
+2010,1 point,All,All,17590
+2010,2 points,All,All,6690
+2010,3 points,All,All,2045
+2010,Less than -6 points,All,All,2670
+2010,More than 3 points,All,All,450
+2011,-1 points,All,All,41330
+2011,-2 points,All,All,36430
+2011,-3 points,All,All,23060
+2011,-4 points,All,All,11865
+2011,-5 points,All,All,5525
+2011,-6 points,All,All,2465
+2011,0 points,All,All,34585
+2011,1 point,All,All,15995
+2011,2 points,All,All,5665
+2011,3 points,All,All,1580
+2011,Less than -6 points,All,All,2530
+2011,More than 3 points,All,All,365
+2012,-1 points,All,All,39715
+2012,-2 points,All,All,36570
+2012,-3 points,All,All,24520
+2012,-4 points,All,All,12870
+2012,-5 points,All,All,5945
+2012,-6 points,All,All,2685
+2012,0 points,All,All,30890
+2012,1 point,All,All,12615
+2012,2 points,All,All,4025
+2012,3 points,All,All,995
+2012,Less than -6 points,All,All,2725
+2012,More than 3 points,All,All,245
+2013,-1 points,All,All,39450
+2013,-2 points,All,All,37250
+2013,-3 points,All,All,25400
+2013,-4 points,All,All,13250
+2013,-5 points,All,All,6305
+2013,-6 points,All,All,2820
+2013,0 points,All,All,29455
+2013,1 point,All,All,11830
+2013,2 points,All,All,3545
+2013,3 points,All,All,810
+2013,Less than -6 points,All,All,2755
+2013,More than 3 points,All,All,195
+2014,-1 points,All,All,36460
+2014,-2 points,All,All,36290
+2014,-3 points,All,All,26130
+2014,-4 points,All,All,14595
+2014,-5 points,All,All,7295
+2014,-6 points,All,All,3345
+2014,0 points,All,All,27435
+2014,1 point,All,All,11095
+2014,2 points,All,All,3555
+2014,3 points,All,All,825
+2014,Less than -6 points,All,All,3560
+2014,More than 3 points,All,All,210
+2015,-1 points,All,All,37275
+2015,-2 points,All,All,37025
+2015,-3 points,All,All,26980
+2015,-4 points,All,All,15550
+2015,-5 points,All,All,7805
+2015,-6 points,All,All,3750
+2015,0 points,All,All,27585
+2015,1 point,All,All,10930
+2015,2 points,All,All,3450
+2015,3 points,All,All,820
+2015,Less than -6 points,All,All,3630
+2015,More than 3 points,All,All,220
+2016,-1 points,All,All,36285
+2016,-2 points,All,All,37140
+2016,-3 points,All,All,27875
+2016,-4 points,All,All,16140
+2016,-5 points,All,All,8555
+2016,-6 points,All,All,4095
+2016,0 points,All,All,26340
+2016,1 point,All,All,10030
+2016,2 points,All,All,3205
+2016,3 points,All,All,830
+2016,Less than -6 points,All,All,3960
+2016,More than 3 points,All,All,200
+2017,-1 points,All,All,33620
+2017,-2 points,All,All,34010
+2017,-3 points,All,All,26920
+2017,-4 points,All,All,17325
+2017,-5 points,All,All,10095
+2017,-6 points,All,All,5555
+2017,0 points,All,All,26005
+2017,1 point,All,All,11355
+2017,2 points,All,All,4025
+2017,3 points,All,All,1105
+2017,Less than -6 points,All,All,5970
+2017,More than 3 points,All,All,355
+2018,-1 points,All,All,31285
+2018,-2 points,All,All,31560
+2018,-3 points,All,All,26255
+2018,-4 points,All,All,17655
+2018,-5 points,All,All,11025
+2018,-6 points,All,All,6285
+2018,0 points,All,All,24450
+2018,1 point,All,All,10405
+2018,2 points,All,All,3625
+2018,3 points,All,All,1025
+2018,Less than -6 points,All,All,7485
+2018,More than 3 points,All,All,310
+2019,-1 points,All,All,27720
+2019,-2 points,All,All,30460
+2019,-3 points,All,All,26045
+2019,-4 points,All,All,19440
+2019,-5 points,All,All,13005
+2019,-6 points,All,All,7990
+2019,0 points,All,All,21450
+2019,1 point,All,All,8615
+2019,2 points,All,All,2990
+2019,3 points,All,All,920
+2019,Less than -6 points,All,All,10485
+2019,More than 3 points,All,All,275
+2020,-1 points,All,All,37915
+2020,-2 points,All,All,26875
+2020,-3 points,All,All,15755
+2020,-4 points,All,All,7900
+2020,-5 points,All,All,3760
+2020,-6 points,All,All,1780
+2020,0 points,All,All,43695
+2020,1 point,All,All,20580
+2020,2 points,All,All,6845
+2020,3 points,All,All,1610
+2020,Less than -6 points,All,All,1800
+2020,More than 3 points,All,All,255
+2021,-1 points,All,All,34190
+2021,-2 points,All,All,22435
+2021,-3 points,All,All,12925
+2021,-4 points,All,All,6890
+2021,-5 points,All,All,3425
+2021,-6 points,All,All,1660
+2021,0 points,All,All,48635
+2021,1 point,All,All,29880
+2021,2 points,All,All,14090
+2021,3 points,All,All,4760
+2021,Less than -6 points,All,All,1705
+2021,More than 3 points,All,All,1455
+2010,-1 points,All,Main scheme applicant,40730
+2010,-2 points,All,Main scheme applicant,34920
+2010,-3 points,All,Main scheme applicant,22320
+2010,-4 points,All,Main scheme applicant,11230
+2010,-5 points,All,Main scheme applicant,5395
+2010,-6 points,All,Main scheme applicant,2505
+2010,0 points,All,Main scheme applicant,35440
+2010,1 point,All,Main scheme applicant,17590
+2010,2 points,All,Main scheme applicant,6690
+2010,3 points,All,Main scheme applicant,2045
+2010,Less than -6 points,All,Main scheme applicant,2670
+2010,More than 3 points,All,Main scheme applicant,450
+2011,-1 points,All,Main scheme applicant,41330
+2011,-2 points,All,Main scheme applicant,36430
+2011,-3 points,All,Main scheme applicant,23060
+2011,-4 points,All,Main scheme applicant,11865
+2011,-5 points,All,Main scheme applicant,5525
+2011,-6 points,All,Main scheme applicant,2465
+2011,0 points,All,Main scheme applicant,34585
+2011,1 point,All,Main scheme applicant,15995
+2011,2 points,All,Main scheme applicant,5665
+2011,3 points,All,Main scheme applicant,1580
+2011,Less than -6 points,All,Main scheme applicant,2530
+2011,More than 3 points,All,Main scheme applicant,365
+2012,-1 points,All,Main scheme applicant,39715
+2012,-2 points,All,Main scheme applicant,36570
+2012,-3 points,All,Main scheme applicant,24520
+2012,-4 points,All,Main scheme applicant,12870
+2012,-5 points,All,Main scheme applicant,5945
+2012,-6 points,All,Main scheme applicant,2685
+2012,0 points,All,Main scheme applicant,30890
+2012,1 point,All,Main scheme applicant,12615
+2012,2 points,All,Main scheme applicant,4025
+2012,3 points,All,Main scheme applicant,995
+2012,Less than -6 points,All,Main scheme applicant,2725
+2012,More than 3 points,All,Main scheme applicant,245
+2013,-1 points,All,Main scheme applicant,39450
+2013,-2 points,All,Main scheme applicant,37250
+2013,-3 points,All,Main scheme applicant,25400
+2013,-4 points,All,Main scheme applicant,13250
+2013,-5 points,All,Main scheme applicant,6305
+2013,-6 points,All,Main scheme applicant,2820
+2013,0 points,All,Main scheme applicant,29455
+2013,1 point,All,Main scheme applicant,11830
+2013,2 points,All,Main scheme applicant,3545
+2013,3 points,All,Main scheme applicant,810
+2013,Less than -6 points,All,Main scheme applicant,2755
+2013,More than 3 points,All,Main scheme applicant,195
+2014,-1 points,All,Main scheme applicant,36460
+2014,-2 points,All,Main scheme applicant,36290
+2014,-3 points,All,Main scheme applicant,26130
+2014,-4 points,All,Main scheme applicant,14595
+2014,-5 points,All,Main scheme applicant,7295
+2014,-6 points,All,Main scheme applicant,3345
+2014,0 points,All,Main scheme applicant,27435
+2014,1 point,All,Main scheme applicant,11095
+2014,2 points,All,Main scheme applicant,3555
+2014,3 points,All,Main scheme applicant,825
+2014,Less than -6 points,All,Main scheme applicant,3560
+2014,More than 3 points,All,Main scheme applicant,210
+2015,-1 points,All,Main scheme applicant,37275
+2015,-2 points,All,Main scheme applicant,37025
+2015,-3 points,All,Main scheme applicant,26980
+2015,-4 points,All,Main scheme applicant,15550
+2015,-5 points,All,Main scheme applicant,7805
+2015,-6 points,All,Main scheme applicant,3750
+2015,0 points,All,Main scheme applicant,27585
+2015,1 point,All,Main scheme applicant,10930
+2015,2 points,All,Main scheme applicant,3450
+2015,3 points,All,Main scheme applicant,820
+2015,Less than -6 points,All,Main scheme applicant,3630
+2015,More than 3 points,All,Main scheme applicant,220
+2016,-1 points,All,Main scheme applicant,36285
+2016,-2 points,All,Main scheme applicant,37140
+2016,-3 points,All,Main scheme applicant,27875
+2016,-4 points,All,Main scheme applicant,16140
+2016,-5 points,All,Main scheme applicant,8555
+2016,-6 points,All,Main scheme applicant,4095
+2016,0 points,All,Main scheme applicant,26340
+2016,1 point,All,Main scheme applicant,10030
+2016,2 points,All,Main scheme applicant,3205
+2016,3 points,All,Main scheme applicant,830
+2016,Less than -6 points,All,Main scheme applicant,3960
+2016,More than 3 points,All,Main scheme applicant,200
+2017,-1 points,All,Main scheme applicant,33620
+2017,-2 points,All,Main scheme applicant,34010
+2017,-3 points,All,Main scheme applicant,26920
+2017,-4 points,All,Main scheme applicant,17325
+2017,-5 points,All,Main scheme applicant,10095
+2017,-6 points,All,Main scheme applicant,5555
+2017,0 points,All,Main scheme applicant,26005
+2017,1 point,All,Main scheme applicant,11355
+2017,2 points,All,Main scheme applicant,4025
+2017,3 points,All,Main scheme applicant,1105
+2017,Less than -6 points,All,Main scheme applicant,5970
+2017,More than 3 points,All,Main scheme applicant,355
+2018,-1 points,All,Main scheme applicant,31285
+2018,-2 points,All,Main scheme applicant,31560
+2018,-3 points,All,Main scheme applicant,26255
+2018,-4 points,All,Main scheme applicant,17655
+2018,-5 points,All,Main scheme applicant,11025
+2018,-6 points,All,Main scheme applicant,6285
+2018,0 points,All,Main scheme applicant,24450
+2018,1 point,All,Main scheme applicant,10405
+2018,2 points,All,Main scheme applicant,3625
+2018,3 points,All,Main scheme applicant,1025
+2018,Less than -6 points,All,Main scheme applicant,7485
+2018,More than 3 points,All,Main scheme applicant,310
+2019,-1 points,All,Main scheme applicant,27720
+2019,-2 points,All,Main scheme applicant,30460
+2019,-3 points,All,Main scheme applicant,26045
+2019,-4 points,All,Main scheme applicant,19440
+2019,-5 points,All,Main scheme applicant,13005
+2019,-6 points,All,Main scheme applicant,7990
+2019,0 points,All,Main scheme applicant,21450
+2019,1 point,All,Main scheme applicant,8615
+2019,2 points,All,Main scheme applicant,2990
+2019,3 points,All,Main scheme applicant,920
+2019,Less than -6 points,All,Main scheme applicant,10485
+2019,More than 3 points,All,Main scheme applicant,275
+2020,-1 points,All,Main scheme applicant,37915
+2020,-2 points,All,Main scheme applicant,26875
+2020,-3 points,All,Main scheme applicant,15755
+2020,-4 points,All,Main scheme applicant,7900
+2020,-5 points,All,Main scheme applicant,3760
+2020,-6 points,All,Main scheme applicant,1780
+2020,0 points,All,Main scheme applicant,43695
+2020,1 point,All,Main scheme applicant,20580
+2020,2 points,All,Main scheme applicant,6845
+2020,3 points,All,Main scheme applicant,1610
+2020,Less than -6 points,All,Main scheme applicant,1800
+2020,More than 3 points,All,Main scheme applicant,255
+2021,-1 points,All,Main scheme applicant,34190
+2021,-2 points,All,Main scheme applicant,22435
+2021,-3 points,All,Main scheme applicant,12925
+2021,-4 points,All,Main scheme applicant,6890
+2021,-5 points,All,Main scheme applicant,3425
+2021,-6 points,All,Main scheme applicant,1660
+2021,0 points,All,Main scheme applicant,48635
+2021,1 point,All,Main scheme applicant,29880
+2021,2 points,All,Main scheme applicant,14090
+2021,3 points,All,Main scheme applicant,4760
+2021,Less than -6 points,All,Main scheme applicant,1705
+2021,More than 3 points,All,Main scheme applicant,1455
+2010,-1 points,Quintile 1,All,3075
+2010,-1 points,Quintile 2,All,5280
+2010,-1 points,Quintile 3,All,7215
+2010,-1 points,Quintile 4,All,9425
+2010,-1 points,Quintile 5,All,15690
+2010,-1 points,Unknown,All,50
+2010,-2 points,Quintile 1,All,2900
+2010,-2 points,Quintile 2,All,4755
+2010,-2 points,Quintile 3,All,6530
+2010,-2 points,Quintile 4,All,8375
+2010,-2 points,Quintile 5,All,12310
+2010,-2 points,Unknown,All,45
+2010,-3 points,Quintile 1,All,2100
+2010,-3 points,Quintile 2,All,3280
+2010,-3 points,Quintile 3,All,4220
+2010,-3 points,Quintile 4,All,5315
+2010,-3 points,Quintile 5,All,7375
+2010,-3 points,Unknown,All,35
+2010,-4 points,Quintile 1,All,1110
+2010,-4 points,Quintile 2,All,1800
+2010,-4 points,Quintile 3,All,2320
+2010,-4 points,Quintile 4,All,2670
+2010,-4 points,Quintile 5,All,3320
+2010,-4 points,Unknown,All,15
+2010,-5 points,Quintile 1,All,645
+2010,-5 points,Quintile 2,All,915
+2010,-5 points,Quintile 3,All,1075
+2010,-5 points,Quintile 4,All,1275
+2010,-5 points,Quintile 5,All,1475
+2010,-5 points,Unknown,All,10
+2010,-6 points,Quintile 1,All,275
+2010,-6 points,Quintile 2,All,435
+2010,-6 points,Quintile 3,All,495
+2010,-6 points,Quintile 4,All,605
+2010,-6 points,Quintile 5,All,690
+2010,0 points,Quintile 1,All,2530
+2010,0 points,Quintile 2,All,4210
+2010,0 points,Quintile 3,All,6030
+2010,0 points,Quintile 4,All,8145
+2010,0 points,Quintile 5,All,14490
+2010,0 points,Unknown,All,40
+2010,1 point,Quintile 1,All,1240
+2010,1 point,Quintile 2,All,2125
+2010,1 point,Quintile 3,All,3110
+2010,1 point,Quintile 4,All,4130
+2010,1 point,Quintile 5,All,6960
+2010,1 point,Unknown,All,25
+2010,2 points,Quintile 1,All,500
+2010,2 points,Quintile 2,All,800
+2010,2 points,Quintile 3,All,1220
+2010,2 points,Quintile 4,All,1630
+2010,2 points,Quintile 5,All,2535
+2010,2 points,Unknown,All,5
+2010,3 points,Quintile 1,All,155
+2010,3 points,Quintile 2,All,260
+2010,3 points,Quintile 3,All,355
+2010,3 points,Quintile 4,All,485
+2010,3 points,Quintile 5,All,785
+2010,Less than -6 points,Quintile 1,All,315
+2010,Less than -6 points,Quintile 2,All,405
+2010,Less than -6 points,Quintile 3,All,510
+2010,Less than -6 points,Quintile 4,All,640
+2010,Less than -6 points,Quintile 5,All,790
+2010,Less than -6 points,Unknown,All,5
+2010,More than 3 points,Quintile 1,All,50
+2010,More than 3 points,Quintile 2,All,60
+2010,More than 3 points,Quintile 3,All,80
+2010,More than 3 points,Quintile 4,All,105
+2010,More than 3 points,Quintile 5,All,155
+2011,-1 points,Quintile 1,All,3185
+2011,-1 points,Quintile 2,All,5315
+2011,-1 points,Quintile 3,All,7345
+2011,-1 points,Quintile 4,All,9775
+2011,-1 points,Quintile 5,All,15665
+2011,-1 points,Unknown,All,45
+2011,-2 points,Quintile 1,All,3090
+2011,-2 points,Quintile 2,All,4890
+2011,-2 points,Quintile 3,All,6595
+2011,-2 points,Quintile 4,All,8715
+2011,-2 points,Quintile 5,All,13100
+2011,-2 points,Unknown,All,40
+2011,-3 points,Quintile 1,All,2140
+2011,-3 points,Quintile 2,All,3345
+2011,-3 points,Quintile 3,All,4335
+2011,-3 points,Quintile 4,All,5540
+2011,-3 points,Quintile 5,All,7680
+2011,-3 points,Unknown,All,20
+2011,-4 points,Quintile 1,All,1185
+2011,-4 points,Quintile 2,All,1840
+2011,-4 points,Quintile 3,All,2320
+2011,-4 points,Quintile 4,All,2885
+2011,-4 points,Quintile 5,All,3620
+2011,-4 points,Unknown,All,20
+2011,-5 points,Quintile 1,All,555
+2011,-5 points,Quintile 2,All,915
+2011,-5 points,Quintile 3,All,1095
+2011,-5 points,Quintile 4,All,1365
+2011,-5 points,Quintile 5,All,1590
+2011,-5 points,Unknown,All,5
+2011,-6 points,Quintile 1,All,265
+2011,-6 points,Quintile 2,All,430
+2011,-6 points,Quintile 3,All,510
+2011,-6 points,Quintile 4,All,595
+2011,-6 points,Quintile 5,All,655
+2011,-6 points,Unknown,All,10
+2011,0 points,Quintile 1,All,2405
+2011,0 points,Quintile 2,All,4090
+2011,0 points,Quintile 3,All,5905
+2011,0 points,Quintile 4,All,7965
+2011,0 points,Quintile 5,All,14180
+2011,0 points,Unknown,All,40
+2011,1 point,Quintile 1,All,1190
+2011,1 point,Quintile 2,All,1965
+2011,1 point,Quintile 3,All,2760
+2011,1 point,Quintile 4,All,3705
+2011,1 point,Quintile 5,All,6360
+2011,1 point,Unknown,All,15
+2011,2 points,Quintile 1,All,425
+2011,2 points,Quintile 2,All,700
+2011,2 points,Quintile 3,All,1020
+2011,2 points,Quintile 4,All,1305
+2011,2 points,Quintile 5,All,2210
+2011,2 points,Unknown,All,10
+2011,3 points,Quintile 1,All,115
+2011,3 points,Quintile 2,All,195
+2011,3 points,Quintile 3,All,275
+2011,3 points,Quintile 4,All,385
+2011,3 points,Quintile 5,All,610
+2011,Less than -6 points,Quintile 1,All,275
+2011,Less than -6 points,Quintile 2,All,440
+2011,Less than -6 points,Quintile 3,All,520
+2011,Less than -6 points,Quintile 4,All,585
+2011,Less than -6 points,Quintile 5,All,705
+2011,Less than -6 points,Unknown,All,5
+2011,More than 3 points,Quintile 1,All,25
+2011,More than 3 points,Quintile 2,All,55
+2011,More than 3 points,Quintile 3,All,70
+2011,More than 3 points,Quintile 4,All,85
+2011,More than 3 points,Quintile 5,All,125
+2012,-1 points,Quintile 1,All,3030
+2012,-1 points,Quintile 2,All,5055
+2012,-1 points,Quintile 3,All,6820
+2012,-1 points,Quintile 4,All,9205
+2012,-1 points,Quintile 5,All,15550
+2012,-1 points,Unknown,All,50
+2012,-2 points,Quintile 1,All,3005
+2012,-2 points,Quintile 2,All,4780
+2012,-2 points,Quintile 3,All,6625
+2012,-2 points,Quintile 4,All,8550
+2012,-2 points,Quintile 5,All,13570
+2012,-2 points,Unknown,All,40
+2012,-3 points,Quintile 1,All,2140
+2012,-3 points,Quintile 2,All,3505
+2012,-3 points,Quintile 3,All,4415
+2012,-3 points,Quintile 4,All,6035
+2012,-3 points,Quintile 5,All,8380
+2012,-3 points,Unknown,All,35
+2012,-4 points,Quintile 1,All,1290
+2012,-4 points,Quintile 2,All,1980
+2012,-4 points,Quintile 3,All,2540
+2012,-4 points,Quintile 4,All,3115
+2012,-4 points,Quintile 5,All,3935
+2012,-4 points,Unknown,All,15
+2012,-5 points,Quintile 1,All,635
+2012,-5 points,Quintile 2,All,940
+2012,-5 points,Quintile 3,All,1215
+2012,-5 points,Quintile 4,All,1450
+2012,-5 points,Quintile 5,All,1705
+2012,-5 points,Unknown,All,5
+2012,-6 points,Quintile 1,All,275
+2012,-6 points,Quintile 2,All,470
+2012,-6 points,Quintile 3,All,580
+2012,-6 points,Quintile 4,All,615
+2012,-6 points,Quintile 5,All,745
+2012,-6 points,Unknown,All,5
+2012,0 points,Quintile 1,All,2090
+2012,0 points,Quintile 2,All,3660
+2012,0 points,Quintile 3,All,5270
+2012,0 points,Quintile 4,All,7070
+2012,0 points,Quintile 5,All,12770
+2012,0 points,Unknown,All,25
+2012,1 point,Quintile 1,All,940
+2012,1 point,Quintile 2,All,1560
+2012,1 point,Quintile 3,All,2185
+2012,1 point,Quintile 4,All,2865
+2012,1 point,Quintile 5,All,5045
+2012,1 point,Unknown,All,20
+2012,2 points,Quintile 1,All,310
+2012,2 points,Quintile 2,All,505
+2012,2 points,Quintile 3,All,720
+2012,2 points,Quintile 4,All,925
+2012,2 points,Quintile 5,All,1570
+2012,3 points,Quintile 1,All,80
+2012,3 points,Quintile 2,All,120
+2012,3 points,Quintile 3,All,185
+2012,3 points,Quintile 4,All,235
+2012,3 points,Quintile 5,All,370
+2012,Less than -6 points,Quintile 1,All,320
+2012,Less than -6 points,Quintile 2,All,460
+2012,Less than -6 points,Quintile 3,All,505
+2012,Less than -6 points,Quintile 4,All,625
+2012,Less than -6 points,Quintile 5,All,820
+2012,Less than -6 points,Unknown,All,5
+2012,More than 3 points,Quintile 1,All,25
+2012,More than 3 points,Quintile 2,All,45
+2012,More than 3 points,Quintile 3,All,40
+2012,More than 3 points,Quintile 4,All,50
+2012,More than 3 points,Quintile 5,All,80
+2013,-1 points,Quintile 1,All,2945
+2013,-1 points,Quintile 2,All,4980
+2013,-1 points,Quintile 3,All,6890
+2013,-1 points,Quintile 4,All,9150
+2013,-1 points,Quintile 5,All,15450
+2013,-1 points,Unknown,All,30
+2013,-2 points,Quintile 1,All,2990
+2013,-2 points,Quintile 2,All,4785
+2013,-2 points,Quintile 3,All,6705
+2013,-2 points,Quintile 4,All,8855
+2013,-2 points,Quintile 5,All,13870
+2013,-2 points,Unknown,All,45
+2013,-3 points,Quintile 1,All,2370
+2013,-3 points,Quintile 2,All,3610
+2013,-3 points,Quintile 3,All,4680
+2013,-3 points,Quintile 4,All,6140
+2013,-3 points,Quintile 5,All,8570
+2013,-3 points,Unknown,All,25
+2013,-4 points,Quintile 1,All,1355
+2013,-4 points,Quintile 2,All,1995
+2013,-4 points,Quintile 3,All,2600
+2013,-4 points,Quintile 4,All,3200
+2013,-4 points,Quintile 5,All,4085
+2013,-4 points,Unknown,All,10
+2013,-5 points,Quintile 1,All,705
+2013,-5 points,Quintile 2,All,995
+2013,-5 points,Quintile 3,All,1170
+2013,-5 points,Quintile 4,All,1585
+2013,-5 points,Quintile 5,All,1840
+2013,-5 points,Unknown,All,5
+2013,-6 points,Quintile 1,All,335
+2013,-6 points,Quintile 2,All,445
+2013,-6 points,Quintile 3,All,570
+2013,-6 points,Quintile 4,All,685
+2013,-6 points,Quintile 5,All,785
+2013,0 points,Quintile 1,All,1960
+2013,0 points,Quintile 2,All,3455
+2013,0 points,Quintile 3,All,5015
+2013,0 points,Quintile 4,All,6810
+2013,0 points,Quintile 5,All,12185
+2013,0 points,Unknown,All,30
+2013,1 point,Quintile 1,All,855
+2013,1 point,Quintile 2,All,1440
+2013,1 point,Quintile 3,All,2130
+2013,1 point,Quintile 4,All,2685
+2013,1 point,Quintile 5,All,4715
+2013,1 point,Unknown,All,10
+2013,2 points,Quintile 1,All,250
+2013,2 points,Quintile 2,All,480
+2013,2 points,Quintile 3,All,625
+2013,2 points,Quintile 4,All,830
+2013,2 points,Quintile 5,All,1360
+2013,2 points,Unknown,All,5
+2013,3 points,Quintile 1,All,65
+2013,3 points,Quintile 2,All,110
+2013,3 points,Quintile 3,All,130
+2013,3 points,Quintile 4,All,210
+2013,3 points,Quintile 5,All,290
+2013,Less than -6 points,Quintile 1,All,325
+2013,Less than -6 points,Quintile 2,All,470
+2013,Less than -6 points,Quintile 3,All,525
+2013,Less than -6 points,Quintile 4,All,675
+2013,Less than -6 points,Quintile 5,All,755
+2013,Less than -6 points,Unknown,All,5
+2013,More than 3 points,Quintile 1,All,20
+2013,More than 3 points,Quintile 2,All,25
+2013,More than 3 points,Quintile 3,All,45
+2013,More than 3 points,Quintile 4,All,50
+2013,More than 3 points,Quintile 5,All,60
+2014,-1 points,Quintile 1,All,2815
+2014,-1 points,Quintile 2,All,4440
+2014,-1 points,Quintile 3,All,6355
+2014,-1 points,Quintile 4,All,8590
+2014,-1 points,Quintile 5,All,14230
+2014,-1 points,Unknown,All,35
+2014,-2 points,Quintile 1,All,3050
+2014,-2 points,Quintile 2,All,4860
+2014,-2 points,Quintile 3,All,6515
+2014,-2 points,Quintile 4,All,8480
+2014,-2 points,Quintile 5,All,13345
+2014,-2 points,Unknown,All,35
+2014,-3 points,Quintile 1,All,2370
+2014,-3 points,Quintile 2,All,3685
+2014,-3 points,Quintile 3,All,4825
+2014,-3 points,Quintile 4,All,6190
+2014,-3 points,Quintile 5,All,9035
+2014,-3 points,Unknown,All,25
+2014,-4 points,Quintile 1,All,1435
+2014,-4 points,Quintile 2,All,2295
+2014,-4 points,Quintile 3,All,2845
+2014,-4 points,Quintile 4,All,3460
+2014,-4 points,Quintile 5,All,4545
+2014,-4 points,Unknown,All,15
+2014,-5 points,Quintile 1,All,805
+2014,-5 points,Quintile 2,All,1130
+2014,-5 points,Quintile 3,All,1445
+2014,-5 points,Quintile 4,All,1730
+2014,-5 points,Quintile 5,All,2175
+2014,-5 points,Unknown,All,10
+2014,-6 points,Quintile 1,All,365
+2014,-6 points,Quintile 2,All,560
+2014,-6 points,Quintile 3,All,665
+2014,-6 points,Quintile 4,All,845
+2014,-6 points,Quintile 5,All,900
+2014,-6 points,Unknown,All,5
+2014,0 points,Quintile 1,All,1945
+2014,0 points,Quintile 2,All,3180
+2014,0 points,Quintile 3,All,4575
+2014,0 points,Quintile 4,All,6225
+2014,0 points,Quintile 5,All,11480
+2014,0 points,Unknown,All,25
+2014,1 point,Quintile 1,All,810
+2014,1 point,Quintile 2,All,1350
+2014,1 point,Quintile 3,All,1895
+2014,1 point,Quintile 4,All,2530
+2014,1 point,Quintile 5,All,4495
+2014,1 point,Unknown,All,10
+2014,2 points,Quintile 1,All,275
+2014,2 points,Quintile 2,All,490
+2014,2 points,Quintile 3,All,615
+2014,2 points,Quintile 4,All,855
+2014,2 points,Quintile 5,All,1315
+2014,2 points,Unknown,All,5
+2014,3 points,Quintile 1,All,70
+2014,3 points,Quintile 2,All,100
+2014,3 points,Quintile 3,All,140
+2014,3 points,Quintile 4,All,185
+2014,3 points,Quintile 5,All,330
+2014,Less than -6 points,Quintile 1,All,400
+2014,Less than -6 points,Quintile 2,All,585
+2014,Less than -6 points,Quintile 3,All,720
+2014,Less than -6 points,Quintile 4,All,870
+2014,Less than -6 points,Quintile 5,All,985
+2014,Less than -6 points,Unknown,All,5
+2014,More than 3 points,Quintile 1,All,15
+2014,More than 3 points,Quintile 2,All,30
+2014,More than 3 points,Quintile 3,All,60
+2014,More than 3 points,Quintile 4,All,40
+2014,More than 3 points,Quintile 5,All,65
+2015,-1 points,Quintile 1,All,2890
+2015,-1 points,Quintile 2,All,4560
+2015,-1 points,Quintile 3,All,6480
+2015,-1 points,Quintile 4,All,8675
+2015,-1 points,Quintile 5,All,14635
+2015,-1 points,Unknown,All,30
+2015,-2 points,Quintile 1,All,3115
+2015,-2 points,Quintile 2,All,4885
+2015,-2 points,Quintile 3,All,6630
+2015,-2 points,Quintile 4,All,8600
+2015,-2 points,Quintile 5,All,13775
+2015,-2 points,Unknown,All,25
+2015,-3 points,Quintile 1,All,2600
+2015,-3 points,Quintile 2,All,3805
+2015,-3 points,Quintile 3,All,5075
+2015,-3 points,Quintile 4,All,6480
+2015,-3 points,Quintile 5,All,8995
+2015,-3 points,Unknown,All,25
+2015,-4 points,Quintile 1,All,1535
+2015,-4 points,Quintile 2,All,2260
+2015,-4 points,Quintile 3,All,3150
+2015,-4 points,Quintile 4,All,3710
+2015,-4 points,Quintile 5,All,4885
+2015,-4 points,Unknown,All,10
+2015,-5 points,Quintile 1,All,820
+2015,-5 points,Quintile 2,All,1245
+2015,-5 points,Quintile 3,All,1525
+2015,-5 points,Quintile 4,All,1880
+2015,-5 points,Quintile 5,All,2325
+2015,-5 points,Unknown,All,5
+2015,-6 points,Quintile 1,All,445
+2015,-6 points,Quintile 2,All,625
+2015,-6 points,Quintile 3,All,740
+2015,-6 points,Quintile 4,All,870
+2015,-6 points,Quintile 5,All,1065
+2015,-6 points,Unknown,All,5
+2015,0 points,Quintile 1,All,1970
+2015,0 points,Quintile 2,All,3245
+2015,0 points,Quintile 3,All,4585
+2015,0 points,Quintile 4,All,6340
+2015,0 points,Quintile 5,All,11420
+2015,0 points,Unknown,All,25
+2015,1 point,Quintile 1,All,800
+2015,1 point,Quintile 2,All,1315
+2015,1 point,Quintile 3,All,1855
+2015,1 point,Quintile 4,All,2510
+2015,1 point,Quintile 5,All,4435
+2015,1 point,Unknown,All,10
+2015,2 points,Quintile 1,All,265
+2015,2 points,Quintile 2,All,445
+2015,2 points,Quintile 3,All,595
+2015,2 points,Quintile 4,All,765
+2015,2 points,Quintile 5,All,1375
+2015,3 points,Quintile 1,All,70
+2015,3 points,Quintile 2,All,100
+2015,3 points,Quintile 3,All,135
+2015,3 points,Quintile 4,All,210
+2015,3 points,Quintile 5,All,305
+2015,Less than -6 points,Quintile 1,All,435
+2015,Less than -6 points,Quintile 2,All,560
+2015,Less than -6 points,Quintile 3,All,730
+2015,Less than -6 points,Quintile 4,All,885
+2015,Less than -6 points,Quintile 5,All,1015
+2015,More than 3 points,Quintile 1,All,25
+2015,More than 3 points,Quintile 2,All,35
+2015,More than 3 points,Quintile 3,All,30
+2015,More than 3 points,Quintile 4,All,50
+2015,More than 3 points,Quintile 5,All,85
+2016,-1 points,Quintile 1,All,2805
+2016,-1 points,Quintile 2,All,4500
+2016,-1 points,Quintile 3,All,6260
+2016,-1 points,Quintile 4,All,8300
+2016,-1 points,Quintile 5,All,14390
+2016,-1 points,Unknown,All,35
+2016,-2 points,Quintile 1,All,3070
+2016,-2 points,Quintile 2,All,4930
+2016,-2 points,Quintile 3,All,6675
+2016,-2 points,Quintile 4,All,8620
+2016,-2 points,Quintile 5,All,13810
+2016,-2 points,Unknown,All,30
+2016,-3 points,Quintile 1,All,2585
+2016,-3 points,Quintile 2,All,3980
+2016,-3 points,Quintile 3,All,5120
+2016,-3 points,Quintile 4,All,6655
+2016,-3 points,Quintile 5,All,9515
+2016,-3 points,Unknown,All,25
+2016,-4 points,Quintile 1,All,1715
+2016,-4 points,Quintile 2,All,2375
+2016,-4 points,Quintile 3,All,3060
+2016,-4 points,Quintile 4,All,3805
+2016,-4 points,Quintile 5,All,5175
+2016,-4 points,Unknown,All,10
+2016,-5 points,Quintile 1,All,930
+2016,-5 points,Quintile 2,All,1335
+2016,-5 points,Quintile 3,All,1765
+2016,-5 points,Quintile 4,All,1995
+2016,-5 points,Quintile 5,All,2525
+2016,-5 points,Unknown,All,10
+2016,-6 points,Quintile 1,All,485
+2016,-6 points,Quintile 2,All,680
+2016,-6 points,Quintile 3,All,820
+2016,-6 points,Quintile 4,All,955
+2016,-6 points,Quintile 5,All,1150
+2016,0 points,Quintile 1,All,1810
+2016,0 points,Quintile 2,All,3035
+2016,0 points,Quintile 3,All,4275
+2016,0 points,Quintile 4,All,5970
+2016,0 points,Quintile 5,All,11235
+2016,0 points,Unknown,All,15
+2016,1 point,Quintile 1,All,720
+2016,1 point,Quintile 2,All,1220
+2016,1 point,Quintile 3,All,1745
+2016,1 point,Quintile 4,All,2290
+2016,1 point,Quintile 5,All,4050
+2016,1 point,Unknown,All,5
+2016,2 points,Quintile 1,All,255
+2016,2 points,Quintile 2,All,400
+2016,2 points,Quintile 3,All,560
+2016,2 points,Quintile 4,All,735
+2016,2 points,Quintile 5,All,1250
+2016,2 points,Unknown,All,5
+2016,3 points,Quintile 1,All,55
+2016,3 points,Quintile 2,All,100
+2016,3 points,Quintile 3,All,160
+2016,3 points,Quintile 4,All,205
+2016,3 points,Quintile 5,All,315
+2016,Less than -6 points,Quintile 1,All,480
+2016,Less than -6 points,Quintile 2,All,650
+2016,Less than -6 points,Quintile 3,All,795
+2016,Less than -6 points,Quintile 4,All,910
+2016,Less than -6 points,Quintile 5,All,1115
+2016,Less than -6 points,Unknown,All,5
+2016,More than 3 points,Quintile 1,All,15
+2016,More than 3 points,Quintile 2,All,25
+2016,More than 3 points,Quintile 3,All,30
+2016,More than 3 points,Quintile 4,All,45
+2016,More than 3 points,Quintile 5,All,80
+2017,-1 points,Quintile 1,All,2705
+2017,-1 points,Quintile 2,All,4250
+2017,-1 points,Quintile 3,All,5735
+2017,-1 points,Quintile 4,All,7740
+2017,-1 points,Quintile 5,All,13175
+2017,-1 points,Unknown,All,20
+2017,-2 points,Quintile 1,All,2970
+2017,-2 points,Quintile 2,All,4440
+2017,-2 points,Quintile 3,All,6015
+2017,-2 points,Quintile 4,All,7910
+2017,-2 points,Quintile 5,All,12640
+2017,-2 points,Unknown,All,35
+2017,-3 points,Quintile 1,All,2575
+2017,-3 points,Quintile 2,All,3830
+2017,-3 points,Quintile 3,All,4915
+2017,-3 points,Quintile 4,All,6380
+2017,-3 points,Quintile 5,All,9200
+2017,-3 points,Unknown,All,20
+2017,-4 points,Quintile 1,All,1755
+2017,-4 points,Quintile 2,All,2505
+2017,-4 points,Quintile 3,All,3250
+2017,-4 points,Quintile 4,All,4150
+2017,-4 points,Quintile 5,All,5645
+2017,-4 points,Unknown,All,15
+2017,-5 points,Quintile 1,All,1170
+2017,-5 points,Quintile 2,All,1515
+2017,-5 points,Quintile 3,All,1970
+2017,-5 points,Quintile 4,All,2410
+2017,-5 points,Quintile 5,All,3020
+2017,-5 points,Unknown,All,10
+2017,-6 points,Quintile 1,All,675
+2017,-6 points,Quintile 2,All,890
+2017,-6 points,Quintile 3,All,1065
+2017,-6 points,Quintile 4,All,1290
+2017,-6 points,Quintile 5,All,1635
+2017,-6 points,Unknown,All,5
+2017,0 points,Quintile 1,All,1815
+2017,0 points,Quintile 2,All,2980
+2017,0 points,Quintile 3,All,4440
+2017,0 points,Quintile 4,All,5845
+2017,0 points,Quintile 5,All,10895
+2017,0 points,Unknown,All,30
+2017,1 point,Quintile 1,All,850
+2017,1 point,Quintile 2,All,1410
+2017,1 point,Quintile 3,All,1980
+2017,1 point,Quintile 4,All,2585
+2017,1 point,Quintile 5,All,4525
+2017,1 point,Unknown,All,5
+2017,2 points,Quintile 1,All,315
+2017,2 points,Quintile 2,All,480
+2017,2 points,Quintile 3,All,690
+2017,2 points,Quintile 4,All,950
+2017,2 points,Quintile 5,All,1585
+2017,2 points,Unknown,All,5
+2017,3 points,Quintile 1,All,105
+2017,3 points,Quintile 2,All,145
+2017,3 points,Quintile 3,All,190
+2017,3 points,Quintile 4,All,275
+2017,3 points,Quintile 5,All,385
+2017,Less than -6 points,Quintile 1,All,685
+2017,Less than -6 points,Quintile 2,All,960
+2017,Less than -6 points,Quintile 3,All,1185
+2017,Less than -6 points,Quintile 4,All,1395
+2017,Less than -6 points,Quintile 5,All,1745
+2017,Less than -6 points,Unknown,All,5
+2017,More than 3 points,Quintile 1,All,35
+2017,More than 3 points,Quintile 2,All,50
+2017,More than 3 points,Quintile 3,All,65
+2017,More than 3 points,Quintile 4,All,80
+2017,More than 3 points,Quintile 5,All,125
+2018,-1 points,Quintile 1,All,2440
+2018,-1 points,Quintile 2,All,3850
+2018,-1 points,Quintile 3,All,5350
+2018,-1 points,Quintile 4,All,7195
+2018,-1 points,Quintile 5,All,12425
+2018,-1 points,Unknown,All,25
+2018,-2 points,Quintile 1,All,2685
+2018,-2 points,Quintile 2,All,4220
+2018,-2 points,Quintile 3,All,5530
+2018,-2 points,Quintile 4,All,7335
+2018,-2 points,Quintile 5,All,11770
+2018,-2 points,Unknown,All,20
+2018,-3 points,Quintile 1,All,2520
+2018,-3 points,Quintile 2,All,3675
+2018,-3 points,Quintile 3,All,4820
+2018,-3 points,Quintile 4,All,6195
+2018,-3 points,Quintile 5,All,9020
+2018,-3 points,Unknown,All,25
+2018,-4 points,Quintile 1,All,1830
+2018,-4 points,Quintile 2,All,2595
+2018,-4 points,Quintile 3,All,3345
+2018,-4 points,Quintile 4,All,4220
+2018,-4 points,Quintile 5,All,5645
+2018,-4 points,Unknown,All,15
+2018,-5 points,Quintile 1,All,1220
+2018,-5 points,Quintile 2,All,1730
+2018,-5 points,Quintile 3,All,2165
+2018,-5 points,Quintile 4,All,2655
+2018,-5 points,Quintile 5,All,3245
+2018,-5 points,Unknown,All,10
+2018,-6 points,Quintile 1,All,635
+2018,-6 points,Quintile 2,All,1080
+2018,-6 points,Quintile 3,All,1270
+2018,-6 points,Quintile 4,All,1475
+2018,-6 points,Quintile 5,All,1825
+2018,-6 points,Unknown,All,5
+2018,0 points,Quintile 1,All,1730
+2018,0 points,Quintile 2,All,2790
+2018,0 points,Quintile 3,All,3805
+2018,0 points,Quintile 4,All,5630
+2018,0 points,Quintile 5,All,10480
+2018,0 points,Unknown,All,20
+2018,1 point,Quintile 1,All,750
+2018,1 point,Quintile 2,All,1275
+2018,1 point,Quintile 3,All,1745
+2018,1 point,Quintile 4,All,2360
+2018,1 point,Quintile 5,All,4270
+2018,1 point,Unknown,All,10
+2018,2 points,Quintile 1,All,260
+2018,2 points,Quintile 2,All,455
+2018,2 points,Quintile 3,All,620
+2018,2 points,Quintile 4,All,870
+2018,2 points,Quintile 5,All,1420
+2018,3 points,Quintile 1,All,70
+2018,3 points,Quintile 2,All,130
+2018,3 points,Quintile 3,All,170
+2018,3 points,Quintile 4,All,265
+2018,3 points,Quintile 5,All,390
+2018,Less than -6 points,Quintile 1,All,880
+2018,Less than -6 points,Quintile 2,All,1145
+2018,Less than -6 points,Quintile 3,All,1545
+2018,Less than -6 points,Quintile 4,All,1825
+2018,Less than -6 points,Quintile 5,All,2085
+2018,Less than -6 points,Unknown,All,5
+2018,More than 3 points,Quintile 1,All,35
+2018,More than 3 points,Quintile 2,All,35
+2018,More than 3 points,Quintile 3,All,45
+2018,More than 3 points,Quintile 4,All,70
+2018,More than 3 points,Quintile 5,All,125
+2019,-1 points,Quintile 1,All,2235
+2019,-1 points,Quintile 2,All,3345
+2019,-1 points,Quintile 3,All,4630
+2019,-1 points,Quintile 4,All,6335
+2019,-1 points,Quintile 5,All,11160
+2019,-1 points,Unknown,All,20
+2019,-2 points,Quintile 1,All,2540
+2019,-2 points,Quintile 2,All,3900
+2019,-2 points,Quintile 3,All,5360
+2019,-2 points,Quintile 4,All,7175
+2019,-2 points,Quintile 5,All,11460
+2019,-2 points,Unknown,All,25
+2019,-3 points,Quintile 1,All,2350
+2019,-3 points,Quintile 2,All,3560
+2019,-3 points,Quintile 3,All,4745
+2019,-3 points,Quintile 4,All,6200
+2019,-3 points,Quintile 5,All,9170
+2019,-3 points,Unknown,All,20
+2019,-4 points,Quintile 1,All,2045
+2019,-4 points,Quintile 2,All,2765
+2019,-4 points,Quintile 3,All,3625
+2019,-4 points,Quintile 4,All,4645
+2019,-4 points,Quintile 5,All,6345
+2019,-4 points,Unknown,All,20
+2019,-5 points,Quintile 1,All,1480
+2019,-5 points,Quintile 2,All,2005
+2019,-5 points,Quintile 3,All,2450
+2019,-5 points,Quintile 4,All,3145
+2019,-5 points,Quintile 5,All,3915
+2019,-5 points,Unknown,All,10
+2019,-6 points,Quintile 1,All,915
+2019,-6 points,Quintile 2,All,1250
+2019,-6 points,Quintile 3,All,1520
+2019,-6 points,Quintile 4,All,1880
+2019,-6 points,Quintile 5,All,2420
+2019,-6 points,Unknown,All,5
+2019,0 points,Quintile 1,All,1445
+2019,0 points,Quintile 2,All,2280
+2019,0 points,Quintile 3,All,3500
+2019,0 points,Quintile 4,All,4850
+2019,0 points,Quintile 5,All,9360
+2019,0 points,Unknown,All,10
+2019,1 point,Quintile 1,All,600
+2019,1 point,Quintile 2,All,1030
+2019,1 point,Quintile 3,All,1415
+2019,1 point,Quintile 4,All,2030
+2019,1 point,Quintile 5,All,3530
+2019,1 point,Unknown,All,10
+2019,2 points,Quintile 1,All,220
+2019,2 points,Quintile 2,All,340
+2019,2 points,Quintile 3,All,510
+2019,2 points,Quintile 4,All,660
+2019,2 points,Quintile 5,All,1260
+2019,3 points,Quintile 1,All,75
+2019,3 points,Quintile 2,All,100
+2019,3 points,Quintile 3,All,155
+2019,3 points,Quintile 4,All,200
+2019,3 points,Quintile 5,All,390
+2019,Less than -6 points,Quintile 1,All,1255
+2019,Less than -6 points,Quintile 2,All,1580
+2019,Less than -6 points,Quintile 3,All,2140
+2019,Less than -6 points,Quintile 4,All,2655
+2019,Less than -6 points,Quintile 5,All,2845
+2019,Less than -6 points,Unknown,All,10
+2019,More than 3 points,Quintile 1,All,25
+2019,More than 3 points,Quintile 2,All,30
+2019,More than 3 points,Quintile 3,All,50
+2019,More than 3 points,Quintile 4,All,60
+2019,More than 3 points,Quintile 5,All,105
+2020,-1 points,Quintile 1,All,3365
+2020,-1 points,Quintile 2,All,4780
+2020,-1 points,Quintile 3,All,6540
+2020,-1 points,Quintile 4,All,8780
+2020,-1 points,Quintile 5,All,14420
+2020,-1 points,Unknown,All,30
+2020,-2 points,Quintile 1,All,2495
+2020,-2 points,Quintile 2,All,3635
+2020,-2 points,Quintile 3,All,4765
+2020,-2 points,Quintile 4,All,6390
+2020,-2 points,Quintile 5,All,9575
+2020,-2 points,Unknown,All,10
+2020,-3 points,Quintile 1,All,1495
+2020,-3 points,Quintile 2,All,2160
+2020,-3 points,Quintile 3,All,2895
+2020,-3 points,Quintile 4,All,3900
+2020,-3 points,Quintile 5,All,5290
+2020,-3 points,Unknown,All,15
+2020,-4 points,Quintile 1,All,835
+2020,-4 points,Quintile 2,All,1130
+2020,-4 points,Quintile 3,All,1465
+2020,-4 points,Quintile 4,All,1935
+2020,-4 points,Quintile 5,All,2525
+2020,-4 points,Unknown,All,10
+2020,-5 points,Quintile 1,All,370
+2020,-5 points,Quintile 2,All,560
+2020,-5 points,Quintile 3,All,705
+2020,-5 points,Quintile 4,All,960
+2020,-5 points,Quintile 5,All,1165
+2020,-6 points,Quintile 1,All,205
+2020,-6 points,Quintile 2,All,260
+2020,-6 points,Quintile 3,All,330
+2020,-6 points,Quintile 4,All,475
+2020,-6 points,Quintile 5,All,515
+2020,0 points,Quintile 1,All,3485
+2020,0 points,Quintile 2,All,5210
+2020,0 points,Quintile 3,All,7200
+2020,0 points,Quintile 4,All,9810
+2020,0 points,Quintile 5,All,17960
+2020,0 points,Unknown,All,25
+2020,1 point,Quintile 1,All,1750
+2020,1 point,Quintile 2,All,2695
+2020,1 point,Quintile 3,All,3665
+2020,1 point,Quintile 4,All,4765
+2020,1 point,Quintile 5,All,7695
+2020,1 point,Unknown,All,15
+2020,2 points,Quintile 1,All,700
+2020,2 points,Quintile 2,All,955
+2020,2 points,Quintile 3,All,1260
+2020,2 points,Quintile 4,All,1575
+2020,2 points,Quintile 5,All,2350
+2020,2 points,Unknown,All,5
+2020,3 points,Quintile 1,All,175
+2020,3 points,Quintile 2,All,260
+2020,3 points,Quintile 3,All,295
+2020,3 points,Quintile 4,All,385
+2020,3 points,Quintile 5,All,495
+2020,Less than -6 points,Quintile 1,All,235
+2020,Less than -6 points,Quintile 2,All,285
+2020,Less than -6 points,Quintile 3,All,320
+2020,Less than -6 points,Quintile 4,All,450
+2020,Less than -6 points,Quintile 5,All,510
+2020,Less than -6 points,Unknown,All,5
+2020,More than 3 points,Quintile 1,All,35
+2020,More than 3 points,Quintile 2,All,30
+2020,More than 3 points,Quintile 3,All,55
+2020,More than 3 points,Quintile 4,All,65
+2020,More than 3 points,Quintile 5,All,70
+2021,-1 points,Quintile 1,All,3075
+2021,-1 points,Quintile 2,All,4530
+2021,-1 points,Quintile 3,All,6015
+2021,-1 points,Quintile 4,All,8075
+2021,-1 points,Quintile 5,All,12475
+2021,-1 points,Unknown,All,25
+2021,-2 points,Quintile 1,All,2255
+2021,-2 points,Quintile 2,All,3195
+2021,-2 points,Quintile 3,All,4155
+2021,-2 points,Quintile 4,All,5145
+2021,-2 points,Quintile 5,All,7675
+2021,-2 points,Unknown,All,10
+2021,-3 points,Quintile 1,All,1310
+2021,-3 points,Quintile 2,All,1905
+2021,-3 points,Quintile 3,All,2390
+2021,-3 points,Quintile 4,All,3090
+2021,-3 points,Quintile 5,All,4220
+2021,-3 points,Unknown,All,10
+2021,-4 points,Quintile 1,All,750
+2021,-4 points,Quintile 2,All,1015
+2021,-4 points,Quintile 3,All,1365
+2021,-4 points,Quintile 4,All,1620
+2021,-4 points,Quintile 5,All,2135
+2021,-4 points,Unknown,All,5
+2021,-5 points,Quintile 1,All,415
+2021,-5 points,Quintile 2,All,535
+2021,-5 points,Quintile 3,All,675
+2021,-5 points,Quintile 4,All,825
+2021,-5 points,Quintile 5,All,970
+2021,-5 points,Unknown,All,5
+2021,-6 points,Quintile 1,All,220
+2021,-6 points,Quintile 2,All,265
+2021,-6 points,Quintile 3,All,300
+2021,-6 points,Quintile 4,All,415
+2021,-6 points,Quintile 5,All,465
+2021,0 points,Quintile 1,All,3700
+2021,0 points,Quintile 2,All,5835
+2021,0 points,Quintile 3,All,7930
+2021,0 points,Quintile 4,All,10965
+2021,0 points,Quintile 5,All,20175
+2021,0 points,Unknown,All,30
+2021,1 point,Quintile 1,All,2470
+2021,1 point,Quintile 2,All,3825
+2021,1 point,Quintile 3,All,5120
+2021,1 point,Quintile 4,All,6770
+2021,1 point,Quintile 5,All,11675
+2021,1 point,Unknown,All,25
+2021,2 points,Quintile 1,All,1230
+2021,2 points,Quintile 2,All,1785
+2021,2 points,Quintile 3,All,2495
+2021,2 points,Quintile 4,All,3195
+2021,2 points,Quintile 5,All,5375
+2021,2 points,Unknown,All,10
+2021,3 points,Quintile 1,All,425
+2021,3 points,Quintile 2,All,660
+2021,3 points,Quintile 3,All,880
+2021,3 points,Quintile 4,All,1150
+2021,3 points,Quintile 5,All,1640
+2021,3 points,Unknown,All,5
+2021,Less than -6 points,Quintile 1,All,220
+2021,Less than -6 points,Quintile 2,All,265
+2021,Less than -6 points,Quintile 3,All,345
+2021,Less than -6 points,Quintile 4,All,430
+2021,Less than -6 points,Quintile 5,All,440
+2021,More than 3 points,Quintile 1,All,165
+2021,More than 3 points,Quintile 2,All,210
+2021,More than 3 points,Quintile 3,All,275
+2021,More than 3 points,Quintile 4,All,350
+2021,More than 3 points,Quintile 5,All,450
+2021,More than 3 points,Unknown,All,5
+2010,-1 points,Quintile 1,Main scheme applicant,3075
+2010,-1 points,Quintile 2,Main scheme applicant,5280
+2010,-1 points,Quintile 3,Main scheme applicant,7215
+2010,-1 points,Quintile 4,Main scheme applicant,9425
+2010,-1 points,Quintile 5,Main scheme applicant,15690
+2010,-1 points,Unknown,Main scheme applicant,50
+2010,-2 points,Quintile 1,Main scheme applicant,2900
+2010,-2 points,Quintile 2,Main scheme applicant,4755
+2010,-2 points,Quintile 3,Main scheme applicant,6530
+2010,-2 points,Quintile 4,Main scheme applicant,8375
+2010,-2 points,Quintile 5,Main scheme applicant,12310
+2010,-2 points,Unknown,Main scheme applicant,45
+2010,-3 points,Quintile 1,Main scheme applicant,2100
+2010,-3 points,Quintile 2,Main scheme applicant,3280
+2010,-3 points,Quintile 3,Main scheme applicant,4220
+2010,-3 points,Quintile 4,Main scheme applicant,5315
+2010,-3 points,Quintile 5,Main scheme applicant,7375
+2010,-3 points,Unknown,Main scheme applicant,35
+2010,-4 points,Quintile 1,Main scheme applicant,1110
+2010,-4 points,Quintile 2,Main scheme applicant,1800
+2010,-4 points,Quintile 3,Main scheme applicant,2320
+2010,-4 points,Quintile 4,Main scheme applicant,2670
+2010,-4 points,Quintile 5,Main scheme applicant,3320
+2010,-4 points,Unknown,Main scheme applicant,15
+2010,-5 points,Quintile 1,Main scheme applicant,645
+2010,-5 points,Quintile 2,Main scheme applicant,915
+2010,-5 points,Quintile 3,Main scheme applicant,1075
+2010,-5 points,Quintile 4,Main scheme applicant,1275
+2010,-5 points,Quintile 5,Main scheme applicant,1475
+2010,-5 points,Unknown,Main scheme applicant,10
+2010,-6 points,Quintile 1,Main scheme applicant,275
+2010,-6 points,Quintile 2,Main scheme applicant,435
+2010,-6 points,Quintile 3,Main scheme applicant,495
+2010,-6 points,Quintile 4,Main scheme applicant,605
+2010,-6 points,Quintile 5,Main scheme applicant,690
+2010,0 points,Quintile 1,Main scheme applicant,2530
+2010,0 points,Quintile 2,Main scheme applicant,4210
+2010,0 points,Quintile 3,Main scheme applicant,6030
+2010,0 points,Quintile 4,Main scheme applicant,8145
+2010,0 points,Quintile 5,Main scheme applicant,14490
+2010,0 points,Unknown,Main scheme applicant,40
+2010,1 point,Quintile 1,Main scheme applicant,1240
+2010,1 point,Quintile 2,Main scheme applicant,2125
+2010,1 point,Quintile 3,Main scheme applicant,3110
+2010,1 point,Quintile 4,Main scheme applicant,4130
+2010,1 point,Quintile 5,Main scheme applicant,6960
+2010,1 point,Unknown,Main scheme applicant,25
+2010,2 points,Quintile 1,Main scheme applicant,500
+2010,2 points,Quintile 2,Main scheme applicant,800
+2010,2 points,Quintile 3,Main scheme applicant,1220
+2010,2 points,Quintile 4,Main scheme applicant,1630
+2010,2 points,Quintile 5,Main scheme applicant,2535
+2010,2 points,Unknown,Main scheme applicant,5
+2010,3 points,Quintile 1,Main scheme applicant,155
+2010,3 points,Quintile 2,Main scheme applicant,260
+2010,3 points,Quintile 3,Main scheme applicant,355
+2010,3 points,Quintile 4,Main scheme applicant,485
+2010,3 points,Quintile 5,Main scheme applicant,785
+2010,Less than -6 points,Quintile 1,Main scheme applicant,315
+2010,Less than -6 points,Quintile 2,Main scheme applicant,405
+2010,Less than -6 points,Quintile 3,Main scheme applicant,510
+2010,Less than -6 points,Quintile 4,Main scheme applicant,640
+2010,Less than -6 points,Quintile 5,Main scheme applicant,790
+2010,Less than -6 points,Unknown,Main scheme applicant,5
+2010,More than 3 points,Quintile 1,Main scheme applicant,50
+2010,More than 3 points,Quintile 2,Main scheme applicant,60
+2010,More than 3 points,Quintile 3,Main scheme applicant,80
+2010,More than 3 points,Quintile 4,Main scheme applicant,105
+2010,More than 3 points,Quintile 5,Main scheme applicant,155
+2011,-1 points,Quintile 1,Main scheme applicant,3185
+2011,-1 points,Quintile 2,Main scheme applicant,5315
+2011,-1 points,Quintile 3,Main scheme applicant,7345
+2011,-1 points,Quintile 4,Main scheme applicant,9775
+2011,-1 points,Quintile 5,Main scheme applicant,15665
+2011,-1 points,Unknown,Main scheme applicant,45
+2011,-2 points,Quintile 1,Main scheme applicant,3090
+2011,-2 points,Quintile 2,Main scheme applicant,4890
+2011,-2 points,Quintile 3,Main scheme applicant,6595
+2011,-2 points,Quintile 4,Main scheme applicant,8715
+2011,-2 points,Quintile 5,Main scheme applicant,13100
+2011,-2 points,Unknown,Main scheme applicant,40
+2011,-3 points,Quintile 1,Main scheme applicant,2140
+2011,-3 points,Quintile 2,Main scheme applicant,3345
+2011,-3 points,Quintile 3,Main scheme applicant,4335
+2011,-3 points,Quintile 4,Main scheme applicant,5540
+2011,-3 points,Quintile 5,Main scheme applicant,7680
+2011,-3 points,Unknown,Main scheme applicant,20
+2011,-4 points,Quintile 1,Main scheme applicant,1185
+2011,-4 points,Quintile 2,Main scheme applicant,1840
+2011,-4 points,Quintile 3,Main scheme applicant,2320
+2011,-4 points,Quintile 4,Main scheme applicant,2885
+2011,-4 points,Quintile 5,Main scheme applicant,3620
+2011,-4 points,Unknown,Main scheme applicant,20
+2011,-5 points,Quintile 1,Main scheme applicant,555
+2011,-5 points,Quintile 2,Main scheme applicant,915
+2011,-5 points,Quintile 3,Main scheme applicant,1095
+2011,-5 points,Quintile 4,Main scheme applicant,1365
+2011,-5 points,Quintile 5,Main scheme applicant,1590
+2011,-5 points,Unknown,Main scheme applicant,5
+2011,-6 points,Quintile 1,Main scheme applicant,265
+2011,-6 points,Quintile 2,Main scheme applicant,430
+2011,-6 points,Quintile 3,Main scheme applicant,510
+2011,-6 points,Quintile 4,Main scheme applicant,595
+2011,-6 points,Quintile 5,Main scheme applicant,655
+2011,-6 points,Unknown,Main scheme applicant,10
+2011,0 points,Quintile 1,Main scheme applicant,2405
+2011,0 points,Quintile 2,Main scheme applicant,4090
+2011,0 points,Quintile 3,Main scheme applicant,5905
+2011,0 points,Quintile 4,Main scheme applicant,7965
+2011,0 points,Quintile 5,Main scheme applicant,14180
+2011,0 points,Unknown,Main scheme applicant,40
+2011,1 point,Quintile 1,Main scheme applicant,1190
+2011,1 point,Quintile 2,Main scheme applicant,1965
+2011,1 point,Quintile 3,Main scheme applicant,2760
+2011,1 point,Quintile 4,Main scheme applicant,3705
+2011,1 point,Quintile 5,Main scheme applicant,6360
+2011,1 point,Unknown,Main scheme applicant,15
+2011,2 points,Quintile 1,Main scheme applicant,425
+2011,2 points,Quintile 2,Main scheme applicant,700
+2011,2 points,Quintile 3,Main scheme applicant,1020
+2011,2 points,Quintile 4,Main scheme applicant,1305
+2011,2 points,Quintile 5,Main scheme applicant,2210
+2011,2 points,Unknown,Main scheme applicant,10
+2011,3 points,Quintile 1,Main scheme applicant,115
+2011,3 points,Quintile 2,Main scheme applicant,195
+2011,3 points,Quintile 3,Main scheme applicant,275
+2011,3 points,Quintile 4,Main scheme applicant,385
+2011,3 points,Quintile 5,Main scheme applicant,610
+2011,Less than -6 points,Quintile 1,Main scheme applicant,275
+2011,Less than -6 points,Quintile 2,Main scheme applicant,440
+2011,Less than -6 points,Quintile 3,Main scheme applicant,520
+2011,Less than -6 points,Quintile 4,Main scheme applicant,585
+2011,Less than -6 points,Quintile 5,Main scheme applicant,705
+2011,Less than -6 points,Unknown,Main scheme applicant,5
+2011,More than 3 points,Quintile 1,Main scheme applicant,25
+2011,More than 3 points,Quintile 2,Main scheme applicant,55
+2011,More than 3 points,Quintile 3,Main scheme applicant,70
+2011,More than 3 points,Quintile 4,Main scheme applicant,85
+2011,More than 3 points,Quintile 5,Main scheme applicant,125
+2012,-1 points,Quintile 1,Main scheme applicant,3030
+2012,-1 points,Quintile 2,Main scheme applicant,5055
+2012,-1 points,Quintile 3,Main scheme applicant,6820
+2012,-1 points,Quintile 4,Main scheme applicant,9205
+2012,-1 points,Quintile 5,Main scheme applicant,15550
+2012,-1 points,Unknown,Main scheme applicant,50
+2012,-2 points,Quintile 1,Main scheme applicant,3005
+2012,-2 points,Quintile 2,Main scheme applicant,4780
+2012,-2 points,Quintile 3,Main scheme applicant,6625
+2012,-2 points,Quintile 4,Main scheme applicant,8550
+2012,-2 points,Quintile 5,Main scheme applicant,13570
+2012,-2 points,Unknown,Main scheme applicant,40
+2012,-3 points,Quintile 1,Main scheme applicant,2140
+2012,-3 points,Quintile 2,Main scheme applicant,3505
+2012,-3 points,Quintile 3,Main scheme applicant,4415
+2012,-3 points,Quintile 4,Main scheme applicant,6035
+2012,-3 points,Quintile 5,Main scheme applicant,8380
+2012,-3 points,Unknown,Main scheme applicant,35
+2012,-4 points,Quintile 1,Main scheme applicant,1290
+2012,-4 points,Quintile 2,Main scheme applicant,1980
+2012,-4 points,Quintile 3,Main scheme applicant,2540
+2012,-4 points,Quintile 4,Main scheme applicant,3115
+2012,-4 points,Quintile 5,Main scheme applicant,3935
+2012,-4 points,Unknown,Main scheme applicant,15
+2012,-5 points,Quintile 1,Main scheme applicant,635
+2012,-5 points,Quintile 2,Main scheme applicant,940
+2012,-5 points,Quintile 3,Main scheme applicant,1215
+2012,-5 points,Quintile 4,Main scheme applicant,1450
+2012,-5 points,Quintile 5,Main scheme applicant,1705
+2012,-5 points,Unknown,Main scheme applicant,5
+2012,-6 points,Quintile 1,Main scheme applicant,275
+2012,-6 points,Quintile 2,Main scheme applicant,470
+2012,-6 points,Quintile 3,Main scheme applicant,580
+2012,-6 points,Quintile 4,Main scheme applicant,615
+2012,-6 points,Quintile 5,Main scheme applicant,745
+2012,-6 points,Unknown,Main scheme applicant,5
+2012,0 points,Quintile 1,Main scheme applicant,2090
+2012,0 points,Quintile 2,Main scheme applicant,3660
+2012,0 points,Quintile 3,Main scheme applicant,5270
+2012,0 points,Quintile 4,Main scheme applicant,7070
+2012,0 points,Quintile 5,Main scheme applicant,12770
+2012,0 points,Unknown,Main scheme applicant,25
+2012,1 point,Quintile 1,Main scheme applicant,940
+2012,1 point,Quintile 2,Main scheme applicant,1560
+2012,1 point,Quintile 3,Main scheme applicant,2185
+2012,1 point,Quintile 4,Main scheme applicant,2865
+2012,1 point,Quintile 5,Main scheme applicant,5045
+2012,1 point,Unknown,Main scheme applicant,20
+2012,2 points,Quintile 1,Main scheme applicant,310
+2012,2 points,Quintile 2,Main scheme applicant,505
+2012,2 points,Quintile 3,Main scheme applicant,720
+2012,2 points,Quintile 4,Main scheme applicant,925
+2012,2 points,Quintile 5,Main scheme applicant,1570
+2012,3 points,Quintile 1,Main scheme applicant,80
+2012,3 points,Quintile 2,Main scheme applicant,120
+2012,3 points,Quintile 3,Main scheme applicant,185
+2012,3 points,Quintile 4,Main scheme applicant,235
+2012,3 points,Quintile 5,Main scheme applicant,370
+2012,Less than -6 points,Quintile 1,Main scheme applicant,320
+2012,Less than -6 points,Quintile 2,Main scheme applicant,460
+2012,Less than -6 points,Quintile 3,Main scheme applicant,505
+2012,Less than -6 points,Quintile 4,Main scheme applicant,625
+2012,Less than -6 points,Quintile 5,Main scheme applicant,820
+2012,Less than -6 points,Unknown,Main scheme applicant,5
+2012,More than 3 points,Quintile 1,Main scheme applicant,25
+2012,More than 3 points,Quintile 2,Main scheme applicant,45
+2012,More than 3 points,Quintile 3,Main scheme applicant,40
+2012,More than 3 points,Quintile 4,Main scheme applicant,50
+2012,More than 3 points,Quintile 5,Main scheme applicant,80
+2013,-1 points,Quintile 1,Main scheme applicant,2945
+2013,-1 points,Quintile 2,Main scheme applicant,4980
+2013,-1 points,Quintile 3,Main scheme applicant,6890
+2013,-1 points,Quintile 4,Main scheme applicant,9150
+2013,-1 points,Quintile 5,Main scheme applicant,15450
+2013,-1 points,Unknown,Main scheme applicant,30
+2013,-2 points,Quintile 1,Main scheme applicant,2990
+2013,-2 points,Quintile 2,Main scheme applicant,4785
+2013,-2 points,Quintile 3,Main scheme applicant,6705
+2013,-2 points,Quintile 4,Main scheme applicant,8855
+2013,-2 points,Quintile 5,Main scheme applicant,13870
+2013,-2 points,Unknown,Main scheme applicant,45
+2013,-3 points,Quintile 1,Main scheme applicant,2370
+2013,-3 points,Quintile 2,Main scheme applicant,3610
+2013,-3 points,Quintile 3,Main scheme applicant,4680
+2013,-3 points,Quintile 4,Main scheme applicant,6140
+2013,-3 points,Quintile 5,Main scheme applicant,8570
+2013,-3 points,Unknown,Main scheme applicant,25
+2013,-4 points,Quintile 1,Main scheme applicant,1355
+2013,-4 points,Quintile 2,Main scheme applicant,1995
+2013,-4 points,Quintile 3,Main scheme applicant,2600
+2013,-4 points,Quintile 4,Main scheme applicant,3200
+2013,-4 points,Quintile 5,Main scheme applicant,4085
+2013,-4 points,Unknown,Main scheme applicant,10
+2013,-5 points,Quintile 1,Main scheme applicant,705
+2013,-5 points,Quintile 2,Main scheme applicant,995
+2013,-5 points,Quintile 3,Main scheme applicant,1170
+2013,-5 points,Quintile 4,Main scheme applicant,1585
+2013,-5 points,Quintile 5,Main scheme applicant,1840
+2013,-5 points,Unknown,Main scheme applicant,5
+2013,-6 points,Quintile 1,Main scheme applicant,335
+2013,-6 points,Quintile 2,Main scheme applicant,445
+2013,-6 points,Quintile 3,Main scheme applicant,570
+2013,-6 points,Quintile 4,Main scheme applicant,685
+2013,-6 points,Quintile 5,Main scheme applicant,785
+2013,0 points,Quintile 1,Main scheme applicant,1960
+2013,0 points,Quintile 2,Main scheme applicant,3455
+2013,0 points,Quintile 3,Main scheme applicant,5015
+2013,0 points,Quintile 4,Main scheme applicant,6810
+2013,0 points,Quintile 5,Main scheme applicant,12185
+2013,0 points,Unknown,Main scheme applicant,30
+2013,1 point,Quintile 1,Main scheme applicant,855
+2013,1 point,Quintile 2,Main scheme applicant,1440
+2013,1 point,Quintile 3,Main scheme applicant,2130
+2013,1 point,Quintile 4,Main scheme applicant,2685
+2013,1 point,Quintile 5,Main scheme applicant,4715
+2013,1 point,Unknown,Main scheme applicant,10
+2013,2 points,Quintile 1,Main scheme applicant,250
+2013,2 points,Quintile 2,Main scheme applicant,480
+2013,2 points,Quintile 3,Main scheme applicant,625
+2013,2 points,Quintile 4,Main scheme applicant,830
+2013,2 points,Quintile 5,Main scheme applicant,1360
+2013,2 points,Unknown,Main scheme applicant,5
+2013,3 points,Quintile 1,Main scheme applicant,65
+2013,3 points,Quintile 2,Main scheme applicant,110
+2013,3 points,Quintile 3,Main scheme applicant,130
+2013,3 points,Quintile 4,Main scheme applicant,210
+2013,3 points,Quintile 5,Main scheme applicant,290
+2013,Less than -6 points,Quintile 1,Main scheme applicant,325
+2013,Less than -6 points,Quintile 2,Main scheme applicant,470
+2013,Less than -6 points,Quintile 3,Main scheme applicant,525
+2013,Less than -6 points,Quintile 4,Main scheme applicant,675
+2013,Less than -6 points,Quintile 5,Main scheme applicant,755
+2013,Less than -6 points,Unknown,Main scheme applicant,5
+2013,More than 3 points,Quintile 1,Main scheme applicant,20
+2013,More than 3 points,Quintile 2,Main scheme applicant,25
+2013,More than 3 points,Quintile 3,Main scheme applicant,45
+2013,More than 3 points,Quintile 4,Main scheme applicant,50
+2013,More than 3 points,Quintile 5,Main scheme applicant,60
+2014,-1 points,Quintile 1,Main scheme applicant,2815
+2014,-1 points,Quintile 2,Main scheme applicant,4440
+2014,-1 points,Quintile 3,Main scheme applicant,6355
+2014,-1 points,Quintile 4,Main scheme applicant,8590
+2014,-1 points,Quintile 5,Main scheme applicant,14230
+2014,-1 points,Unknown,Main scheme applicant,35
+2014,-2 points,Quintile 1,Main scheme applicant,3050
+2014,-2 points,Quintile 2,Main scheme applicant,4860
+2014,-2 points,Quintile 3,Main scheme applicant,6515
+2014,-2 points,Quintile 4,Main scheme applicant,8480
+2014,-2 points,Quintile 5,Main scheme applicant,13345
+2014,-2 points,Unknown,Main scheme applicant,35
+2014,-3 points,Quintile 1,Main scheme applicant,2370
+2014,-3 points,Quintile 2,Main scheme applicant,3685
+2014,-3 points,Quintile 3,Main scheme applicant,4825
+2014,-3 points,Quintile 4,Main scheme applicant,6190
+2014,-3 points,Quintile 5,Main scheme applicant,9035
+2014,-3 points,Unknown,Main scheme applicant,25
+2014,-4 points,Quintile 1,Main scheme applicant,1435
+2014,-4 points,Quintile 2,Main scheme applicant,2295
+2014,-4 points,Quintile 3,Main scheme applicant,2845
+2014,-4 points,Quintile 4,Main scheme applicant,3460
+2014,-4 points,Quintile 5,Main scheme applicant,4545
+2014,-4 points,Unknown,Main scheme applicant,15
+2014,-5 points,Quintile 1,Main scheme applicant,805
+2014,-5 points,Quintile 2,Main scheme applicant,1130
+2014,-5 points,Quintile 3,Main scheme applicant,1445
+2014,-5 points,Quintile 4,Main scheme applicant,1730
+2014,-5 points,Quintile 5,Main scheme applicant,2175
+2014,-5 points,Unknown,Main scheme applicant,10
+2014,-6 points,Quintile 1,Main scheme applicant,365
+2014,-6 points,Quintile 2,Main scheme applicant,560
+2014,-6 points,Quintile 3,Main scheme applicant,665
+2014,-6 points,Quintile 4,Main scheme applicant,845
+2014,-6 points,Quintile 5,Main scheme applicant,900
+2014,-6 points,Unknown,Main scheme applicant,5
+2014,0 points,Quintile 1,Main scheme applicant,1945
+2014,0 points,Quintile 2,Main scheme applicant,3180
+2014,0 points,Quintile 3,Main scheme applicant,4575
+2014,0 points,Quintile 4,Main scheme applicant,6225
+2014,0 points,Quintile 5,Main scheme applicant,11480
+2014,0 points,Unknown,Main scheme applicant,25
+2014,1 point,Quintile 1,Main scheme applicant,810
+2014,1 point,Quintile 2,Main scheme applicant,1350
+2014,1 point,Quintile 3,Main scheme applicant,1895
+2014,1 point,Quintile 4,Main scheme applicant,2530
+2014,1 point,Quintile 5,Main scheme applicant,4495
+2014,1 point,Unknown,Main scheme applicant,10
+2014,2 points,Quintile 1,Main scheme applicant,275
+2014,2 points,Quintile 2,Main scheme applicant,490
+2014,2 points,Quintile 3,Main scheme applicant,615
+2014,2 points,Quintile 4,Main scheme applicant,855
+2014,2 points,Quintile 5,Main scheme applicant,1315
+2014,2 points,Unknown,Main scheme applicant,5
+2014,3 points,Quintile 1,Main scheme applicant,70
+2014,3 points,Quintile 2,Main scheme applicant,100
+2014,3 points,Quintile 3,Main scheme applicant,140
+2014,3 points,Quintile 4,Main scheme applicant,185
+2014,3 points,Quintile 5,Main scheme applicant,330
+2014,Less than -6 points,Quintile 1,Main scheme applicant,400
+2014,Less than -6 points,Quintile 2,Main scheme applicant,585
+2014,Less than -6 points,Quintile 3,Main scheme applicant,720
+2014,Less than -6 points,Quintile 4,Main scheme applicant,870
+2014,Less than -6 points,Quintile 5,Main scheme applicant,985
+2014,Less than -6 points,Unknown,Main scheme applicant,5
+2014,More than 3 points,Quintile 1,Main scheme applicant,15
+2014,More than 3 points,Quintile 2,Main scheme applicant,30
+2014,More than 3 points,Quintile 3,Main scheme applicant,60
+2014,More than 3 points,Quintile 4,Main scheme applicant,40
+2014,More than 3 points,Quintile 5,Main scheme applicant,65
+2015,-1 points,Quintile 1,Main scheme applicant,2890
+2015,-1 points,Quintile 2,Main scheme applicant,4560
+2015,-1 points,Quintile 3,Main scheme applicant,6480
+2015,-1 points,Quintile 4,Main scheme applicant,8675
+2015,-1 points,Quintile 5,Main scheme applicant,14635
+2015,-1 points,Unknown,Main scheme applicant,30
+2015,-2 points,Quintile 1,Main scheme applicant,3115
+2015,-2 points,Quintile 2,Main scheme applicant,4885
+2015,-2 points,Quintile 3,Main scheme applicant,6630
+2015,-2 points,Quintile 4,Main scheme applicant,8600
+2015,-2 points,Quintile 5,Main scheme applicant,13775
+2015,-2 points,Unknown,Main scheme applicant,25
+2015,-3 points,Quintile 1,Main scheme applicant,2600
+2015,-3 points,Quintile 2,Main scheme applicant,3805
+2015,-3 points,Quintile 3,Main scheme applicant,5075
+2015,-3 points,Quintile 4,Main scheme applicant,6480
+2015,-3 points,Quintile 5,Main scheme applicant,8995
+2015,-3 points,Unknown,Main scheme applicant,25
+2015,-4 points,Quintile 1,Main scheme applicant,1535
+2015,-4 points,Quintile 2,Main scheme applicant,2260
+2015,-4 points,Quintile 3,Main scheme applicant,3150
+2015,-4 points,Quintile 4,Main scheme applicant,3710
+2015,-4 points,Quintile 5,Main scheme applicant,4885
+2015,-4 points,Unknown,Main scheme applicant,10
+2015,-5 points,Quintile 1,Main scheme applicant,820
+2015,-5 points,Quintile 2,Main scheme applicant,1245
+2015,-5 points,Quintile 3,Main scheme applicant,1525
+2015,-5 points,Quintile 4,Main scheme applicant,1880
+2015,-5 points,Quintile 5,Main scheme applicant,2325
+2015,-5 points,Unknown,Main scheme applicant,5
+2015,-6 points,Quintile 1,Main scheme applicant,445
+2015,-6 points,Quintile 2,Main scheme applicant,625
+2015,-6 points,Quintile 3,Main scheme applicant,740
+2015,-6 points,Quintile 4,Main scheme applicant,870
+2015,-6 points,Quintile 5,Main scheme applicant,1065
+2015,-6 points,Unknown,Main scheme applicant,5
+2015,0 points,Quintile 1,Main scheme applicant,1970
+2015,0 points,Quintile 2,Main scheme applicant,3245
+2015,0 points,Quintile 3,Main scheme applicant,4585
+2015,0 points,Quintile 4,Main scheme applicant,6340
+2015,0 points,Quintile 5,Main scheme applicant,11420
+2015,0 points,Unknown,Main scheme applicant,25
+2015,1 point,Quintile 1,Main scheme applicant,800
+2015,1 point,Quintile 2,Main scheme applicant,1315
+2015,1 point,Quintile 3,Main scheme applicant,1855
+2015,1 point,Quintile 4,Main scheme applicant,2510
+2015,1 point,Quintile 5,Main scheme applicant,4435
+2015,1 point,Unknown,Main scheme applicant,10
+2015,2 points,Quintile 1,Main scheme applicant,265
+2015,2 points,Quintile 2,Main scheme applicant,445
+2015,2 points,Quintile 3,Main scheme applicant,595
+2015,2 points,Quintile 4,Main scheme applicant,765
+2015,2 points,Quintile 5,Main scheme applicant,1375
+2015,3 points,Quintile 1,Main scheme applicant,70
+2015,3 points,Quintile 2,Main scheme applicant,100
+2015,3 points,Quintile 3,Main scheme applicant,135
+2015,3 points,Quintile 4,Main scheme applicant,210
+2015,3 points,Quintile 5,Main scheme applicant,305
+2015,Less than -6 points,Quintile 1,Main scheme applicant,435
+2015,Less than -6 points,Quintile 2,Main scheme applicant,560
+2015,Less than -6 points,Quintile 3,Main scheme applicant,730
+2015,Less than -6 points,Quintile 4,Main scheme applicant,885
+2015,Less than -6 points,Quintile 5,Main scheme applicant,1015
+2015,More than 3 points,Quintile 1,Main scheme applicant,25
+2015,More than 3 points,Quintile 2,Main scheme applicant,35
+2015,More than 3 points,Quintile 3,Main scheme applicant,30
+2015,More than 3 points,Quintile 4,Main scheme applicant,50
+2015,More than 3 points,Quintile 5,Main scheme applicant,85
+2016,-1 points,Quintile 1,Main scheme applicant,2805
+2016,-1 points,Quintile 2,Main scheme applicant,4500
+2016,-1 points,Quintile 3,Main scheme applicant,6260
+2016,-1 points,Quintile 4,Main scheme applicant,8300
+2016,-1 points,Quintile 5,Main scheme applicant,14390
+2016,-1 points,Unknown,Main scheme applicant,35
+2016,-2 points,Quintile 1,Main scheme applicant,3070
+2016,-2 points,Quintile 2,Main scheme applicant,4930
+2016,-2 points,Quintile 3,Main scheme applicant,6675
+2016,-2 points,Quintile 4,Main scheme applicant,8620
+2016,-2 points,Quintile 5,Main scheme applicant,13810
+2016,-2 points,Unknown,Main scheme applicant,30
+2016,-3 points,Quintile 1,Main scheme applicant,2585
+2016,-3 points,Quintile 2,Main scheme applicant,3980
+2016,-3 points,Quintile 3,Main scheme applicant,5120
+2016,-3 points,Quintile 4,Main scheme applicant,6655
+2016,-3 points,Quintile 5,Main scheme applicant,9515
+2016,-3 points,Unknown,Main scheme applicant,25
+2016,-4 points,Quintile 1,Main scheme applicant,1715
+2016,-4 points,Quintile 2,Main scheme applicant,2375
+2016,-4 points,Quintile 3,Main scheme applicant,3060
+2016,-4 points,Quintile 4,Main scheme applicant,3805
+2016,-4 points,Quintile 5,Main scheme applicant,5175
+2016,-4 points,Unknown,Main scheme applicant,10
+2016,-5 points,Quintile 1,Main scheme applicant,930
+2016,-5 points,Quintile 2,Main scheme applicant,1335
+2016,-5 points,Quintile 3,Main scheme applicant,1765
+2016,-5 points,Quintile 4,Main scheme applicant,1995
+2016,-5 points,Quintile 5,Main scheme applicant,2525
+2016,-5 points,Unknown,Main scheme applicant,10
+2016,-6 points,Quintile 1,Main scheme applicant,485
+2016,-6 points,Quintile 2,Main scheme applicant,680
+2016,-6 points,Quintile 3,Main scheme applicant,820
+2016,-6 points,Quintile 4,Main scheme applicant,955
+2016,-6 points,Quintile 5,Main scheme applicant,1150
+2016,0 points,Quintile 1,Main scheme applicant,1810
+2016,0 points,Quintile 2,Main scheme applicant,3035
+2016,0 points,Quintile 3,Main scheme applicant,4275
+2016,0 points,Quintile 4,Main scheme applicant,5970
+2016,0 points,Quintile 5,Main scheme applicant,11235
+2016,0 points,Unknown,Main scheme applicant,15
+2016,1 point,Quintile 1,Main scheme applicant,720
+2016,1 point,Quintile 2,Main scheme applicant,1220
+2016,1 point,Quintile 3,Main scheme applicant,1745
+2016,1 point,Quintile 4,Main scheme applicant,2290
+2016,1 point,Quintile 5,Main scheme applicant,4050
+2016,1 point,Unknown,Main scheme applicant,5
+2016,2 points,Quintile 1,Main scheme applicant,255
+2016,2 points,Quintile 2,Main scheme applicant,400
+2016,2 points,Quintile 3,Main scheme applicant,560
+2016,2 points,Quintile 4,Main scheme applicant,735
+2016,2 points,Quintile 5,Main scheme applicant,1250
+2016,2 points,Unknown,Main scheme applicant,5
+2016,3 points,Quintile 1,Main scheme applicant,55
+2016,3 points,Quintile 2,Main scheme applicant,100
+2016,3 points,Quintile 3,Main scheme applicant,160
+2016,3 points,Quintile 4,Main scheme applicant,205
+2016,3 points,Quintile 5,Main scheme applicant,315
+2016,Less than -6 points,Quintile 1,Main scheme applicant,480
+2016,Less than -6 points,Quintile 2,Main scheme applicant,650
+2016,Less than -6 points,Quintile 3,Main scheme applicant,795
+2016,Less than -6 points,Quintile 4,Main scheme applicant,910
+2016,Less than -6 points,Quintile 5,Main scheme applicant,1115
+2016,Less than -6 points,Unknown,Main scheme applicant,5
+2016,More than 3 points,Quintile 1,Main scheme applicant,15
+2016,More than 3 points,Quintile 2,Main scheme applicant,25
+2016,More than 3 points,Quintile 3,Main scheme applicant,30
+2016,More than 3 points,Quintile 4,Main scheme applicant,45
+2016,More than 3 points,Quintile 5,Main scheme applicant,80
+2017,-1 points,Quintile 1,Main scheme applicant,2705
+2017,-1 points,Quintile 2,Main scheme applicant,4250
+2017,-1 points,Quintile 3,Main scheme applicant,5735
+2017,-1 points,Quintile 4,Main scheme applicant,7740
+2017,-1 points,Quintile 5,Main scheme applicant,13175
+2017,-1 points,Unknown,Main scheme applicant,20
+2017,-2 points,Quintile 1,Main scheme applicant,2970
+2017,-2 points,Quintile 2,Main scheme applicant,4440
+2017,-2 points,Quintile 3,Main scheme applicant,6015
+2017,-2 points,Quintile 4,Main scheme applicant,7910
+2017,-2 points,Quintile 5,Main scheme applicant,12640
+2017,-2 points,Unknown,Main scheme applicant,35
+2017,-3 points,Quintile 1,Main scheme applicant,2575
+2017,-3 points,Quintile 2,Main scheme applicant,3830
+2017,-3 points,Quintile 3,Main scheme applicant,4915
+2017,-3 points,Quintile 4,Main scheme applicant,6380
+2017,-3 points,Quintile 5,Main scheme applicant,9200
+2017,-3 points,Unknown,Main scheme applicant,20
+2017,-4 points,Quintile 1,Main scheme applicant,1755
+2017,-4 points,Quintile 2,Main scheme applicant,2505
+2017,-4 points,Quintile 3,Main scheme applicant,3250
+2017,-4 points,Quintile 4,Main scheme applicant,4150
+2017,-4 points,Quintile 5,Main scheme applicant,5645
+2017,-4 points,Unknown,Main scheme applicant,15
+2017,-5 points,Quintile 1,Main scheme applicant,1170
+2017,-5 points,Quintile 2,Main scheme applicant,1515
+2017,-5 points,Quintile 3,Main scheme applicant,1970
+2017,-5 points,Quintile 4,Main scheme applicant,2410
+2017,-5 points,Quintile 5,Main scheme applicant,3020
+2017,-5 points,Unknown,Main scheme applicant,10
+2017,-6 points,Quintile 1,Main scheme applicant,675
+2017,-6 points,Quintile 2,Main scheme applicant,890
+2017,-6 points,Quintile 3,Main scheme applicant,1065
+2017,-6 points,Quintile 4,Main scheme applicant,1290
+2017,-6 points,Quintile 5,Main scheme applicant,1635
+2017,-6 points,Unknown,Main scheme applicant,5
+2017,0 points,Quintile 1,Main scheme applicant,1815
+2017,0 points,Quintile 2,Main scheme applicant,2980
+2017,0 points,Quintile 3,Main scheme applicant,4440
+2017,0 points,Quintile 4,Main scheme applicant,5845
+2017,0 points,Quintile 5,Main scheme applicant,10895
+2017,0 points,Unknown,Main scheme applicant,30
+2017,1 point,Quintile 1,Main scheme applicant,850
+2017,1 point,Quintile 2,Main scheme applicant,1410
+2017,1 point,Quintile 3,Main scheme applicant,1980
+2017,1 point,Quintile 4,Main scheme applicant,2585
+2017,1 point,Quintile 5,Main scheme applicant,4525
+2017,1 point,Unknown,Main scheme applicant,5
+2017,2 points,Quintile 1,Main scheme applicant,315
+2017,2 points,Quintile 2,Main scheme applicant,480
+2017,2 points,Quintile 3,Main scheme applicant,690
+2017,2 points,Quintile 4,Main scheme applicant,950
+2017,2 points,Quintile 5,Main scheme applicant,1585
+2017,2 points,Unknown,Main scheme applicant,5
+2017,3 points,Quintile 1,Main scheme applicant,105
+2017,3 points,Quintile 2,Main scheme applicant,145
+2017,3 points,Quintile 3,Main scheme applicant,190
+2017,3 points,Quintile 4,Main scheme applicant,275
+2017,3 points,Quintile 5,Main scheme applicant,385
+2017,Less than -6 points,Quintile 1,Main scheme applicant,685
+2017,Less than -6 points,Quintile 2,Main scheme applicant,960
+2017,Less than -6 points,Quintile 3,Main scheme applicant,1185
+2017,Less than -6 points,Quintile 4,Main scheme applicant,1395
+2017,Less than -6 points,Quintile 5,Main scheme applicant,1745
+2017,Less than -6 points,Unknown,Main scheme applicant,5
+2017,More than 3 points,Quintile 1,Main scheme applicant,35
+2017,More than 3 points,Quintile 2,Main scheme applicant,50
+2017,More than 3 points,Quintile 3,Main scheme applicant,65
+2017,More than 3 points,Quintile 4,Main scheme applicant,80
+2017,More than 3 points,Quintile 5,Main scheme applicant,125
+2018,-1 points,Quintile 1,Main scheme applicant,2440
+2018,-1 points,Quintile 2,Main scheme applicant,3850
+2018,-1 points,Quintile 3,Main scheme applicant,5350
+2018,-1 points,Quintile 4,Main scheme applicant,7195
+2018,-1 points,Quintile 5,Main scheme applicant,12425
+2018,-1 points,Unknown,Main scheme applicant,25
+2018,-2 points,Quintile 1,Main scheme applicant,2685
+2018,-2 points,Quintile 2,Main scheme applicant,4220
+2018,-2 points,Quintile 3,Main scheme applicant,5530
+2018,-2 points,Quintile 4,Main scheme applicant,7335
+2018,-2 points,Quintile 5,Main scheme applicant,11770
+2018,-2 points,Unknown,Main scheme applicant,20
+2018,-3 points,Quintile 1,Main scheme applicant,2520
+2018,-3 points,Quintile 2,Main scheme applicant,3675
+2018,-3 points,Quintile 3,Main scheme applicant,4820
+2018,-3 points,Quintile 4,Main scheme applicant,6195
+2018,-3 points,Quintile 5,Main scheme applicant,9020
+2018,-3 points,Unknown,Main scheme applicant,25
+2018,-4 points,Quintile 1,Main scheme applicant,1830
+2018,-4 points,Quintile 2,Main scheme applicant,2595
+2018,-4 points,Quintile 3,Main scheme applicant,3345
+2018,-4 points,Quintile 4,Main scheme applicant,4220
+2018,-4 points,Quintile 5,Main scheme applicant,5645
+2018,-4 points,Unknown,Main scheme applicant,15
+2018,-5 points,Quintile 1,Main scheme applicant,1220
+2018,-5 points,Quintile 2,Main scheme applicant,1730
+2018,-5 points,Quintile 3,Main scheme applicant,2165
+2018,-5 points,Quintile 4,Main scheme applicant,2655
+2018,-5 points,Quintile 5,Main scheme applicant,3245
+2018,-5 points,Unknown,Main scheme applicant,10
+2018,-6 points,Quintile 1,Main scheme applicant,635
+2018,-6 points,Quintile 2,Main scheme applicant,1080
+2018,-6 points,Quintile 3,Main scheme applicant,1270
+2018,-6 points,Quintile 4,Main scheme applicant,1475
+2018,-6 points,Quintile 5,Main scheme applicant,1825
+2018,-6 points,Unknown,Main scheme applicant,5
+2018,0 points,Quintile 1,Main scheme applicant,1730
+2018,0 points,Quintile 2,Main scheme applicant,2790
+2018,0 points,Quintile 3,Main scheme applicant,3805
+2018,0 points,Quintile 4,Main scheme applicant,5630
+2018,0 points,Quintile 5,Main scheme applicant,10480
+2018,0 points,Unknown,Main scheme applicant,20
+2018,1 point,Quintile 1,Main scheme applicant,750
+2018,1 point,Quintile 2,Main scheme applicant,1275
+2018,1 point,Quintile 3,Main scheme applicant,1745
+2018,1 point,Quintile 4,Main scheme applicant,2360
+2018,1 point,Quintile 5,Main scheme applicant,4270
+2018,1 point,Unknown,Main scheme applicant,10
+2018,2 points,Quintile 1,Main scheme applicant,260
+2018,2 points,Quintile 2,Main scheme applicant,455
+2018,2 points,Quintile 3,Main scheme applicant,620
+2018,2 points,Quintile 4,Main scheme applicant,870
+2018,2 points,Quintile 5,Main scheme applicant,1420
+2018,3 points,Quintile 1,Main scheme applicant,70
+2018,3 points,Quintile 2,Main scheme applicant,130
+2018,3 points,Quintile 3,Main scheme applicant,170
+2018,3 points,Quintile 4,Main scheme applicant,265
+2018,3 points,Quintile 5,Main scheme applicant,390
+2018,Less than -6 points,Quintile 1,Main scheme applicant,880
+2018,Less than -6 points,Quintile 2,Main scheme applicant,1145
+2018,Less than -6 points,Quintile 3,Main scheme applicant,1545
+2018,Less than -6 points,Quintile 4,Main scheme applicant,1825
+2018,Less than -6 points,Quintile 5,Main scheme applicant,2085
+2018,Less than -6 points,Unknown,Main scheme applicant,5
+2018,More than 3 points,Quintile 1,Main scheme applicant,35
+2018,More than 3 points,Quintile 2,Main scheme applicant,35
+2018,More than 3 points,Quintile 3,Main scheme applicant,45
+2018,More than 3 points,Quintile 4,Main scheme applicant,70
+2018,More than 3 points,Quintile 5,Main scheme applicant,125
+2019,-1 points,Quintile 1,Main scheme applicant,2235
+2019,-1 points,Quintile 2,Main scheme applicant,3345
+2019,-1 points,Quintile 3,Main scheme applicant,4630
+2019,-1 points,Quintile 4,Main scheme applicant,6335
+2019,-1 points,Quintile 5,Main scheme applicant,11160
+2019,-1 points,Unknown,Main scheme applicant,20
+2019,-2 points,Quintile 1,Main scheme applicant,2540
+2019,-2 points,Quintile 2,Main scheme applicant,3900
+2019,-2 points,Quintile 3,Main scheme applicant,5360
+2019,-2 points,Quintile 4,Main scheme applicant,7175
+2019,-2 points,Quintile 5,Main scheme applicant,11460
+2019,-2 points,Unknown,Main scheme applicant,25
+2019,-3 points,Quintile 1,Main scheme applicant,2350
+2019,-3 points,Quintile 2,Main scheme applicant,3560
+2019,-3 points,Quintile 3,Main scheme applicant,4745
+2019,-3 points,Quintile 4,Main scheme applicant,6200
+2019,-3 points,Quintile 5,Main scheme applicant,9170
+2019,-3 points,Unknown,Main scheme applicant,20
+2019,-4 points,Quintile 1,Main scheme applicant,2045
+2019,-4 points,Quintile 2,Main scheme applicant,2765
+2019,-4 points,Quintile 3,Main scheme applicant,3625
+2019,-4 points,Quintile 4,Main scheme applicant,4645
+2019,-4 points,Quintile 5,Main scheme applicant,6345
+2019,-4 points,Unknown,Main scheme applicant,20
+2019,-5 points,Quintile 1,Main scheme applicant,1480
+2019,-5 points,Quintile 2,Main scheme applicant,2005
+2019,-5 points,Quintile 3,Main scheme applicant,2450
+2019,-5 points,Quintile 4,Main scheme applicant,3145
+2019,-5 points,Quintile 5,Main scheme applicant,3915
+2019,-5 points,Unknown,Main scheme applicant,10
+2019,-6 points,Quintile 1,Main scheme applicant,915
+2019,-6 points,Quintile 2,Main scheme applicant,1250
+2019,-6 points,Quintile 3,Main scheme applicant,1520
+2019,-6 points,Quintile 4,Main scheme applicant,1880
+2019,-6 points,Quintile 5,Main scheme applicant,2420
+2019,-6 points,Unknown,Main scheme applicant,5
+2019,0 points,Quintile 1,Main scheme applicant,1445
+2019,0 points,Quintile 2,Main scheme applicant,2280
+2019,0 points,Quintile 3,Main scheme applicant,3500
+2019,0 points,Quintile 4,Main scheme applicant,4850
+2019,0 points,Quintile 5,Main scheme applicant,9360
+2019,0 points,Unknown,Main scheme applicant,10
+2019,1 point,Quintile 1,Main scheme applicant,600
+2019,1 point,Quintile 2,Main scheme applicant,1030
+2019,1 point,Quintile 3,Main scheme applicant,1415
+2019,1 point,Quintile 4,Main scheme applicant,2030
+2019,1 point,Quintile 5,Main scheme applicant,3530
+2019,1 point,Unknown,Main scheme applicant,10
+2019,2 points,Quintile 1,Main scheme applicant,220
+2019,2 points,Quintile 2,Main scheme applicant,340
+2019,2 points,Quintile 3,Main scheme applicant,510
+2019,2 points,Quintile 4,Main scheme applicant,660
+2019,2 points,Quintile 5,Main scheme applicant,1260
+2019,3 points,Quintile 1,Main scheme applicant,75
+2019,3 points,Quintile 2,Main scheme applicant,100
+2019,3 points,Quintile 3,Main scheme applicant,155
+2019,3 points,Quintile 4,Main scheme applicant,200
+2019,3 points,Quintile 5,Main scheme applicant,390
+2019,Less than -6 points,Quintile 1,Main scheme applicant,1255
+2019,Less than -6 points,Quintile 2,Main scheme applicant,1580
+2019,Less than -6 points,Quintile 3,Main scheme applicant,2140
+2019,Less than -6 points,Quintile 4,Main scheme applicant,2655
+2019,Less than -6 points,Quintile 5,Main scheme applicant,2845
+2019,Less than -6 points,Unknown,Main scheme applicant,10
+2019,More than 3 points,Quintile 1,Main scheme applicant,25
+2019,More than 3 points,Quintile 2,Main scheme applicant,30
+2019,More than 3 points,Quintile 3,Main scheme applicant,50
+2019,More than 3 points,Quintile 4,Main scheme applicant,60
+2019,More than 3 points,Quintile 5,Main scheme applicant,105
+2020,-1 points,Quintile 1,Main scheme applicant,3365
+2020,-1 points,Quintile 2,Main scheme applicant,4780
+2020,-1 points,Quintile 3,Main scheme applicant,6540
+2020,-1 points,Quintile 4,Main scheme applicant,8780
+2020,-1 points,Quintile 5,Main scheme applicant,14420
+2020,-1 points,Unknown,Main scheme applicant,30
+2020,-2 points,Quintile 1,Main scheme applicant,2495
+2020,-2 points,Quintile 2,Main scheme applicant,3635
+2020,-2 points,Quintile 3,Main scheme applicant,4765
+2020,-2 points,Quintile 4,Main scheme applicant,6390
+2020,-2 points,Quintile 5,Main scheme applicant,9575
+2020,-2 points,Unknown,Main scheme applicant,10
+2020,-3 points,Quintile 1,Main scheme applicant,1495
+2020,-3 points,Quintile 2,Main scheme applicant,2160
+2020,-3 points,Quintile 3,Main scheme applicant,2895
+2020,-3 points,Quintile 4,Main scheme applicant,3900
+2020,-3 points,Quintile 5,Main scheme applicant,5290
+2020,-3 points,Unknown,Main scheme applicant,15
+2020,-4 points,Quintile 1,Main scheme applicant,835
+2020,-4 points,Quintile 2,Main scheme applicant,1130
+2020,-4 points,Quintile 3,Main scheme applicant,1465
+2020,-4 points,Quintile 4,Main scheme applicant,1935
+2020,-4 points,Quintile 5,Main scheme applicant,2525
+2020,-4 points,Unknown,Main scheme applicant,10
+2020,-5 points,Quintile 1,Main scheme applicant,370
+2020,-5 points,Quintile 2,Main scheme applicant,560
+2020,-5 points,Quintile 3,Main scheme applicant,705
+2020,-5 points,Quintile 4,Main scheme applicant,960
+2020,-5 points,Quintile 5,Main scheme applicant,1165
+2020,-6 points,Quintile 1,Main scheme applicant,205
+2020,-6 points,Quintile 2,Main scheme applicant,260
+2020,-6 points,Quintile 3,Main scheme applicant,330
+2020,-6 points,Quintile 4,Main scheme applicant,475
+2020,-6 points,Quintile 5,Main scheme applicant,515
+2020,0 points,Quintile 1,Main scheme applicant,3485
+2020,0 points,Quintile 2,Main scheme applicant,5210
+2020,0 points,Quintile 3,Main scheme applicant,7200
+2020,0 points,Quintile 4,Main scheme applicant,9810
+2020,0 points,Quintile 5,Main scheme applicant,17960
+2020,0 points,Unknown,Main scheme applicant,25
+2020,1 point,Quintile 1,Main scheme applicant,1750
+2020,1 point,Quintile 2,Main scheme applicant,2695
+2020,1 point,Quintile 3,Main scheme applicant,3665
+2020,1 point,Quintile 4,Main scheme applicant,4765
+2020,1 point,Quintile 5,Main scheme applicant,7695
+2020,1 point,Unknown,Main scheme applicant,15
+2020,2 points,Quintile 1,Main scheme applicant,700
+2020,2 points,Quintile 2,Main scheme applicant,955
+2020,2 points,Quintile 3,Main scheme applicant,1260
+2020,2 points,Quintile 4,Main scheme applicant,1575
+2020,2 points,Quintile 5,Main scheme applicant,2350
+2020,2 points,Unknown,Main scheme applicant,5
+2020,3 points,Quintile 1,Main scheme applicant,175
+2020,3 points,Quintile 2,Main scheme applicant,260
+2020,3 points,Quintile 3,Main scheme applicant,295
+2020,3 points,Quintile 4,Main scheme applicant,385
+2020,3 points,Quintile 5,Main scheme applicant,495
+2020,Less than -6 points,Quintile 1,Main scheme applicant,235
+2020,Less than -6 points,Quintile 2,Main scheme applicant,285
+2020,Less than -6 points,Quintile 3,Main scheme applicant,320
+2020,Less than -6 points,Quintile 4,Main scheme applicant,450
+2020,Less than -6 points,Quintile 5,Main scheme applicant,510
+2020,Less than -6 points,Unknown,Main scheme applicant,5
+2020,More than 3 points,Quintile 1,Main scheme applicant,35
+2020,More than 3 points,Quintile 2,Main scheme applicant,30
+2020,More than 3 points,Quintile 3,Main scheme applicant,55
+2020,More than 3 points,Quintile 4,Main scheme applicant,65
+2020,More than 3 points,Quintile 5,Main scheme applicant,70
+2021,-1 points,Quintile 1,Main scheme applicant,3075
+2021,-1 points,Quintile 2,Main scheme applicant,4530
+2021,-1 points,Quintile 3,Main scheme applicant,6015
+2021,-1 points,Quintile 4,Main scheme applicant,8075
+2021,-1 points,Quintile 5,Main scheme applicant,12475
+2021,-1 points,Unknown,Main scheme applicant,25
+2021,-2 points,Quintile 1,Main scheme applicant,2255
+2021,-2 points,Quintile 2,Main scheme applicant,3195
+2021,-2 points,Quintile 3,Main scheme applicant,4155
+2021,-2 points,Quintile 4,Main scheme applicant,5145
+2021,-2 points,Quintile 5,Main scheme applicant,7675
+2021,-2 points,Unknown,Main scheme applicant,10
+2021,-3 points,Quintile 1,Main scheme applicant,1310
+2021,-3 points,Quintile 2,Main scheme applicant,1905
+2021,-3 points,Quintile 3,Main scheme applicant,2390
+2021,-3 points,Quintile 4,Main scheme applicant,3090
+2021,-3 points,Quintile 5,Main scheme applicant,4220
+2021,-3 points,Unknown,Main scheme applicant,10
+2021,-4 points,Quintile 1,Main scheme applicant,750
+2021,-4 points,Quintile 2,Main scheme applicant,1015
+2021,-4 points,Quintile 3,Main scheme applicant,1365
+2021,-4 points,Quintile 4,Main scheme applicant,1620
+2021,-4 points,Quintile 5,Main scheme applicant,2135
+2021,-4 points,Unknown,Main scheme applicant,5
+2021,-5 points,Quintile 1,Main scheme applicant,415
+2021,-5 points,Quintile 2,Main scheme applicant,535
+2021,-5 points,Quintile 3,Main scheme applicant,675
+2021,-5 points,Quintile 4,Main scheme applicant,825
+2021,-5 points,Quintile 5,Main scheme applicant,970
+2021,-5 points,Unknown,Main scheme applicant,5
+2021,-6 points,Quintile 1,Main scheme applicant,220
+2021,-6 points,Quintile 2,Main scheme applicant,265
+2021,-6 points,Quintile 3,Main scheme applicant,300
+2021,-6 points,Quintile 4,Main scheme applicant,415
+2021,-6 points,Quintile 5,Main scheme applicant,465
+2021,0 points,Quintile 1,Main scheme applicant,3700
+2021,0 points,Quintile 2,Main scheme applicant,5835
+2021,0 points,Quintile 3,Main scheme applicant,7930
+2021,0 points,Quintile 4,Main scheme applicant,10965
+2021,0 points,Quintile 5,Main scheme applicant,20175
+2021,0 points,Unknown,Main scheme applicant,30
+2021,1 point,Quintile 1,Main scheme applicant,2470
+2021,1 point,Quintile 2,Main scheme applicant,3825
+2021,1 point,Quintile 3,Main scheme applicant,5120
+2021,1 point,Quintile 4,Main scheme applicant,6770
+2021,1 point,Quintile 5,Main scheme applicant,11675
+2021,1 point,Unknown,Main scheme applicant,25
+2021,2 points,Quintile 1,Main scheme applicant,1230
+2021,2 points,Quintile 2,Main scheme applicant,1785
+2021,2 points,Quintile 3,Main scheme applicant,2495
+2021,2 points,Quintile 4,Main scheme applicant,3195
+2021,2 points,Quintile 5,Main scheme applicant,5375
+2021,2 points,Unknown,Main scheme applicant,10
+2021,3 points,Quintile 1,Main scheme applicant,425
+2021,3 points,Quintile 2,Main scheme applicant,660
+2021,3 points,Quintile 3,Main scheme applicant,880
+2021,3 points,Quintile 4,Main scheme applicant,1150
+2021,3 points,Quintile 5,Main scheme applicant,1640
+2021,3 points,Unknown,Main scheme applicant,5
+2021,Less than -6 points,Quintile 1,Main scheme applicant,220
+2021,Less than -6 points,Quintile 2,Main scheme applicant,265
+2021,Less than -6 points,Quintile 3,Main scheme applicant,345
+2021,Less than -6 points,Quintile 4,Main scheme applicant,430
+2021,Less than -6 points,Quintile 5,Main scheme applicant,440
+2021,More than 3 points,Quintile 1,Main scheme applicant,165
+2021,More than 3 points,Quintile 2,Main scheme applicant,210
+2021,More than 3 points,Quintile 3,Main scheme applicant,275
+2021,More than 3 points,Quintile 4,Main scheme applicant,350
+2021,More than 3 points,Quintile 5,Main scheme applicant,450
+2021,More than 3 points,Unknown,Main scheme applicant,5

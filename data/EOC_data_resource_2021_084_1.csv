@@ -1,0 +1,2148 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2021 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 9 December 2021"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2021_084_1"
+"Cycles: 2010 - 2021"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Achieved SQA points (Advance Highers), Ethnic group, Applicant type                                          "
+"Coverage: Scotish 18 year old applicants"
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Data lines are comma delimited."
+"Data follows -     2132 lines in total"
+"------------------------------------------------------------------"
+Year,Achieved SQA points (Advance Highers),Ethnic group,Applicant type,Applicants,
+2010,All,All,All,20205
+2011,All,All,All,19555
+2012,All,All,All,19460
+2013,All,All,All,19420
+2014,All,All,All,19415
+2015,All,All,All,20005
+2016,All,All,All,19720
+2017,All,All,All,19285
+2018,All,All,All,18570
+2019,All,All,All,17940
+2020,All,All,All,17640
+2021,All,All,All,20270
+2010,All,All,Main scheme applicant,19700
+2010,All,All,Non-main scheme applicant,505
+2011,All,All,Main scheme applicant,19355
+2011,All,All,Non-main scheme applicant,200
+2012,All,All,Main scheme applicant,19105
+2012,All,All,Non-main scheme applicant,355
+2013,All,All,Main scheme applicant,19035
+2013,All,All,Non-main scheme applicant,390
+2014,All,All,Main scheme applicant,19360
+2014,All,All,Non-main scheme applicant,55
+2015,All,All,Main scheme applicant,19570
+2015,All,All,Non-main scheme applicant,435
+2016,All,All,Main scheme applicant,19320
+2016,All,All,Non-main scheme applicant,400
+2017,All,All,Main scheme applicant,18905
+2017,All,All,Non-main scheme applicant,380
+2018,All,All,Main scheme applicant,18210
+2018,All,All,Non-main scheme applicant,360
+2019,All,All,Main scheme applicant,17610
+2019,All,All,Non-main scheme applicant,330
+2020,All,All,Main scheme applicant,17165
+2020,All,All,Non-main scheme applicant,470
+2021,All,All,Main scheme applicant,19935
+2021,All,All,Non-main scheme applicant,330
+2010,All,Asian,All,635
+2010,All,Black,All,75
+2010,All,Mixed,All,235
+2010,All,Other,All,20
+2010,All,Unknown or Prefer Not To Say,All,120
+2010,All,White,All,19115
+2011,All,Asian,All,665
+2011,All,Black,All,85
+2011,All,Mixed,All,295
+2011,All,Other,All,50
+2011,All,Unknown or Prefer Not To Say,All,55
+2011,All,White,All,18405
+2012,All,Asian,All,725
+2012,All,Black,All,90
+2012,All,Mixed,All,260
+2012,All,Other,All,55
+2012,All,Unknown or Prefer Not To Say,All,55
+2012,All,White,All,18275
+2013,All,Asian,All,715
+2013,All,Black,All,110
+2013,All,Mixed,All,290
+2013,All,Other,All,60
+2013,All,Unknown or Prefer Not To Say,All,65
+2013,All,White,All,18185
+2014,All,Asian,All,755
+2014,All,Black,All,105
+2014,All,Mixed,All,285
+2014,All,Other,All,65
+2014,All,Unknown or Prefer Not To Say,All,55
+2014,All,White,All,18150
+2015,All,Asian,All,800
+2015,All,Black,All,125
+2015,All,Mixed,All,335
+2015,All,Other,All,90
+2015,All,Unknown or Prefer Not To Say,All,65
+2015,All,White,All,18585
+2016,All,Asian,All,840
+2016,All,Black,All,140
+2016,All,Mixed,All,350
+2016,All,Other,All,85
+2016,All,Unknown or Prefer Not To Say,All,100
+2016,All,White,All,18200
+2017,All,Asian,All,875
+2017,All,Black,All,165
+2017,All,Mixed,All,350
+2017,All,Other,All,80
+2017,All,Unknown or Prefer Not To Say,All,85
+2017,All,White,All,17720
+2018,All,Asian,All,950
+2018,All,Black,All,210
+2018,All,Mixed,All,370
+2018,All,Other,All,95
+2018,All,Unknown or Prefer Not To Say,All,95
+2018,All,White,All,16850
+2019,All,Asian,All,965
+2019,All,Black,All,215
+2019,All,Mixed,All,420
+2019,All,Other,All,115
+2019,All,Unknown or Prefer Not To Say,All,115
+2019,All,White,All,16115
+2020,All,Asian,All,1115
+2020,All,Black,All,280
+2020,All,Mixed,All,435
+2020,All,Other,All,150
+2020,All,Unknown or Prefer Not To Say,All,105
+2020,All,White,All,15545
+2021,All,Asian,All,1120
+2021,All,Black,All,340
+2021,All,Mixed,All,550
+2021,All,Other,All,160
+2021,All,Unknown or Prefer Not To Say,All,120
+2021,All,White,All,17980
+2010,All,Asian,Main scheme applicant,630
+2010,All,Asian,Non-main scheme applicant,5
+2010,All,Black,Main scheme applicant,75
+2010,All,Mixed,Main scheme applicant,230
+2010,All,Mixed,Non-main scheme applicant,5
+2010,All,Other,Main scheme applicant,20
+2010,All,Unknown or Prefer Not To Say,Main scheme applicant,60
+2010,All,Unknown or Prefer Not To Say,Non-main scheme applicant,60
+2010,All,White,Main scheme applicant,18680
+2010,All,White,Non-main scheme applicant,435
+2011,All,Asian,Main scheme applicant,660
+2011,All,Asian,Non-main scheme applicant,5
+2011,All,Black,Main scheme applicant,85
+2011,All,Black,Non-main scheme applicant,5
+2011,All,Mixed,Main scheme applicant,295
+2011,All,Other,Main scheme applicant,45
+2011,All,Unknown or Prefer Not To Say,Main scheme applicant,50
+2011,All,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2011,All,White,Main scheme applicant,18225
+2011,All,White,Non-main scheme applicant,180
+2012,All,Asian,Main scheme applicant,725
+2012,All,Black,Main scheme applicant,90
+2012,All,Mixed,Main scheme applicant,255
+2012,All,Mixed,Non-main scheme applicant,5
+2012,All,Other,Main scheme applicant,55
+2012,All,Unknown or Prefer Not To Say,Main scheme applicant,45
+2012,All,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2012,All,White,Main scheme applicant,17935
+2012,All,White,Non-main scheme applicant,340
+2013,All,Asian,Main scheme applicant,705
+2013,All,Asian,Non-main scheme applicant,10
+2013,All,Black,Main scheme applicant,110
+2013,All,Mixed,Main scheme applicant,285
+2013,All,Other,Main scheme applicant,60
+2013,All,Unknown or Prefer Not To Say,Main scheme applicant,60
+2013,All,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2013,All,White,Main scheme applicant,17815
+2013,All,White,Non-main scheme applicant,375
+2014,All,Asian,Main scheme applicant,755
+2014,All,Black,Main scheme applicant,105
+2014,All,Mixed,Main scheme applicant,285
+2014,All,Other,Main scheme applicant,60
+2014,All,Unknown or Prefer Not To Say,Main scheme applicant,45
+2014,All,Unknown or Prefer Not To Say,Non-main scheme applicant,15
+2014,All,White,Main scheme applicant,18115
+2014,All,White,Non-main scheme applicant,40
+2015,All,Asian,Main scheme applicant,800
+2015,All,Asian,Non-main scheme applicant,5
+2015,All,Black,Main scheme applicant,125
+2015,All,Mixed,Main scheme applicant,330
+2015,All,Mixed,Non-main scheme applicant,5
+2015,All,Other,Main scheme applicant,85
+2015,All,Other,Non-main scheme applicant,5
+2015,All,Unknown or Prefer Not To Say,Main scheme applicant,65
+2015,All,White,Main scheme applicant,18165
+2015,All,White,Non-main scheme applicant,420
+2016,All,Asian,Main scheme applicant,835
+2016,All,Asian,Non-main scheme applicant,5
+2016,All,Black,Main scheme applicant,140
+2016,All,Black,Non-main scheme applicant,5
+2016,All,Mixed,Main scheme applicant,345
+2016,All,Mixed,Non-main scheme applicant,5
+2016,All,Other,Main scheme applicant,85
+2016,All,Unknown or Prefer Not To Say,Main scheme applicant,95
+2016,All,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2016,All,White,Main scheme applicant,17820
+2016,All,White,Non-main scheme applicant,380
+2017,All,Asian,Main scheme applicant,870
+2017,All,Asian,Non-main scheme applicant,5
+2017,All,Black,Main scheme applicant,165
+2017,All,Mixed,Main scheme applicant,350
+2017,All,Mixed,Non-main scheme applicant,5
+2017,All,Other,Main scheme applicant,80
+2017,All,Unknown or Prefer Not To Say,Main scheme applicant,75
+2017,All,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2017,All,White,Main scheme applicant,17365
+2017,All,White,Non-main scheme applicant,355
+2018,All,Asian,Main scheme applicant,945
+2018,All,Asian,Non-main scheme applicant,5
+2018,All,Black,Main scheme applicant,210
+2018,All,Mixed,Main scheme applicant,370
+2018,All,Mixed,Non-main scheme applicant,5
+2018,All,Other,Main scheme applicant,90
+2018,All,Other,Non-main scheme applicant,5
+2018,All,Unknown or Prefer Not To Say,Main scheme applicant,85
+2018,All,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2018,All,White,Main scheme applicant,16515
+2018,All,White,Non-main scheme applicant,330
+2019,All,Asian,Main scheme applicant,960
+2019,All,Asian,Non-main scheme applicant,5
+2019,All,Black,Main scheme applicant,210
+2019,All,Black,Non-main scheme applicant,5
+2019,All,Mixed,Main scheme applicant,415
+2019,All,Mixed,Non-main scheme applicant,5
+2019,All,Other,Main scheme applicant,115
+2019,All,Unknown or Prefer Not To Say,Main scheme applicant,110
+2019,All,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2019,All,White,Main scheme applicant,15800
+2019,All,White,Non-main scheme applicant,315
+2020,All,Asian,Main scheme applicant,1105
+2020,All,Asian,Non-main scheme applicant,15
+2020,All,Black,Main scheme applicant,275
+2020,All,Black,Non-main scheme applicant,5
+2020,All,Mixed,Main scheme applicant,420
+2020,All,Mixed,Non-main scheme applicant,15
+2020,All,Other,Main scheme applicant,150
+2020,All,Unknown or Prefer Not To Say,Main scheme applicant,85
+2020,All,Unknown or Prefer Not To Say,Non-main scheme applicant,20
+2020,All,White,Main scheme applicant,15125
+2020,All,White,Non-main scheme applicant,420
+2021,All,Asian,Main scheme applicant,1110
+2021,All,Asian,Non-main scheme applicant,10
+2021,All,Black,Main scheme applicant,335
+2021,All,Black,Non-main scheme applicant,5
+2021,All,Mixed,Main scheme applicant,535
+2021,All,Mixed,Non-main scheme applicant,15
+2021,All,Other,Main scheme applicant,155
+2021,All,Other,Non-main scheme applicant,5
+2021,All,Unknown or Prefer Not To Say,Main scheme applicant,115
+2021,All,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2021,All,White,Main scheme applicant,17680
+2021,All,White,Non-main scheme applicant,300
+2010,1 point,All,All,780
+2010,10 points,All,All,195
+2010,11 points,All,All,235
+2010,12 points,All,All,430
+2010,2 points,All,All,1860
+2010,3 points,All,All,1705
+2010,4 points,All,All,1420
+2010,5 points,All,All,610
+2010,6 points,All,All,715
+2010,7 points,All,All,550
+2010,8 points,All,All,515
+2010,9 points,All,All,190
+2010,No SQA Advanced Highers achieved,All,All,11000
+2011,1 point,All,All,640
+2011,10 points,All,All,250
+2011,11 points,All,All,260
+2011,12 points,All,All,450
+2011,2 points,All,All,1785
+2011,3 points,All,All,1750
+2011,4 points,All,All,1465
+2011,5 points,All,All,665
+2011,6 points,All,All,720
+2011,7 points,All,All,665
+2011,8 points,All,All,600
+2011,9 points,All,All,220
+2011,No SQA Advanced Highers achieved,All,All,10080
+2012,1 point,All,All,635
+2012,10 points,All,All,235
+2012,11 points,All,All,260
+2012,12 points,All,All,460
+2012,2 points,All,All,1710
+2012,3 points,All,All,1750
+2012,4 points,All,All,1475
+2012,5 points,All,All,660
+2012,6 points,All,All,755
+2012,7 points,All,All,670
+2012,8 points,All,All,585
+2012,9 points,All,All,195
+2012,No SQA Advanced Highers achieved,All,All,10065
+2013,1 point,All,All,605
+2013,10 points,All,All,260
+2013,11 points,All,All,310
+2013,12 points,All,All,560
+2013,2 points,All,All,1645
+2013,3 points,All,All,1730
+2013,4 points,All,All,1545
+2013,5 points,All,All,700
+2013,6 points,All,All,770
+2013,7 points,All,All,700
+2013,8 points,All,All,640
+2013,9 points,All,All,220
+2013,No SQA Advanced Highers achieved,All,All,9735
+2014,1 point,All,All,660
+2014,10 points,All,All,275
+2014,11 points,All,All,290
+2014,12 points,All,All,525
+2014,2 points,All,All,1760
+2014,3 points,All,All,1710
+2014,4 points,All,All,1525
+2014,5 points,All,All,655
+2014,6 points,All,All,775
+2014,7 points,All,All,675
+2014,8 points,All,All,660
+2014,9 points,All,All,210
+2014,No SQA Advanced Highers achieved,All,All,9695
+2015,1 point,All,All,645
+2015,10 points,All,All,305
+2015,11 points,All,All,325
+2015,12 points,All,All,565
+2015,2 points,All,All,1765
+2015,3 points,All,All,1725
+2015,4 points,All,All,1585
+2015,5 points,All,All,655
+2015,6 points,All,All,765
+2015,7 points,All,All,730
+2015,8 points,All,All,615
+2015,9 points,All,All,255
+2015,No SQA Advanced Highers achieved,All,All,10070
+2016,1 point,All,All,625
+2016,10 points,All,All,245
+2016,11 points,All,All,325
+2016,12 points,All,All,660
+2016,2 points,All,All,1835
+2016,3 points,All,All,1690
+2016,4 points,All,All,1535
+2016,5 points,All,All,640
+2016,6 points,All,All,805
+2016,7 points,All,All,715
+2016,8 points,All,All,735
+2016,9 points,All,All,220
+2016,No SQA Advanced Highers achieved,All,All,9680
+2017,1 point,All,All,715
+2017,10 points,All,All,285
+2017,11 points,All,All,335
+2017,12 points,All,All,610
+2017,2 points,All,All,1780
+2017,3 points,All,All,1610
+2017,4 points,All,All,1630
+2017,5 points,All,All,680
+2017,6 points,All,All,790
+2017,7 points,All,All,715
+2017,8 points,All,All,610
+2017,9 points,All,All,250
+2017,No SQA Advanced Highers achieved,All,All,9270
+2018,1 point,All,All,710
+2018,10 points,All,All,275
+2018,11 points,All,All,360
+2018,12 points,All,All,645
+2018,2 points,All,All,1675
+2018,3 points,All,All,1695
+2018,4 points,All,All,1465
+2018,5 points,All,All,690
+2018,6 points,All,All,760
+2018,7 points,All,All,720
+2018,8 points,All,All,640
+2018,9 points,All,All,220
+2018,No SQA Advanced Highers achieved,All,All,8710
+2019,1 point,All,All,710
+2019,10 points,All,All,260
+2019,11 points,All,All,315
+2019,12 points,All,All,610
+2019,2 points,All,All,1685
+2019,3 points,All,All,1520
+2019,4 points,All,All,1390
+2019,5 points,All,All,620
+2019,6 points,All,All,690
+2019,7 points,All,All,700
+2019,8 points,All,All,655
+2019,9 points,All,All,215
+2019,No SQA Advanced Highers achieved,All,All,8570
+2020,1 point,All,All,310
+2020,10 points,All,All,260
+2020,11 points,All,All,310
+2020,12 points,All,All,1020
+2020,2 points,All,All,1235
+2020,3 points,All,All,1710
+2020,4 points,All,All,1905
+2020,5 points,All,All,535
+2020,6 points,All,All,770
+2020,7 points,All,All,845
+2020,8 points,All,All,1080
+2020,9 points,All,All,215
+2020,No SQA Advanced Highers achieved,All,All,7445
+2021,1 point,All,All,465
+2021,10 points,All,All,290
+2021,11 points,All,All,380
+2021,12 points,All,All,1260
+2021,2 points,All,All,1260
+2021,3 points,All,All,1660
+2021,4 points,All,All,2320
+2021,5 points,All,All,535
+2021,6 points,All,All,755
+2021,7 points,All,All,920
+2021,8 points,All,All,1385
+2021,9 points,All,All,170
+2021,No SQA Advanced Highers achieved,All,All,8870
+2010,1 point,All,Main scheme applicant,780
+2010,10 points,All,Main scheme applicant,195
+2010,11 points,All,Main scheme applicant,235
+2010,12 points,All,Main scheme applicant,430
+2010,2 points,All,Main scheme applicant,1855
+2010,3 points,All,Main scheme applicant,1700
+2010,4 points,All,Main scheme applicant,1420
+2010,5 points,All,Main scheme applicant,610
+2010,6 points,All,Main scheme applicant,715
+2010,7 points,All,Main scheme applicant,550
+2010,8 points,All,Main scheme applicant,515
+2010,9 points,All,Main scheme applicant,190
+2010,No SQA Advanced Highers achieved,All,Main scheme applicant,10495
+2010,No SQA Advanced Highers achieved,All,Non-main scheme applicant,505
+2011,1 point,All,Main scheme applicant,640
+2011,10 points,All,Main scheme applicant,250
+2011,11 points,All,Main scheme applicant,260
+2011,12 points,All,Main scheme applicant,450
+2011,2 points,All,Main scheme applicant,1785
+2011,3 points,All,Main scheme applicant,1750
+2011,4 points,All,Main scheme applicant,1465
+2011,5 points,All,Main scheme applicant,665
+2011,6 points,All,Main scheme applicant,720
+2011,7 points,All,Main scheme applicant,665
+2011,8 points,All,Main scheme applicant,600
+2011,9 points,All,Main scheme applicant,220
+2011,No SQA Advanced Highers achieved,All,Main scheme applicant,9880
+2011,No SQA Advanced Highers achieved,All,Non-main scheme applicant,200
+2012,1 point,All,Main scheme applicant,635
+2012,10 points,All,Main scheme applicant,235
+2012,11 points,All,Main scheme applicant,260
+2012,12 points,All,Main scheme applicant,460
+2012,2 points,All,Main scheme applicant,1710
+2012,3 points,All,Main scheme applicant,1750
+2012,4 points,All,Main scheme applicant,1475
+2012,5 points,All,Main scheme applicant,660
+2012,6 points,All,Main scheme applicant,755
+2012,7 points,All,Main scheme applicant,670
+2012,8 points,All,Main scheme applicant,585
+2012,9 points,All,Main scheme applicant,195
+2012,No SQA Advanced Highers achieved,All,Main scheme applicant,9710
+2012,No SQA Advanced Highers achieved,All,Non-main scheme applicant,355
+2013,1 point,All,Main scheme applicant,605
+2013,10 points,All,Main scheme applicant,260
+2013,11 points,All,Main scheme applicant,310
+2013,12 points,All,Main scheme applicant,560
+2013,2 points,All,Main scheme applicant,1640
+2013,3 points,All,Main scheme applicant,1730
+2013,4 points,All,Main scheme applicant,1545
+2013,5 points,All,Main scheme applicant,700
+2013,6 points,All,Main scheme applicant,770
+2013,7 points,All,Main scheme applicant,700
+2013,8 points,All,Main scheme applicant,640
+2013,9 points,All,Main scheme applicant,220
+2013,No SQA Advanced Highers achieved,All,Main scheme applicant,9355
+2013,No SQA Advanced Highers achieved,All,Non-main scheme applicant,385
+2014,1 point,All,Main scheme applicant,660
+2014,10 points,All,Main scheme applicant,275
+2014,11 points,All,Main scheme applicant,290
+2014,12 points,All,Main scheme applicant,525
+2014,2 points,All,Main scheme applicant,1755
+2014,3 points,All,Main scheme applicant,1705
+2014,4 points,All,Main scheme applicant,1525
+2014,5 points,All,Main scheme applicant,655
+2014,6 points,All,Main scheme applicant,775
+2014,7 points,All,Main scheme applicant,675
+2014,8 points,All,Main scheme applicant,660
+2014,9 points,All,Main scheme applicant,210
+2014,No SQA Advanced Highers achieved,All,Main scheme applicant,9645
+2014,No SQA Advanced Highers achieved,All,Non-main scheme applicant,50
+2015,1 point,All,Main scheme applicant,645
+2015,10 points,All,Main scheme applicant,305
+2015,11 points,All,Main scheme applicant,325
+2015,12 points,All,Main scheme applicant,565
+2015,2 points,All,Main scheme applicant,1765
+2015,3 points,All,Main scheme applicant,1725
+2015,4 points,All,Main scheme applicant,1585
+2015,5 points,All,Main scheme applicant,655
+2015,6 points,All,Main scheme applicant,765
+2015,7 points,All,Main scheme applicant,730
+2015,8 points,All,Main scheme applicant,615
+2015,9 points,All,Main scheme applicant,255
+2015,No SQA Advanced Highers achieved,All,Main scheme applicant,9640
+2015,No SQA Advanced Highers achieved,All,Non-main scheme applicant,430
+2016,1 point,All,Main scheme applicant,625
+2016,10 points,All,Main scheme applicant,245
+2016,11 points,All,Main scheme applicant,325
+2016,12 points,All,Main scheme applicant,660
+2016,2 points,All,Main scheme applicant,1835
+2016,3 points,All,Main scheme applicant,1690
+2016,4 points,All,Main scheme applicant,1535
+2016,5 points,All,Main scheme applicant,640
+2016,6 points,All,Main scheme applicant,805
+2016,7 points,All,Main scheme applicant,715
+2016,8 points,All,Main scheme applicant,735
+2016,9 points,All,Main scheme applicant,220
+2016,No SQA Advanced Highers achieved,All,Main scheme applicant,9280
+2016,No SQA Advanced Highers achieved,All,Non-main scheme applicant,395
+2017,1 point,All,Main scheme applicant,715
+2017,10 points,All,Main scheme applicant,285
+2017,11 points,All,Main scheme applicant,335
+2017,12 points,All,Main scheme applicant,610
+2017,2 points,All,Main scheme applicant,1780
+2017,3 points,All,Main scheme applicant,1610
+2017,4 points,All,Main scheme applicant,1630
+2017,5 points,All,Main scheme applicant,680
+2017,6 points,All,Main scheme applicant,790
+2017,7 points,All,Main scheme applicant,715
+2017,8 points,All,Main scheme applicant,610
+2017,9 points,All,Main scheme applicant,250
+2017,No SQA Advanced Highers achieved,All,Main scheme applicant,8890
+2017,No SQA Advanced Highers achieved,All,Non-main scheme applicant,380
+2018,1 point,All,Main scheme applicant,710
+2018,10 points,All,Main scheme applicant,275
+2018,11 points,All,Main scheme applicant,360
+2018,12 points,All,Main scheme applicant,645
+2018,2 points,All,Main scheme applicant,1675
+2018,3 points,All,Main scheme applicant,1695
+2018,4 points,All,Main scheme applicant,1465
+2018,5 points,All,Main scheme applicant,690
+2018,6 points,All,Main scheme applicant,755
+2018,7 points,All,Main scheme applicant,720
+2018,8 points,All,Main scheme applicant,640
+2018,9 points,All,Main scheme applicant,220
+2018,No SQA Advanced Highers achieved,All,Main scheme applicant,8350
+2018,No SQA Advanced Highers achieved,All,Non-main scheme applicant,360
+2019,1 point,All,Main scheme applicant,710
+2019,10 points,All,Main scheme applicant,260
+2019,11 points,All,Main scheme applicant,315
+2019,12 points,All,Main scheme applicant,610
+2019,2 points,All,Main scheme applicant,1685
+2019,3 points,All,Main scheme applicant,1520
+2019,4 points,All,Main scheme applicant,1390
+2019,5 points,All,Main scheme applicant,620
+2019,6 points,All,Main scheme applicant,690
+2019,7 points,All,Main scheme applicant,700
+2019,8 points,All,Main scheme applicant,655
+2019,9 points,All,Main scheme applicant,215
+2019,No SQA Advanced Highers achieved,All,Main scheme applicant,8240
+2019,No SQA Advanced Highers achieved,All,Non-main scheme applicant,330
+2020,1 point,All,Main scheme applicant,310
+2020,10 points,All,Main scheme applicant,260
+2020,11 points,All,Main scheme applicant,310
+2020,12 points,All,Main scheme applicant,1020
+2020,2 points,All,Main scheme applicant,1235
+2020,3 points,All,Main scheme applicant,1710
+2020,4 points,All,Main scheme applicant,1905
+2020,5 points,All,Main scheme applicant,535
+2020,6 points,All,Main scheme applicant,770
+2020,7 points,All,Main scheme applicant,845
+2020,8 points,All,Main scheme applicant,1080
+2020,9 points,All,Main scheme applicant,215
+2020,No SQA Advanced Highers achieved,All,Main scheme applicant,6980
+2020,No SQA Advanced Highers achieved,All,Non-main scheme applicant,470
+2021,1 point,All,Main scheme applicant,465
+2021,10 points,All,Main scheme applicant,290
+2021,11 points,All,Main scheme applicant,380
+2021,12 points,All,Main scheme applicant,1260
+2021,2 points,All,Main scheme applicant,1260
+2021,3 points,All,Main scheme applicant,1660
+2021,4 points,All,Main scheme applicant,2320
+2021,5 points,All,Main scheme applicant,535
+2021,6 points,All,Main scheme applicant,755
+2021,7 points,All,Main scheme applicant,920
+2021,8 points,All,Main scheme applicant,1385
+2021,9 points,All,Main scheme applicant,170
+2021,No SQA Advanced Highers achieved,All,Main scheme applicant,8535
+2021,No SQA Advanced Highers achieved,All,Non-main scheme applicant,330
+2010,1 point,Asian,All,25
+2010,1 point,Mixed,All,5
+2010,1 point,Unknown or Prefer Not To Say,All,5
+2010,1 point,White,All,745
+2010,10 points,Asian,All,5
+2010,10 points,Mixed,All,5
+2010,10 points,White,All,185
+2010,11 points,Asian,All,5
+2010,11 points,Mixed,All,5
+2010,11 points,White,All,220
+2010,12 points,Asian,All,25
+2010,12 points,Mixed,All,10
+2010,12 points,Other,All,5
+2010,12 points,Unknown or Prefer Not To Say,All,5
+2010,12 points,White,All,390
+2010,2 points,Asian,All,40
+2010,2 points,Black,All,5
+2010,2 points,Mixed,All,25
+2010,2 points,Unknown or Prefer Not To Say,All,5
+2010,2 points,White,All,1785
+2010,3 points,Asian,All,40
+2010,3 points,Black,All,5
+2010,3 points,Mixed,All,20
+2010,3 points,Unknown or Prefer Not To Say,All,5
+2010,3 points,White,All,1635
+2010,4 points,Asian,All,25
+2010,4 points,Black,All,5
+2010,4 points,Mixed,All,15
+2010,4 points,Unknown or Prefer Not To Say,All,5
+2010,4 points,White,All,1375
+2010,5 points,Asian,All,25
+2010,5 points,Mixed,All,15
+2010,5 points,White,All,565
+2010,6 points,Asian,All,20
+2010,6 points,Mixed,All,5
+2010,6 points,White,All,685
+2010,7 points,Asian,All,20
+2010,7 points,Mixed,All,5
+2010,7 points,White,All,520
+2010,8 points,Asian,All,25
+2010,8 points,Mixed,All,5
+2010,8 points,Unknown or Prefer Not To Say,All,5
+2010,8 points,White,All,490
+2010,9 points,Asian,All,15
+2010,9 points,Unknown or Prefer Not To Say,All,5
+2010,9 points,White,All,170
+2010,No SQA Advanced Highers achieved,Asian,All,365
+2010,No SQA Advanced Highers achieved,Black,All,55
+2010,No SQA Advanced Highers achieved,Mixed,All,120
+2010,No SQA Advanced Highers achieved,Other,All,10
+2010,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,90
+2010,No SQA Advanced Highers achieved,White,All,10360
+2011,1 point,Asian,All,20
+2011,1 point,Mixed,All,10
+2011,1 point,White,All,605
+2011,10 points,Asian,All,10
+2011,10 points,Mixed,All,10
+2011,10 points,White,All,230
+2011,11 points,Asian,All,10
+2011,11 points,Mixed,All,5
+2011,11 points,Other,All,5
+2011,11 points,White,All,240
+2011,12 points,Asian,All,30
+2011,12 points,Mixed,All,10
+2011,12 points,Unknown or Prefer Not To Say,All,5
+2011,12 points,White,All,405
+2011,2 points,Asian,All,50
+2011,2 points,Black,All,5
+2011,2 points,Mixed,All,35
+2011,2 points,Other,All,5
+2011,2 points,Unknown or Prefer Not To Say,All,5
+2011,2 points,White,All,1685
+2011,3 points,Asian,All,40
+2011,3 points,Black,All,5
+2011,3 points,Mixed,All,25
+2011,3 points,White,All,1675
+2011,4 points,Asian,All,30
+2011,4 points,Mixed,All,20
+2011,4 points,Other,All,5
+2011,4 points,Unknown or Prefer Not To Say,All,5
+2011,4 points,White,All,1410
+2011,5 points,Asian,All,15
+2011,5 points,Black,All,5
+2011,5 points,Mixed,All,5
+2011,5 points,Unknown or Prefer Not To Say,All,5
+2011,5 points,White,All,635
+2011,6 points,Asian,All,15
+2011,6 points,Mixed,All,15
+2011,6 points,Other,All,5
+2011,6 points,White,All,685
+2011,7 points,Asian,All,25
+2011,7 points,Mixed,All,10
+2011,7 points,Other,All,5
+2011,7 points,White,All,625
+2011,8 points,Asian,All,25
+2011,8 points,Mixed,All,10
+2011,8 points,White,All,555
+2011,9 points,Asian,All,10
+2011,9 points,Mixed,All,5
+2011,9 points,White,All,200
+2011,No SQA Advanced Highers achieved,Asian,All,390
+2011,No SQA Advanced Highers achieved,Black,All,55
+2011,No SQA Advanced Highers achieved,Mixed,All,135
+2011,No SQA Advanced Highers achieved,Other,All,25
+2011,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,30
+2011,No SQA Advanced Highers achieved,White,All,9450
+2012,1 point,Asian,All,25
+2012,1 point,Mixed,All,5
+2012,1 point,White,All,600
+2012,10 points,Asian,All,10
+2012,10 points,Mixed,All,5
+2012,10 points,White,All,220
+2012,11 points,Asian,All,15
+2012,11 points,Mixed,All,5
+2012,11 points,White,All,240
+2012,12 points,Asian,All,25
+2012,12 points,Black,All,5
+2012,12 points,Mixed,All,10
+2012,12 points,White,All,420
+2012,2 points,Asian,All,55
+2012,2 points,Black,All,5
+2012,2 points,Mixed,All,15
+2012,2 points,Other,All,5
+2012,2 points,White,All,1635
+2012,3 points,Asian,All,45
+2012,3 points,Black,All,5
+2012,3 points,Mixed,All,20
+2012,3 points,Other,All,5
+2012,3 points,Unknown or Prefer Not To Say,All,5
+2012,3 points,White,All,1670
+2012,4 points,Asian,All,45
+2012,4 points,Black,All,5
+2012,4 points,Mixed,All,25
+2012,4 points,Other,All,5
+2012,4 points,Unknown or Prefer Not To Say,All,5
+2012,4 points,White,All,1385
+2012,5 points,Asian,All,30
+2012,5 points,Black,All,5
+2012,5 points,Mixed,All,10
+2012,5 points,White,All,615
+2012,6 points,Asian,All,30
+2012,6 points,Black,All,5
+2012,6 points,Mixed,All,5
+2012,6 points,White,All,710
+2012,7 points,Asian,All,30
+2012,7 points,Black,All,5
+2012,7 points,Mixed,All,15
+2012,7 points,Other,All,5
+2012,7 points,Unknown or Prefer Not To Say,All,5
+2012,7 points,White,All,615
+2012,8 points,Asian,All,25
+2012,8 points,Black,All,5
+2012,8 points,Mixed,All,10
+2012,8 points,Other,All,5
+2012,8 points,White,All,540
+2012,9 points,Asian,All,15
+2012,9 points,Mixed,All,5
+2012,9 points,White,All,175
+2012,No SQA Advanced Highers achieved,Asian,All,390
+2012,No SQA Advanced Highers achieved,Black,All,50
+2012,No SQA Advanced Highers achieved,Mixed,All,125
+2012,No SQA Advanced Highers achieved,Other,All,25
+2012,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,30
+2012,No SQA Advanced Highers achieved,White,All,9445
+2013,1 point,Asian,All,25
+2013,1 point,Black,All,5
+2013,1 point,Mixed,All,15
+2013,1 point,Unknown or Prefer Not To Say,All,5
+2013,1 point,White,All,555
+2013,10 points,Asian,All,10
+2013,10 points,Mixed,All,5
+2013,10 points,White,All,240
+2013,11 points,Asian,All,15
+2013,11 points,Black,All,5
+2013,11 points,Mixed,All,5
+2013,11 points,Other,All,5
+2013,11 points,White,All,285
+2013,12 points,Asian,All,35
+2013,12 points,Black,All,5
+2013,12 points,Mixed,All,15
+2013,12 points,Other,All,5
+2013,12 points,Unknown or Prefer Not To Say,All,5
+2013,12 points,White,All,495
+2013,2 points,Asian,All,50
+2013,2 points,Black,All,10
+2013,2 points,Mixed,All,30
+2013,2 points,Other,All,5
+2013,2 points,Unknown or Prefer Not To Say,All,5
+2013,2 points,White,All,1545
+2013,3 points,Asian,All,50
+2013,3 points,Black,All,5
+2013,3 points,Mixed,All,25
+2013,3 points,Other,All,5
+2013,3 points,Unknown or Prefer Not To Say,All,10
+2013,3 points,White,All,1640
+2013,4 points,Asian,All,35
+2013,4 points,Black,All,5
+2013,4 points,Mixed,All,20
+2013,4 points,Unknown or Prefer Not To Say,All,5
+2013,4 points,White,All,1480
+2013,5 points,Asian,All,30
+2013,5 points,Black,All,5
+2013,5 points,Mixed,All,15
+2013,5 points,Other,All,5
+2013,5 points,White,All,645
+2013,6 points,Asian,All,30
+2013,6 points,Black,All,5
+2013,6 points,Mixed,All,15
+2013,6 points,Other,All,5
+2013,6 points,White,All,715
+2013,7 points,Asian,All,30
+2013,7 points,Mixed,All,15
+2013,7 points,White,All,655
+2013,8 points,Asian,All,30
+2013,8 points,Mixed,All,10
+2013,8 points,Other,All,5
+2013,8 points,Unknown or Prefer Not To Say,All,5
+2013,8 points,White,All,595
+2013,9 points,Asian,All,10
+2013,9 points,Mixed,All,5
+2013,9 points,White,All,200
+2013,No SQA Advanced Highers achieved,Asian,All,365
+2013,No SQA Advanced Highers achieved,Black,All,65
+2013,No SQA Advanced Highers achieved,Mixed,All,120
+2013,No SQA Advanced Highers achieved,Other,All,30
+2013,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,30
+2013,No SQA Advanced Highers achieved,White,All,9130
+2014,1 point,Asian,All,30
+2014,1 point,Mixed,All,15
+2014,1 point,White,All,615
+2014,10 points,Asian,All,15
+2014,10 points,Mixed,All,10
+2014,10 points,White,All,250
+2014,11 points,Asian,All,20
+2014,11 points,Black,All,5
+2014,11 points,Mixed,All,5
+2014,11 points,White,All,255
+2014,12 points,Asian,All,35
+2014,12 points,Mixed,All,10
+2014,12 points,Other,All,10
+2014,12 points,White,All,470
+2014,2 points,Asian,All,60
+2014,2 points,Black,All,10
+2014,2 points,Mixed,All,25
+2014,2 points,Unknown or Prefer Not To Say,All,5
+2014,2 points,White,All,1660
+2014,3 points,Asian,All,45
+2014,3 points,Black,All,10
+2014,3 points,Mixed,All,25
+2014,3 points,Other,All,5
+2014,3 points,White,All,1620
+2014,4 points,Asian,All,55
+2014,4 points,Black,All,10
+2014,4 points,Mixed,All,15
+2014,4 points,Unknown or Prefer Not To Say,All,5
+2014,4 points,White,All,1440
+2014,5 points,Asian,All,25
+2014,5 points,Black,All,5
+2014,5 points,Mixed,All,10
+2014,5 points,Other,All,5
+2014,5 points,White,All,615
+2014,6 points,Asian,All,25
+2014,6 points,Black,All,5
+2014,6 points,Mixed,All,15
+2014,6 points,White,All,725
+2014,7 points,Asian,All,25
+2014,7 points,Black,All,5
+2014,7 points,Mixed,All,15
+2014,7 points,Unknown or Prefer Not To Say,All,5
+2014,7 points,White,All,630
+2014,8 points,Asian,All,30
+2014,8 points,Mixed,All,15
+2014,8 points,Other,All,5
+2014,8 points,White,All,605
+2014,9 points,Asian,All,10
+2014,9 points,Mixed,All,5
+2014,9 points,White,All,190
+2014,No SQA Advanced Highers achieved,Asian,All,375
+2014,No SQA Advanced Highers achieved,Black,All,65
+2014,No SQA Advanced Highers achieved,Mixed,All,125
+2014,No SQA Advanced Highers achieved,Other,All,35
+2014,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,30
+2014,No SQA Advanced Highers achieved,White,All,9065
+2015,1 point,Asian,All,20
+2015,1 point,Black,All,5
+2015,1 point,Mixed,All,5
+2015,1 point,White,All,610
+2015,10 points,Asian,All,25
+2015,10 points,Mixed,All,10
+2015,10 points,White,All,265
+2015,11 points,Asian,All,25
+2015,11 points,Mixed,All,10
+2015,11 points,Other,All,5
+2015,11 points,White,All,285
+2015,12 points,Asian,All,45
+2015,12 points,Mixed,All,15
+2015,12 points,Other,All,5
+2015,12 points,Unknown or Prefer Not To Say,All,5
+2015,12 points,White,All,495
+2015,2 points,Asian,All,45
+2015,2 points,Black,All,10
+2015,2 points,Mixed,All,20
+2015,2 points,Other,All,5
+2015,2 points,Unknown or Prefer Not To Say,All,5
+2015,2 points,White,All,1685
+2015,3 points,Asian,All,50
+2015,3 points,Black,All,10
+2015,3 points,Mixed,All,20
+2015,3 points,Other,All,5
+2015,3 points,Unknown or Prefer Not To Say,All,10
+2015,3 points,White,All,1630
+2015,4 points,Asian,All,45
+2015,4 points,Black,All,10
+2015,4 points,Mixed,All,30
+2015,4 points,Other,All,5
+2015,4 points,White,All,1490
+2015,5 points,Asian,All,25
+2015,5 points,Black,All,5
+2015,5 points,Mixed,All,15
+2015,5 points,White,All,610
+2015,6 points,Asian,All,30
+2015,6 points,Black,All,5
+2015,6 points,Mixed,All,15
+2015,6 points,Other,All,5
+2015,6 points,White,All,710
+2015,7 points,Asian,All,35
+2015,7 points,Black,All,5
+2015,7 points,Mixed,All,15
+2015,7 points,Unknown or Prefer Not To Say,All,5
+2015,7 points,White,All,665
+2015,8 points,Asian,All,25
+2015,8 points,Mixed,All,20
+2015,8 points,Other,All,5
+2015,8 points,Unknown or Prefer Not To Say,All,5
+2015,8 points,White,All,560
+2015,9 points,Asian,All,20
+2015,9 points,Mixed,All,5
+2015,9 points,White,All,230
+2015,No SQA Advanced Highers achieved,Asian,All,415
+2015,No SQA Advanced Highers achieved,Black,All,75
+2015,No SQA Advanced Highers achieved,Mixed,All,150
+2015,No SQA Advanced Highers achieved,Other,All,45
+2015,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,35
+2015,No SQA Advanced Highers achieved,White,All,9345
+2016,1 point,Asian,All,35
+2016,1 point,Black,All,5
+2016,1 point,Mixed,All,10
+2016,1 point,White,All,575
+2016,10 points,Asian,All,10
+2016,10 points,Mixed,All,10
+2016,10 points,Other,All,5
+2016,10 points,White,All,220
+2016,11 points,Asian,All,20
+2016,11 points,Black,All,5
+2016,11 points,Mixed,All,10
+2016,11 points,Unknown or Prefer Not To Say,All,5
+2016,11 points,White,All,285
+2016,12 points,Asian,All,70
+2016,12 points,Black,All,5
+2016,12 points,Mixed,All,25
+2016,12 points,Other,All,5
+2016,12 points,Unknown or Prefer Not To Say,All,10
+2016,12 points,White,All,550
+2016,2 points,Asian,All,70
+2016,2 points,Black,All,10
+2016,2 points,Mixed,All,30
+2016,2 points,Other,All,5
+2016,2 points,Unknown or Prefer Not To Say,All,5
+2016,2 points,White,All,1715
+2016,3 points,Asian,All,40
+2016,3 points,Black,All,10
+2016,3 points,Mixed,All,20
+2016,3 points,Other,All,5
+2016,3 points,Unknown or Prefer Not To Say,All,10
+2016,3 points,White,All,1610
+2016,4 points,Asian,All,45
+2016,4 points,Black,All,10
+2016,4 points,Mixed,All,40
+2016,4 points,Other,All,5
+2016,4 points,Unknown or Prefer Not To Say,All,15
+2016,4 points,White,All,1420
+2016,5 points,Asian,All,30
+2016,5 points,Black,All,5
+2016,5 points,Mixed,All,10
+2016,5 points,White,All,600
+2016,6 points,Asian,All,40
+2016,6 points,Black,All,5
+2016,6 points,Mixed,All,15
+2016,6 points,Other,All,5
+2016,6 points,Unknown or Prefer Not To Say,All,5
+2016,6 points,White,All,735
+2016,7 points,Asian,All,30
+2016,7 points,Black,All,5
+2016,7 points,Mixed,All,15
+2016,7 points,Unknown or Prefer Not To Say,All,5
+2016,7 points,White,All,660
+2016,8 points,Asian,All,35
+2016,8 points,Black,All,5
+2016,8 points,Mixed,All,15
+2016,8 points,Other,All,10
+2016,8 points,Unknown or Prefer Not To Say,All,5
+2016,8 points,White,All,660
+2016,9 points,Asian,All,10
+2016,9 points,White,All,205
+2016,No SQA Advanced Highers achieved,Asian,All,395
+2016,No SQA Advanced Highers achieved,Black,All,85
+2016,No SQA Advanced Highers achieved,Mixed,All,145
+2016,No SQA Advanced Highers achieved,Other,All,45
+2016,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,40
+2016,No SQA Advanced Highers achieved,White,All,8960
+2017,1 point,Asian,All,25
+2017,1 point,Black,All,10
+2017,1 point,Mixed,All,10
+2017,1 point,Other,All,5
+2017,1 point,White,All,670
+2017,10 points,Asian,All,15
+2017,10 points,Mixed,All,10
+2017,10 points,White,All,255
+2017,11 points,Asian,All,25
+2017,11 points,Black,All,5
+2017,11 points,Mixed,All,10
+2017,11 points,Other,All,5
+2017,11 points,White,All,290
+2017,12 points,Asian,All,45
+2017,12 points,Black,All,5
+2017,12 points,Mixed,All,20
+2017,12 points,Other,All,5
+2017,12 points,Unknown or Prefer Not To Say,All,5
+2017,12 points,White,All,530
+2017,2 points,Asian,All,75
+2017,2 points,Black,All,10
+2017,2 points,Mixed,All,35
+2017,2 points,Other,All,5
+2017,2 points,White,All,1655
+2017,3 points,Asian,All,60
+2017,3 points,Black,All,10
+2017,3 points,Mixed,All,25
+2017,3 points,Other,All,5
+2017,3 points,White,All,1510
+2017,4 points,Asian,All,70
+2017,4 points,Black,All,10
+2017,4 points,Mixed,All,35
+2017,4 points,Other,All,10
+2017,4 points,Unknown or Prefer Not To Say,All,10
+2017,4 points,White,All,1500
+2017,5 points,Asian,All,35
+2017,5 points,Black,All,5
+2017,5 points,Mixed,All,15
+2017,5 points,White,All,625
+2017,6 points,Asian,All,40
+2017,6 points,Black,All,5
+2017,6 points,Mixed,All,20
+2017,6 points,Other,All,5
+2017,6 points,White,All,725
+2017,7 points,Asian,All,35
+2017,7 points,Black,All,5
+2017,7 points,Mixed,All,15
+2017,7 points,Unknown or Prefer Not To Say,All,5
+2017,7 points,White,All,655
+2017,8 points,Asian,All,40
+2017,8 points,Mixed,All,15
+2017,8 points,Other,All,5
+2017,8 points,Unknown or Prefer Not To Say,All,5
+2017,8 points,White,All,545
+2017,9 points,Asian,All,20
+2017,9 points,Mixed,All,5
+2017,9 points,Other,All,5
+2017,9 points,Unknown or Prefer Not To Say,All,5
+2017,9 points,White,All,215
+2017,No SQA Advanced Highers achieved,Asian,All,395
+2017,No SQA Advanced Highers achieved,Black,All,105
+2017,No SQA Advanced Highers achieved,Mixed,All,140
+2017,No SQA Advanced Highers achieved,Other,All,35
+2017,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,45
+2017,No SQA Advanced Highers achieved,White,All,8550
+2018,1 point,Asian,All,40
+2018,1 point,Black,All,5
+2018,1 point,Mixed,All,15
+2018,1 point,Unknown or Prefer Not To Say,All,5
+2018,1 point,White,All,645
+2018,10 points,Asian,All,20
+2018,10 points,Mixed,All,10
+2018,10 points,Other,All,5
+2018,10 points,White,All,235
+2018,11 points,Asian,All,30
+2018,11 points,Black,All,5
+2018,11 points,Mixed,All,10
+2018,11 points,Unknown or Prefer Not To Say,All,5
+2018,11 points,White,All,315
+2018,12 points,Asian,All,55
+2018,12 points,Black,All,10
+2018,12 points,Mixed,All,25
+2018,12 points,Other,All,5
+2018,12 points,Unknown or Prefer Not To Say,All,10
+2018,12 points,White,All,545
+2018,2 points,Asian,All,65
+2018,2 points,Black,All,15
+2018,2 points,Mixed,All,25
+2018,2 points,Other,All,10
+2018,2 points,Unknown or Prefer Not To Say,All,5
+2018,2 points,White,All,1555
+2018,3 points,Asian,All,65
+2018,3 points,Black,All,25
+2018,3 points,Mixed,All,40
+2018,3 points,Other,All,10
+2018,3 points,Unknown or Prefer Not To Say,All,10
+2018,3 points,White,All,1545
+2018,4 points,Asian,All,65
+2018,4 points,Black,All,10
+2018,4 points,Mixed,All,30
+2018,4 points,Other,All,5
+2018,4 points,Unknown or Prefer Not To Say,All,5
+2018,4 points,White,All,1350
+2018,5 points,Asian,All,45
+2018,5 points,Black,All,5
+2018,5 points,Mixed,All,20
+2018,5 points,Unknown or Prefer Not To Say,All,5
+2018,5 points,White,All,620
+2018,6 points,Asian,All,35
+2018,6 points,Black,All,10
+2018,6 points,Mixed,All,25
+2018,6 points,Unknown or Prefer Not To Say,All,5
+2018,6 points,White,All,685
+2018,7 points,Asian,All,45
+2018,7 points,Black,All,5
+2018,7 points,Mixed,All,15
+2018,7 points,Unknown or Prefer Not To Say,All,5
+2018,7 points,White,All,650
+2018,8 points,Asian,All,20
+2018,8 points,Black,All,5
+2018,8 points,Mixed,All,15
+2018,8 points,Unknown or Prefer Not To Say,All,5
+2018,8 points,White,All,595
+2018,9 points,Asian,All,20
+2018,9 points,Black,All,5
+2018,9 points,Mixed,All,5
+2018,9 points,Other,All,5
+2018,9 points,Unknown or Prefer Not To Say,All,5
+2018,9 points,White,All,185
+2018,No SQA Advanced Highers achieved,Asian,All,440
+2018,No SQA Advanced Highers achieved,Black,All,115
+2018,No SQA Advanced Highers achieved,Mixed,All,145
+2018,No SQA Advanced Highers achieved,Other,All,50
+2018,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,40
+2018,No SQA Advanced Highers achieved,White,All,7925
+2019,1 point,Asian,All,35
+2019,1 point,Black,All,10
+2019,1 point,Mixed,All,10
+2019,1 point,Unknown or Prefer Not To Say,All,5
+2019,1 point,White,All,650
+2019,10 points,Asian,All,25
+2019,10 points,Black,All,5
+2019,10 points,Mixed,All,5
+2019,10 points,Other,All,5
+2019,10 points,White,All,225
+2019,11 points,Asian,All,30
+2019,11 points,Mixed,All,10
+2019,11 points,Other,All,5
+2019,11 points,Unknown or Prefer Not To Say,All,5
+2019,11 points,White,All,260
+2019,12 points,Asian,All,60
+2019,12 points,Black,All,5
+2019,12 points,Mixed,All,20
+2019,12 points,Other,All,5
+2019,12 points,Unknown or Prefer Not To Say,All,10
+2019,12 points,White,All,510
+2019,2 points,Asian,All,70
+2019,2 points,Black,All,15
+2019,2 points,Mixed,All,25
+2019,2 points,Other,All,5
+2019,2 points,Unknown or Prefer Not To Say,All,5
+2019,2 points,White,All,1565
+2019,3 points,Asian,All,75
+2019,3 points,Black,All,10
+2019,3 points,Mixed,All,30
+2019,3 points,Other,All,5
+2019,3 points,Unknown or Prefer Not To Say,All,5
+2019,3 points,White,All,1395
+2019,4 points,Asian,All,70
+2019,4 points,Black,All,15
+2019,4 points,Mixed,All,30
+2019,4 points,Other,All,10
+2019,4 points,Unknown or Prefer Not To Say,All,10
+2019,4 points,White,All,1255
+2019,5 points,Asian,All,35
+2019,5 points,Black,All,5
+2019,5 points,Mixed,All,20
+2019,5 points,Other,All,5
+2019,5 points,Unknown or Prefer Not To Say,All,5
+2019,5 points,White,All,550
+2019,6 points,Asian,All,40
+2019,6 points,Black,All,10
+2019,6 points,Mixed,All,20
+2019,6 points,Unknown or Prefer Not To Say,All,5
+2019,6 points,White,All,615
+2019,7 points,Asian,All,30
+2019,7 points,Black,All,5
+2019,7 points,Mixed,All,20
+2019,7 points,Other,All,5
+2019,7 points,Unknown or Prefer Not To Say,All,5
+2019,7 points,White,All,635
+2019,8 points,Asian,All,45
+2019,8 points,Black,All,5
+2019,8 points,Mixed,All,20
+2019,8 points,Other,All,5
+2019,8 points,Unknown or Prefer Not To Say,All,5
+2019,8 points,White,All,575
+2019,9 points,Asian,All,20
+2019,9 points,Black,All,5
+2019,9 points,Mixed,All,10
+2019,9 points,White,All,175
+2019,No SQA Advanced Highers achieved,Asian,All,425
+2019,No SQA Advanced Highers achieved,Black,All,125
+2019,No SQA Advanced Highers achieved,Mixed,All,195
+2019,No SQA Advanced Highers achieved,Other,All,65
+2019,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,45
+2019,No SQA Advanced Highers achieved,White,All,7710
+2020,1 point,Asian,All,30
+2020,1 point,Black,All,5
+2020,1 point,Mixed,All,10
+2020,1 point,Other,All,5
+2020,1 point,White,All,255
+2020,10 points,Asian,All,25
+2020,10 points,Black,All,5
+2020,10 points,Mixed,All,5
+2020,10 points,Other,All,5
+2020,10 points,Unknown or Prefer Not To Say,All,5
+2020,10 points,White,All,215
+2020,11 points,Asian,All,35
+2020,11 points,Black,All,5
+2020,11 points,Mixed,All,15
+2020,11 points,Other,All,5
+2020,11 points,Unknown or Prefer Not To Say,All,5
+2020,11 points,White,All,245
+2020,12 points,Asian,All,120
+2020,12 points,Black,All,15
+2020,12 points,Mixed,All,35
+2020,12 points,Other,All,10
+2020,12 points,Unknown or Prefer Not To Say,All,15
+2020,12 points,White,All,825
+2020,2 points,Asian,All,70
+2020,2 points,Black,All,15
+2020,2 points,Mixed,All,25
+2020,2 points,Other,All,10
+2020,2 points,White,All,1110
+2020,3 points,Asian,All,105
+2020,3 points,Black,All,25
+2020,3 points,Mixed,All,35
+2020,3 points,Other,All,15
+2020,3 points,Unknown or Prefer Not To Say,All,5
+2020,3 points,White,All,1530
+2020,4 points,Asian,All,90
+2020,4 points,Black,All,15
+2020,4 points,Mixed,All,40
+2020,4 points,Other,All,15
+2020,4 points,Unknown or Prefer Not To Say,All,10
+2020,4 points,White,All,1740
+2020,5 points,Asian,All,35
+2020,5 points,Black,All,10
+2020,5 points,Mixed,All,15
+2020,5 points,Other,All,5
+2020,5 points,Unknown or Prefer Not To Say,All,5
+2020,5 points,White,All,465
+2020,6 points,Asian,All,40
+2020,6 points,Black,All,15
+2020,6 points,Mixed,All,30
+2020,6 points,Other,All,5
+2020,6 points,White,All,680
+2020,7 points,Asian,All,50
+2020,7 points,Black,All,5
+2020,7 points,Mixed,All,20
+2020,7 points,Other,All,5
+2020,7 points,Unknown or Prefer Not To Say,All,5
+2020,7 points,White,All,765
+2020,8 points,Asian,All,65
+2020,8 points,Black,All,10
+2020,8 points,Mixed,All,20
+2020,8 points,Other,All,5
+2020,8 points,Unknown or Prefer Not To Say,All,10
+2020,8 points,White,All,970
+2020,9 points,Asian,All,25
+2020,9 points,Black,All,5
+2020,9 points,Mixed,All,10
+2020,9 points,Other,All,5
+2020,9 points,White,All,170
+2020,No SQA Advanced Highers achieved,Asian,All,425
+2020,No SQA Advanced Highers achieved,Black,All,150
+2020,No SQA Advanced Highers achieved,Mixed,All,175
+2020,No SQA Advanced Highers achieved,Other,All,70
+2020,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,55
+2020,No SQA Advanced Highers achieved,White,All,6575
+2021,1 point,Asian,All,25
+2021,1 point,Black,All,10
+2021,1 point,Mixed,All,10
+2021,1 point,Other,All,5
+2021,1 point,White,All,420
+2021,10 points,Asian,All,35
+2021,10 points,Black,All,10
+2021,10 points,Mixed,All,10
+2021,10 points,Other,All,5
+2021,10 points,Unknown or Prefer Not To Say,All,5
+2021,10 points,White,All,230
+2021,11 points,Asian,All,35
+2021,11 points,Black,All,5
+2021,11 points,Mixed,All,10
+2021,11 points,Other,All,5
+2021,11 points,White,All,320
+2021,12 points,Asian,All,125
+2021,12 points,Black,All,20
+2021,12 points,Mixed,All,60
+2021,12 points,Other,All,15
+2021,12 points,Unknown or Prefer Not To Say,All,10
+2021,12 points,White,All,1035
+2021,2 points,Asian,All,70
+2021,2 points,Black,All,15
+2021,2 points,Mixed,All,30
+2021,2 points,Other,All,5
+2021,2 points,Unknown or Prefer Not To Say,All,5
+2021,2 points,White,All,1135
+2021,3 points,Asian,All,75
+2021,3 points,Black,All,25
+2021,3 points,Mixed,All,35
+2021,3 points,Other,All,10
+2021,3 points,Unknown or Prefer Not To Say,All,10
+2021,3 points,White,All,1510
+2021,4 points,Asian,All,85
+2021,4 points,Black,All,25
+2021,4 points,Mixed,All,60
+2021,4 points,Other,All,15
+2021,4 points,Unknown or Prefer Not To Say,All,15
+2021,4 points,White,All,2115
+2021,5 points,Asian,All,45
+2021,5 points,Black,All,5
+2021,5 points,Mixed,All,15
+2021,5 points,White,All,470
+2021,6 points,Asian,All,45
+2021,6 points,Black,All,5
+2021,6 points,Mixed,All,15
+2021,6 points,Other,All,5
+2021,6 points,Unknown or Prefer Not To Say,All,5
+2021,6 points,White,All,680
+2021,7 points,Asian,All,40
+2021,7 points,Black,All,15
+2021,7 points,Mixed,All,30
+2021,7 points,Other,All,5
+2021,7 points,Unknown or Prefer Not To Say,All,5
+2021,7 points,White,All,820
+2021,8 points,Asian,All,65
+2021,8 points,Black,All,15
+2021,8 points,Mixed,All,40
+2021,8 points,Other,All,10
+2021,8 points,Unknown or Prefer Not To Say,All,15
+2021,8 points,White,All,1250
+2021,9 points,Asian,All,20
+2021,9 points,Black,All,5
+2021,9 points,Mixed,All,10
+2021,9 points,Other,All,5
+2021,9 points,White,All,130
+2021,No SQA Advanced Highers achieved,Asian,All,455
+2021,No SQA Advanced Highers achieved,Black,All,190
+2021,No SQA Advanced Highers achieved,Mixed,All,225
+2021,No SQA Advanced Highers achieved,Other,All,80
+2021,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,All,50
+2021,No SQA Advanced Highers achieved,White,All,7865
+2010,1 point,Asian,Main scheme applicant,25
+2010,1 point,Mixed,Main scheme applicant,5
+2010,1 point,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,1 point,White,Main scheme applicant,745
+2010,10 points,Asian,Main scheme applicant,5
+2010,10 points,Mixed,Main scheme applicant,5
+2010,10 points,White,Main scheme applicant,185
+2010,11 points,Asian,Main scheme applicant,5
+2010,11 points,Mixed,Main scheme applicant,5
+2010,11 points,White,Main scheme applicant,220
+2010,12 points,Asian,Main scheme applicant,25
+2010,12 points,Mixed,Main scheme applicant,10
+2010,12 points,Other,Main scheme applicant,5
+2010,12 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,12 points,White,Main scheme applicant,390
+2010,2 points,Asian,Main scheme applicant,40
+2010,2 points,Black,Main scheme applicant,5
+2010,2 points,Mixed,Main scheme applicant,25
+2010,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,2 points,White,Main scheme applicant,1785
+2010,3 points,Asian,Main scheme applicant,40
+2010,3 points,Black,Main scheme applicant,5
+2010,3 points,Mixed,Main scheme applicant,20
+2010,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,3 points,White,Main scheme applicant,1635
+2010,4 points,Asian,Main scheme applicant,25
+2010,4 points,Black,Main scheme applicant,5
+2010,4 points,Mixed,Main scheme applicant,15
+2010,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,4 points,White,Main scheme applicant,1375
+2010,5 points,Asian,Main scheme applicant,25
+2010,5 points,Mixed,Main scheme applicant,15
+2010,5 points,White,Main scheme applicant,565
+2010,6 points,Asian,Main scheme applicant,20
+2010,6 points,Mixed,Main scheme applicant,5
+2010,6 points,White,Main scheme applicant,685
+2010,7 points,Asian,Main scheme applicant,20
+2010,7 points,Mixed,Main scheme applicant,5
+2010,7 points,White,Main scheme applicant,520
+2010,8 points,Asian,Main scheme applicant,25
+2010,8 points,Mixed,Main scheme applicant,5
+2010,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,8 points,White,Main scheme applicant,490
+2010,9 points,Asian,Main scheme applicant,15
+2010,9 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,9 points,White,Main scheme applicant,170
+2010,No SQA Advanced Highers achieved,Asian,Main scheme applicant,360
+2010,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2010,No SQA Advanced Highers achieved,Black,Main scheme applicant,55
+2010,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,115
+2010,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2010,No SQA Advanced Highers achieved,Other,Main scheme applicant,10
+2010,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,30
+2010,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,60
+2010,No SQA Advanced Highers achieved,White,Main scheme applicant,9925
+2010,No SQA Advanced Highers achieved,White,Non-main scheme applicant,435
+2011,1 point,Asian,Main scheme applicant,20
+2011,1 point,Mixed,Main scheme applicant,10
+2011,1 point,White,Main scheme applicant,605
+2011,10 points,Asian,Main scheme applicant,10
+2011,10 points,Mixed,Main scheme applicant,10
+2011,10 points,White,Main scheme applicant,230
+2011,11 points,Asian,Main scheme applicant,10
+2011,11 points,Mixed,Main scheme applicant,5
+2011,11 points,Other,Main scheme applicant,5
+2011,11 points,White,Main scheme applicant,240
+2011,12 points,Asian,Main scheme applicant,30
+2011,12 points,Mixed,Main scheme applicant,10
+2011,12 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2011,12 points,White,Main scheme applicant,405
+2011,2 points,Asian,Main scheme applicant,50
+2011,2 points,Black,Main scheme applicant,5
+2011,2 points,Mixed,Main scheme applicant,35
+2011,2 points,Other,Main scheme applicant,5
+2011,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2011,2 points,White,Main scheme applicant,1685
+2011,3 points,Asian,Main scheme applicant,40
+2011,3 points,Black,Main scheme applicant,5
+2011,3 points,Mixed,Main scheme applicant,25
+2011,3 points,White,Main scheme applicant,1675
+2011,4 points,Asian,Main scheme applicant,30
+2011,4 points,Mixed,Main scheme applicant,20
+2011,4 points,Other,Main scheme applicant,5
+2011,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2011,4 points,White,Main scheme applicant,1410
+2011,5 points,Asian,Main scheme applicant,15
+2011,5 points,Black,Main scheme applicant,5
+2011,5 points,Mixed,Main scheme applicant,5
+2011,5 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2011,5 points,White,Main scheme applicant,635
+2011,6 points,Asian,Main scheme applicant,15
+2011,6 points,Mixed,Main scheme applicant,15
+2011,6 points,Other,Main scheme applicant,5
+2011,6 points,White,Main scheme applicant,685
+2011,7 points,Asian,Main scheme applicant,25
+2011,7 points,Mixed,Main scheme applicant,10
+2011,7 points,Other,Main scheme applicant,5
+2011,7 points,White,Main scheme applicant,625
+2011,8 points,Asian,Main scheme applicant,25
+2011,8 points,Mixed,Main scheme applicant,10
+2011,8 points,White,Main scheme applicant,555
+2011,9 points,Asian,Main scheme applicant,10
+2011,9 points,Mixed,Main scheme applicant,5
+2011,9 points,White,Main scheme applicant,200
+2011,No SQA Advanced Highers achieved,Asian,Main scheme applicant,385
+2011,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2011,No SQA Advanced Highers achieved,Black,Main scheme applicant,55
+2011,No SQA Advanced Highers achieved,Black,Non-main scheme applicant,5
+2011,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,135
+2011,No SQA Advanced Highers achieved,Other,Main scheme applicant,20
+2011,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,20
+2011,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2011,No SQA Advanced Highers achieved,White,Main scheme applicant,9270
+2011,No SQA Advanced Highers achieved,White,Non-main scheme applicant,180
+2012,1 point,Asian,Main scheme applicant,25
+2012,1 point,Mixed,Main scheme applicant,5
+2012,1 point,White,Main scheme applicant,600
+2012,10 points,Asian,Main scheme applicant,10
+2012,10 points,Mixed,Main scheme applicant,5
+2012,10 points,White,Main scheme applicant,220
+2012,11 points,Asian,Main scheme applicant,15
+2012,11 points,Mixed,Main scheme applicant,5
+2012,11 points,White,Main scheme applicant,240
+2012,12 points,Asian,Main scheme applicant,25
+2012,12 points,Black,Main scheme applicant,5
+2012,12 points,Mixed,Main scheme applicant,10
+2012,12 points,White,Main scheme applicant,420
+2012,2 points,Asian,Main scheme applicant,55
+2012,2 points,Black,Main scheme applicant,5
+2012,2 points,Mixed,Main scheme applicant,15
+2012,2 points,Other,Main scheme applicant,5
+2012,2 points,White,Main scheme applicant,1635
+2012,3 points,Asian,Main scheme applicant,45
+2012,3 points,Black,Main scheme applicant,5
+2012,3 points,Mixed,Main scheme applicant,20
+2012,3 points,Other,Main scheme applicant,5
+2012,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2012,3 points,White,Main scheme applicant,1670
+2012,4 points,Asian,Main scheme applicant,45
+2012,4 points,Black,Main scheme applicant,5
+2012,4 points,Mixed,Main scheme applicant,25
+2012,4 points,Other,Main scheme applicant,5
+2012,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2012,4 points,White,Main scheme applicant,1385
+2012,5 points,Asian,Main scheme applicant,30
+2012,5 points,Black,Main scheme applicant,5
+2012,5 points,Mixed,Main scheme applicant,10
+2012,5 points,White,Main scheme applicant,615
+2012,6 points,Asian,Main scheme applicant,30
+2012,6 points,Black,Main scheme applicant,5
+2012,6 points,Mixed,Main scheme applicant,5
+2012,6 points,White,Main scheme applicant,710
+2012,7 points,Asian,Main scheme applicant,30
+2012,7 points,Black,Main scheme applicant,5
+2012,7 points,Mixed,Main scheme applicant,15
+2012,7 points,Other,Main scheme applicant,5
+2012,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2012,7 points,White,Main scheme applicant,615
+2012,8 points,Asian,Main scheme applicant,25
+2012,8 points,Black,Main scheme applicant,5
+2012,8 points,Mixed,Main scheme applicant,10
+2012,8 points,Other,Main scheme applicant,5
+2012,8 points,White,Main scheme applicant,540
+2012,9 points,Asian,Main scheme applicant,15
+2012,9 points,Mixed,Main scheme applicant,5
+2012,9 points,White,Main scheme applicant,175
+2012,No SQA Advanced Highers achieved,Asian,Main scheme applicant,385
+2012,No SQA Advanced Highers achieved,Black,Main scheme applicant,50
+2012,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,125
+2012,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2012,No SQA Advanced Highers achieved,Other,Main scheme applicant,25
+2012,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,25
+2012,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2012,No SQA Advanced Highers achieved,White,Main scheme applicant,9105
+2012,No SQA Advanced Highers achieved,White,Non-main scheme applicant,340
+2013,1 point,Asian,Main scheme applicant,25
+2013,1 point,Black,Main scheme applicant,5
+2013,1 point,Mixed,Main scheme applicant,15
+2013,1 point,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,1 point,White,Main scheme applicant,555
+2013,10 points,Asian,Main scheme applicant,10
+2013,10 points,Mixed,Main scheme applicant,5
+2013,10 points,White,Main scheme applicant,240
+2013,11 points,Asian,Main scheme applicant,15
+2013,11 points,Black,Main scheme applicant,5
+2013,11 points,Mixed,Main scheme applicant,5
+2013,11 points,Other,Main scheme applicant,5
+2013,11 points,White,Main scheme applicant,285
+2013,12 points,Asian,Main scheme applicant,35
+2013,12 points,Black,Main scheme applicant,5
+2013,12 points,Mixed,Main scheme applicant,15
+2013,12 points,Other,Main scheme applicant,5
+2013,12 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,12 points,White,Main scheme applicant,495
+2013,2 points,Asian,Main scheme applicant,50
+2013,2 points,Black,Main scheme applicant,10
+2013,2 points,Mixed,Main scheme applicant,30
+2013,2 points,Other,Main scheme applicant,5
+2013,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,2 points,White,Main scheme applicant,1545
+2013,3 points,Asian,Main scheme applicant,50
+2013,3 points,Black,Main scheme applicant,5
+2013,3 points,Mixed,Main scheme applicant,25
+2013,3 points,Other,Main scheme applicant,5
+2013,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2013,3 points,White,Main scheme applicant,1640
+2013,4 points,Asian,Main scheme applicant,35
+2013,4 points,Black,Main scheme applicant,5
+2013,4 points,Mixed,Main scheme applicant,20
+2013,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,4 points,White,Main scheme applicant,1480
+2013,5 points,Asian,Main scheme applicant,30
+2013,5 points,Black,Main scheme applicant,5
+2013,5 points,Mixed,Main scheme applicant,15
+2013,5 points,Other,Main scheme applicant,5
+2013,5 points,White,Main scheme applicant,645
+2013,6 points,Asian,Main scheme applicant,30
+2013,6 points,Black,Main scheme applicant,5
+2013,6 points,Mixed,Main scheme applicant,15
+2013,6 points,Other,Main scheme applicant,5
+2013,6 points,White,Main scheme applicant,715
+2013,7 points,Asian,Main scheme applicant,30
+2013,7 points,Mixed,Main scheme applicant,15
+2013,7 points,White,Main scheme applicant,655
+2013,8 points,Asian,Main scheme applicant,30
+2013,8 points,Mixed,Main scheme applicant,10
+2013,8 points,Other,Main scheme applicant,5
+2013,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,8 points,White,Main scheme applicant,595
+2013,9 points,Asian,Main scheme applicant,10
+2013,9 points,Mixed,Main scheme applicant,5
+2013,9 points,White,Main scheme applicant,200
+2013,No SQA Advanced Highers achieved,Asian,Main scheme applicant,360
+2013,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2013,No SQA Advanced Highers achieved,Black,Main scheme applicant,65
+2013,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,120
+2013,No SQA Advanced Highers achieved,Other,Main scheme applicant,30
+2013,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,25
+2013,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2013,No SQA Advanced Highers achieved,White,Main scheme applicant,8760
+2013,No SQA Advanced Highers achieved,White,Non-main scheme applicant,370
+2014,1 point,Asian,Main scheme applicant,30
+2014,1 point,Mixed,Main scheme applicant,15
+2014,1 point,White,Main scheme applicant,615
+2014,10 points,Asian,Main scheme applicant,15
+2014,10 points,Mixed,Main scheme applicant,10
+2014,10 points,White,Main scheme applicant,250
+2014,11 points,Asian,Main scheme applicant,20
+2014,11 points,Black,Main scheme applicant,5
+2014,11 points,Mixed,Main scheme applicant,5
+2014,11 points,White,Main scheme applicant,255
+2014,12 points,Asian,Main scheme applicant,35
+2014,12 points,Mixed,Main scheme applicant,10
+2014,12 points,Other,Main scheme applicant,10
+2014,12 points,White,Main scheme applicant,470
+2014,2 points,Asian,Main scheme applicant,60
+2014,2 points,Black,Main scheme applicant,10
+2014,2 points,Mixed,Main scheme applicant,25
+2014,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2014,2 points,White,Main scheme applicant,1660
+2014,3 points,Asian,Main scheme applicant,45
+2014,3 points,Black,Main scheme applicant,10
+2014,3 points,Mixed,Main scheme applicant,25
+2014,3 points,Other,Main scheme applicant,5
+2014,3 points,White,Main scheme applicant,1620
+2014,4 points,Asian,Main scheme applicant,55
+2014,4 points,Black,Main scheme applicant,10
+2014,4 points,Mixed,Main scheme applicant,15
+2014,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2014,4 points,White,Main scheme applicant,1440
+2014,5 points,Asian,Main scheme applicant,25
+2014,5 points,Black,Main scheme applicant,5
+2014,5 points,Mixed,Main scheme applicant,10
+2014,5 points,Other,Main scheme applicant,5
+2014,5 points,White,Main scheme applicant,615
+2014,6 points,Asian,Main scheme applicant,25
+2014,6 points,Black,Main scheme applicant,5
+2014,6 points,Mixed,Main scheme applicant,15
+2014,6 points,White,Main scheme applicant,725
+2014,7 points,Asian,Main scheme applicant,25
+2014,7 points,Black,Main scheme applicant,5
+2014,7 points,Mixed,Main scheme applicant,15
+2014,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2014,7 points,White,Main scheme applicant,630
+2014,8 points,Asian,Main scheme applicant,30
+2014,8 points,Mixed,Main scheme applicant,15
+2014,8 points,Other,Main scheme applicant,5
+2014,8 points,White,Main scheme applicant,605
+2014,9 points,Asian,Main scheme applicant,10
+2014,9 points,Mixed,Main scheme applicant,5
+2014,9 points,White,Main scheme applicant,190
+2014,No SQA Advanced Highers achieved,Asian,Main scheme applicant,375
+2014,No SQA Advanced Highers achieved,Black,Main scheme applicant,65
+2014,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,125
+2014,No SQA Advanced Highers achieved,Other,Main scheme applicant,35
+2014,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,20
+2014,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2014,No SQA Advanced Highers achieved,White,Main scheme applicant,9030
+2014,No SQA Advanced Highers achieved,White,Non-main scheme applicant,35
+2015,1 point,Asian,Main scheme applicant,20
+2015,1 point,Black,Main scheme applicant,5
+2015,1 point,Mixed,Main scheme applicant,5
+2015,1 point,White,Main scheme applicant,610
+2015,10 points,Asian,Main scheme applicant,25
+2015,10 points,Mixed,Main scheme applicant,10
+2015,10 points,White,Main scheme applicant,265
+2015,11 points,Asian,Main scheme applicant,25
+2015,11 points,Mixed,Main scheme applicant,10
+2015,11 points,Other,Main scheme applicant,5
+2015,11 points,White,Main scheme applicant,285
+2015,12 points,Asian,Main scheme applicant,45
+2015,12 points,Mixed,Main scheme applicant,15
+2015,12 points,Other,Main scheme applicant,5
+2015,12 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,12 points,White,Main scheme applicant,495
+2015,2 points,Asian,Main scheme applicant,45
+2015,2 points,Black,Main scheme applicant,10
+2015,2 points,Mixed,Main scheme applicant,20
+2015,2 points,Other,Main scheme applicant,5
+2015,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,2 points,White,Main scheme applicant,1685
+2015,3 points,Asian,Main scheme applicant,50
+2015,3 points,Black,Main scheme applicant,10
+2015,3 points,Mixed,Main scheme applicant,20
+2015,3 points,Other,Main scheme applicant,5
+2015,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2015,3 points,White,Main scheme applicant,1630
+2015,4 points,Asian,Main scheme applicant,45
+2015,4 points,Black,Main scheme applicant,10
+2015,4 points,Mixed,Main scheme applicant,30
+2015,4 points,Other,Main scheme applicant,5
+2015,4 points,White,Main scheme applicant,1490
+2015,5 points,Asian,Main scheme applicant,25
+2015,5 points,Black,Main scheme applicant,5
+2015,5 points,Mixed,Main scheme applicant,15
+2015,5 points,White,Main scheme applicant,610
+2015,6 points,Asian,Main scheme applicant,30
+2015,6 points,Black,Main scheme applicant,5
+2015,6 points,Mixed,Main scheme applicant,15
+2015,6 points,Other,Main scheme applicant,5
+2015,6 points,White,Main scheme applicant,710
+2015,7 points,Asian,Main scheme applicant,35
+2015,7 points,Black,Main scheme applicant,5
+2015,7 points,Mixed,Main scheme applicant,15
+2015,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,7 points,White,Main scheme applicant,665
+2015,8 points,Asian,Main scheme applicant,25
+2015,8 points,Mixed,Main scheme applicant,20
+2015,8 points,Other,Main scheme applicant,5
+2015,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,8 points,White,Main scheme applicant,560
+2015,9 points,Asian,Main scheme applicant,20
+2015,9 points,Mixed,Main scheme applicant,5
+2015,9 points,White,Main scheme applicant,230
+2015,No SQA Advanced Highers achieved,Asian,Main scheme applicant,415
+2015,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2015,No SQA Advanced Highers achieved,Black,Main scheme applicant,75
+2015,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,150
+2015,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2015,No SQA Advanced Highers achieved,Other,Main scheme applicant,45
+2015,No SQA Advanced Highers achieved,Other,Non-main scheme applicant,5
+2015,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,35
+2015,No SQA Advanced Highers achieved,White,Main scheme applicant,8925
+2015,No SQA Advanced Highers achieved,White,Non-main scheme applicant,420
+2016,1 point,Asian,Main scheme applicant,35
+2016,1 point,Black,Main scheme applicant,5
+2016,1 point,Mixed,Main scheme applicant,10
+2016,1 point,White,Main scheme applicant,575
+2016,10 points,Asian,Main scheme applicant,10
+2016,10 points,Mixed,Main scheme applicant,10
+2016,10 points,Other,Main scheme applicant,5
+2016,10 points,White,Main scheme applicant,220
+2016,11 points,Asian,Main scheme applicant,20
+2016,11 points,Black,Main scheme applicant,5
+2016,11 points,Mixed,Main scheme applicant,10
+2016,11 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,11 points,White,Main scheme applicant,285
+2016,12 points,Asian,Main scheme applicant,70
+2016,12 points,Black,Main scheme applicant,5
+2016,12 points,Mixed,Main scheme applicant,25
+2016,12 points,Other,Main scheme applicant,5
+2016,12 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2016,12 points,White,Main scheme applicant,550
+2016,2 points,Asian,Main scheme applicant,70
+2016,2 points,Black,Main scheme applicant,10
+2016,2 points,Mixed,Main scheme applicant,30
+2016,2 points,Other,Main scheme applicant,5
+2016,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,2 points,White,Main scheme applicant,1715
+2016,3 points,Asian,Main scheme applicant,40
+2016,3 points,Black,Main scheme applicant,10
+2016,3 points,Mixed,Main scheme applicant,20
+2016,3 points,Other,Main scheme applicant,5
+2016,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2016,3 points,White,Main scheme applicant,1610
+2016,4 points,Asian,Main scheme applicant,45
+2016,4 points,Black,Main scheme applicant,10
+2016,4 points,Mixed,Main scheme applicant,40
+2016,4 points,Other,Main scheme applicant,5
+2016,4 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2016,4 points,White,Main scheme applicant,1420
+2016,5 points,Asian,Main scheme applicant,30
+2016,5 points,Black,Main scheme applicant,5
+2016,5 points,Mixed,Main scheme applicant,10
+2016,5 points,White,Main scheme applicant,600
+2016,6 points,Asian,Main scheme applicant,40
+2016,6 points,Black,Main scheme applicant,5
+2016,6 points,Mixed,Main scheme applicant,15
+2016,6 points,Other,Main scheme applicant,5
+2016,6 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,6 points,White,Main scheme applicant,735
+2016,7 points,Asian,Main scheme applicant,30
+2016,7 points,Black,Main scheme applicant,5
+2016,7 points,Mixed,Main scheme applicant,15
+2016,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,7 points,White,Main scheme applicant,660
+2016,8 points,Asian,Main scheme applicant,35
+2016,8 points,Black,Main scheme applicant,5
+2016,8 points,Mixed,Main scheme applicant,15
+2016,8 points,Other,Main scheme applicant,10
+2016,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,8 points,White,Main scheme applicant,660
+2016,9 points,Asian,Main scheme applicant,10
+2016,9 points,White,Main scheme applicant,205
+2016,No SQA Advanced Highers achieved,Asian,Main scheme applicant,390
+2016,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2016,No SQA Advanced Highers achieved,Black,Main scheme applicant,85
+2016,No SQA Advanced Highers achieved,Black,Non-main scheme applicant,5
+2016,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,140
+2016,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2016,No SQA Advanced Highers achieved,Other,Main scheme applicant,45
+2016,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,35
+2016,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2016,No SQA Advanced Highers achieved,White,Main scheme applicant,8585
+2016,No SQA Advanced Highers achieved,White,Non-main scheme applicant,380
+2017,1 point,Asian,Main scheme applicant,25
+2017,1 point,Black,Main scheme applicant,10
+2017,1 point,Mixed,Main scheme applicant,10
+2017,1 point,Other,Main scheme applicant,5
+2017,1 point,White,Main scheme applicant,670
+2017,10 points,Asian,Main scheme applicant,15
+2017,10 points,Mixed,Main scheme applicant,10
+2017,10 points,White,Main scheme applicant,255
+2017,11 points,Asian,Main scheme applicant,25
+2017,11 points,Black,Main scheme applicant,5
+2017,11 points,Mixed,Main scheme applicant,10
+2017,11 points,Other,Main scheme applicant,5
+2017,11 points,White,Main scheme applicant,290
+2017,12 points,Asian,Main scheme applicant,45
+2017,12 points,Black,Main scheme applicant,5
+2017,12 points,Mixed,Main scheme applicant,20
+2017,12 points,Other,Main scheme applicant,5
+2017,12 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2017,12 points,White,Main scheme applicant,530
+2017,2 points,Asian,Main scheme applicant,75
+2017,2 points,Black,Main scheme applicant,10
+2017,2 points,Mixed,Main scheme applicant,35
+2017,2 points,Other,Main scheme applicant,5
+2017,2 points,White,Main scheme applicant,1655
+2017,3 points,Asian,Main scheme applicant,60
+2017,3 points,Black,Main scheme applicant,10
+2017,3 points,Mixed,Main scheme applicant,25
+2017,3 points,Other,Main scheme applicant,5
+2017,3 points,White,Main scheme applicant,1510
+2017,4 points,Asian,Main scheme applicant,70
+2017,4 points,Black,Main scheme applicant,10
+2017,4 points,Mixed,Main scheme applicant,35
+2017,4 points,Other,Main scheme applicant,10
+2017,4 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2017,4 points,White,Main scheme applicant,1500
+2017,5 points,Asian,Main scheme applicant,35
+2017,5 points,Black,Main scheme applicant,5
+2017,5 points,Mixed,Main scheme applicant,15
+2017,5 points,White,Main scheme applicant,625
+2017,6 points,Asian,Main scheme applicant,40
+2017,6 points,Black,Main scheme applicant,5
+2017,6 points,Mixed,Main scheme applicant,20
+2017,6 points,Other,Main scheme applicant,5
+2017,6 points,White,Main scheme applicant,725
+2017,7 points,Asian,Main scheme applicant,35
+2017,7 points,Black,Main scheme applicant,5
+2017,7 points,Mixed,Main scheme applicant,15
+2017,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2017,7 points,White,Main scheme applicant,655
+2017,8 points,Asian,Main scheme applicant,40
+2017,8 points,Mixed,Main scheme applicant,15
+2017,8 points,Other,Main scheme applicant,5
+2017,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2017,8 points,White,Main scheme applicant,545
+2017,9 points,Asian,Main scheme applicant,20
+2017,9 points,Mixed,Main scheme applicant,5
+2017,9 points,Other,Main scheme applicant,5
+2017,9 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2017,9 points,White,Main scheme applicant,215
+2017,No SQA Advanced Highers achieved,Asian,Main scheme applicant,390
+2017,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2017,No SQA Advanced Highers achieved,Black,Main scheme applicant,100
+2017,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,135
+2017,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2017,No SQA Advanced Highers achieved,Other,Main scheme applicant,35
+2017,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,35
+2017,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2017,No SQA Advanced Highers achieved,White,Main scheme applicant,8195
+2017,No SQA Advanced Highers achieved,White,Non-main scheme applicant,355
+2018,1 point,Asian,Main scheme applicant,40
+2018,1 point,Black,Main scheme applicant,5
+2018,1 point,Mixed,Main scheme applicant,15
+2018,1 point,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,1 point,White,Main scheme applicant,645
+2018,10 points,Asian,Main scheme applicant,20
+2018,10 points,Mixed,Main scheme applicant,10
+2018,10 points,Other,Main scheme applicant,5
+2018,10 points,White,Main scheme applicant,235
+2018,11 points,Asian,Main scheme applicant,30
+2018,11 points,Black,Main scheme applicant,5
+2018,11 points,Mixed,Main scheme applicant,10
+2018,11 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,11 points,White,Main scheme applicant,315
+2018,12 points,Asian,Main scheme applicant,55
+2018,12 points,Black,Main scheme applicant,10
+2018,12 points,Mixed,Main scheme applicant,25
+2018,12 points,Other,Main scheme applicant,5
+2018,12 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2018,12 points,White,Main scheme applicant,545
+2018,2 points,Asian,Main scheme applicant,65
+2018,2 points,Black,Main scheme applicant,15
+2018,2 points,Mixed,Main scheme applicant,25
+2018,2 points,Other,Main scheme applicant,10
+2018,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,2 points,White,Main scheme applicant,1555
+2018,3 points,Asian,Main scheme applicant,65
+2018,3 points,Black,Main scheme applicant,25
+2018,3 points,Mixed,Main scheme applicant,40
+2018,3 points,Other,Main scheme applicant,10
+2018,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2018,3 points,White,Main scheme applicant,1545
+2018,4 points,Asian,Main scheme applicant,65
+2018,4 points,Black,Main scheme applicant,10
+2018,4 points,Mixed,Main scheme applicant,30
+2018,4 points,Other,Main scheme applicant,5
+2018,4 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,4 points,White,Main scheme applicant,1350
+2018,5 points,Asian,Main scheme applicant,45
+2018,5 points,Black,Main scheme applicant,5
+2018,5 points,Mixed,Main scheme applicant,20
+2018,5 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,5 points,White,Main scheme applicant,620
+2018,6 points,Asian,Main scheme applicant,35
+2018,6 points,Black,Main scheme applicant,10
+2018,6 points,Mixed,Main scheme applicant,25
+2018,6 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,6 points,White,Main scheme applicant,685
+2018,7 points,Asian,Main scheme applicant,45
+2018,7 points,Black,Main scheme applicant,5
+2018,7 points,Mixed,Main scheme applicant,15
+2018,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,7 points,White,Main scheme applicant,650
+2018,8 points,Asian,Main scheme applicant,20
+2018,8 points,Black,Main scheme applicant,5
+2018,8 points,Mixed,Main scheme applicant,15
+2018,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,8 points,White,Main scheme applicant,595
+2018,9 points,Asian,Main scheme applicant,20
+2018,9 points,Black,Main scheme applicant,5
+2018,9 points,Mixed,Main scheme applicant,5
+2018,9 points,Other,Main scheme applicant,5
+2018,9 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,9 points,White,Main scheme applicant,185
+2018,No SQA Advanced Highers achieved,Asian,Main scheme applicant,435
+2018,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2018,No SQA Advanced Highers achieved,Black,Main scheme applicant,115
+2018,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,140
+2018,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2018,No SQA Advanced Highers achieved,Other,Main scheme applicant,40
+2018,No SQA Advanced Highers achieved,Other,Non-main scheme applicant,5
+2018,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,25
+2018,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,10
+2018,No SQA Advanced Highers achieved,White,Main scheme applicant,7595
+2018,No SQA Advanced Highers achieved,White,Non-main scheme applicant,330
+2019,1 point,Asian,Main scheme applicant,35
+2019,1 point,Black,Main scheme applicant,10
+2019,1 point,Mixed,Main scheme applicant,10
+2019,1 point,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,1 point,White,Main scheme applicant,650
+2019,10 points,Asian,Main scheme applicant,25
+2019,10 points,Black,Main scheme applicant,5
+2019,10 points,Mixed,Main scheme applicant,5
+2019,10 points,Other,Main scheme applicant,5
+2019,10 points,White,Main scheme applicant,225
+2019,11 points,Asian,Main scheme applicant,30
+2019,11 points,Mixed,Main scheme applicant,10
+2019,11 points,Other,Main scheme applicant,5
+2019,11 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,11 points,White,Main scheme applicant,260
+2019,12 points,Asian,Main scheme applicant,60
+2019,12 points,Black,Main scheme applicant,5
+2019,12 points,Mixed,Main scheme applicant,20
+2019,12 points,Other,Main scheme applicant,5
+2019,12 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2019,12 points,White,Main scheme applicant,510
+2019,2 points,Asian,Main scheme applicant,70
+2019,2 points,Black,Main scheme applicant,15
+2019,2 points,Mixed,Main scheme applicant,25
+2019,2 points,Other,Main scheme applicant,5
+2019,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,2 points,White,Main scheme applicant,1565
+2019,3 points,Asian,Main scheme applicant,75
+2019,3 points,Black,Main scheme applicant,10
+2019,3 points,Mixed,Main scheme applicant,30
+2019,3 points,Other,Main scheme applicant,5
+2019,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,3 points,White,Main scheme applicant,1395
+2019,4 points,Asian,Main scheme applicant,70
+2019,4 points,Black,Main scheme applicant,15
+2019,4 points,Mixed,Main scheme applicant,30
+2019,4 points,Other,Main scheme applicant,10
+2019,4 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2019,4 points,White,Main scheme applicant,1255
+2019,5 points,Asian,Main scheme applicant,35
+2019,5 points,Black,Main scheme applicant,5
+2019,5 points,Mixed,Main scheme applicant,20
+2019,5 points,Other,Main scheme applicant,5
+2019,5 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,5 points,White,Main scheme applicant,550
+2019,6 points,Asian,Main scheme applicant,40
+2019,6 points,Black,Main scheme applicant,10
+2019,6 points,Mixed,Main scheme applicant,20
+2019,6 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,6 points,White,Main scheme applicant,615
+2019,7 points,Asian,Main scheme applicant,30
+2019,7 points,Black,Main scheme applicant,5
+2019,7 points,Mixed,Main scheme applicant,20
+2019,7 points,Other,Main scheme applicant,5
+2019,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,7 points,White,Main scheme applicant,635
+2019,8 points,Asian,Main scheme applicant,45
+2019,8 points,Black,Main scheme applicant,5
+2019,8 points,Mixed,Main scheme applicant,20
+2019,8 points,Other,Main scheme applicant,5
+2019,8 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,8 points,White,Main scheme applicant,575
+2019,9 points,Asian,Main scheme applicant,20
+2019,9 points,Black,Main scheme applicant,5
+2019,9 points,Mixed,Main scheme applicant,10
+2019,9 points,White,Main scheme applicant,175
+2019,No SQA Advanced Highers achieved,Asian,Main scheme applicant,420
+2019,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,5
+2019,No SQA Advanced Highers achieved,Black,Main scheme applicant,125
+2019,No SQA Advanced Highers achieved,Black,Non-main scheme applicant,5
+2019,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,195
+2019,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,5
+2019,No SQA Advanced Highers achieved,Other,Main scheme applicant,65
+2019,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,40
+2019,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2019,No SQA Advanced Highers achieved,White,Main scheme applicant,7400
+2019,No SQA Advanced Highers achieved,White,Non-main scheme applicant,315
+2020,1 point,Asian,Main scheme applicant,30
+2020,1 point,Black,Main scheme applicant,5
+2020,1 point,Mixed,Main scheme applicant,10
+2020,1 point,Other,Main scheme applicant,5
+2020,1 point,White,Main scheme applicant,255
+2020,10 points,Asian,Main scheme applicant,25
+2020,10 points,Black,Main scheme applicant,5
+2020,10 points,Mixed,Main scheme applicant,5
+2020,10 points,Other,Main scheme applicant,5
+2020,10 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,10 points,White,Main scheme applicant,215
+2020,11 points,Asian,Main scheme applicant,35
+2020,11 points,Black,Main scheme applicant,5
+2020,11 points,Mixed,Main scheme applicant,15
+2020,11 points,Other,Main scheme applicant,5
+2020,11 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,11 points,White,Main scheme applicant,245
+2020,12 points,Asian,Main scheme applicant,120
+2020,12 points,Black,Main scheme applicant,15
+2020,12 points,Mixed,Main scheme applicant,35
+2020,12 points,Other,Main scheme applicant,10
+2020,12 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2020,12 points,White,Main scheme applicant,825
+2020,2 points,Asian,Main scheme applicant,70
+2020,2 points,Black,Main scheme applicant,15
+2020,2 points,Mixed,Main scheme applicant,25
+2020,2 points,Other,Main scheme applicant,10
+2020,2 points,White,Main scheme applicant,1110
+2020,3 points,Asian,Main scheme applicant,105
+2020,3 points,Black,Main scheme applicant,25
+2020,3 points,Mixed,Main scheme applicant,35
+2020,3 points,Other,Main scheme applicant,15
+2020,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,3 points,White,Main scheme applicant,1530
+2020,4 points,Asian,Main scheme applicant,90
+2020,4 points,Black,Main scheme applicant,15
+2020,4 points,Mixed,Main scheme applicant,40
+2020,4 points,Other,Main scheme applicant,15
+2020,4 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2020,4 points,White,Main scheme applicant,1740
+2020,5 points,Asian,Main scheme applicant,35
+2020,5 points,Black,Main scheme applicant,10
+2020,5 points,Mixed,Main scheme applicant,15
+2020,5 points,Other,Main scheme applicant,5
+2020,5 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,5 points,White,Main scheme applicant,465
+2020,6 points,Asian,Main scheme applicant,40
+2020,6 points,Black,Main scheme applicant,15
+2020,6 points,Mixed,Main scheme applicant,30
+2020,6 points,Other,Main scheme applicant,5
+2020,6 points,White,Main scheme applicant,680
+2020,7 points,Asian,Main scheme applicant,50
+2020,7 points,Black,Main scheme applicant,5
+2020,7 points,Mixed,Main scheme applicant,20
+2020,7 points,Other,Main scheme applicant,5
+2020,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,7 points,White,Main scheme applicant,765
+2020,8 points,Asian,Main scheme applicant,65
+2020,8 points,Black,Main scheme applicant,10
+2020,8 points,Mixed,Main scheme applicant,20
+2020,8 points,Other,Main scheme applicant,5
+2020,8 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2020,8 points,White,Main scheme applicant,970
+2020,9 points,Asian,Main scheme applicant,25
+2020,9 points,Black,Main scheme applicant,5
+2020,9 points,Mixed,Main scheme applicant,10
+2020,9 points,Other,Main scheme applicant,5
+2020,9 points,White,Main scheme applicant,170
+2020,No SQA Advanced Highers achieved,Asian,Main scheme applicant,410
+2020,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,10
+2020,No SQA Advanced Highers achieved,Black,Main scheme applicant,145
+2020,No SQA Advanced Highers achieved,Black,Non-main scheme applicant,5
+2020,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,160
+2020,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,15
+2020,No SQA Advanced Highers achieved,Other,Main scheme applicant,70
+2020,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,35
+2020,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,20
+2020,No SQA Advanced Highers achieved,White,Main scheme applicant,6155
+2020,No SQA Advanced Highers achieved,White,Non-main scheme applicant,420
+2021,1 point,Asian,Main scheme applicant,25
+2021,1 point,Black,Main scheme applicant,10
+2021,1 point,Mixed,Main scheme applicant,10
+2021,1 point,Other,Main scheme applicant,5
+2021,1 point,White,Main scheme applicant,420
+2021,10 points,Asian,Main scheme applicant,35
+2021,10 points,Black,Main scheme applicant,10
+2021,10 points,Mixed,Main scheme applicant,10
+2021,10 points,Other,Main scheme applicant,5
+2021,10 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2021,10 points,White,Main scheme applicant,230
+2021,11 points,Asian,Main scheme applicant,35
+2021,11 points,Black,Main scheme applicant,5
+2021,11 points,Mixed,Main scheme applicant,10
+2021,11 points,Other,Main scheme applicant,5
+2021,11 points,White,Main scheme applicant,320
+2021,12 points,Asian,Main scheme applicant,125
+2021,12 points,Black,Main scheme applicant,20
+2021,12 points,Mixed,Main scheme applicant,60
+2021,12 points,Other,Main scheme applicant,15
+2021,12 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2021,12 points,White,Main scheme applicant,1035
+2021,2 points,Asian,Main scheme applicant,70
+2021,2 points,Black,Main scheme applicant,15
+2021,2 points,Mixed,Main scheme applicant,30
+2021,2 points,Other,Main scheme applicant,5
+2021,2 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2021,2 points,White,Main scheme applicant,1135
+2021,3 points,Asian,Main scheme applicant,75
+2021,3 points,Black,Main scheme applicant,25
+2021,3 points,Mixed,Main scheme applicant,35
+2021,3 points,Other,Main scheme applicant,10
+2021,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2021,3 points,White,Main scheme applicant,1510
+2021,4 points,Asian,Main scheme applicant,85
+2021,4 points,Black,Main scheme applicant,25
+2021,4 points,Mixed,Main scheme applicant,60
+2021,4 points,Other,Main scheme applicant,15
+2021,4 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2021,4 points,White,Main scheme applicant,2115
+2021,5 points,Asian,Main scheme applicant,45
+2021,5 points,Black,Main scheme applicant,5
+2021,5 points,Mixed,Main scheme applicant,15
+2021,5 points,White,Main scheme applicant,470
+2021,6 points,Asian,Main scheme applicant,45
+2021,6 points,Black,Main scheme applicant,5
+2021,6 points,Mixed,Main scheme applicant,15
+2021,6 points,Other,Main scheme applicant,5
+2021,6 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2021,6 points,White,Main scheme applicant,680
+2021,7 points,Asian,Main scheme applicant,40
+2021,7 points,Black,Main scheme applicant,15
+2021,7 points,Mixed,Main scheme applicant,30
+2021,7 points,Other,Main scheme applicant,5
+2021,7 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2021,7 points,White,Main scheme applicant,820
+2021,8 points,Asian,Main scheme applicant,65
+2021,8 points,Black,Main scheme applicant,15
+2021,8 points,Mixed,Main scheme applicant,40
+2021,8 points,Other,Main scheme applicant,10
+2021,8 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2021,8 points,White,Main scheme applicant,1250
+2021,9 points,Asian,Main scheme applicant,20
+2021,9 points,Black,Main scheme applicant,5
+2021,9 points,Mixed,Main scheme applicant,10
+2021,9 points,Other,Main scheme applicant,5
+2021,9 points,White,Main scheme applicant,130
+2021,No SQA Advanced Highers achieved,Asian,Main scheme applicant,445
+2021,No SQA Advanced Highers achieved,Asian,Non-main scheme applicant,10
+2021,No SQA Advanced Highers achieved,Black,Main scheme applicant,190
+2021,No SQA Advanced Highers achieved,Black,Non-main scheme applicant,5
+2021,No SQA Advanced Highers achieved,Mixed,Main scheme applicant,210
+2021,No SQA Advanced Highers achieved,Mixed,Non-main scheme applicant,15
+2021,No SQA Advanced Highers achieved,Other,Main scheme applicant,75
+2021,No SQA Advanced Highers achieved,Other,Non-main scheme applicant,5
+2021,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Main scheme applicant,45
+2021,No SQA Advanced Highers achieved,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2021,No SQA Advanced Highers achieved,White,Main scheme applicant,7570
+2021,No SQA Advanced Highers achieved,White,Non-main scheme applicant,300

@@ -1,0 +1,1751 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2021 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 9 December 2021"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2021_022_1"
+"Cycles: 2008 - 2021"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Qualification group, Ethnic group, Applicant type                                  "
+"Coverage: UK, 18 year old applicants"
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Data lines are comma delimited."
+"Data follows -     1735 lines in total"
+"------------------------------------------------------------------"
+Year,Qualification group,Ethnic group,Applicant type,Applicants,
+2008,All,All,All,244070
+2009,All,All,All,257090
+2010,All,All,All,270350
+2011,All,All,All,269195
+2012,All,All,All,260360
+2013,All,All,All,262850
+2014,All,All,All,268760
+2015,All,All,All,279365
+2016,All,All,All,281035
+2017,All,All,All,282380
+2018,All,All,All,277530
+2019,All,All,All,281080
+2020,All,All,All,289510
+2021,All,All,All,316200
+2008,All,All,Main scheme applicant,240020
+2008,All,All,Non-main scheme applicant,4050
+2009,All,All,Main scheme applicant,253535
+2009,All,All,Non-main scheme applicant,3550
+2010,All,All,Main scheme applicant,268370
+2010,All,All,Non-main scheme applicant,1975
+2011,All,All,Main scheme applicant,267410
+2011,All,All,Non-main scheme applicant,1790
+2012,All,All,Main scheme applicant,257430
+2012,All,All,Non-main scheme applicant,2930
+2013,All,All,Main scheme applicant,259410
+2013,All,All,Non-main scheme applicant,3435
+2014,All,All,Main scheme applicant,265980
+2014,All,All,Non-main scheme applicant,2780
+2015,All,All,Main scheme applicant,275875
+2015,All,All,Non-main scheme applicant,3490
+2016,All,All,Main scheme applicant,277495
+2016,All,All,Non-main scheme applicant,3540
+2017,All,All,Main scheme applicant,278145
+2017,All,All,Non-main scheme applicant,4230
+2018,All,All,Main scheme applicant,272925
+2018,All,All,Non-main scheme applicant,4600
+2019,All,All,Main scheme applicant,275535
+2019,All,All,Non-main scheme applicant,5550
+2020,All,All,Main scheme applicant,281995
+2020,All,All,Non-main scheme applicant,7510
+2021,All,All,Main scheme applicant,311080
+2021,All,All,Non-main scheme applicant,5120
+2008,All,Asian,All,21785
+2008,All,Black,All,7595
+2008,All,Mixed,All,6915
+2008,All,Other,All,1835
+2008,All,Unknown or Prefer Not To Say,All,3955
+2008,All,White,All,201980
+2009,All,Asian,All,22895
+2009,All,Black,All,8395
+2009,All,Mixed,All,7675
+2009,All,Other,All,1855
+2009,All,Unknown or Prefer Not To Say,All,2890
+2009,All,White,All,213385
+2010,All,Asian,All,24380
+2010,All,Black,All,9445
+2010,All,Mixed,All,8175
+2010,All,Other,All,2145
+2010,All,Unknown or Prefer Not To Say,All,1780
+2010,All,White,All,224425
+2011,All,Asian,All,25400
+2011,All,Black,All,10355
+2011,All,Mixed,All,8955
+2011,All,Other,All,2345
+2011,All,Unknown or Prefer Not To Say,All,1530
+2011,All,White,All,220610
+2012,All,Asian,All,25380
+2012,All,Black,All,10460
+2012,All,Mixed,All,8765
+2012,All,Other,All,2745
+2012,All,Unknown or Prefer Not To Say,All,1455
+2012,All,White,All,211560
+2013,All,Asian,All,26460
+2013,All,Black,All,11835
+2013,All,Mixed,All,9270
+2013,All,Other,All,2855
+2013,All,Unknown or Prefer Not To Say,All,1355
+2013,All,White,All,211070
+2014,All,Asian,All,28040
+2014,All,Black,All,12475
+2014,All,Mixed,All,9925
+2014,All,Other,All,3315
+2014,All,Unknown or Prefer Not To Say,All,1315
+2014,All,White,All,213690
+2015,All,Asian,All,30050
+2015,All,Black,All,13690
+2015,All,Mixed,All,11095
+2015,All,Other,All,3615
+2015,All,Unknown or Prefer Not To Say,All,1740
+2015,All,White,All,219170
+2016,All,Asian,All,31660
+2016,All,Black,All,13940
+2016,All,Mixed,All,11615
+2016,All,Other,All,3815
+2016,All,Unknown or Prefer Not To Say,All,1920
+2016,All,White,All,218085
+2017,All,Asian,All,33535
+2017,All,Black,All,14265
+2017,All,Mixed,All,12345
+2017,All,Other,All,4245
+2017,All,Unknown or Prefer Not To Say,All,1895
+2017,All,White,All,216095
+2018,All,Asian,All,35535
+2018,All,Black,All,15005
+2018,All,Mixed,All,12475
+2018,All,Other,All,4490
+2018,All,Unknown or Prefer Not To Say,All,2125
+2018,All,White,All,207895
+2019,All,Asian,All,39285
+2019,All,Black,All,16470
+2019,All,Mixed,All,13410
+2019,All,Other,All,5255
+2019,All,Unknown or Prefer Not To Say,All,2275
+2019,All,White,All,204385
+2020,All,Asian,All,43095
+2020,All,Black,All,17970
+2020,All,Mixed,All,14580
+2020,All,Other,All,5760
+2020,All,Unknown or Prefer Not To Say,All,2395
+2020,All,White,All,205705
+2021,All,Asian,All,47295
+2021,All,Black,All,20365
+2021,All,Mixed,All,16710
+2021,All,Other,All,6560
+2021,All,Unknown or Prefer Not To Say,All,2600
+2021,All,White,All,222665
+2008,All,Asian,Main scheme applicant,21570
+2008,All,Asian,Non-main scheme applicant,220
+2008,All,Black,Main scheme applicant,7485
+2008,All,Black,Non-main scheme applicant,110
+2008,All,Mixed,Main scheme applicant,6855
+2008,All,Mixed,Non-main scheme applicant,60
+2008,All,Other,Main scheme applicant,1810
+2008,All,Other,Non-main scheme applicant,25
+2008,All,Unknown or Prefer Not To Say,Main scheme applicant,2255
+2008,All,Unknown or Prefer Not To Say,Non-main scheme applicant,1705
+2008,All,White,Main scheme applicant,200045
+2008,All,White,Non-main scheme applicant,1935
+2009,All,Asian,Main scheme applicant,22720
+2009,All,Asian,Non-main scheme applicant,175
+2009,All,Black,Main scheme applicant,8300
+2009,All,Black,Non-main scheme applicant,95
+2009,All,Mixed,Main scheme applicant,7610
+2009,All,Mixed,Non-main scheme applicant,65
+2009,All,Other,Main scheme applicant,1830
+2009,All,Other,Non-main scheme applicant,25
+2009,All,Unknown or Prefer Not To Say,Main scheme applicant,1550
+2009,All,Unknown or Prefer Not To Say,Non-main scheme applicant,1340
+2009,All,White,Main scheme applicant,211525
+2009,All,White,Non-main scheme applicant,1855
+2010,All,Asian,Main scheme applicant,24210
+2010,All,Asian,Non-main scheme applicant,170
+2010,All,Black,Main scheme applicant,9355
+2010,All,Black,Non-main scheme applicant,90
+2010,All,Mixed,Main scheme applicant,8125
+2010,All,Mixed,Non-main scheme applicant,45
+2010,All,Other,Main scheme applicant,2125
+2010,All,Other,Non-main scheme applicant,20
+2010,All,Unknown or Prefer Not To Say,Main scheme applicant,1515
+2010,All,Unknown or Prefer Not To Say,Non-main scheme applicant,260
+2010,All,White,Main scheme applicant,223035
+2010,All,White,Non-main scheme applicant,1395
+2011,All,Asian,Main scheme applicant,25220
+2011,All,Asian,Non-main scheme applicant,180
+2011,All,Black,Main scheme applicant,10225
+2011,All,Black,Non-main scheme applicant,130
+2011,All,Mixed,Main scheme applicant,8885
+2011,All,Mixed,Non-main scheme applicant,70
+2011,All,Other,Main scheme applicant,2320
+2011,All,Other,Non-main scheme applicant,30
+2011,All,Unknown or Prefer Not To Say,Main scheme applicant,1390
+2011,All,Unknown or Prefer Not To Say,Non-main scheme applicant,135
+2011,All,White,Main scheme applicant,219365
+2011,All,White,Non-main scheme applicant,1240
+2012,All,Asian,Main scheme applicant,25090
+2012,All,Asian,Non-main scheme applicant,290
+2012,All,Black,Main scheme applicant,10290
+2012,All,Black,Non-main scheme applicant,170
+2012,All,Mixed,Main scheme applicant,8685
+2012,All,Mixed,Non-main scheme applicant,80
+2012,All,Other,Main scheme applicant,2680
+2012,All,Other,Non-main scheme applicant,60
+2012,All,Unknown or Prefer Not To Say,Main scheme applicant,1230
+2012,All,Unknown or Prefer Not To Say,Non-main scheme applicant,225
+2012,All,White,Main scheme applicant,209455
+2012,All,White,Non-main scheme applicant,2105
+2013,All,Asian,Main scheme applicant,26100
+2013,All,Asian,Non-main scheme applicant,360
+2013,All,Black,Main scheme applicant,11600
+2013,All,Black,Non-main scheme applicant,235
+2013,All,Mixed,Main scheme applicant,9150
+2013,All,Mixed,Non-main scheme applicant,120
+2013,All,Other,Main scheme applicant,2805
+2013,All,Other,Non-main scheme applicant,50
+2013,All,Unknown or Prefer Not To Say,Main scheme applicant,1120
+2013,All,Unknown or Prefer Not To Say,Non-main scheme applicant,240
+2013,All,White,Main scheme applicant,208640
+2013,All,White,Non-main scheme applicant,2430
+2014,All,Asian,Main scheme applicant,27725
+2014,All,Asian,Non-main scheme applicant,315
+2014,All,Black,Main scheme applicant,12295
+2014,All,Black,Non-main scheme applicant,180
+2014,All,Mixed,Main scheme applicant,9830
+2014,All,Mixed,Non-main scheme applicant,95
+2014,All,Other,Main scheme applicant,3240
+2014,All,Other,Non-main scheme applicant,70
+2014,All,Unknown or Prefer Not To Say,Main scheme applicant,1085
+2014,All,Unknown or Prefer Not To Say,Non-main scheme applicant,225
+2014,All,White,Main scheme applicant,211800
+2014,All,White,Non-main scheme applicant,1890
+2015,All,Asian,Main scheme applicant,29690
+2015,All,Asian,Non-main scheme applicant,360
+2015,All,Black,Main scheme applicant,13430
+2015,All,Black,Non-main scheme applicant,260
+2015,All,Mixed,Main scheme applicant,10950
+2015,All,Mixed,Non-main scheme applicant,145
+2015,All,Other,Main scheme applicant,3530
+2015,All,Other,Non-main scheme applicant,90
+2015,All,Unknown or Prefer Not To Say,Main scheme applicant,1575
+2015,All,Unknown or Prefer Not To Say,Non-main scheme applicant,165
+2015,All,White,Main scheme applicant,216705
+2015,All,White,Non-main scheme applicant,2470
+2016,All,Asian,Main scheme applicant,31290
+2016,All,Asian,Non-main scheme applicant,370
+2016,All,Black,Main scheme applicant,13710
+2016,All,Black,Non-main scheme applicant,225
+2016,All,Mixed,Main scheme applicant,11490
+2016,All,Mixed,Non-main scheme applicant,125
+2016,All,Other,Main scheme applicant,3725
+2016,All,Other,Non-main scheme applicant,90
+2016,All,Unknown or Prefer Not To Say,Main scheme applicant,1700
+2016,All,Unknown or Prefer Not To Say,Non-main scheme applicant,220
+2016,All,White,Main scheme applicant,215575
+2016,All,White,Non-main scheme applicant,2510
+2017,All,Asian,Main scheme applicant,33055
+2017,All,Asian,Non-main scheme applicant,480
+2017,All,Black,Main scheme applicant,13995
+2017,All,Black,Non-main scheme applicant,270
+2017,All,Mixed,Main scheme applicant,12140
+2017,All,Mixed,Non-main scheme applicant,205
+2017,All,Other,Main scheme applicant,4125
+2017,All,Other,Non-main scheme applicant,120
+2017,All,Unknown or Prefer Not To Say,Main scheme applicant,1685
+2017,All,Unknown or Prefer Not To Say,Non-main scheme applicant,205
+2017,All,White,Main scheme applicant,213145
+2017,All,White,Non-main scheme applicant,2950
+2018,All,Asian,Main scheme applicant,35010
+2018,All,Asian,Non-main scheme applicant,525
+2018,All,Black,Main scheme applicant,14715
+2018,All,Black,Non-main scheme applicant,285
+2018,All,Mixed,Main scheme applicant,12265
+2018,All,Mixed,Non-main scheme applicant,215
+2018,All,Other,Main scheme applicant,4365
+2018,All,Other,Non-main scheme applicant,125
+2018,All,Unknown or Prefer Not To Say,Main scheme applicant,1840
+2018,All,Unknown or Prefer Not To Say,Non-main scheme applicant,290
+2018,All,White,Main scheme applicant,204735
+2018,All,White,Non-main scheme applicant,3165
+2019,All,Asian,Main scheme applicant,38650
+2019,All,Asian,Non-main scheme applicant,635
+2019,All,Black,Main scheme applicant,16135
+2019,All,Black,Non-main scheme applicant,340
+2019,All,Mixed,Main scheme applicant,13215
+2019,All,Mixed,Non-main scheme applicant,195
+2019,All,Other,Main scheme applicant,5120
+2019,All,Other,Non-main scheme applicant,135
+2019,All,Unknown or Prefer Not To Say,Main scheme applicant,1865
+2019,All,Unknown or Prefer Not To Say,Non-main scheme applicant,410
+2019,All,White,Main scheme applicant,200550
+2019,All,White,Non-main scheme applicant,3835
+2020,All,Asian,Main scheme applicant,42400
+2020,All,Asian,Non-main scheme applicant,695
+2020,All,Black,Main scheme applicant,17535
+2020,All,Black,Non-main scheme applicant,440
+2020,All,Mixed,Main scheme applicant,14210
+2020,All,Mixed,Non-main scheme applicant,370
+2020,All,Other,Main scheme applicant,5585
+2020,All,Other,Non-main scheme applicant,175
+2020,All,Unknown or Prefer Not To Say,Main scheme applicant,2030
+2020,All,Unknown or Prefer Not To Say,Non-main scheme applicant,360
+2020,All,White,Main scheme applicant,200235
+2020,All,White,Non-main scheme applicant,5470
+2021,All,Asian,Main scheme applicant,46700
+2021,All,Asian,Non-main scheme applicant,595
+2021,All,Black,Main scheme applicant,20020
+2021,All,Black,Non-main scheme applicant,350
+2021,All,Mixed,Main scheme applicant,16490
+2021,All,Mixed,Non-main scheme applicant,220
+2021,All,Other,Main scheme applicant,6420
+2021,All,Other,Non-main scheme applicant,145
+2021,All,Unknown or Prefer Not To Say,Main scheme applicant,2315
+2021,All,Unknown or Prefer Not To Say,Non-main scheme applicant,285
+2021,All,White,Main scheme applicant,219140
+2021,All,White,Non-main scheme applicant,3525
+2008,A level & BTEC,All,All,5615
+2008,A level Only,All,All,164270
+2008,BTEC Only,All,All,18040
+2008,IB Only,All,All,1250
+2008,Other,All,All,38395
+2008,SQA Only,All,All,16500
+2009,A level & BTEC,All,All,7895
+2009,A level Only,All,All,170090
+2009,BTEC Only,All,All,21840
+2009,IB Only,All,All,1880
+2009,Other,All,All,38415
+2009,SQA Only,All,All,16970
+2010,A level & BTEC,All,All,9800
+2010,A level Only,All,All,175965
+2010,BTEC Only,All,All,24645
+2010,IB Only,All,All,2205
+2010,Other,All,All,39100
+2010,SQA Only,All,All,18635
+2011,A level & BTEC,All,All,10425
+2011,A level Only,All,All,176610
+2011,BTEC Only,All,All,24965
+2011,IB Only,All,All,2455
+2011,Other,All,All,36180
+2011,SQA Only,All,All,18560
+2012,A level & BTEC,All,All,11805
+2012,A level Only,All,All,169655
+2012,BTEC Only,All,All,23610
+2012,IB Only,All,All,2390
+2012,Other,All,All,34510
+2012,SQA Only,All,All,18385
+2013,A level & BTEC,All,All,13915
+2013,A level Only,All,All,168125
+2013,BTEC Only,All,All,25935
+2013,IB Only,All,All,2170
+2013,Other,All,All,34305
+2013,SQA Only,All,All,18400
+2014,A level & BTEC,All,All,16590
+2014,A level Only,All,All,165640
+2014,BTEC Only,All,All,29705
+2014,IB Only,All,All,2330
+2014,Other,All,All,35785
+2014,SQA Only,All,All,18705
+2015,A level & BTEC,All,All,18890
+2015,A level Only,All,All,170055
+2015,BTEC Only,All,All,31630
+2015,IB Only,All,All,2330
+2015,Other,All,All,37605
+2015,SQA Only,All,All,18855
+2016,A level & BTEC,All,All,20525
+2016,A level Only,All,All,169710
+2016,BTEC Only,All,All,30245
+2016,IB Only,All,All,2370
+2016,Other,All,All,39520
+2016,SQA Only,All,All,18670
+2017,A level & BTEC,All,All,21550
+2017,A level Only,All,All,170165
+2017,BTEC Only,All,All,30335
+2017,IB Only,All,All,2470
+2017,Other,All,All,39680
+2017,SQA Only,All,All,18180
+2018,A level & BTEC,All,All,19365
+2018,A level Only,All,All,165085
+2018,BTEC Only,All,All,26980
+2018,IB Only,All,All,2340
+2018,Other,All,All,46185
+2018,SQA Only,All,All,17580
+2019,A level & BTEC,All,All,20350
+2019,A level Only,All,All,163095
+2019,BTEC Only,All,All,25715
+2019,IB Only,All,All,2495
+2019,Other,All,All,52355
+2019,SQA Only,All,All,17075
+2020,A level & BTEC,All,All,22905
+2020,A level Only,All,All,168085
+2020,BTEC Only,All,All,28200
+2020,IB Only,All,All,2505
+2020,Other,All,All,51150
+2020,SQA Only,All,All,16660
+2021,A level & BTEC,All,All,26445
+2021,A level Only,All,All,181080
+2021,BTEC Only,All,All,31830
+2021,IB Only,All,All,2715
+2021,Other,All,All,55250
+2021,SQA Only,All,All,18880
+2008,A level & BTEC,All,Main scheme applicant,5600
+2008,A level & BTEC,All,Non-main scheme applicant,15
+2008,A level Only,All,Main scheme applicant,164180
+2008,A level Only,All,Non-main scheme applicant,90
+2008,BTEC Only,All,Main scheme applicant,17480
+2008,BTEC Only,All,Non-main scheme applicant,560
+2008,IB Only,All,Main scheme applicant,1250
+2008,Other,All,Main scheme applicant,35010
+2008,Other,All,Non-main scheme applicant,3385
+2008,SQA Only,All,Main scheme applicant,16500
+2009,A level & BTEC,All,Main scheme applicant,7880
+2009,A level & BTEC,All,Non-main scheme applicant,15
+2009,A level Only,All,Main scheme applicant,169995
+2009,A level Only,All,Non-main scheme applicant,95
+2009,BTEC Only,All,Main scheme applicant,21225
+2009,BTEC Only,All,Non-main scheme applicant,615
+2009,IB Only,All,Main scheme applicant,1880
+2009,Other,All,Main scheme applicant,35645
+2009,Other,All,Non-main scheme applicant,2770
+2009,SQA Only,All,Main scheme applicant,16910
+2009,SQA Only,All,Non-main scheme applicant,60
+2010,A level & BTEC,All,Main scheme applicant,9790
+2010,A level & BTEC,All,Non-main scheme applicant,5
+2010,A level Only,All,Main scheme applicant,175920
+2010,A level Only,All,Non-main scheme applicant,50
+2010,BTEC Only,All,Main scheme applicant,24350
+2010,BTEC Only,All,Non-main scheme applicant,290
+2010,IB Only,All,Main scheme applicant,2205
+2010,Other,All,Main scheme applicant,37485
+2010,Other,All,Non-main scheme applicant,1615
+2010,SQA Only,All,Main scheme applicant,18620
+2010,SQA Only,All,Non-main scheme applicant,15
+2011,A level & BTEC,All,Main scheme applicant,10410
+2011,A level & BTEC,All,Non-main scheme applicant,15
+2011,A level Only,All,Main scheme applicant,176510
+2011,A level Only,All,Non-main scheme applicant,95
+2011,BTEC Only,All,Main scheme applicant,24655
+2011,BTEC Only,All,Non-main scheme applicant,305
+2011,IB Only,All,Main scheme applicant,2455
+2011,Other,All,Main scheme applicant,34820
+2011,Other,All,Non-main scheme applicant,1360
+2011,SQA Only,All,Main scheme applicant,18555
+2011,SQA Only,All,Non-main scheme applicant,10
+2012,A level & BTEC,All,Main scheme applicant,11805
+2012,A level Only,All,Main scheme applicant,169575
+2012,A level Only,All,Non-main scheme applicant,80
+2012,BTEC Only,All,Main scheme applicant,23610
+2012,IB Only,All,Main scheme applicant,2390
+2012,Other,All,Main scheme applicant,31690
+2012,Other,All,Non-main scheme applicant,2825
+2012,SQA Only,All,Main scheme applicant,18365
+2012,SQA Only,All,Non-main scheme applicant,20
+2013,A level & BTEC,All,Main scheme applicant,13910
+2013,A level Only,All,Main scheme applicant,168035
+2013,A level Only,All,Non-main scheme applicant,90
+2013,BTEC Only,All,Main scheme applicant,25930
+2013,BTEC Only,All,Non-main scheme applicant,5
+2013,IB Only,All,Main scheme applicant,2170
+2013,Other,All,Main scheme applicant,30985
+2013,Other,All,Non-main scheme applicant,3320
+2013,SQA Only,All,Main scheme applicant,18380
+2013,SQA Only,All,Non-main scheme applicant,20
+2014,A level & BTEC,All,Main scheme applicant,16590
+2014,A level Only,All,Main scheme applicant,165585
+2014,A level Only,All,Non-main scheme applicant,55
+2014,BTEC Only,All,Main scheme applicant,29705
+2014,IB Only,All,Main scheme applicant,2330
+2014,Other,All,Main scheme applicant,33080
+2014,Other,All,Non-main scheme applicant,2710
+2014,SQA Only,All,Main scheme applicant,18695
+2014,SQA Only,All,Non-main scheme applicant,10
+2015,A level & BTEC,All,Main scheme applicant,18885
+2015,A level Only,All,Main scheme applicant,169950
+2015,A level Only,All,Non-main scheme applicant,105
+2015,BTEC Only,All,Main scheme applicant,31625
+2015,BTEC Only,All,Non-main scheme applicant,5
+2015,IB Only,All,Main scheme applicant,2330
+2015,Other,All,Main scheme applicant,34245
+2015,Other,All,Non-main scheme applicant,3360
+2015,SQA Only,All,Main scheme applicant,18840
+2015,SQA Only,All,Non-main scheme applicant,15
+2016,A level & BTEC,All,Main scheme applicant,20520
+2016,A level & BTEC,All,Non-main scheme applicant,5
+2016,A level Only,All,Main scheme applicant,169605
+2016,A level Only,All,Non-main scheme applicant,100
+2016,BTEC Only,All,Main scheme applicant,30235
+2016,BTEC Only,All,Non-main scheme applicant,10
+2016,IB Only,All,Main scheme applicant,2370
+2016,Other,All,Main scheme applicant,36090
+2016,Other,All,Non-main scheme applicant,3430
+2016,SQA Only,All,Main scheme applicant,18670
+2017,A level & BTEC,All,Main scheme applicant,21520
+2017,A level & BTEC,All,Non-main scheme applicant,30
+2017,A level Only,All,Main scheme applicant,169980
+2017,A level Only,All,Non-main scheme applicant,190
+2017,BTEC Only,All,Main scheme applicant,30285
+2017,BTEC Only,All,Non-main scheme applicant,50
+2017,IB Only,All,Main scheme applicant,2470
+2017,Other,All,Main scheme applicant,35715
+2017,Other,All,Non-main scheme applicant,3965
+2017,SQA Only,All,Main scheme applicant,18180
+2018,A level & BTEC,All,Main scheme applicant,19345
+2018,A level & BTEC,All,Non-main scheme applicant,20
+2018,A level Only,All,Main scheme applicant,164955
+2018,A level Only,All,Non-main scheme applicant,125
+2018,BTEC Only,All,Main scheme applicant,26950
+2018,BTEC Only,All,Non-main scheme applicant,30
+2018,IB Only,All,Main scheme applicant,2340
+2018,Other,All,Main scheme applicant,41755
+2018,Other,All,Non-main scheme applicant,4430
+2018,SQA Only,All,Main scheme applicant,17580
+2019,A level & BTEC,All,Main scheme applicant,20235
+2019,A level & BTEC,All,Non-main scheme applicant,115
+2019,A level Only,All,Main scheme applicant,162210
+2019,A level Only,All,Non-main scheme applicant,880
+2019,BTEC Only,All,Main scheme applicant,25700
+2019,BTEC Only,All,Non-main scheme applicant,10
+2019,IB Only,All,Main scheme applicant,2495
+2019,Other,All,Main scheme applicant,47815
+2019,Other,All,Non-main scheme applicant,4540
+2019,SQA Only,All,Main scheme applicant,17075
+2020,A level & BTEC,All,Main scheme applicant,22785
+2020,A level & BTEC,All,Non-main scheme applicant,120
+2020,A level Only,All,Main scheme applicant,167080
+2020,A level Only,All,Non-main scheme applicant,1010
+2020,BTEC Only,All,Main scheme applicant,28170
+2020,BTEC Only,All,Non-main scheme applicant,30
+2020,IB Only,All,Main scheme applicant,2495
+2020,IB Only,All,Non-main scheme applicant,10
+2020,Other,All,Main scheme applicant,44800
+2020,Other,All,Non-main scheme applicant,6345
+2020,SQA Only,All,Main scheme applicant,16660
+2021,A level & BTEC,All,Main scheme applicant,26330
+2021,A level & BTEC,All,Non-main scheme applicant,115
+2021,A level Only,All,Main scheme applicant,180560
+2021,A level Only,All,Non-main scheme applicant,520
+2021,BTEC Only,All,Main scheme applicant,31780
+2021,BTEC Only,All,Non-main scheme applicant,50
+2021,IB Only,All,Main scheme applicant,2715
+2021,Other,All,Main scheme applicant,50815
+2021,Other,All,Non-main scheme applicant,4435
+2021,SQA Only,All,Main scheme applicant,18880
+2008,A level & BTEC,Asian,All,455
+2008,A level & BTEC,Black,All,195
+2008,A level & BTEC,Mixed,All,155
+2008,A level & BTEC,Other,All,30
+2008,A level & BTEC,Unknown or Prefer Not To Say,All,25
+2008,A level & BTEC,White,All,4755
+2008,A level Only,Asian,All,15120
+2008,A level Only,Black,All,4295
+2008,A level Only,Mixed,All,4790
+2008,A level Only,Other,All,1255
+2008,A level Only,Unknown or Prefer Not To Say,All,1600
+2008,A level Only,White,All,137210
+2008,BTEC Only,Asian,All,875
+2008,BTEC Only,Black,All,805
+2008,BTEC Only,Mixed,All,550
+2008,BTEC Only,Other,All,100
+2008,BTEC Only,Unknown or Prefer Not To Say,All,325
+2008,BTEC Only,White,All,15385
+2008,IB Only,Asian,All,135
+2008,IB Only,Black,All,20
+2008,IB Only,Mixed,All,80
+2008,IB Only,Other,All,15
+2008,IB Only,Unknown or Prefer Not To Say,All,95
+2008,IB Only,White,All,900
+2008,Other,Asian,All,4700
+2008,Other,Black,All,2230
+2008,Other,Mixed,All,1175
+2008,Other,Other,All,415
+2008,Other,Unknown or Prefer Not To Say,All,1860
+2008,Other,White,All,28010
+2008,SQA Only,Asian,All,500
+2008,SQA Only,Black,All,50
+2008,SQA Only,Mixed,All,165
+2008,SQA Only,Other,All,20
+2008,SQA Only,Unknown or Prefer Not To Say,All,50
+2008,SQA Only,White,All,15715
+2009,A level & BTEC,Asian,All,655
+2009,A level & BTEC,Black,All,280
+2009,A level & BTEC,Mixed,All,190
+2009,A level & BTEC,Other,All,45
+2009,A level & BTEC,Unknown or Prefer Not To Say,All,25
+2009,A level & BTEC,White,All,6695
+2009,A level Only,Asian,All,15850
+2009,A level Only,Black,All,4760
+2009,A level Only,Mixed,All,5180
+2009,A level Only,Other,All,1200
+2009,A level Only,Unknown or Prefer Not To Say,All,1165
+2009,A level Only,White,All,141935
+2009,BTEC Only,Asian,All,1130
+2009,BTEC Only,Black,All,1060
+2009,BTEC Only,Mixed,All,675
+2009,BTEC Only,Other,All,140
+2009,BTEC Only,Unknown or Prefer Not To Say,All,310
+2009,BTEC Only,White,All,18525
+2009,IB Only,Asian,All,150
+2009,IB Only,Black,All,60
+2009,IB Only,Mixed,All,140
+2009,IB Only,Other,All,20
+2009,IB Only,Unknown or Prefer Not To Say,All,25
+2009,IB Only,White,All,1485
+2009,Other,Asian,All,4525
+2009,Other,Black,All,2190
+2009,Other,Mixed,All,1315
+2009,Other,Other,All,425
+2009,Other,Unknown or Prefer Not To Say,All,1315
+2009,Other,White,All,28650
+2009,SQA Only,Asian,All,575
+2009,SQA Only,Black,All,45
+2009,SQA Only,Mixed,All,170
+2009,SQA Only,Other,All,30
+2009,SQA Only,Unknown or Prefer Not To Say,All,50
+2009,SQA Only,White,All,16100
+2010,A level & BTEC,Asian,All,830
+2010,A level & BTEC,Black,All,385
+2010,A level & BTEC,Mixed,All,275
+2010,A level & BTEC,Other,All,60
+2010,A level & BTEC,Unknown or Prefer Not To Say,All,35
+2010,A level & BTEC,White,All,8215
+2010,A level Only,Asian,All,16900
+2010,A level Only,Black,All,5165
+2010,A level Only,Mixed,All,5445
+2010,A level Only,Other,All,1410
+2010,A level Only,Unknown or Prefer Not To Say,All,1130
+2010,A level Only,White,All,145920
+2010,BTEC Only,Asian,All,1350
+2010,BTEC Only,Black,All,1265
+2010,BTEC Only,Mixed,All,805
+2010,BTEC Only,Other,All,165
+2010,BTEC Only,Unknown or Prefer Not To Say,All,115
+2010,BTEC Only,White,All,20945
+2010,IB Only,Asian,All,195
+2010,IB Only,Black,All,80
+2010,IB Only,Mixed,All,120
+2010,IB Only,Other,All,20
+2010,IB Only,Unknown or Prefer Not To Say,All,25
+2010,IB Only,White,All,1760
+2010,Other,Asian,All,4530
+2010,Other,Black,All,2490
+2010,Other,Mixed,All,1315
+2010,Other,Other,All,465
+2010,Other,Unknown or Prefer Not To Say,All,420
+2010,Other,White,All,29880
+2010,SQA Only,Asian,All,580
+2010,SQA Only,Black,All,60
+2010,SQA Only,Mixed,All,210
+2010,SQA Only,Other,All,20
+2010,SQA Only,Unknown or Prefer Not To Say,All,55
+2010,SQA Only,White,All,17710
+2011,A level & BTEC,Asian,All,885
+2011,A level & BTEC,Black,All,465
+2011,A level & BTEC,Mixed,All,315
+2011,A level & BTEC,Other,All,70
+2011,A level & BTEC,Unknown or Prefer Not To Say,All,25
+2011,A level & BTEC,White,All,8670
+2011,A level Only,Asian,All,17335
+2011,A level Only,Black,All,5715
+2011,A level Only,Mixed,All,6040
+2011,A level Only,Other,All,1525
+2011,A level Only,Unknown or Prefer Not To Say,All,1025
+2011,A level Only,White,All,144970
+2011,BTEC Only,Asian,All,1730
+2011,BTEC Only,Black,All,1450
+2011,BTEC Only,Mixed,All,810
+2011,BTEC Only,Other,All,205
+2011,BTEC Only,Unknown or Prefer Not To Say,All,90
+2011,BTEC Only,White,All,20675
+2011,IB Only,Asian,All,215
+2011,IB Only,Black,All,105
+2011,IB Only,Mixed,All,155
+2011,IB Only,Other,All,25
+2011,IB Only,Unknown or Prefer Not To Say,All,50
+2011,IB Only,White,All,1910
+2011,Other,Asian,All,4610
+2011,Other,Black,All,2545
+2011,Other,Mixed,All,1375
+2011,Other,Other,All,480
+2011,Other,Unknown or Prefer Not To Say,All,295
+2011,Other,White,All,26875
+2011,SQA Only,Asian,All,630
+2011,SQA Only,Black,All,75
+2011,SQA Only,Mixed,All,265
+2011,SQA Only,Other,All,40
+2011,SQA Only,Unknown or Prefer Not To Say,All,45
+2011,SQA Only,White,All,17510
+2012,A level & BTEC,Asian,All,1205
+2012,A level & BTEC,Black,All,575
+2012,A level & BTEC,Mixed,All,390
+2012,A level & BTEC,Other,All,130
+2012,A level & BTEC,Unknown or Prefer Not To Say,All,35
+2012,A level & BTEC,White,All,9470
+2012,A level Only,Asian,All,17135
+2012,A level Only,Black,All,5840
+2012,A level Only,Mixed,All,5950
+2012,A level Only,Other,All,1725
+2012,A level Only,Unknown or Prefer Not To Say,All,925
+2012,A level Only,White,All,138085
+2012,BTEC Only,Asian,All,1840
+2012,BTEC Only,Black,All,1535
+2012,BTEC Only,Mixed,All,830
+2012,BTEC Only,Other,All,255
+2012,BTEC Only,Unknown or Prefer Not To Say,All,55
+2012,BTEC Only,White,All,19095
+2012,IB Only,Asian,All,230
+2012,IB Only,Black,All,105
+2012,IB Only,Mixed,All,180
+2012,IB Only,Other,All,30
+2012,IB Only,Unknown or Prefer Not To Say,All,30
+2012,IB Only,White,All,1820
+2012,Other,Asian,All,4295
+2012,Other,Black,All,2320
+2012,Other,Mixed,All,1180
+2012,Other,Other,All,560
+2012,Other,Unknown or Prefer Not To Say,All,365
+2012,Other,White,All,25795
+2012,SQA Only,Asian,All,675
+2012,SQA Only,Black,All,85
+2012,SQA Only,Mixed,All,240
+2012,SQA Only,Other,All,45
+2012,SQA Only,Unknown or Prefer Not To Say,All,45
+2012,SQA Only,White,All,17295
+2013,A level & BTEC,Asian,All,1495
+2013,A level & BTEC,Black,All,780
+2013,A level & BTEC,Mixed,All,455
+2013,A level & BTEC,Other,All,145
+2013,A level & BTEC,Unknown or Prefer Not To Say,All,45
+2013,A level & BTEC,White,All,10995
+2013,A level Only,Asian,All,17480
+2013,A level Only,Black,All,6380
+2013,A level Only,Mixed,All,6195
+2013,A level Only,Other,All,1740
+2013,A level Only,Unknown or Prefer Not To Say,All,795
+2013,A level Only,White,All,135535
+2013,BTEC Only,Asian,All,2345
+2013,BTEC Only,Black,All,1930
+2013,BTEC Only,Mixed,All,1010
+2013,BTEC Only,Other,All,350
+2013,BTEC Only,Unknown or Prefer Not To Say,All,70
+2013,BTEC Only,White,All,20230
+2013,IB Only,Asian,All,220
+2013,IB Only,Black,All,135
+2013,IB Only,Mixed,All,165
+2013,IB Only,Other,All,40
+2013,IB Only,Unknown or Prefer Not To Say,All,25
+2013,IB Only,White,All,1585
+2013,Other,Asian,All,4260
+2013,Other,Black,All,2515
+2013,Other,Mixed,All,1185
+2013,Other,Other,All,525
+2013,Other,Unknown or Prefer Not To Say,All,365
+2013,Other,White,All,25450
+2013,SQA Only,Asian,All,660
+2013,SQA Only,Black,All,95
+2013,SQA Only,Mixed,All,260
+2013,SQA Only,Other,All,55
+2013,SQA Only,Unknown or Prefer Not To Say,All,55
+2013,SQA Only,White,All,17270
+2014,A level & BTEC,Asian,All,1725
+2014,A level & BTEC,Black,All,940
+2014,A level & BTEC,Mixed,All,600
+2014,A level & BTEC,Other,All,215
+2014,A level & BTEC,Unknown or Prefer Not To Say,All,45
+2014,A level & BTEC,White,All,13070
+2014,A level Only,Asian,All,18080
+2014,A level Only,Black,All,6530
+2014,A level Only,Mixed,All,6405
+2014,A level Only,Other,All,1930
+2014,A level Only,Unknown or Prefer Not To Say,All,765
+2014,A level Only,White,All,131930
+2014,BTEC Only,Asian,All,2905
+2014,BTEC Only,Black,All,2190
+2014,BTEC Only,Mixed,All,1135
+2014,BTEC Only,Other,All,405
+2014,BTEC Only,Unknown or Prefer Not To Say,All,80
+2014,BTEC Only,White,All,22985
+2014,IB Only,Asian,All,255
+2014,IB Only,Black,All,145
+2014,IB Only,Mixed,All,160
+2014,IB Only,Other,All,40
+2014,IB Only,Unknown or Prefer Not To Say,All,25
+2014,IB Only,White,All,1705
+2014,Other,Asian,All,4365
+2014,Other,Black,All,2575
+2014,Other,Mixed,All,1360
+2014,Other,Other,All,670
+2014,Other,Unknown or Prefer Not To Say,All,355
+2014,Other,White,All,26460
+2014,SQA Only,Asian,All,715
+2014,SQA Only,Black,All,95
+2014,SQA Only,Mixed,All,265
+2014,SQA Only,Other,All,50
+2014,SQA Only,Unknown or Prefer Not To Say,All,40
+2014,SQA Only,White,All,17540
+2015,A level & BTEC,Asian,All,2120
+2015,A level & BTEC,Black,All,1150
+2015,A level & BTEC,Mixed,All,710
+2015,A level & BTEC,Other,All,300
+2015,A level & BTEC,Unknown or Prefer Not To Say,All,60
+2015,A level & BTEC,White,All,14550
+2015,A level Only,Asian,All,18890
+2015,A level Only,Black,All,6935
+2015,A level Only,Mixed,All,7060
+2015,A level Only,Other,All,2030
+2015,A level Only,Unknown or Prefer Not To Say,All,1055
+2015,A level Only,White,All,134085
+2015,BTEC Only,Asian,All,3445
+2015,BTEC Only,Black,All,2665
+2015,BTEC Only,Mixed,All,1290
+2015,BTEC Only,Other,All,490
+2015,BTEC Only,Unknown or Prefer Not To Say,All,125
+2015,BTEC Only,White,All,23615
+2015,IB Only,Asian,All,270
+2015,IB Only,Black,All,165
+2015,IB Only,Mixed,All,170
+2015,IB Only,Other,All,40
+2015,IB Only,Unknown or Prefer Not To Say,All,50
+2015,IB Only,White,All,1640
+2015,Other,Asian,All,4585
+2015,Other,Black,All,2655
+2015,Other,Mixed,All,1565
+2015,Other,Other,All,680
+2015,Other,Unknown or Prefer Not To Say,All,395
+2015,Other,White,All,27725
+2015,SQA Only,Asian,All,750
+2015,SQA Only,Black,All,115
+2015,SQA Only,Mixed,All,300
+2015,SQA Only,Other,All,75
+2015,SQA Only,Unknown or Prefer Not To Say,All,60
+2015,SQA Only,White,All,17555
+2016,A level & BTEC,Asian,All,2340
+2016,A level & BTEC,Black,All,1215
+2016,A level & BTEC,Mixed,All,770
+2016,A level & BTEC,Other,All,340
+2016,A level & BTEC,Unknown or Prefer Not To Say,All,85
+2016,A level & BTEC,White,All,15780
+2016,A level Only,Asian,All,19895
+2016,A level Only,Black,All,7105
+2016,A level Only,Mixed,All,7335
+2016,A level Only,Other,All,2155
+2016,A level Only,Unknown or Prefer Not To Say,All,1140
+2016,A level Only,White,All,132080
+2016,BTEC Only,Asian,All,3595
+2016,BTEC Only,Black,All,2590
+2016,BTEC Only,Mixed,All,1275
+2016,BTEC Only,Other,All,500
+2016,BTEC Only,Unknown or Prefer Not To Say,All,130
+2016,BTEC Only,White,All,22155
+2016,IB Only,Asian,All,270
+2016,IB Only,Black,All,175
+2016,IB Only,Mixed,All,195
+2016,IB Only,Other,All,45
+2016,IB Only,Unknown or Prefer Not To Say,All,40
+2016,IB Only,White,All,1645
+2016,Other,Asian,All,4765
+2016,Other,Black,All,2730
+2016,Other,Mixed,All,1720
+2016,Other,Other,All,700
+2016,Other,Unknown or Prefer Not To Say,All,440
+2016,Other,White,All,29165
+2016,SQA Only,Asian,All,795
+2016,SQA Only,Black,All,130
+2016,SQA Only,Mixed,All,325
+2016,SQA Only,Other,All,75
+2016,SQA Only,Unknown or Prefer Not To Say,All,85
+2016,SQA Only,White,All,17260
+2017,A level & BTEC,Asian,All,2550
+2017,A level & BTEC,Black,All,1310
+2017,A level & BTEC,Mixed,All,855
+2017,A level & BTEC,Other,All,370
+2017,A level & BTEC,Unknown or Prefer Not To Say,All,90
+2017,A level & BTEC,White,All,16375
+2017,A level Only,Asian,All,20990
+2017,A level Only,Black,All,7320
+2017,A level Only,Mixed,All,7810
+2017,A level Only,Other,All,2445
+2017,A level Only,Unknown or Prefer Not To Say,All,1110
+2017,A level Only,White,All,130490
+2017,BTEC Only,Asian,All,4000
+2017,BTEC Only,Black,All,2745
+2017,BTEC Only,Mixed,All,1280
+2017,BTEC Only,Other,All,555
+2017,BTEC Only,Unknown or Prefer Not To Say,All,145
+2017,BTEC Only,White,All,21610
+2017,IB Only,Asian,All,285
+2017,IB Only,Black,All,170
+2017,IB Only,Mixed,All,215
+2017,IB Only,Other,All,50
+2017,IB Only,Unknown or Prefer Not To Say,All,45
+2017,IB Only,White,All,1710
+2017,Other,Asian,All,4885
+2017,Other,Black,All,2570
+2017,Other,Mixed,All,1860
+2017,Other,Other,All,745
+2017,Other,Unknown or Prefer Not To Say,All,440
+2017,Other,White,All,29175
+2017,SQA Only,Asian,All,825
+2017,SQA Only,Black,All,150
+2017,SQA Only,Mixed,All,325
+2017,SQA Only,Other,All,75
+2017,SQA Only,Unknown or Prefer Not To Say,All,65
+2017,SQA Only,White,All,16735
+2018,A level & BTEC,Asian,All,2515
+2018,A level & BTEC,Black,All,1225
+2018,A level & BTEC,Mixed,All,760
+2018,A level & BTEC,Other,All,295
+2018,A level & BTEC,Unknown or Prefer Not To Say,All,80
+2018,A level & BTEC,White,All,14490
+2018,A level Only,Asian,All,22265
+2018,A level Only,Black,All,7680
+2018,A level Only,Mixed,All,7860
+2018,A level Only,Other,All,2595
+2018,A level Only,Unknown or Prefer Not To Say,All,1210
+2018,A level Only,White,All,123475
+2018,BTEC Only,Asian,All,3740
+2018,BTEC Only,Black,All,2325
+2018,BTEC Only,Mixed,All,1120
+2018,BTEC Only,Other,All,570
+2018,BTEC Only,Unknown or Prefer Not To Say,All,110
+2018,BTEC Only,White,All,19110
+2018,IB Only,Asian,All,265
+2018,IB Only,Black,All,175
+2018,IB Only,Mixed,All,195
+2018,IB Only,Other,All,55
+2018,IB Only,Unknown or Prefer Not To Say,All,60
+2018,IB Only,White,All,1590
+2018,Other,Asian,All,5855
+2018,Other,Black,All,3395
+2018,Other,Mixed,All,2195
+2018,Other,Other,All,900
+2018,Other,Unknown or Prefer Not To Say,All,585
+2018,Other,White,All,33250
+2018,SQA Only,Asian,All,895
+2018,SQA Only,Black,All,195
+2018,SQA Only,Mixed,All,345
+2018,SQA Only,Other,All,80
+2018,SQA Only,Unknown or Prefer Not To Say,All,80
+2018,SQA Only,White,All,15980
+2019,A level & BTEC,Asian,All,2785
+2019,A level & BTEC,Black,All,1350
+2019,A level & BTEC,Mixed,All,840
+2019,A level & BTEC,Other,All,380
+2019,A level & BTEC,Unknown or Prefer Not To Say,All,80
+2019,A level & BTEC,White,All,14915
+2019,A level Only,Asian,All,24335
+2019,A level Only,Black,All,8395
+2019,A level Only,Mixed,All,8330
+2019,A level Only,Other,All,2990
+2019,A level Only,Unknown or Prefer Not To Say,All,1225
+2019,A level Only,White,All,117820
+2019,BTEC Only,Asian,All,4185
+2019,BTEC Only,Black,All,2355
+2019,BTEC Only,Mixed,All,1135
+2019,BTEC Only,Other,All,590
+2019,BTEC Only,Unknown or Prefer Not To Say,All,130
+2019,BTEC Only,White,All,17315
+2019,IB Only,Asian,All,290
+2019,IB Only,Black,All,180
+2019,IB Only,Mixed,All,245
+2019,IB Only,Other,All,50
+2019,IB Only,Unknown or Prefer Not To Say,All,40
+2019,IB Only,White,All,1690
+2019,Other,Asian,All,6765
+2019,Other,Black,All,3990
+2019,Other,Mixed,All,2475
+2019,Other,Other,All,1145
+2019,Other,Unknown or Prefer Not To Say,All,695
+2019,Other,White,All,37290
+2019,SQA Only,Asian,All,925
+2019,SQA Only,Black,All,200
+2019,SQA Only,Mixed,All,385
+2019,SQA Only,Other,All,105
+2019,SQA Only,Unknown or Prefer Not To Say,All,105
+2019,SQA Only,White,All,15360
+2020,A level & BTEC,Asian,All,3420
+2020,A level & BTEC,Black,All,1575
+2020,A level & BTEC,Mixed,All,1025
+2020,A level & BTEC,Other,All,505
+2020,A level & BTEC,Unknown or Prefer Not To Say,All,120
+2020,A level & BTEC,White,All,16265
+2020,A level Only,Asian,All,27330
+2020,A level Only,Black,All,9415
+2020,A level Only,Mixed,All,9130
+2020,A level Only,Other,All,3350
+2020,A level Only,Unknown or Prefer Not To Say,All,1325
+2020,A level Only,White,All,117535
+2020,BTEC Only,Asian,All,4930
+2020,BTEC Only,Black,All,2850
+2020,BTEC Only,Mixed,All,1285
+2020,BTEC Only,Other,All,700
+2020,BTEC Only,Unknown or Prefer Not To Say,All,135
+2020,BTEC Only,White,All,18300
+2020,IB Only,Asian,All,310
+2020,IB Only,Black,All,220
+2020,IB Only,Mixed,All,225
+2020,IB Only,Other,All,60
+2020,IB Only,Unknown or Prefer Not To Say,All,40
+2020,IB Only,White,All,1645
+2020,Other,Asian,All,6020
+2020,Other,Black,All,3650
+2020,Other,Mixed,All,2525
+2020,Other,Other,All,1010
+2020,Other,Unknown or Prefer Not To Say,All,685
+2020,Other,White,All,37260
+2020,SQA Only,Asian,All,1085
+2020,SQA Only,Black,All,260
+2020,SQA Only,Mixed,All,390
+2020,SQA Only,Other,All,140
+2020,SQA Only,Unknown or Prefer Not To Say,All,85
+2020,SQA Only,White,All,14700
+2021,A level & BTEC,Asian,All,3695
+2021,A level & BTEC,Black,All,1920
+2021,A level & BTEC,Mixed,All,1225
+2021,A level & BTEC,Other,All,555
+2021,A level & BTEC,Unknown or Prefer Not To Say,All,135
+2021,A level & BTEC,White,All,18915
+2021,A level Only,Asian,All,30325
+2021,A level Only,Black,All,10495
+2021,A level Only,Mixed,All,10285
+2021,A level Only,Other,All,3770
+2021,A level Only,Unknown or Prefer Not To Say,All,1495
+2021,A level Only,White,All,124710
+2021,BTEC Only,Asian,All,5510
+2021,BTEC Only,Black,All,3305
+2021,BTEC Only,Mixed,All,1515
+2021,BTEC Only,Other,All,860
+2021,BTEC Only,Unknown or Prefer Not To Say,All,175
+2021,BTEC Only,White,All,20460
+2021,IB Only,Asian,All,345
+2021,IB Only,Black,All,220
+2021,IB Only,Mixed,All,300
+2021,IB Only,Other,All,75
+2021,IB Only,Unknown or Prefer Not To Say,All,55
+2021,IB Only,White,All,1720
+2021,Other,Asian,All,6345
+2021,Other,Black,All,4120
+2021,Other,Mixed,All,2895
+2021,Other,Other,All,1165
+2021,Other,Unknown or Prefer Not To Say,All,645
+2021,Other,White,All,40085
+2021,SQA Only,Asian,All,1070
+2021,SQA Only,Black,All,310
+2021,SQA Only,Mixed,All,485
+2021,SQA Only,Other,All,140
+2021,SQA Only,Unknown or Prefer Not To Say,All,100
+2021,SQA Only,White,All,16775
+2008,A level & BTEC,Asian,Main scheme applicant,455
+2008,A level & BTEC,Black,Main scheme applicant,195
+2008,A level & BTEC,Mixed,Main scheme applicant,155
+2008,A level & BTEC,Other,Main scheme applicant,30
+2008,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,25
+2008,A level & BTEC,White,Main scheme applicant,4745
+2008,A level & BTEC,White,Non-main scheme applicant,10
+2008,A level Only,Asian,Main scheme applicant,15105
+2008,A level Only,Asian,Non-main scheme applicant,15
+2008,A level Only,Black,Main scheme applicant,4295
+2008,A level Only,Mixed,Main scheme applicant,4790
+2008,A level Only,Mixed,Non-main scheme applicant,5
+2008,A level Only,Other,Main scheme applicant,1255
+2008,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1595
+2008,A level Only,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2008,A level Only,White,Main scheme applicant,137145
+2008,A level Only,White,Non-main scheme applicant,65
+2008,BTEC Only,Asian,Main scheme applicant,865
+2008,BTEC Only,Asian,Non-main scheme applicant,10
+2008,BTEC Only,Black,Main scheme applicant,790
+2008,BTEC Only,Black,Non-main scheme applicant,10
+2008,BTEC Only,Mixed,Main scheme applicant,545
+2008,BTEC Only,Mixed,Non-main scheme applicant,5
+2008,BTEC Only,Other,Main scheme applicant,100
+2008,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,75
+2008,BTEC Only,Unknown or Prefer Not To Say,Non-main scheme applicant,250
+2008,BTEC Only,White,Main scheme applicant,15110
+2008,BTEC Only,White,Non-main scheme applicant,280
+2008,IB Only,Asian,Main scheme applicant,135
+2008,IB Only,Black,Main scheme applicant,20
+2008,IB Only,Mixed,Main scheme applicant,80
+2008,IB Only,Other,Main scheme applicant,15
+2008,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,95
+2008,IB Only,White,Main scheme applicant,900
+2008,Other,Asian,Main scheme applicant,4510
+2008,Other,Asian,Non-main scheme applicant,195
+2008,Other,Black,Main scheme applicant,2135
+2008,Other,Black,Non-main scheme applicant,95
+2008,Other,Mixed,Main scheme applicant,1130
+2008,Other,Mixed,Non-main scheme applicant,50
+2008,Other,Other,Main scheme applicant,395
+2008,Other,Other,Non-main scheme applicant,20
+2008,Other,Unknown or Prefer Not To Say,Main scheme applicant,410
+2008,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,1450
+2008,Other,White,Main scheme applicant,26430
+2008,Other,White,Non-main scheme applicant,1580
+2008,SQA Only,Asian,Main scheme applicant,500
+2008,SQA Only,Black,Main scheme applicant,50
+2008,SQA Only,Mixed,Main scheme applicant,165
+2008,SQA Only,Other,Main scheme applicant,20
+2008,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,50
+2008,SQA Only,White,Main scheme applicant,15715
+2009,A level & BTEC,Asian,Main scheme applicant,655
+2009,A level & BTEC,Black,Main scheme applicant,280
+2009,A level & BTEC,Mixed,Main scheme applicant,190
+2009,A level & BTEC,Other,Main scheme applicant,45
+2009,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,25
+2009,A level & BTEC,White,Main scheme applicant,6685
+2009,A level & BTEC,White,Non-main scheme applicant,15
+2009,A level Only,Asian,Main scheme applicant,15840
+2009,A level Only,Asian,Non-main scheme applicant,10
+2009,A level Only,Black,Main scheme applicant,4755
+2009,A level Only,Black,Non-main scheme applicant,5
+2009,A level Only,Mixed,Main scheme applicant,5175
+2009,A level Only,Mixed,Non-main scheme applicant,5
+2009,A level Only,Other,Main scheme applicant,1200
+2009,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1160
+2009,A level Only,White,Main scheme applicant,141860
+2009,A level Only,White,Non-main scheme applicant,70
+2009,BTEC Only,Asian,Main scheme applicant,1125
+2009,BTEC Only,Asian,Non-main scheme applicant,10
+2009,BTEC Only,Black,Main scheme applicant,1045
+2009,BTEC Only,Black,Non-main scheme applicant,15
+2009,BTEC Only,Mixed,Main scheme applicant,665
+2009,BTEC Only,Mixed,Non-main scheme applicant,10
+2009,BTEC Only,Other,Main scheme applicant,140
+2009,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,75
+2009,BTEC Only,Unknown or Prefer Not To Say,Non-main scheme applicant,235
+2009,BTEC Only,White,Main scheme applicant,18180
+2009,BTEC Only,White,Non-main scheme applicant,340
+2009,IB Only,Asian,Main scheme applicant,150
+2009,IB Only,Black,Main scheme applicant,60
+2009,IB Only,Mixed,Main scheme applicant,140
+2009,IB Only,Other,Main scheme applicant,20
+2009,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,25
+2009,IB Only,White,Main scheme applicant,1485
+2009,Other,Asian,Main scheme applicant,4375
+2009,Other,Asian,Non-main scheme applicant,150
+2009,Other,Black,Main scheme applicant,2115
+2009,Other,Black,Non-main scheme applicant,75
+2009,Other,Mixed,Main scheme applicant,1265
+2009,Other,Mixed,Non-main scheme applicant,50
+2009,Other,Other,Main scheme applicant,400
+2009,Other,Other,Non-main scheme applicant,20
+2009,Other,Unknown or Prefer Not To Say,Main scheme applicant,215
+2009,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,1100
+2009,Other,White,Main scheme applicant,27275
+2009,Other,White,Non-main scheme applicant,1375
+2009,SQA Only,Asian,Main scheme applicant,575
+2009,SQA Only,Black,Main scheme applicant,45
+2009,SQA Only,Mixed,Main scheme applicant,170
+2009,SQA Only,Other,Main scheme applicant,30
+2009,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,50
+2009,SQA Only,White,Main scheme applicant,16040
+2009,SQA Only,White,Non-main scheme applicant,55
+2010,A level & BTEC,Asian,Main scheme applicant,830
+2010,A level & BTEC,Black,Main scheme applicant,385
+2010,A level & BTEC,Mixed,Main scheme applicant,275
+2010,A level & BTEC,Other,Main scheme applicant,60
+2010,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,35
+2010,A level & BTEC,White,Main scheme applicant,8210
+2010,A level & BTEC,White,Non-main scheme applicant,5
+2010,A level Only,Asian,Main scheme applicant,16895
+2010,A level Only,Asian,Non-main scheme applicant,5
+2010,A level Only,Black,Main scheme applicant,5165
+2010,A level Only,Mixed,Main scheme applicant,5445
+2010,A level Only,Other,Main scheme applicant,1410
+2010,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1130
+2010,A level Only,White,Main scheme applicant,145875
+2010,A level Only,White,Non-main scheme applicant,45
+2010,BTEC Only,Asian,Main scheme applicant,1335
+2010,BTEC Only,Asian,Non-main scheme applicant,15
+2010,BTEC Only,Black,Main scheme applicant,1255
+2010,BTEC Only,Black,Non-main scheme applicant,10
+2010,BTEC Only,Mixed,Main scheme applicant,800
+2010,BTEC Only,Mixed,Non-main scheme applicant,10
+2010,BTEC Only,Other,Main scheme applicant,160
+2010,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,80
+2010,BTEC Only,Unknown or Prefer Not To Say,Non-main scheme applicant,35
+2010,BTEC Only,White,Main scheme applicant,20720
+2010,BTEC Only,White,Non-main scheme applicant,220
+2010,IB Only,Asian,Main scheme applicant,195
+2010,IB Only,Black,Main scheme applicant,80
+2010,IB Only,Mixed,Main scheme applicant,120
+2010,IB Only,Other,Main scheme applicant,20
+2010,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,25
+2010,IB Only,White,Main scheme applicant,1760
+2010,Other,Asian,Main scheme applicant,4380
+2010,Other,Asian,Non-main scheme applicant,150
+2010,Other,Black,Main scheme applicant,2410
+2010,Other,Black,Non-main scheme applicant,80
+2010,Other,Mixed,Main scheme applicant,1275
+2010,Other,Mixed,Non-main scheme applicant,35
+2010,Other,Other,Main scheme applicant,445
+2010,Other,Other,Non-main scheme applicant,15
+2010,Other,Unknown or Prefer Not To Say,Main scheme applicant,195
+2010,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,225
+2010,Other,White,Main scheme applicant,28775
+2010,Other,White,Non-main scheme applicant,1105
+2010,SQA Only,Asian,Main scheme applicant,580
+2010,SQA Only,Black,Main scheme applicant,60
+2010,SQA Only,Mixed,Main scheme applicant,210
+2010,SQA Only,Other,Main scheme applicant,20
+2010,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,55
+2010,SQA Only,White,Main scheme applicant,17695
+2010,SQA Only,White,Non-main scheme applicant,15
+2011,A level & BTEC,Asian,Main scheme applicant,880
+2011,A level & BTEC,Black,Main scheme applicant,465
+2011,A level & BTEC,Mixed,Main scheme applicant,315
+2011,A level & BTEC,Other,Main scheme applicant,70
+2011,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,25
+2011,A level & BTEC,White,Main scheme applicant,8655
+2011,A level & BTEC,White,Non-main scheme applicant,15
+2011,A level Only,Asian,Main scheme applicant,17320
+2011,A level Only,Asian,Non-main scheme applicant,15
+2011,A level Only,Black,Main scheme applicant,5710
+2011,A level Only,Black,Non-main scheme applicant,5
+2011,A level Only,Mixed,Main scheme applicant,6035
+2011,A level Only,Mixed,Non-main scheme applicant,5
+2011,A level Only,Other,Main scheme applicant,1525
+2011,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1025
+2011,A level Only,White,Main scheme applicant,144900
+2011,A level Only,White,Non-main scheme applicant,70
+2011,BTEC Only,Asian,Main scheme applicant,1720
+2011,BTEC Only,Asian,Non-main scheme applicant,10
+2011,BTEC Only,Black,Main scheme applicant,1430
+2011,BTEC Only,Black,Non-main scheme applicant,20
+2011,BTEC Only,Mixed,Main scheme applicant,795
+2011,BTEC Only,Mixed,Non-main scheme applicant,10
+2011,BTEC Only,Other,Main scheme applicant,205
+2011,BTEC Only,Other,Non-main scheme applicant,5
+2011,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,75
+2011,BTEC Only,Unknown or Prefer Not To Say,Non-main scheme applicant,15
+2011,BTEC Only,White,Main scheme applicant,20430
+2011,BTEC Only,White,Non-main scheme applicant,245
+2011,IB Only,Asian,Main scheme applicant,215
+2011,IB Only,Black,Main scheme applicant,105
+2011,IB Only,Mixed,Main scheme applicant,155
+2011,IB Only,Other,Main scheme applicant,25
+2011,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,50
+2011,IB Only,White,Main scheme applicant,1910
+2011,Other,Asian,Main scheme applicant,4460
+2011,Other,Asian,Non-main scheme applicant,155
+2011,Other,Black,Main scheme applicant,2440
+2011,Other,Black,Non-main scheme applicant,105
+2011,Other,Mixed,Main scheme applicant,1320
+2011,Other,Mixed,Non-main scheme applicant,55
+2011,Other,Other,Main scheme applicant,455
+2011,Other,Other,Non-main scheme applicant,25
+2011,Other,Unknown or Prefer Not To Say,Main scheme applicant,175
+2011,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,120
+2011,Other,White,Main scheme applicant,25970
+2011,Other,White,Non-main scheme applicant,905
+2011,SQA Only,Asian,Main scheme applicant,625
+2011,SQA Only,Black,Main scheme applicant,75
+2011,SQA Only,Mixed,Main scheme applicant,260
+2011,SQA Only,Other,Main scheme applicant,40
+2011,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,45
+2011,SQA Only,White,Main scheme applicant,17505
+2011,SQA Only,White,Non-main scheme applicant,5
+2012,A level & BTEC,Asian,Main scheme applicant,1205
+2012,A level & BTEC,Black,Main scheme applicant,570
+2012,A level & BTEC,Mixed,Main scheme applicant,390
+2012,A level & BTEC,Other,Main scheme applicant,130
+2012,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,35
+2012,A level & BTEC,White,Main scheme applicant,9470
+2012,A level Only,Asian,Main scheme applicant,17115
+2012,A level Only,Asian,Non-main scheme applicant,15
+2012,A level Only,Black,Main scheme applicant,5830
+2012,A level Only,Black,Non-main scheme applicant,10
+2012,A level Only,Mixed,Main scheme applicant,5950
+2012,A level Only,Other,Main scheme applicant,1725
+2012,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,925
+2012,A level Only,White,Main scheme applicant,138030
+2012,A level Only,White,Non-main scheme applicant,55
+2012,BTEC Only,Asian,Main scheme applicant,1840
+2012,BTEC Only,Black,Main scheme applicant,1535
+2012,BTEC Only,Mixed,Main scheme applicant,830
+2012,BTEC Only,Other,Main scheme applicant,255
+2012,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,50
+2012,BTEC Only,White,Main scheme applicant,19095
+2012,IB Only,Asian,Main scheme applicant,230
+2012,IB Only,Black,Main scheme applicant,105
+2012,IB Only,Mixed,Main scheme applicant,180
+2012,IB Only,Other,Main scheme applicant,30
+2012,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,30
+2012,IB Only,White,Main scheme applicant,1820
+2012,Other,Asian,Main scheme applicant,4020
+2012,Other,Asian,Non-main scheme applicant,270
+2012,Other,Black,Main scheme applicant,2160
+2012,Other,Black,Non-main scheme applicant,160
+2012,Other,Mixed,Main scheme applicant,1100
+2012,Other,Mixed,Non-main scheme applicant,80
+2012,Other,Other,Main scheme applicant,500
+2012,Other,Other,Non-main scheme applicant,60
+2012,Other,Unknown or Prefer Not To Say,Main scheme applicant,145
+2012,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,220
+2012,Other,White,Main scheme applicant,23760
+2012,Other,White,Non-main scheme applicant,2030
+2012,SQA Only,Asian,Main scheme applicant,675
+2012,SQA Only,Black,Main scheme applicant,85
+2012,SQA Only,Mixed,Main scheme applicant,235
+2012,SQA Only,Other,Main scheme applicant,45
+2012,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,45
+2012,SQA Only,White,Main scheme applicant,17275
+2012,SQA Only,White,Non-main scheme applicant,20
+2013,A level & BTEC,Asian,Main scheme applicant,1495
+2013,A level & BTEC,Black,Main scheme applicant,780
+2013,A level & BTEC,Mixed,Main scheme applicant,455
+2013,A level & BTEC,Other,Main scheme applicant,145
+2013,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,45
+2013,A level & BTEC,White,Main scheme applicant,10995
+2013,A level Only,Asian,Main scheme applicant,17465
+2013,A level Only,Asian,Non-main scheme applicant,15
+2013,A level Only,Black,Main scheme applicant,6375
+2013,A level Only,Black,Non-main scheme applicant,5
+2013,A level Only,Mixed,Main scheme applicant,6195
+2013,A level Only,Other,Main scheme applicant,1740
+2013,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,790
+2013,A level Only,White,Main scheme applicant,135470
+2013,A level Only,White,Non-main scheme applicant,65
+2013,BTEC Only,Asian,Main scheme applicant,2345
+2013,BTEC Only,Black,Main scheme applicant,1930
+2013,BTEC Only,Mixed,Main scheme applicant,1010
+2013,BTEC Only,Other,Main scheme applicant,350
+2013,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,70
+2013,BTEC Only,White,Main scheme applicant,20225
+2013,BTEC Only,White,Non-main scheme applicant,5
+2013,IB Only,Asian,Main scheme applicant,220
+2013,IB Only,Black,Main scheme applicant,135
+2013,IB Only,Mixed,Main scheme applicant,165
+2013,IB Only,Other,Main scheme applicant,40
+2013,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,25
+2013,IB Only,White,Main scheme applicant,1585
+2013,Other,Asian,Main scheme applicant,3920
+2013,Other,Asian,Non-main scheme applicant,340
+2013,Other,Black,Main scheme applicant,2285
+2013,Other,Black,Non-main scheme applicant,230
+2013,Other,Mixed,Main scheme applicant,1065
+2013,Other,Mixed,Non-main scheme applicant,120
+2013,Other,Other,Main scheme applicant,470
+2013,Other,Other,Non-main scheme applicant,50
+2013,Other,Unknown or Prefer Not To Say,Main scheme applicant,130
+2013,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,235
+2013,Other,White,Main scheme applicant,23110
+2013,Other,White,Non-main scheme applicant,2340
+2013,SQA Only,Asian,Main scheme applicant,660
+2013,SQA Only,Black,Main scheme applicant,95
+2013,SQA Only,Mixed,Main scheme applicant,260
+2013,SQA Only,Other,Main scheme applicant,55
+2013,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,55
+2013,SQA Only,White,Main scheme applicant,17250
+2013,SQA Only,White,Non-main scheme applicant,20
+2014,A level & BTEC,Asian,Main scheme applicant,1725
+2014,A level & BTEC,Black,Main scheme applicant,940
+2014,A level & BTEC,Mixed,Main scheme applicant,600
+2014,A level & BTEC,Other,Main scheme applicant,215
+2014,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,45
+2014,A level & BTEC,White,Main scheme applicant,13070
+2014,A level Only,Asian,Main scheme applicant,18070
+2014,A level Only,Asian,Non-main scheme applicant,10
+2014,A level Only,Black,Main scheme applicant,6525
+2014,A level Only,Black,Non-main scheme applicant,5
+2014,A level Only,Mixed,Main scheme applicant,6405
+2014,A level Only,Other,Main scheme applicant,1925
+2014,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,765
+2014,A level Only,White,Main scheme applicant,131890
+2014,A level Only,White,Non-main scheme applicant,40
+2014,BTEC Only,Asian,Main scheme applicant,2905
+2014,BTEC Only,Black,Main scheme applicant,2190
+2014,BTEC Only,Mixed,Main scheme applicant,1135
+2014,BTEC Only,Other,Main scheme applicant,405
+2014,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,80
+2014,BTEC Only,White,Main scheme applicant,22985
+2014,IB Only,Asian,Main scheme applicant,255
+2014,IB Only,Black,Main scheme applicant,145
+2014,IB Only,Mixed,Main scheme applicant,160
+2014,IB Only,Other,Main scheme applicant,40
+2014,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,25
+2014,IB Only,White,Main scheme applicant,1705
+2014,Other,Asian,Main scheme applicant,4055
+2014,Other,Asian,Non-main scheme applicant,310
+2014,Other,Black,Main scheme applicant,2400
+2014,Other,Black,Non-main scheme applicant,175
+2014,Other,Mixed,Main scheme applicant,1270
+2014,Other,Mixed,Non-main scheme applicant,90
+2014,Other,Other,Main scheme applicant,600
+2014,Other,Other,Non-main scheme applicant,70
+2014,Other,Unknown or Prefer Not To Say,Main scheme applicant,130
+2014,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,225
+2014,Other,White,Main scheme applicant,24620
+2014,Other,White,Non-main scheme applicant,1840
+2014,SQA Only,Asian,Main scheme applicant,715
+2014,SQA Only,Black,Main scheme applicant,95
+2014,SQA Only,Mixed,Main scheme applicant,265
+2014,SQA Only,Other,Main scheme applicant,50
+2014,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,40
+2014,SQA Only,White,Main scheme applicant,17525
+2014,SQA Only,White,Non-main scheme applicant,10
+2015,A level & BTEC,Asian,Main scheme applicant,2120
+2015,A level & BTEC,Black,Main scheme applicant,1150
+2015,A level & BTEC,Mixed,Main scheme applicant,710
+2015,A level & BTEC,Other,Main scheme applicant,300
+2015,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,60
+2015,A level & BTEC,White,Main scheme applicant,14550
+2015,A level Only,Asian,Main scheme applicant,18870
+2015,A level Only,Asian,Non-main scheme applicant,20
+2015,A level Only,Black,Main scheme applicant,6930
+2015,A level Only,Black,Non-main scheme applicant,5
+2015,A level Only,Mixed,Main scheme applicant,7055
+2015,A level Only,Mixed,Non-main scheme applicant,5
+2015,A level Only,Other,Main scheme applicant,2030
+2015,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1050
+2015,A level Only,White,Main scheme applicant,134015
+2015,A level Only,White,Non-main scheme applicant,70
+2015,BTEC Only,Asian,Main scheme applicant,3445
+2015,BTEC Only,Black,Main scheme applicant,2660
+2015,BTEC Only,Mixed,Main scheme applicant,1290
+2015,BTEC Only,Other,Main scheme applicant,490
+2015,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,125
+2015,BTEC Only,White,Main scheme applicant,23615
+2015,BTEC Only,White,Non-main scheme applicant,5
+2015,IB Only,Asian,Main scheme applicant,270
+2015,IB Only,Black,Main scheme applicant,165
+2015,IB Only,Mixed,Main scheme applicant,170
+2015,IB Only,Other,Main scheme applicant,40
+2015,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,50
+2015,IB Only,White,Main scheme applicant,1640
+2015,Other,Asian,Main scheme applicant,4245
+2015,Other,Asian,Non-main scheme applicant,340
+2015,Other,Black,Main scheme applicant,2400
+2015,Other,Black,Non-main scheme applicant,255
+2015,Other,Mixed,Main scheme applicant,1430
+2015,Other,Mixed,Non-main scheme applicant,135
+2015,Other,Other,Main scheme applicant,590
+2015,Other,Other,Non-main scheme applicant,90
+2015,Other,Unknown or Prefer Not To Say,Main scheme applicant,230
+2015,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,165
+2015,Other,White,Main scheme applicant,25345
+2015,Other,White,Non-main scheme applicant,2380
+2015,SQA Only,Asian,Main scheme applicant,750
+2015,SQA Only,Black,Main scheme applicant,115
+2015,SQA Only,Mixed,Main scheme applicant,300
+2015,SQA Only,Other,Main scheme applicant,75
+2015,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,60
+2015,SQA Only,White,Main scheme applicant,17540
+2015,SQA Only,White,Non-main scheme applicant,15
+2016,A level & BTEC,Asian,Main scheme applicant,2340
+2016,A level & BTEC,Black,Main scheme applicant,1215
+2016,A level & BTEC,Mixed,Main scheme applicant,770
+2016,A level & BTEC,Other,Main scheme applicant,340
+2016,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,85
+2016,A level & BTEC,White,Main scheme applicant,15775
+2016,A level Only,Asian,Main scheme applicant,19880
+2016,A level Only,Asian,Non-main scheme applicant,15
+2016,A level Only,Black,Main scheme applicant,7100
+2016,A level Only,Black,Non-main scheme applicant,5
+2016,A level Only,Mixed,Main scheme applicant,7330
+2016,A level Only,Mixed,Non-main scheme applicant,5
+2016,A level Only,Other,Main scheme applicant,2155
+2016,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1135
+2016,A level Only,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2016,A level Only,White,Main scheme applicant,132010
+2016,A level Only,White,Non-main scheme applicant,75
+2016,BTEC Only,Asian,Main scheme applicant,3590
+2016,BTEC Only,Black,Main scheme applicant,2590
+2016,BTEC Only,Mixed,Main scheme applicant,1275
+2016,BTEC Only,Other,Main scheme applicant,500
+2016,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,130
+2016,BTEC Only,White,Main scheme applicant,22150
+2016,BTEC Only,White,Non-main scheme applicant,5
+2016,IB Only,Asian,Main scheme applicant,270
+2016,IB Only,Black,Main scheme applicant,175
+2016,IB Only,Mixed,Main scheme applicant,195
+2016,IB Only,Other,Main scheme applicant,45
+2016,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,40
+2016,IB Only,White,Main scheme applicant,1645
+2016,Other,Asian,Main scheme applicant,4420
+2016,Other,Asian,Non-main scheme applicant,350
+2016,Other,Black,Main scheme applicant,2505
+2016,Other,Black,Non-main scheme applicant,225
+2016,Other,Mixed,Main scheme applicant,1595
+2016,Other,Mixed,Non-main scheme applicant,120
+2016,Other,Other,Main scheme applicant,610
+2016,Other,Other,Non-main scheme applicant,85
+2016,Other,Unknown or Prefer Not To Say,Main scheme applicant,225
+2016,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,215
+2016,Other,White,Main scheme applicant,26735
+2016,Other,White,Non-main scheme applicant,2430
+2016,SQA Only,Asian,Main scheme applicant,795
+2016,SQA Only,Black,Main scheme applicant,130
+2016,SQA Only,Mixed,Main scheme applicant,325
+2016,SQA Only,Other,Main scheme applicant,75
+2016,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,85
+2016,SQA Only,White,Main scheme applicant,17260
+2017,A level & BTEC,Asian,Main scheme applicant,2550
+2017,A level & BTEC,Black,Main scheme applicant,1305
+2017,A level & BTEC,Black,Non-main scheme applicant,5
+2017,A level & BTEC,Mixed,Main scheme applicant,850
+2017,A level & BTEC,Other,Main scheme applicant,370
+2017,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,90
+2017,A level & BTEC,White,Main scheme applicant,16350
+2017,A level & BTEC,White,Non-main scheme applicant,25
+2017,A level Only,Asian,Main scheme applicant,20960
+2017,A level Only,Asian,Non-main scheme applicant,30
+2017,A level Only,Black,Main scheme applicant,7305
+2017,A level Only,Black,Non-main scheme applicant,10
+2017,A level Only,Mixed,Main scheme applicant,7805
+2017,A level Only,Mixed,Non-main scheme applicant,5
+2017,A level Only,Other,Main scheme applicant,2445
+2017,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1110
+2017,A level Only,White,Main scheme applicant,130355
+2017,A level Only,White,Non-main scheme applicant,135
+2017,BTEC Only,Asian,Main scheme applicant,3995
+2017,BTEC Only,Asian,Non-main scheme applicant,5
+2017,BTEC Only,Black,Main scheme applicant,2740
+2017,BTEC Only,Mixed,Main scheme applicant,1275
+2017,BTEC Only,Mixed,Non-main scheme applicant,5
+2017,BTEC Only,Other,Main scheme applicant,555
+2017,BTEC Only,Other,Non-main scheme applicant,5
+2017,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,145
+2017,BTEC Only,White,Main scheme applicant,21570
+2017,BTEC Only,White,Non-main scheme applicant,40
+2017,IB Only,Asian,Main scheme applicant,285
+2017,IB Only,Black,Main scheme applicant,170
+2017,IB Only,Mixed,Main scheme applicant,215
+2017,IB Only,Other,Main scheme applicant,50
+2017,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,45
+2017,IB Only,White,Main scheme applicant,1710
+2017,Other,Asian,Main scheme applicant,4440
+2017,Other,Asian,Non-main scheme applicant,440
+2017,Other,Black,Main scheme applicant,2320
+2017,Other,Black,Non-main scheme applicant,255
+2017,Other,Mixed,Main scheme applicant,1665
+2017,Other,Mixed,Non-main scheme applicant,195
+2017,Other,Other,Main scheme applicant,635
+2017,Other,Other,Non-main scheme applicant,115
+2017,Other,Unknown or Prefer Not To Say,Main scheme applicant,235
+2017,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,205
+2017,Other,White,Main scheme applicant,26425
+2017,Other,White,Non-main scheme applicant,2750
+2017,SQA Only,Asian,Main scheme applicant,825
+2017,SQA Only,Black,Main scheme applicant,150
+2017,SQA Only,Mixed,Main scheme applicant,325
+2017,SQA Only,Other,Main scheme applicant,75
+2017,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,65
+2017,SQA Only,White,Main scheme applicant,16735
+2018,A level & BTEC,Asian,Main scheme applicant,2515
+2018,A level & BTEC,Black,Main scheme applicant,1225
+2018,A level & BTEC,Mixed,Main scheme applicant,760
+2018,A level & BTEC,Other,Main scheme applicant,295
+2018,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,80
+2018,A level & BTEC,White,Main scheme applicant,14475
+2018,A level & BTEC,White,Non-main scheme applicant,15
+2018,A level Only,Asian,Main scheme applicant,22240
+2018,A level Only,Asian,Non-main scheme applicant,25
+2018,A level Only,Black,Main scheme applicant,7680
+2018,A level Only,Black,Non-main scheme applicant,5
+2018,A level Only,Mixed,Main scheme applicant,7855
+2018,A level Only,Mixed,Non-main scheme applicant,5
+2018,A level Only,Other,Main scheme applicant,2585
+2018,A level Only,Other,Non-main scheme applicant,5
+2018,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1205
+2018,A level Only,White,Main scheme applicant,123390
+2018,A level Only,White,Non-main scheme applicant,80
+2018,BTEC Only,Asian,Main scheme applicant,3740
+2018,BTEC Only,Black,Main scheme applicant,2325
+2018,BTEC Only,Mixed,Main scheme applicant,1120
+2018,BTEC Only,Other,Main scheme applicant,570
+2018,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,110
+2018,BTEC Only,White,Main scheme applicant,19085
+2018,BTEC Only,White,Non-main scheme applicant,25
+2018,IB Only,Asian,Main scheme applicant,265
+2018,IB Only,Black,Main scheme applicant,175
+2018,IB Only,Mixed,Main scheme applicant,195
+2018,IB Only,Other,Main scheme applicant,55
+2018,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,60
+2018,IB Only,White,Main scheme applicant,1590
+2018,Other,Asian,Main scheme applicant,5355
+2018,Other,Asian,Non-main scheme applicant,500
+2018,Other,Black,Main scheme applicant,3115
+2018,Other,Black,Non-main scheme applicant,280
+2018,Other,Mixed,Main scheme applicant,1990
+2018,Other,Mixed,Non-main scheme applicant,205
+2018,Other,Other,Main scheme applicant,780
+2018,Other,Other,Non-main scheme applicant,115
+2018,Other,Unknown or Prefer Not To Say,Main scheme applicant,300
+2018,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,285
+2018,Other,White,Main scheme applicant,30210
+2018,Other,White,Non-main scheme applicant,3040
+2018,SQA Only,Asian,Main scheme applicant,895
+2018,SQA Only,Black,Main scheme applicant,195
+2018,SQA Only,Mixed,Main scheme applicant,345
+2018,SQA Only,Other,Main scheme applicant,80
+2018,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,80
+2018,SQA Only,White,Main scheme applicant,15980
+2019,A level & BTEC,Asian,Main scheme applicant,2770
+2019,A level & BTEC,Asian,Non-main scheme applicant,15
+2019,A level & BTEC,Black,Main scheme applicant,1345
+2019,A level & BTEC,Black,Non-main scheme applicant,5
+2019,A level & BTEC,Mixed,Main scheme applicant,835
+2019,A level & BTEC,Mixed,Non-main scheme applicant,5
+2019,A level & BTEC,Other,Main scheme applicant,380
+2019,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,80
+2019,A level & BTEC,White,Main scheme applicant,14830
+2019,A level & BTEC,White,Non-main scheme applicant,85
+2019,A level Only,Asian,Main scheme applicant,24160
+2019,A level Only,Asian,Non-main scheme applicant,175
+2019,A level Only,Black,Main scheme applicant,8330
+2019,A level Only,Black,Non-main scheme applicant,65
+2019,A level Only,Mixed,Main scheme applicant,8285
+2019,A level Only,Mixed,Non-main scheme applicant,45
+2019,A level Only,Other,Main scheme applicant,2965
+2019,A level Only,Other,Non-main scheme applicant,20
+2019,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1220
+2019,A level Only,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2019,A level Only,White,Main scheme applicant,117250
+2019,A level Only,White,Non-main scheme applicant,570
+2019,BTEC Only,Asian,Main scheme applicant,4185
+2019,BTEC Only,Black,Main scheme applicant,2355
+2019,BTEC Only,Black,Non-main scheme applicant,5
+2019,BTEC Only,Mixed,Main scheme applicant,1135
+2019,BTEC Only,Other,Main scheme applicant,590
+2019,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,130
+2019,BTEC Only,White,Main scheme applicant,17310
+2019,BTEC Only,White,Non-main scheme applicant,5
+2019,IB Only,Asian,Main scheme applicant,290
+2019,IB Only,Black,Main scheme applicant,180
+2019,IB Only,Mixed,Main scheme applicant,245
+2019,IB Only,Other,Main scheme applicant,50
+2019,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,40
+2019,IB Only,White,Main scheme applicant,1690
+2019,Other,Asian,Main scheme applicant,6320
+2019,Other,Asian,Non-main scheme applicant,445
+2019,Other,Black,Main scheme applicant,3730
+2019,Other,Black,Non-main scheme applicant,265
+2019,Other,Mixed,Main scheme applicant,2330
+2019,Other,Mixed,Non-main scheme applicant,145
+2019,Other,Other,Main scheme applicant,1030
+2019,Other,Other,Non-main scheme applicant,115
+2019,Other,Unknown or Prefer Not To Say,Main scheme applicant,290
+2019,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,405
+2019,Other,White,Main scheme applicant,34115
+2019,Other,White,Non-main scheme applicant,3170
+2019,SQA Only,Asian,Main scheme applicant,925
+2019,SQA Only,Black,Main scheme applicant,200
+2019,SQA Only,Mixed,Main scheme applicant,385
+2019,SQA Only,Other,Main scheme applicant,105
+2019,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,105
+2019,SQA Only,White,Main scheme applicant,15360
+2020,A level & BTEC,Asian,Main scheme applicant,3415
+2020,A level & BTEC,Asian,Non-main scheme applicant,5
+2020,A level & BTEC,Black,Main scheme applicant,1565
+2020,A level & BTEC,Black,Non-main scheme applicant,10
+2020,A level & BTEC,Mixed,Main scheme applicant,1020
+2020,A level & BTEC,Mixed,Non-main scheme applicant,5
+2020,A level & BTEC,Other,Main scheme applicant,500
+2020,A level & BTEC,Other,Non-main scheme applicant,5
+2020,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,120
+2020,A level & BTEC,White,Main scheme applicant,16170
+2020,A level & BTEC,White,Non-main scheme applicant,95
+2020,A level Only,Asian,Main scheme applicant,27205
+2020,A level Only,Asian,Non-main scheme applicant,130
+2020,A level Only,Black,Main scheme applicant,9380
+2020,A level Only,Black,Non-main scheme applicant,40
+2020,A level Only,Mixed,Main scheme applicant,9065
+2020,A level Only,Mixed,Non-main scheme applicant,65
+2020,A level Only,Other,Main scheme applicant,3325
+2020,A level Only,Other,Non-main scheme applicant,25
+2020,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1310
+2020,A level Only,Unknown or Prefer Not To Say,Non-main scheme applicant,15
+2020,A level Only,White,Main scheme applicant,116800
+2020,A level Only,White,Non-main scheme applicant,735
+2020,BTEC Only,Asian,Main scheme applicant,4925
+2020,BTEC Only,Asian,Non-main scheme applicant,5
+2020,BTEC Only,Black,Main scheme applicant,2850
+2020,BTEC Only,Mixed,Main scheme applicant,1285
+2020,BTEC Only,Other,Main scheme applicant,700
+2020,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,135
+2020,BTEC Only,White,Main scheme applicant,18275
+2020,BTEC Only,White,Non-main scheme applicant,25
+2020,IB Only,Asian,Main scheme applicant,310
+2020,IB Only,Black,Main scheme applicant,220
+2020,IB Only,Mixed,Main scheme applicant,225
+2020,IB Only,Other,Main scheme applicant,60
+2020,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,40
+2020,IB Only,White,Main scheme applicant,1645
+2020,IB Only,White,Non-main scheme applicant,5
+2020,Other,Asian,Main scheme applicant,5465
+2020,Other,Asian,Non-main scheme applicant,555
+2020,Other,Black,Main scheme applicant,3260
+2020,Other,Black,Non-main scheme applicant,390
+2020,Other,Mixed,Main scheme applicant,2230
+2020,Other,Mixed,Non-main scheme applicant,295
+2020,Other,Other,Main scheme applicant,865
+2020,Other,Other,Non-main scheme applicant,145
+2020,Other,Unknown or Prefer Not To Say,Main scheme applicant,340
+2020,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,345
+2020,Other,White,Main scheme applicant,32645
+2020,Other,White,Non-main scheme applicant,4610
+2020,SQA Only,Asian,Main scheme applicant,1085
+2020,SQA Only,Black,Main scheme applicant,260
+2020,SQA Only,Mixed,Main scheme applicant,390
+2020,SQA Only,Other,Main scheme applicant,140
+2020,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,85
+2020,SQA Only,White,Main scheme applicant,14700
+2021,A level & BTEC,Asian,Main scheme applicant,3680
+2021,A level & BTEC,Asian,Non-main scheme applicant,15
+2021,A level & BTEC,Black,Main scheme applicant,1915
+2021,A level & BTEC,Black,Non-main scheme applicant,5
+2021,A level & BTEC,Mixed,Main scheme applicant,1215
+2021,A level & BTEC,Mixed,Non-main scheme applicant,10
+2021,A level & BTEC,Other,Main scheme applicant,550
+2021,A level & BTEC,Unknown or Prefer Not To Say,Main scheme applicant,135
+2021,A level & BTEC,White,Main scheme applicant,18835
+2021,A level & BTEC,White,Non-main scheme applicant,80
+2021,A level Only,Asian,Main scheme applicant,30210
+2021,A level Only,Asian,Non-main scheme applicant,115
+2021,A level Only,Black,Main scheme applicant,10465
+2021,A level Only,Black,Non-main scheme applicant,30
+2021,A level Only,Mixed,Main scheme applicant,10260
+2021,A level Only,Mixed,Non-main scheme applicant,25
+2021,A level Only,Other,Main scheme applicant,3760
+2021,A level Only,Other,Non-main scheme applicant,15
+2021,A level Only,Unknown or Prefer Not To Say,Main scheme applicant,1490
+2021,A level Only,Unknown or Prefer Not To Say,Non-main scheme applicant,5
+2021,A level Only,White,Main scheme applicant,124380
+2021,A level Only,White,Non-main scheme applicant,330
+2021,BTEC Only,Asian,Main scheme applicant,5510
+2021,BTEC Only,Asian,Non-main scheme applicant,5
+2021,BTEC Only,Black,Main scheme applicant,3300
+2021,BTEC Only,Black,Non-main scheme applicant,5
+2021,BTEC Only,Mixed,Main scheme applicant,1515
+2021,BTEC Only,Other,Main scheme applicant,860
+2021,BTEC Only,Unknown or Prefer Not To Say,Main scheme applicant,175
+2021,BTEC Only,White,Main scheme applicant,20420
+2021,BTEC Only,White,Non-main scheme applicant,40
+2021,IB Only,Asian,Main scheme applicant,345
+2021,IB Only,Black,Main scheme applicant,220
+2021,IB Only,Mixed,Main scheme applicant,300
+2021,IB Only,Other,Main scheme applicant,75
+2021,IB Only,Unknown or Prefer Not To Say,Main scheme applicant,55
+2021,IB Only,White,Main scheme applicant,1720
+2021,Other,Asian,Main scheme applicant,5885
+2021,Other,Asian,Non-main scheme applicant,460
+2021,Other,Black,Main scheme applicant,3810
+2021,Other,Black,Non-main scheme applicant,310
+2021,Other,Mixed,Main scheme applicant,2710
+2021,Other,Mixed,Non-main scheme applicant,185
+2021,Other,Other,Main scheme applicant,1035
+2021,Other,Other,Non-main scheme applicant,130
+2021,Other,Unknown or Prefer Not To Say,Main scheme applicant,365
+2021,Other,Unknown or Prefer Not To Say,Non-main scheme applicant,275
+2021,Other,White,Main scheme applicant,37010
+2021,Other,White,Non-main scheme applicant,3075
+2021,SQA Only,Asian,Main scheme applicant,1070
+2021,SQA Only,Black,Main scheme applicant,310
+2021,SQA Only,Mixed,Main scheme applicant,485
+2021,SQA Only,Other,Main scheme applicant,140
+2021,SQA Only,Unknown or Prefer Not To Say,Main scheme applicant,100
+2021,SQA Only,White,Main scheme applicant,16775

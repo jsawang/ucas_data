@@ -1,0 +1,2190 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2021 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 9 December 2021"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2021_028_1"
+"Cycles: 2010 - 2021"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Difference between predicted and achieved A level points, Ethnic group, Applicant type                                     "
+"Coverage: UK, 18 year old, main scheme applicants with at least 3 predicted A levels"
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Data lines are comma delimited."
+"Data follows -     2174 lines in total"
+"------------------------------------------------------------------"
+Year,Difference between predicted and achieved A level points,Ethnic group,Applicant type,Applicants,
+2010,All,All,All,181990
+2011,All,All,All,181405
+2012,All,All,All,173800
+2013,All,All,All,173070
+2014,All,All,All,170795
+2015,All,All,All,175020
+2016,All,All,All,174660
+2017,All,All,All,176340
+2018,All,All,All,171360
+2019,All,All,All,169400
+2020,All,All,All,168770
+2021,All,All,All,182055
+2010,All,All,Main scheme applicant,181990
+2011,All,All,Main scheme applicant,181405
+2012,All,All,Main scheme applicant,173800
+2013,All,All,Main scheme applicant,173070
+2014,All,All,Main scheme applicant,170795
+2015,All,All,Main scheme applicant,175020
+2016,All,All,Main scheme applicant,174660
+2017,All,All,Main scheme applicant,176340
+2018,All,All,Main scheme applicant,171360
+2019,All,All,Main scheme applicant,169400
+2020,All,All,Main scheme applicant,168770
+2021,All,All,Main scheme applicant,182055
+2010,All,Asian,All,17645
+2010,All,Black,All,5605
+2010,All,Mixed,All,5665
+2010,All,Other,All,1475
+2010,All,Unknown or Prefer Not To Say,All,1155
+2010,All,White,All,150440
+2011,All,Asian,All,18080
+2011,All,Black,All,6065
+2011,All,Mixed,All,6255
+2011,All,Other,All,1580
+2011,All,Unknown or Prefer Not To Say,All,1055
+2011,All,White,All,148365
+2012,All,Asian,All,17760
+2012,All,Black,All,6140
+2012,All,Mixed,All,6105
+2012,All,Other,All,1795
+2012,All,Unknown or Prefer Not To Say,All,945
+2012,All,White,All,141055
+2013,All,Asian,All,18055
+2013,All,Black,All,6720
+2013,All,Mixed,All,6390
+2013,All,Other,All,1795
+2013,All,Unknown or Prefer Not To Say,All,810
+2013,All,White,All,139305
+2014,All,Asian,All,18710
+2014,All,Black,All,6910
+2014,All,Mixed,All,6630
+2014,All,Other,All,2020
+2014,All,Unknown or Prefer Not To Say,All,775
+2014,All,White,All,135750
+2015,All,Asian,All,19495
+2015,All,Black,All,7270
+2015,All,Mixed,All,7265
+2015,All,Other,All,2120
+2015,All,Unknown or Prefer Not To Say,All,1095
+2015,All,White,All,137780
+2016,All,Asian,All,20490
+2016,All,Black,All,7460
+2016,All,Mixed,All,7565
+2016,All,Other,All,2230
+2016,All,Unknown or Prefer Not To Say,All,1150
+2016,All,White,All,135770
+2017,All,Asian,All,21850
+2017,All,Black,All,7800
+2017,All,Mixed,All,8140
+2017,All,Other,All,2550
+2017,All,Unknown or Prefer Not To Say,All,1135
+2017,All,White,All,134865
+2018,All,Asian,All,23325
+2018,All,Black,All,8270
+2018,All,Mixed,All,8185
+2018,All,Other,All,2730
+2018,All,Unknown or Prefer Not To Say,All,1245
+2018,All,White,All,127600
+2019,All,Asian,All,25575
+2019,All,Black,All,9135
+2019,All,Mixed,All,8690
+2019,All,Other,All,3155
+2019,All,Unknown or Prefer Not To Say,All,1250
+2019,All,White,All,121600
+2020,All,Asian,All,27435
+2020,All,Black,All,9535
+2020,All,Mixed,All,9140
+2020,All,Other,All,3365
+2020,All,Unknown or Prefer Not To Say,All,1330
+2020,All,White,All,117965
+2021,All,Asian,All,30495
+2021,All,Black,All,10605
+2021,All,Mixed,All,10325
+2021,All,Other,All,3805
+2021,All,Unknown or Prefer Not To Say,All,1500
+2021,All,White,All,125330
+2010,All,Asian,Main scheme applicant,17645
+2010,All,Black,Main scheme applicant,5605
+2010,All,Mixed,Main scheme applicant,5665
+2010,All,Other,Main scheme applicant,1475
+2010,All,Unknown or Prefer Not To Say,Main scheme applicant,1155
+2010,All,White,Main scheme applicant,150440
+2011,All,Asian,Main scheme applicant,18080
+2011,All,Black,Main scheme applicant,6065
+2011,All,Mixed,Main scheme applicant,6255
+2011,All,Other,Main scheme applicant,1580
+2011,All,Unknown or Prefer Not To Say,Main scheme applicant,1055
+2011,All,White,Main scheme applicant,148365
+2012,All,Asian,Main scheme applicant,17760
+2012,All,Black,Main scheme applicant,6140
+2012,All,Mixed,Main scheme applicant,6105
+2012,All,Other,Main scheme applicant,1795
+2012,All,Unknown or Prefer Not To Say,Main scheme applicant,945
+2012,All,White,Main scheme applicant,141055
+2013,All,Asian,Main scheme applicant,18055
+2013,All,Black,Main scheme applicant,6720
+2013,All,Mixed,Main scheme applicant,6390
+2013,All,Other,Main scheme applicant,1795
+2013,All,Unknown or Prefer Not To Say,Main scheme applicant,810
+2013,All,White,Main scheme applicant,139305
+2014,All,Asian,Main scheme applicant,18710
+2014,All,Black,Main scheme applicant,6910
+2014,All,Mixed,Main scheme applicant,6630
+2014,All,Other,Main scheme applicant,2020
+2014,All,Unknown or Prefer Not To Say,Main scheme applicant,775
+2014,All,White,Main scheme applicant,135750
+2015,All,Asian,Main scheme applicant,19495
+2015,All,Black,Main scheme applicant,7270
+2015,All,Mixed,Main scheme applicant,7265
+2015,All,Other,Main scheme applicant,2120
+2015,All,Unknown or Prefer Not To Say,Main scheme applicant,1095
+2015,All,White,Main scheme applicant,137780
+2016,All,Asian,Main scheme applicant,20490
+2016,All,Black,Main scheme applicant,7460
+2016,All,Mixed,Main scheme applicant,7565
+2016,All,Other,Main scheme applicant,2230
+2016,All,Unknown or Prefer Not To Say,Main scheme applicant,1150
+2016,All,White,Main scheme applicant,135770
+2017,All,Asian,Main scheme applicant,21850
+2017,All,Black,Main scheme applicant,7800
+2017,All,Mixed,Main scheme applicant,8140
+2017,All,Other,Main scheme applicant,2550
+2017,All,Unknown or Prefer Not To Say,Main scheme applicant,1135
+2017,All,White,Main scheme applicant,134865
+2018,All,Asian,Main scheme applicant,23325
+2018,All,Black,Main scheme applicant,8270
+2018,All,Mixed,Main scheme applicant,8185
+2018,All,Other,Main scheme applicant,2730
+2018,All,Unknown or Prefer Not To Say,Main scheme applicant,1245
+2018,All,White,Main scheme applicant,127600
+2019,All,Asian,Main scheme applicant,25575
+2019,All,Black,Main scheme applicant,9135
+2019,All,Mixed,Main scheme applicant,8690
+2019,All,Other,Main scheme applicant,3155
+2019,All,Unknown or Prefer Not To Say,Main scheme applicant,1250
+2019,All,White,Main scheme applicant,121600
+2020,All,Asian,Main scheme applicant,27435
+2020,All,Black,Main scheme applicant,9535
+2020,All,Mixed,Main scheme applicant,9140
+2020,All,Other,Main scheme applicant,3365
+2020,All,Unknown or Prefer Not To Say,Main scheme applicant,1330
+2020,All,White,Main scheme applicant,117965
+2021,All,Asian,Main scheme applicant,30495
+2021,All,Black,Main scheme applicant,10605
+2021,All,Mixed,Main scheme applicant,10325
+2021,All,Other,Main scheme applicant,3805
+2021,All,Unknown or Prefer Not To Say,Main scheme applicant,1500
+2021,All,White,Main scheme applicant,125330
+2010,-1 points,All,All,40730
+2010,-2 points,All,All,34920
+2010,-3 points,All,All,22320
+2010,-4 points,All,All,11230
+2010,-5 points,All,All,5395
+2010,-6 points,All,All,2505
+2010,0 points,All,All,35440
+2010,1 point,All,All,17590
+2010,2 points,All,All,6690
+2010,3 points,All,All,2045
+2010,Less than -6 points,All,All,2670
+2010,More than 3 points,All,All,450
+2011,-1 points,All,All,41330
+2011,-2 points,All,All,36430
+2011,-3 points,All,All,23060
+2011,-4 points,All,All,11865
+2011,-5 points,All,All,5525
+2011,-6 points,All,All,2465
+2011,0 points,All,All,34585
+2011,1 point,All,All,15995
+2011,2 points,All,All,5665
+2011,3 points,All,All,1580
+2011,Less than -6 points,All,All,2530
+2011,More than 3 points,All,All,365
+2012,-1 points,All,All,39715
+2012,-2 points,All,All,36570
+2012,-3 points,All,All,24520
+2012,-4 points,All,All,12870
+2012,-5 points,All,All,5945
+2012,-6 points,All,All,2685
+2012,0 points,All,All,30890
+2012,1 point,All,All,12615
+2012,2 points,All,All,4025
+2012,3 points,All,All,995
+2012,Less than -6 points,All,All,2725
+2012,More than 3 points,All,All,245
+2013,-1 points,All,All,39450
+2013,-2 points,All,All,37250
+2013,-3 points,All,All,25400
+2013,-4 points,All,All,13250
+2013,-5 points,All,All,6305
+2013,-6 points,All,All,2820
+2013,0 points,All,All,29455
+2013,1 point,All,All,11830
+2013,2 points,All,All,3545
+2013,3 points,All,All,810
+2013,Less than -6 points,All,All,2755
+2013,More than 3 points,All,All,195
+2014,-1 points,All,All,36460
+2014,-2 points,All,All,36290
+2014,-3 points,All,All,26130
+2014,-4 points,All,All,14595
+2014,-5 points,All,All,7295
+2014,-6 points,All,All,3345
+2014,0 points,All,All,27435
+2014,1 point,All,All,11095
+2014,2 points,All,All,3555
+2014,3 points,All,All,825
+2014,Less than -6 points,All,All,3560
+2014,More than 3 points,All,All,210
+2015,-1 points,All,All,37275
+2015,-2 points,All,All,37025
+2015,-3 points,All,All,26980
+2015,-4 points,All,All,15550
+2015,-5 points,All,All,7805
+2015,-6 points,All,All,3750
+2015,0 points,All,All,27585
+2015,1 point,All,All,10930
+2015,2 points,All,All,3450
+2015,3 points,All,All,820
+2015,Less than -6 points,All,All,3630
+2015,More than 3 points,All,All,220
+2016,-1 points,All,All,36285
+2016,-2 points,All,All,37140
+2016,-3 points,All,All,27875
+2016,-4 points,All,All,16140
+2016,-5 points,All,All,8555
+2016,-6 points,All,All,4095
+2016,0 points,All,All,26340
+2016,1 point,All,All,10030
+2016,2 points,All,All,3205
+2016,3 points,All,All,830
+2016,Less than -6 points,All,All,3960
+2016,More than 3 points,All,All,200
+2017,-1 points,All,All,33620
+2017,-2 points,All,All,34010
+2017,-3 points,All,All,26920
+2017,-4 points,All,All,17325
+2017,-5 points,All,All,10095
+2017,-6 points,All,All,5555
+2017,0 points,All,All,26005
+2017,1 point,All,All,11355
+2017,2 points,All,All,4025
+2017,3 points,All,All,1105
+2017,Less than -6 points,All,All,5970
+2017,More than 3 points,All,All,355
+2018,-1 points,All,All,31285
+2018,-2 points,All,All,31560
+2018,-3 points,All,All,26255
+2018,-4 points,All,All,17655
+2018,-5 points,All,All,11025
+2018,-6 points,All,All,6285
+2018,0 points,All,All,24450
+2018,1 point,All,All,10405
+2018,2 points,All,All,3625
+2018,3 points,All,All,1025
+2018,Less than -6 points,All,All,7485
+2018,More than 3 points,All,All,310
+2019,-1 points,All,All,27720
+2019,-2 points,All,All,30460
+2019,-3 points,All,All,26045
+2019,-4 points,All,All,19440
+2019,-5 points,All,All,13005
+2019,-6 points,All,All,7990
+2019,0 points,All,All,21450
+2019,1 point,All,All,8615
+2019,2 points,All,All,2990
+2019,3 points,All,All,920
+2019,Less than -6 points,All,All,10485
+2019,More than 3 points,All,All,275
+2020,-1 points,All,All,37915
+2020,-2 points,All,All,26875
+2020,-3 points,All,All,15755
+2020,-4 points,All,All,7900
+2020,-5 points,All,All,3760
+2020,-6 points,All,All,1780
+2020,0 points,All,All,43695
+2020,1 point,All,All,20580
+2020,2 points,All,All,6845
+2020,3 points,All,All,1610
+2020,Less than -6 points,All,All,1800
+2020,More than 3 points,All,All,255
+2021,-1 points,All,All,34190
+2021,-2 points,All,All,22435
+2021,-3 points,All,All,12925
+2021,-4 points,All,All,6890
+2021,-5 points,All,All,3425
+2021,-6 points,All,All,1660
+2021,0 points,All,All,48635
+2021,1 point,All,All,29880
+2021,2 points,All,All,14090
+2021,3 points,All,All,4760
+2021,Less than -6 points,All,All,1705
+2021,More than 3 points,All,All,1455
+2010,-1 points,All,Main scheme applicant,40730
+2010,-2 points,All,Main scheme applicant,34920
+2010,-3 points,All,Main scheme applicant,22320
+2010,-4 points,All,Main scheme applicant,11230
+2010,-5 points,All,Main scheme applicant,5395
+2010,-6 points,All,Main scheme applicant,2505
+2010,0 points,All,Main scheme applicant,35440
+2010,1 point,All,Main scheme applicant,17590
+2010,2 points,All,Main scheme applicant,6690
+2010,3 points,All,Main scheme applicant,2045
+2010,Less than -6 points,All,Main scheme applicant,2670
+2010,More than 3 points,All,Main scheme applicant,450
+2011,-1 points,All,Main scheme applicant,41330
+2011,-2 points,All,Main scheme applicant,36430
+2011,-3 points,All,Main scheme applicant,23060
+2011,-4 points,All,Main scheme applicant,11865
+2011,-5 points,All,Main scheme applicant,5525
+2011,-6 points,All,Main scheme applicant,2465
+2011,0 points,All,Main scheme applicant,34585
+2011,1 point,All,Main scheme applicant,15995
+2011,2 points,All,Main scheme applicant,5665
+2011,3 points,All,Main scheme applicant,1580
+2011,Less than -6 points,All,Main scheme applicant,2530
+2011,More than 3 points,All,Main scheme applicant,365
+2012,-1 points,All,Main scheme applicant,39715
+2012,-2 points,All,Main scheme applicant,36570
+2012,-3 points,All,Main scheme applicant,24520
+2012,-4 points,All,Main scheme applicant,12870
+2012,-5 points,All,Main scheme applicant,5945
+2012,-6 points,All,Main scheme applicant,2685
+2012,0 points,All,Main scheme applicant,30890
+2012,1 point,All,Main scheme applicant,12615
+2012,2 points,All,Main scheme applicant,4025
+2012,3 points,All,Main scheme applicant,995
+2012,Less than -6 points,All,Main scheme applicant,2725
+2012,More than 3 points,All,Main scheme applicant,245
+2013,-1 points,All,Main scheme applicant,39450
+2013,-2 points,All,Main scheme applicant,37250
+2013,-3 points,All,Main scheme applicant,25400
+2013,-4 points,All,Main scheme applicant,13250
+2013,-5 points,All,Main scheme applicant,6305
+2013,-6 points,All,Main scheme applicant,2820
+2013,0 points,All,Main scheme applicant,29455
+2013,1 point,All,Main scheme applicant,11830
+2013,2 points,All,Main scheme applicant,3545
+2013,3 points,All,Main scheme applicant,810
+2013,Less than -6 points,All,Main scheme applicant,2755
+2013,More than 3 points,All,Main scheme applicant,195
+2014,-1 points,All,Main scheme applicant,36460
+2014,-2 points,All,Main scheme applicant,36290
+2014,-3 points,All,Main scheme applicant,26130
+2014,-4 points,All,Main scheme applicant,14595
+2014,-5 points,All,Main scheme applicant,7295
+2014,-6 points,All,Main scheme applicant,3345
+2014,0 points,All,Main scheme applicant,27435
+2014,1 point,All,Main scheme applicant,11095
+2014,2 points,All,Main scheme applicant,3555
+2014,3 points,All,Main scheme applicant,825
+2014,Less than -6 points,All,Main scheme applicant,3560
+2014,More than 3 points,All,Main scheme applicant,210
+2015,-1 points,All,Main scheme applicant,37275
+2015,-2 points,All,Main scheme applicant,37025
+2015,-3 points,All,Main scheme applicant,26980
+2015,-4 points,All,Main scheme applicant,15550
+2015,-5 points,All,Main scheme applicant,7805
+2015,-6 points,All,Main scheme applicant,3750
+2015,0 points,All,Main scheme applicant,27585
+2015,1 point,All,Main scheme applicant,10930
+2015,2 points,All,Main scheme applicant,3450
+2015,3 points,All,Main scheme applicant,820
+2015,Less than -6 points,All,Main scheme applicant,3630
+2015,More than 3 points,All,Main scheme applicant,220
+2016,-1 points,All,Main scheme applicant,36285
+2016,-2 points,All,Main scheme applicant,37140
+2016,-3 points,All,Main scheme applicant,27875
+2016,-4 points,All,Main scheme applicant,16140
+2016,-5 points,All,Main scheme applicant,8555
+2016,-6 points,All,Main scheme applicant,4095
+2016,0 points,All,Main scheme applicant,26340
+2016,1 point,All,Main scheme applicant,10030
+2016,2 points,All,Main scheme applicant,3205
+2016,3 points,All,Main scheme applicant,830
+2016,Less than -6 points,All,Main scheme applicant,3960
+2016,More than 3 points,All,Main scheme applicant,200
+2017,-1 points,All,Main scheme applicant,33620
+2017,-2 points,All,Main scheme applicant,34010
+2017,-3 points,All,Main scheme applicant,26920
+2017,-4 points,All,Main scheme applicant,17325
+2017,-5 points,All,Main scheme applicant,10095
+2017,-6 points,All,Main scheme applicant,5555
+2017,0 points,All,Main scheme applicant,26005
+2017,1 point,All,Main scheme applicant,11355
+2017,2 points,All,Main scheme applicant,4025
+2017,3 points,All,Main scheme applicant,1105
+2017,Less than -6 points,All,Main scheme applicant,5970
+2017,More than 3 points,All,Main scheme applicant,355
+2018,-1 points,All,Main scheme applicant,31285
+2018,-2 points,All,Main scheme applicant,31560
+2018,-3 points,All,Main scheme applicant,26255
+2018,-4 points,All,Main scheme applicant,17655
+2018,-5 points,All,Main scheme applicant,11025
+2018,-6 points,All,Main scheme applicant,6285
+2018,0 points,All,Main scheme applicant,24450
+2018,1 point,All,Main scheme applicant,10405
+2018,2 points,All,Main scheme applicant,3625
+2018,3 points,All,Main scheme applicant,1025
+2018,Less than -6 points,All,Main scheme applicant,7485
+2018,More than 3 points,All,Main scheme applicant,310
+2019,-1 points,All,Main scheme applicant,27720
+2019,-2 points,All,Main scheme applicant,30460
+2019,-3 points,All,Main scheme applicant,26045
+2019,-4 points,All,Main scheme applicant,19440
+2019,-5 points,All,Main scheme applicant,13005
+2019,-6 points,All,Main scheme applicant,7990
+2019,0 points,All,Main scheme applicant,21450
+2019,1 point,All,Main scheme applicant,8615
+2019,2 points,All,Main scheme applicant,2990
+2019,3 points,All,Main scheme applicant,920
+2019,Less than -6 points,All,Main scheme applicant,10485
+2019,More than 3 points,All,Main scheme applicant,275
+2020,-1 points,All,Main scheme applicant,37915
+2020,-2 points,All,Main scheme applicant,26875
+2020,-3 points,All,Main scheme applicant,15755
+2020,-4 points,All,Main scheme applicant,7900
+2020,-5 points,All,Main scheme applicant,3760
+2020,-6 points,All,Main scheme applicant,1780
+2020,0 points,All,Main scheme applicant,43695
+2020,1 point,All,Main scheme applicant,20580
+2020,2 points,All,Main scheme applicant,6845
+2020,3 points,All,Main scheme applicant,1610
+2020,Less than -6 points,All,Main scheme applicant,1800
+2020,More than 3 points,All,Main scheme applicant,255
+2021,-1 points,All,Main scheme applicant,34190
+2021,-2 points,All,Main scheme applicant,22435
+2021,-3 points,All,Main scheme applicant,12925
+2021,-4 points,All,Main scheme applicant,6890
+2021,-5 points,All,Main scheme applicant,3425
+2021,-6 points,All,Main scheme applicant,1660
+2021,0 points,All,Main scheme applicant,48635
+2021,1 point,All,Main scheme applicant,29880
+2021,2 points,All,Main scheme applicant,14090
+2021,3 points,All,Main scheme applicant,4760
+2021,Less than -6 points,All,Main scheme applicant,1705
+2021,More than 3 points,All,Main scheme applicant,1455
+2010,-1 points,Asian,All,3785
+2010,-1 points,Black,All,1090
+2010,-1 points,Mixed,All,1240
+2010,-1 points,Other,All,335
+2010,-1 points,Unknown or Prefer Not To Say,All,245
+2010,-1 points,White,All,34035
+2010,-2 points,Asian,All,3350
+2010,-2 points,Black,All,1080
+2010,-2 points,Mixed,All,1085
+2010,-2 points,Other,All,270
+2010,-2 points,Unknown or Prefer Not To Say,All,210
+2010,-2 points,White,All,28925
+2010,-3 points,Asian,All,2275
+2010,-3 points,Black,All,830
+2010,-3 points,Mixed,All,675
+2010,-3 points,Other,All,190
+2010,-3 points,Unknown or Prefer Not To Say,All,130
+2010,-3 points,White,All,18220
+2010,-4 points,Asian,All,1270
+2010,-4 points,Black,All,545
+2010,-4 points,Mixed,All,350
+2010,-4 points,Other,All,115
+2010,-4 points,Unknown or Prefer Not To Say,All,60
+2010,-4 points,White,All,8890
+2010,-5 points,Asian,All,635
+2010,-5 points,Black,All,295
+2010,-5 points,Mixed,All,175
+2010,-5 points,Other,All,50
+2010,-5 points,Unknown or Prefer Not To Say,All,35
+2010,-5 points,White,All,4200
+2010,-6 points,Asian,All,355
+2010,-6 points,Black,All,130
+2010,-6 points,Mixed,All,90
+2010,-6 points,Other,All,30
+2010,-6 points,Unknown or Prefer Not To Say,All,15
+2010,-6 points,White,All,1895
+2010,0 points,Asian,All,3280
+2010,0 points,Black,All,865
+2010,0 points,Mixed,All,1120
+2010,0 points,Other,All,265
+2010,0 points,Unknown or Prefer Not To Say,All,230
+2010,0 points,White,All,29690
+2010,1 point,Asian,All,1480
+2010,1 point,Black,All,395
+2010,1 point,Mixed,All,515
+2010,1 point,Other,All,115
+2010,1 point,Unknown or Prefer Not To Say,All,135
+2010,1 point,White,All,14950
+2010,2 points,Asian,All,560
+2010,2 points,Black,All,150
+2010,2 points,Mixed,All,235
+2010,2 points,Other,All,35
+2010,2 points,Unknown or Prefer Not To Say,All,45
+2010,2 points,White,All,5665
+2010,3 points,Asian,All,200
+2010,3 points,Black,All,35
+2010,3 points,Mixed,All,65
+2010,3 points,Other,All,15
+2010,3 points,Unknown or Prefer Not To Say,All,25
+2010,3 points,White,All,1710
+2010,Less than -6 points,Asian,All,390
+2010,Less than -6 points,Black,All,175
+2010,Less than -6 points,Mixed,All,105
+2010,Less than -6 points,Other,All,55
+2010,Less than -6 points,Unknown or Prefer Not To Say,All,25
+2010,Less than -6 points,White,All,1915
+2010,More than 3 points,Asian,All,60
+2010,More than 3 points,Black,All,15
+2010,More than 3 points,Mixed,All,15
+2010,More than 3 points,Other,All,5
+2010,More than 3 points,Unknown or Prefer Not To Say,All,5
+2010,More than 3 points,White,All,350
+2011,-1 points,Asian,All,3800
+2011,-1 points,Black,All,1150
+2011,-1 points,Mixed,All,1400
+2011,-1 points,Other,All,350
+2011,-1 points,Unknown or Prefer Not To Say,All,255
+2011,-1 points,White,All,34375
+2011,-2 points,Asian,All,3540
+2011,-2 points,Black,All,1280
+2011,-2 points,Mixed,All,1255
+2011,-2 points,Other,All,305
+2011,-2 points,Unknown or Prefer Not To Say,All,200
+2011,-2 points,White,All,29855
+2011,-3 points,Asian,All,2510
+2011,-3 points,Black,All,935
+2011,-3 points,Mixed,All,790
+2011,-3 points,Other,All,205
+2011,-3 points,Unknown or Prefer Not To Say,All,120
+2011,-3 points,White,All,18505
+2011,-4 points,Asian,All,1500
+2011,-4 points,Black,All,580
+2011,-4 points,Mixed,All,405
+2011,-4 points,Other,All,110
+2011,-4 points,Unknown or Prefer Not To Say,All,60
+2011,-4 points,White,All,9210
+2011,-5 points,Asian,All,730
+2011,-5 points,Black,All,295
+2011,-5 points,Mixed,All,225
+2011,-5 points,Other,All,75
+2011,-5 points,Unknown or Prefer Not To Say,All,30
+2011,-5 points,White,All,4175
+2011,-6 points,Asian,All,380
+2011,-6 points,Black,All,150
+2011,-6 points,Mixed,All,95
+2011,-6 points,Other,All,35
+2011,-6 points,Unknown or Prefer Not To Say,All,10
+2011,-6 points,White,All,1795
+2011,0 points,Asian,All,3095
+2011,0 points,Black,All,910
+2011,0 points,Mixed,All,1160
+2011,0 points,Other,All,265
+2011,0 points,Unknown or Prefer Not To Say,All,210
+2011,0 points,White,All,28945
+2011,1 point,Asian,All,1400
+2011,1 point,Black,All,395
+2011,1 point,Mixed,All,560
+2011,1 point,Other,All,130
+2011,1 point,Unknown or Prefer Not To Say,All,95
+2011,1 point,White,All,13415
+2011,2 points,Asian,All,505
+2011,2 points,Black,All,145
+2011,2 points,Mixed,All,185
+2011,2 points,Other,All,40
+2011,2 points,Unknown or Prefer Not To Say,All,40
+2011,2 points,White,All,4745
+2011,3 points,Asian,All,140
+2011,3 points,Black,All,45
+2011,3 points,Mixed,All,65
+2011,3 points,Other,All,10
+2011,3 points,Unknown or Prefer Not To Say,All,10
+2011,3 points,White,All,1315
+2011,Less than -6 points,Asian,All,435
+2011,Less than -6 points,Black,All,170
+2011,Less than -6 points,Mixed,All,100
+2011,Less than -6 points,Other,All,55
+2011,Less than -6 points,Unknown or Prefer Not To Say,All,25
+2011,Less than -6 points,White,All,1745
+2011,More than 3 points,Asian,All,35
+2011,More than 3 points,Black,All,15
+2011,More than 3 points,Mixed,All,20
+2011,More than 3 points,Other,All,5
+2011,More than 3 points,White,All,285
+2012,-1 points,Asian,All,3745
+2012,-1 points,Black,All,1150
+2012,-1 points,Mixed,All,1380
+2012,-1 points,Other,All,360
+2012,-1 points,Unknown or Prefer Not To Say,All,215
+2012,-1 points,White,All,32865
+2012,-2 points,Asian,All,3535
+2012,-2 points,Black,All,1285
+2012,-2 points,Mixed,All,1245
+2012,-2 points,Other,All,345
+2012,-2 points,Unknown or Prefer Not To Say,All,195
+2012,-2 points,White,All,29965
+2012,-3 points,Asian,All,2570
+2012,-3 points,Black,All,1030
+2012,-3 points,Mixed,All,835
+2012,-3 points,Other,All,280
+2012,-3 points,Unknown or Prefer Not To Say,All,125
+2012,-3 points,White,All,19675
+2012,-4 points,Asian,All,1555
+2012,-4 points,Black,All,680
+2012,-4 points,Mixed,All,480
+2012,-4 points,Other,All,185
+2012,-4 points,Unknown or Prefer Not To Say,All,60
+2012,-4 points,White,All,9915
+2012,-5 points,Asian,All,790
+2012,-5 points,Black,All,340
+2012,-5 points,Mixed,All,235
+2012,-5 points,Other,All,85
+2012,-5 points,Unknown or Prefer Not To Say,All,30
+2012,-5 points,White,All,4470
+2012,-6 points,Asian,All,390
+2012,-6 points,Black,All,155
+2012,-6 points,Mixed,All,100
+2012,-6 points,Other,All,60
+2012,-6 points,Unknown or Prefer Not To Say,All,20
+2012,-6 points,White,All,1960
+2012,0 points,Asian,All,3030
+2012,0 points,Black,All,795
+2012,0 points,Mixed,All,1060
+2012,0 points,Other,All,265
+2012,0 points,Unknown or Prefer Not To Say,All,185
+2012,0 points,White,All,25550
+2012,1 point,Asian,All,1145
+2012,1 point,Black,All,350
+2012,1 point,Mixed,All,470
+2012,1 point,Other,All,105
+2012,1 point,Unknown or Prefer Not To Say,All,70
+2012,1 point,White,All,10475
+2012,2 points,Asian,All,415
+2012,2 points,Black,All,105
+2012,2 points,Mixed,All,150
+2012,2 points,Other,All,35
+2012,2 points,Unknown or Prefer Not To Say,All,20
+2012,2 points,White,All,3300
+2012,3 points,Asian,All,120
+2012,3 points,Black,All,30
+2012,3 points,Mixed,All,35
+2012,3 points,Other,All,10
+2012,3 points,Unknown or Prefer Not To Say,All,5
+2012,3 points,White,All,795
+2012,Less than -6 points,Asian,All,425
+2012,Less than -6 points,Black,All,210
+2012,Less than -6 points,Mixed,All,105
+2012,Less than -6 points,Other,All,60
+2012,Less than -6 points,Unknown or Prefer Not To Say,All,25
+2012,Less than -6 points,White,All,1900
+2012,More than 3 points,Asian,All,35
+2012,More than 3 points,Black,All,10
+2012,More than 3 points,Mixed,All,10
+2012,More than 3 points,Other,All,5
+2012,More than 3 points,White,All,185
+2013,-1 points,Asian,All,3820
+2013,-1 points,Black,All,1310
+2013,-1 points,Mixed,All,1510
+2013,-1 points,Other,All,375
+2013,-1 points,Unknown or Prefer Not To Say,All,165
+2013,-1 points,White,All,32275
+2013,-2 points,Asian,All,3665
+2013,-2 points,Black,All,1360
+2013,-2 points,Mixed,All,1325
+2013,-2 points,Other,All,375
+2013,-2 points,Unknown or Prefer Not To Say,All,175
+2013,-2 points,White,All,30355
+2013,-3 points,Asian,All,2805
+2013,-3 points,Black,All,1195
+2013,-3 points,Mixed,All,915
+2013,-3 points,Other,All,265
+2013,-3 points,Unknown or Prefer Not To Say,All,115
+2013,-3 points,White,All,20100
+2013,-4 points,Asian,All,1570
+2013,-4 points,Black,All,730
+2013,-4 points,Mixed,All,495
+2013,-4 points,Other,All,165
+2013,-4 points,Unknown or Prefer Not To Say,All,55
+2013,-4 points,White,All,10235
+2013,-5 points,Asian,All,785
+2013,-5 points,Black,All,400
+2013,-5 points,Mixed,All,245
+2013,-5 points,Other,All,80
+2013,-5 points,Unknown or Prefer Not To Say,All,25
+2013,-5 points,White,All,4775
+2013,-6 points,Asian,All,400
+2013,-6 points,Black,All,190
+2013,-6 points,Mixed,All,110
+2013,-6 points,Other,All,50
+2013,-6 points,Unknown or Prefer Not To Say,All,15
+2013,-6 points,White,All,2050
+2013,0 points,Asian,All,2995
+2013,0 points,Black,All,845
+2013,0 points,Mixed,All,1040
+2013,0 points,Other,All,275
+2013,0 points,Unknown or Prefer Not To Say,All,145
+2013,0 points,White,All,24160
+2013,1 point,Asian,All,1140
+2013,1 point,Black,All,370
+2013,1 point,Mixed,All,470
+2013,1 point,Other,All,115
+2013,1 point,Unknown or Prefer Not To Say,All,60
+2013,1 point,White,All,9680
+2013,2 points,Asian,All,355
+2013,2 points,Black,All,105
+2013,2 points,Mixed,All,115
+2013,2 points,Other,All,35
+2013,2 points,Unknown or Prefer Not To Say,All,20
+2013,2 points,White,All,2910
+2013,3 points,Asian,All,90
+2013,3 points,Black,All,35
+2013,3 points,Mixed,All,35
+2013,3 points,Other,All,5
+2013,3 points,Unknown or Prefer Not To Say,All,10
+2013,3 points,White,All,640
+2013,Less than -6 points,Asian,All,405
+2013,Less than -6 points,Black,All,180
+2013,Less than -6 points,Mixed,All,125
+2013,Less than -6 points,Other,All,50
+2013,Less than -6 points,Unknown or Prefer Not To Say,All,20
+2013,Less than -6 points,White,All,1970
+2013,More than 3 points,Asian,All,25
+2013,More than 3 points,Black,All,5
+2013,More than 3 points,Mixed,All,5
+2013,More than 3 points,Unknown or Prefer Not To Say,All,5
+2013,More than 3 points,White,All,155
+2014,-1 points,Asian,All,3560
+2014,-1 points,Black,All,1315
+2014,-1 points,Mixed,All,1485
+2014,-1 points,Other,All,380
+2014,-1 points,Unknown or Prefer Not To Say,All,160
+2014,-1 points,White,All,29565
+2014,-2 points,Asian,All,3790
+2014,-2 points,Black,All,1465
+2014,-2 points,Mixed,All,1395
+2014,-2 points,Other,All,395
+2014,-2 points,Unknown or Prefer Not To Say,All,175
+2014,-2 points,White,All,29070
+2014,-3 points,Asian,All,3085
+2014,-3 points,Black,All,1250
+2014,-3 points,Mixed,All,945
+2014,-3 points,Other,All,305
+2014,-3 points,Unknown or Prefer Not To Say,All,110
+2014,-3 points,White,All,20435
+2014,-4 points,Asian,All,1890
+2014,-4 points,Black,All,790
+2014,-4 points,Mixed,All,515
+2014,-4 points,Other,All,220
+2014,-4 points,Unknown or Prefer Not To Say,All,50
+2014,-4 points,White,All,11130
+2014,-5 points,Asian,All,1120
+2014,-5 points,Black,All,430
+2014,-5 points,Mixed,All,255
+2014,-5 points,Other,All,110
+2014,-5 points,Unknown or Prefer Not To Say,All,30
+2014,-5 points,White,All,5350
+2014,-6 points,Asian,All,505
+2014,-6 points,Black,All,230
+2014,-6 points,Mixed,All,150
+2014,-6 points,Other,All,65
+2014,-6 points,Unknown or Prefer Not To Say,All,10
+2014,-6 points,White,All,2385
+2014,0 points,Asian,All,2725
+2014,0 points,Black,All,725
+2014,0 points,Mixed,All,1115
+2014,0 points,Other,All,290
+2014,0 points,Unknown or Prefer Not To Say,All,150
+2014,0 points,White,All,22425
+2014,1 point,Asian,All,1000
+2014,1 point,Black,All,295
+2014,1 point,Mixed,All,430
+2014,1 point,Other,All,115
+2014,1 point,Unknown or Prefer Not To Say,All,45
+2014,1 point,White,All,9210
+2014,2 points,Asian,All,315
+2014,2 points,Black,All,115
+2014,2 points,Mixed,All,135
+2014,2 points,Other,All,35
+2014,2 points,Unknown or Prefer Not To Say,All,15
+2014,2 points,White,All,2940
+2014,3 points,Asian,All,85
+2014,3 points,Black,All,20
+2014,3 points,Mixed,All,40
+2014,3 points,Other,All,15
+2014,3 points,Unknown or Prefer Not To Say,All,5
+2014,3 points,White,All,665
+2014,Less than -6 points,Asian,All,605
+2014,Less than -6 points,Black,All,265
+2014,Less than -6 points,Mixed,All,155
+2014,Less than -6 points,Other,All,90
+2014,Less than -6 points,Unknown or Prefer Not To Say,All,20
+2014,Less than -6 points,White,All,2420
+2014,More than 3 points,Asian,All,25
+2014,More than 3 points,Black,All,10
+2014,More than 3 points,Mixed,All,5
+2014,More than 3 points,Other,All,5
+2014,More than 3 points,White,All,165
+2015,-1 points,Asian,All,3740
+2015,-1 points,Black,All,1245
+2015,-1 points,Mixed,All,1535
+2015,-1 points,Other,All,375
+2015,-1 points,Unknown or Prefer Not To Say,All,250
+2015,-1 points,White,All,30130
+2015,-2 points,Asian,All,3960
+2015,-2 points,Black,All,1435
+2015,-2 points,Mixed,All,1515
+2015,-2 points,Other,All,460
+2015,-2 points,Unknown or Prefer Not To Say,All,195
+2015,-2 points,White,All,29465
+2015,-3 points,Asian,All,3095
+2015,-3 points,Black,All,1400
+2015,-3 points,Mixed,All,1165
+2015,-3 points,Other,All,340
+2015,-3 points,Unknown or Prefer Not To Say,All,155
+2015,-3 points,White,All,20820
+2015,-4 points,Asian,All,2040
+2015,-4 points,Black,All,945
+2015,-4 points,Mixed,All,650
+2015,-4 points,Other,All,220
+2015,-4 points,Unknown or Prefer Not To Say,All,90
+2015,-4 points,White,All,11605
+2015,-5 points,Asian,All,1170
+2015,-5 points,Black,All,515
+2015,-5 points,Mixed,All,340
+2015,-5 points,Other,All,145
+2015,-5 points,Unknown or Prefer Not To Say,All,50
+2015,-5 points,White,All,5580
+2015,-6 points,Asian,All,635
+2015,-6 points,Black,All,270
+2015,-6 points,Mixed,All,170
+2015,-6 points,Other,All,75
+2015,-6 points,Unknown or Prefer Not To Say,All,25
+2015,-6 points,White,All,2580
+2015,0 points,Asian,All,2800
+2015,0 points,Black,All,765
+2015,0 points,Mixed,All,1110
+2015,0 points,Other,All,295
+2015,0 points,Unknown or Prefer Not To Say,All,200
+2015,0 points,White,All,22415
+2015,1 point,Asian,All,1025
+2015,1 point,Black,All,305
+2015,1 point,Mixed,All,430
+2015,1 point,Other,All,95
+2015,1 point,Unknown or Prefer Not To Say,All,65
+2015,1 point,White,All,9005
+2015,2 points,Asian,All,305
+2015,2 points,Black,All,100
+2015,2 points,Mixed,All,140
+2015,2 points,Other,All,30
+2015,2 points,Unknown or Prefer Not To Say,All,20
+2015,2 points,White,All,2855
+2015,3 points,Asian,All,85
+2015,3 points,Black,All,15
+2015,3 points,Mixed,All,25
+2015,3 points,Other,All,10
+2015,3 points,Unknown or Prefer Not To Say,All,5
+2015,3 points,White,All,680
+2015,Less than -6 points,Asian,All,610
+2015,Less than -6 points,Black,All,270
+2015,Less than -6 points,Mixed,All,165
+2015,Less than -6 points,Other,All,75
+2015,Less than -6 points,Unknown or Prefer Not To Say,All,40
+2015,Less than -6 points,White,All,2475
+2015,More than 3 points,Asian,All,25
+2015,More than 3 points,Black,All,5
+2015,More than 3 points,Mixed,All,15
+2015,More than 3 points,Other,All,5
+2015,More than 3 points,Unknown or Prefer Not To Say,All,5
+2015,More than 3 points,White,All,170
+2016,-1 points,Asian,All,3765
+2016,-1 points,Black,All,1225
+2016,-1 points,Mixed,All,1550
+2016,-1 points,Other,All,390
+2016,-1 points,Unknown or Prefer Not To Say,All,205
+2016,-1 points,White,All,29155
+2016,-2 points,Asian,All,4220
+2016,-2 points,Black,All,1515
+2016,-2 points,Mixed,All,1595
+2016,-2 points,Other,All,465
+2016,-2 points,Unknown or Prefer Not To Say,All,260
+2016,-2 points,White,All,29085
+2016,-3 points,Asian,All,3400
+2016,-3 points,Black,All,1365
+2016,-3 points,Mixed,All,1195
+2016,-3 points,Other,All,360
+2016,-3 points,Unknown or Prefer Not To Say,All,190
+2016,-3 points,White,All,21365
+2016,-4 points,Asian,All,2200
+2016,-4 points,Black,All,950
+2016,-4 points,Mixed,All,685
+2016,-4 points,Other,All,275
+2016,-4 points,Unknown or Prefer Not To Say,All,115
+2016,-4 points,White,All,11920
+2016,-5 points,Asian,All,1315
+2016,-5 points,Black,All,570
+2016,-5 points,Mixed,All,360
+2016,-5 points,Other,All,160
+2016,-5 points,Unknown or Prefer Not To Say,All,45
+2016,-5 points,White,All,6105
+2016,-6 points,Asian,All,660
+2016,-6 points,Black,All,285
+2016,-6 points,Mixed,All,200
+2016,-6 points,Other,All,75
+2016,-6 points,Unknown or Prefer Not To Say,All,30
+2016,-6 points,White,All,2845
+2016,0 points,Asian,All,2825
+2016,0 points,Black,All,810
+2016,0 points,Mixed,All,1160
+2016,0 points,Other,All,255
+2016,0 points,Unknown or Prefer Not To Say,All,170
+2016,0 points,White,All,21120
+2016,1 point,Asian,All,985
+2016,1 point,Black,All,295
+2016,1 point,Mixed,All,440
+2016,1 point,Other,All,105
+2016,1 point,Unknown or Prefer Not To Say,All,70
+2016,1 point,White,All,8135
+2016,2 points,Asian,All,315
+2016,2 points,Black,All,120
+2016,2 points,Mixed,All,135
+2016,2 points,Other,All,40
+2016,2 points,Unknown or Prefer Not To Say,All,25
+2016,2 points,White,All,2565
+2016,3 points,Asian,All,115
+2016,3 points,Black,All,30
+2016,3 points,Mixed,All,30
+2016,3 points,Other,All,10
+2016,3 points,Unknown or Prefer Not To Say,All,5
+2016,3 points,White,All,640
+2016,Less than -6 points,Asian,All,650
+2016,Less than -6 points,Black,All,285
+2016,Less than -6 points,Mixed,All,205
+2016,Less than -6 points,Other,All,90
+2016,Less than -6 points,Unknown or Prefer Not To Say,All,40
+2016,Less than -6 points,White,All,2695
+2016,More than 3 points,Asian,All,40
+2016,More than 3 points,Black,All,5
+2016,More than 3 points,Mixed,All,5
+2016,More than 3 points,Other,All,5
+2016,More than 3 points,Unknown or Prefer Not To Say,All,5
+2016,More than 3 points,White,All,140
+2017,-1 points,Asian,All,3755
+2017,-1 points,Black,All,1185
+2017,-1 points,Mixed,All,1530
+2017,-1 points,Other,All,415
+2017,-1 points,Unknown or Prefer Not To Say,All,220
+2017,-1 points,White,All,26515
+2017,-2 points,Asian,All,3980
+2017,-2 points,Black,All,1455
+2017,-2 points,Mixed,All,1500
+2017,-2 points,Other,All,475
+2017,-2 points,Unknown or Prefer Not To Say,All,210
+2017,-2 points,White,All,26390
+2017,-3 points,Asian,All,3370
+2017,-3 points,Black,All,1295
+2017,-3 points,Mixed,All,1255
+2017,-3 points,Other,All,425
+2017,-3 points,Unknown or Prefer Not To Say,All,160
+2017,-3 points,White,All,20410
+2017,-4 points,Asian,All,2395
+2017,-4 points,Black,All,980
+2017,-4 points,Mixed,All,785
+2017,-4 points,Other,All,315
+2017,-4 points,Unknown or Prefer Not To Say,All,110
+2017,-4 points,White,All,12740
+2017,-5 points,Asian,All,1530
+2017,-5 points,Black,All,675
+2017,-5 points,Mixed,All,475
+2017,-5 points,Other,All,175
+2017,-5 points,Unknown or Prefer Not To Say,All,65
+2017,-5 points,White,All,7175
+2017,-6 points,Asian,All,925
+2017,-6 points,Black,All,385
+2017,-6 points,Mixed,All,300
+2017,-6 points,Other,All,120
+2017,-6 points,Unknown or Prefer Not To Say,All,30
+2017,-6 points,White,All,3795
+2017,0 points,Asian,All,2915
+2017,0 points,Black,All,780
+2017,0 points,Mixed,All,1165
+2017,0 points,Other,All,270
+2017,0 points,Unknown or Prefer Not To Say,All,195
+2017,0 points,White,All,20675
+2017,1 point,Asian,All,1205
+2017,1 point,Black,All,360
+2017,1 point,Mixed,All,520
+2017,1 point,Other,All,125
+2017,1 point,Unknown or Prefer Not To Say,All,55
+2017,1 point,White,All,9085
+2017,2 points,Asian,All,435
+2017,2 points,Black,All,130
+2017,2 points,Mixed,All,195
+2017,2 points,Other,All,55
+2017,2 points,Unknown or Prefer Not To Say,All,20
+2017,2 points,White,All,3195
+2017,3 points,Asian,All,135
+2017,3 points,Black,All,40
+2017,3 points,Mixed,All,50
+2017,3 points,Other,All,15
+2017,3 points,Unknown or Prefer Not To Say,All,10
+2017,3 points,White,All,850
+2017,Less than -6 points,Asian,All,1150
+2017,Less than -6 points,Black,All,500
+2017,Less than -6 points,Mixed,All,335
+2017,Less than -6 points,Other,All,155
+2017,Less than -6 points,Unknown or Prefer Not To Say,All,45
+2017,Less than -6 points,White,All,3790
+2017,More than 3 points,Asian,All,55
+2017,More than 3 points,Black,All,15
+2017,More than 3 points,Mixed,All,25
+2017,More than 3 points,Other,All,5
+2017,More than 3 points,Unknown or Prefer Not To Say,All,5
+2017,More than 3 points,White,All,250
+2018,-1 points,Asian,All,3805
+2018,-1 points,Black,All,1130
+2018,-1 points,Mixed,All,1445
+2018,-1 points,Other,All,410
+2018,-1 points,Unknown or Prefer Not To Say,All,225
+2018,-1 points,White,All,24275
+2018,-2 points,Asian,All,3935
+2018,-2 points,Black,All,1415
+2018,-2 points,Mixed,All,1505
+2018,-2 points,Other,All,485
+2018,-2 points,Unknown or Prefer Not To Say,All,215
+2018,-2 points,White,All,24000
+2018,-3 points,Asian,All,3575
+2018,-3 points,Black,All,1345
+2018,-3 points,Mixed,All,1265
+2018,-3 points,Other,All,435
+2018,-3 points,Unknown or Prefer Not To Say,All,170
+2018,-3 points,White,All,19465
+2018,-4 points,Asian,All,2745
+2018,-4 points,Black,All,1155
+2018,-4 points,Mixed,All,875
+2018,-4 points,Other,All,300
+2018,-4 points,Unknown or Prefer Not To Say,All,135
+2018,-4 points,White,All,12440
+2018,-5 points,Asian,All,1925
+2018,-5 points,Black,All,770
+2018,-5 points,Mixed,All,535
+2018,-5 points,Other,All,240
+2018,-5 points,Unknown or Prefer Not To Say,All,75
+2018,-5 points,White,All,7475
+2018,-6 points,Asian,All,1215
+2018,-6 points,Black,All,515
+2018,-6 points,Mixed,All,335
+2018,-6 points,Other,All,155
+2018,-6 points,Unknown or Prefer Not To Say,All,35
+2018,-6 points,White,All,4025
+2018,0 points,Asian,All,2855
+2018,0 points,Black,All,745
+2018,0 points,Mixed,All,1090
+2018,0 points,Other,All,285
+2018,0 points,Unknown or Prefer Not To Say,All,205
+2018,0 points,White,All,19270
+2018,1 point,Asian,All,1075
+2018,1 point,Black,All,315
+2018,1 point,Mixed,All,470
+2018,1 point,Other,All,120
+2018,1 point,Unknown or Prefer Not To Say,All,90
+2018,1 point,White,All,8330
+2018,2 points,Asian,All,390
+2018,2 points,Black,All,115
+2018,2 points,Mixed,All,185
+2018,2 points,Other,All,45
+2018,2 points,Unknown or Prefer Not To Say,All,20
+2018,2 points,White,All,2875
+2018,3 points,Asian,All,110
+2018,3 points,Black,All,40
+2018,3 points,Mixed,All,50
+2018,3 points,Other,All,20
+2018,3 points,Unknown or Prefer Not To Say,All,5
+2018,3 points,White,All,800
+2018,Less than -6 points,Asian,All,1655
+2018,Less than -6 points,Black,All,710
+2018,Less than -6 points,Mixed,All,405
+2018,Less than -6 points,Other,All,230
+2018,Less than -6 points,Unknown or Prefer Not To Say,All,60
+2018,Less than -6 points,White,All,4415
+2018,More than 3 points,Asian,All,40
+2018,More than 3 points,Black,All,15
+2018,More than 3 points,Mixed,All,20
+2018,More than 3 points,Unknown or Prefer Not To Say,All,5
+2018,More than 3 points,White,All,230
+2019,-1 points,Asian,All,3555
+2019,-1 points,Black,All,1110
+2019,-1 points,Mixed,All,1420
+2019,-1 points,Other,All,415
+2019,-1 points,Unknown or Prefer Not To Say,All,195
+2019,-1 points,White,All,21035
+2019,-2 points,Asian,All,4135
+2019,-2 points,Black,All,1420
+2019,-2 points,Mixed,All,1515
+2019,-2 points,Other,All,495
+2019,-2 points,Unknown or Prefer Not To Say,All,225
+2019,-2 points,White,All,22675
+2019,-3 points,Asian,All,3855
+2019,-3 points,Black,All,1455
+2019,-3 points,Mixed,All,1280
+2019,-3 points,Other,All,475
+2019,-3 points,Unknown or Prefer Not To Say,All,175
+2019,-3 points,White,All,18810
+2019,-4 points,Asian,All,3230
+2019,-4 points,Black,All,1265
+2019,-4 points,Mixed,All,1025
+2019,-4 points,Other,All,415
+2019,-4 points,Unknown or Prefer Not To Say,All,125
+2019,-4 points,White,All,13380
+2019,-5 points,Asian,All,2350
+2019,-5 points,Black,All,955
+2019,-5 points,Mixed,All,695
+2019,-5 points,Other,All,285
+2019,-5 points,Unknown or Prefer Not To Say,All,80
+2019,-5 points,White,All,8640
+2019,-6 points,Asian,All,1685
+2019,-6 points,Black,All,665
+2019,-6 points,Mixed,All,460
+2019,-6 points,Other,All,210
+2019,-6 points,Unknown or Prefer Not To Say,All,70
+2019,-6 points,White,All,4895
+2019,0 points,Asian,All,2640
+2019,0 points,Black,All,735
+2019,0 points,Mixed,All,1105
+2019,0 points,Other,All,320
+2019,0 points,Unknown or Prefer Not To Say,All,185
+2019,0 points,White,All,16465
+2019,1 point,Asian,All,935
+2019,1 point,Black,All,280
+2019,1 point,Mixed,All,400
+2019,1 point,Other,All,135
+2019,1 point,Unknown or Prefer Not To Say,All,55
+2019,1 point,White,All,6815
+2019,2 points,Asian,All,330
+2019,2 points,Black,All,100
+2019,2 points,Mixed,All,140
+2019,2 points,Other,All,35
+2019,2 points,Unknown or Prefer Not To Say,All,25
+2019,2 points,White,All,2360
+2019,3 points,Asian,All,100
+2019,3 points,Black,All,40
+2019,3 points,Mixed,All,40
+2019,3 points,Other,All,15
+2019,3 points,Unknown or Prefer Not To Say,All,15
+2019,3 points,White,All,710
+2019,Less than -6 points,Asian,All,2710
+2019,Less than -6 points,Black,All,1110
+2019,Less than -6 points,Mixed,All,595
+2019,Less than -6 points,Other,All,355
+2019,Less than -6 points,Unknown or Prefer Not To Say,All,100
+2019,Less than -6 points,White,All,5620
+2019,More than 3 points,Asian,All,45
+2019,More than 3 points,Black,All,5
+2019,More than 3 points,Mixed,All,25
+2019,More than 3 points,Other,All,5
+2019,More than 3 points,Unknown or Prefer Not To Say,All,5
+2019,More than 3 points,White,All,190
+2020,-1 points,Asian,All,5695
+2020,-1 points,Black,All,1965
+2020,-1 points,Mixed,All,2110
+2020,-1 points,Other,All,710
+2020,-1 points,Unknown or Prefer Not To Say,All,290
+2020,-1 points,White,All,27150
+2020,-2 points,Asian,All,4890
+2020,-2 points,Black,All,1725
+2020,-2 points,Mixed,All,1500
+2020,-2 points,Other,All,585
+2020,-2 points,Unknown or Prefer Not To Say,All,190
+2020,-2 points,White,All,17990
+2020,-3 points,Asian,All,3410
+2020,-3 points,Black,All,1285
+2020,-3 points,Mixed,All,895
+2020,-3 points,Other,All,415
+2020,-3 points,Unknown or Prefer Not To Say,All,115
+2020,-3 points,White,All,9640
+2020,-4 points,Asian,All,1895
+2020,-4 points,Black,All,815
+2020,-4 points,Mixed,All,465
+2020,-4 points,Other,All,280
+2020,-4 points,Unknown or Prefer Not To Say,All,50
+2020,-4 points,White,All,4390
+2020,-5 points,Asian,All,1055
+2020,-5 points,Black,All,440
+2020,-5 points,Mixed,All,210
+2020,-5 points,Other,All,130
+2020,-5 points,Unknown or Prefer Not To Say,All,45
+2020,-5 points,White,All,1875
+2020,-6 points,Asian,All,530
+2020,-6 points,Black,All,190
+2020,-6 points,Mixed,All,95
+2020,-6 points,Other,All,90
+2020,-6 points,Unknown or Prefer Not To Say,All,20
+2020,-6 points,White,All,850
+2020,0 points,Asian,All,5995
+2020,0 points,Black,All,1755
+2020,0 points,Mixed,All,2395
+2020,0 points,Other,All,670
+2020,0 points,Unknown or Prefer Not To Say,All,380
+2020,0 points,White,All,32495
+2020,1 point,Asian,All,2405
+2020,1 point,Black,All,790
+2020,1 point,Mixed,All,975
+2020,1 point,Other,All,280
+2020,1 point,Unknown or Prefer Not To Say,All,155
+2020,1 point,White,All,15985
+2020,2 points,Asian,All,815
+2020,2 points,Black,All,255
+2020,2 points,Mixed,All,285
+2020,2 points,Other,All,100
+2020,2 points,Unknown or Prefer Not To Say,All,50
+2020,2 points,White,All,5335
+2020,3 points,Asian,All,210
+2020,3 points,Black,All,60
+2020,3 points,Mixed,All,70
+2020,3 points,Other,All,35
+2020,3 points,Unknown or Prefer Not To Say,All,5
+2020,3 points,White,All,1230
+2020,Less than -6 points,Asian,All,490
+2020,Less than -6 points,Black,All,245
+2020,Less than -6 points,Mixed,All,120
+2020,Less than -6 points,Other,All,70
+2020,Less than -6 points,Unknown or Prefer Not To Say,All,20
+2020,Less than -6 points,White,All,850
+2020,More than 3 points,Asian,All,50
+2020,More than 3 points,Black,All,10
+2020,More than 3 points,Mixed,All,15
+2020,More than 3 points,Other,All,5
+2020,More than 3 points,Unknown or Prefer Not To Say,All,5
+2020,More than 3 points,White,All,175
+2021,-1 points,Asian,All,5650
+2021,-1 points,Black,All,2075
+2021,-1 points,Mixed,All,2000
+2021,-1 points,Other,All,710
+2021,-1 points,Unknown or Prefer Not To Say,All,280
+2021,-1 points,White,All,23475
+2021,-2 points,Asian,All,4240
+2021,-2 points,Black,All,1605
+2021,-2 points,Mixed,All,1285
+2021,-2 points,Other,All,565
+2021,-2 points,Unknown or Prefer Not To Say,All,135
+2021,-2 points,White,All,14605
+2021,-3 points,Asian,All,2770
+2021,-3 points,Black,All,1125
+2021,-3 points,Mixed,All,765
+2021,-3 points,Other,All,330
+2021,-3 points,Unknown or Prefer Not To Say,All,95
+2021,-3 points,White,All,7840
+2021,-4 points,Asian,All,1620
+2021,-4 points,Black,All,705
+2021,-4 points,Mixed,All,400
+2021,-4 points,Other,All,225
+2021,-4 points,Unknown or Prefer Not To Say,All,55
+2021,-4 points,White,All,3885
+2021,-5 points,Asian,All,880
+2021,-5 points,Black,All,355
+2021,-5 points,Mixed,All,210
+2021,-5 points,Other,All,120
+2021,-5 points,Unknown or Prefer Not To Say,All,35
+2021,-5 points,White,All,1825
+2021,-6 points,Asian,All,480
+2021,-6 points,Black,All,210
+2021,-6 points,Mixed,All,105
+2021,-6 points,Other,All,50
+2021,-6 points,Unknown or Prefer Not To Say,All,15
+2021,-6 points,White,All,805
+2021,0 points,Asian,All,7470
+2021,0 points,Black,All,2125
+2021,0 points,Mixed,All,2780
+2021,0 points,Other,All,860
+2021,0 points,Unknown or Prefer Not To Say,All,470
+2021,0 points,White,All,34935
+2021,1 point,Asian,All,3945
+2021,1 point,Black,All,1335
+2021,1 point,Mixed,All,1645
+2021,1 point,Other,All,515
+2021,1 point,Unknown or Prefer Not To Say,All,225
+2021,1 point,White,All,22215
+2021,2 points,Asian,All,1975
+2021,2 points,Black,All,575
+2021,2 points,Mixed,All,720
+2021,2 points,Other,All,215
+2021,2 points,Unknown or Prefer Not To Say,All,105
+2021,2 points,White,All,10505
+2021,3 points,Asian,All,695
+2021,3 points,Black,All,195
+2021,3 points,Mixed,All,235
+2021,3 points,Other,All,95
+2021,3 points,Unknown or Prefer Not To Say,All,40
+2021,3 points,White,All,3500
+2021,Less than -6 points,Asian,All,505
+2021,Less than -6 points,Black,All,220
+2021,Less than -6 points,Mixed,All,105
+2021,Less than -6 points,Other,All,80
+2021,Less than -6 points,Unknown or Prefer Not To Say,All,20
+2021,Less than -6 points,White,All,775
+2021,More than 3 points,Asian,All,265
+2021,More than 3 points,Black,All,80
+2021,More than 3 points,Mixed,All,75
+2021,More than 3 points,Other,All,45
+2021,More than 3 points,Unknown or Prefer Not To Say,All,15
+2021,More than 3 points,White,All,970
+2010,-1 points,Asian,Main scheme applicant,3785
+2010,-1 points,Black,Main scheme applicant,1090
+2010,-1 points,Mixed,Main scheme applicant,1240
+2010,-1 points,Other,Main scheme applicant,335
+2010,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,245
+2010,-1 points,White,Main scheme applicant,34035
+2010,-2 points,Asian,Main scheme applicant,3350
+2010,-2 points,Black,Main scheme applicant,1080
+2010,-2 points,Mixed,Main scheme applicant,1085
+2010,-2 points,Other,Main scheme applicant,270
+2010,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,210
+2010,-2 points,White,Main scheme applicant,28925
+2010,-3 points,Asian,Main scheme applicant,2275
+2010,-3 points,Black,Main scheme applicant,830
+2010,-3 points,Mixed,Main scheme applicant,675
+2010,-3 points,Other,Main scheme applicant,190
+2010,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,130
+2010,-3 points,White,Main scheme applicant,18220
+2010,-4 points,Asian,Main scheme applicant,1270
+2010,-4 points,Black,Main scheme applicant,545
+2010,-4 points,Mixed,Main scheme applicant,350
+2010,-4 points,Other,Main scheme applicant,115
+2010,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,60
+2010,-4 points,White,Main scheme applicant,8890
+2010,-5 points,Asian,Main scheme applicant,635
+2010,-5 points,Black,Main scheme applicant,295
+2010,-5 points,Mixed,Main scheme applicant,175
+2010,-5 points,Other,Main scheme applicant,50
+2010,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,35
+2010,-5 points,White,Main scheme applicant,4200
+2010,-6 points,Asian,Main scheme applicant,355
+2010,-6 points,Black,Main scheme applicant,130
+2010,-6 points,Mixed,Main scheme applicant,90
+2010,-6 points,Other,Main scheme applicant,30
+2010,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2010,-6 points,White,Main scheme applicant,1895
+2010,0 points,Asian,Main scheme applicant,3280
+2010,0 points,Black,Main scheme applicant,865
+2010,0 points,Mixed,Main scheme applicant,1120
+2010,0 points,Other,Main scheme applicant,265
+2010,0 points,Unknown or Prefer Not To Say,Main scheme applicant,230
+2010,0 points,White,Main scheme applicant,29690
+2010,1 point,Asian,Main scheme applicant,1480
+2010,1 point,Black,Main scheme applicant,395
+2010,1 point,Mixed,Main scheme applicant,515
+2010,1 point,Other,Main scheme applicant,115
+2010,1 point,Unknown or Prefer Not To Say,Main scheme applicant,135
+2010,1 point,White,Main scheme applicant,14950
+2010,2 points,Asian,Main scheme applicant,560
+2010,2 points,Black,Main scheme applicant,150
+2010,2 points,Mixed,Main scheme applicant,235
+2010,2 points,Other,Main scheme applicant,35
+2010,2 points,Unknown or Prefer Not To Say,Main scheme applicant,45
+2010,2 points,White,Main scheme applicant,5665
+2010,3 points,Asian,Main scheme applicant,200
+2010,3 points,Black,Main scheme applicant,35
+2010,3 points,Mixed,Main scheme applicant,65
+2010,3 points,Other,Main scheme applicant,15
+2010,3 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2010,3 points,White,Main scheme applicant,1710
+2010,Less than -6 points,Asian,Main scheme applicant,390
+2010,Less than -6 points,Black,Main scheme applicant,175
+2010,Less than -6 points,Mixed,Main scheme applicant,105
+2010,Less than -6 points,Other,Main scheme applicant,55
+2010,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2010,Less than -6 points,White,Main scheme applicant,1915
+2010,More than 3 points,Asian,Main scheme applicant,60
+2010,More than 3 points,Black,Main scheme applicant,15
+2010,More than 3 points,Mixed,Main scheme applicant,15
+2010,More than 3 points,Other,Main scheme applicant,5
+2010,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2010,More than 3 points,White,Main scheme applicant,350
+2011,-1 points,Asian,Main scheme applicant,3800
+2011,-1 points,Black,Main scheme applicant,1150
+2011,-1 points,Mixed,Main scheme applicant,1400
+2011,-1 points,Other,Main scheme applicant,350
+2011,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,255
+2011,-1 points,White,Main scheme applicant,34375
+2011,-2 points,Asian,Main scheme applicant,3540
+2011,-2 points,Black,Main scheme applicant,1280
+2011,-2 points,Mixed,Main scheme applicant,1255
+2011,-2 points,Other,Main scheme applicant,305
+2011,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,200
+2011,-2 points,White,Main scheme applicant,29855
+2011,-3 points,Asian,Main scheme applicant,2510
+2011,-3 points,Black,Main scheme applicant,935
+2011,-3 points,Mixed,Main scheme applicant,790
+2011,-3 points,Other,Main scheme applicant,205
+2011,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,120
+2011,-3 points,White,Main scheme applicant,18505
+2011,-4 points,Asian,Main scheme applicant,1500
+2011,-4 points,Black,Main scheme applicant,580
+2011,-4 points,Mixed,Main scheme applicant,405
+2011,-4 points,Other,Main scheme applicant,110
+2011,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,60
+2011,-4 points,White,Main scheme applicant,9210
+2011,-5 points,Asian,Main scheme applicant,730
+2011,-5 points,Black,Main scheme applicant,295
+2011,-5 points,Mixed,Main scheme applicant,225
+2011,-5 points,Other,Main scheme applicant,75
+2011,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,30
+2011,-5 points,White,Main scheme applicant,4175
+2011,-6 points,Asian,Main scheme applicant,380
+2011,-6 points,Black,Main scheme applicant,150
+2011,-6 points,Mixed,Main scheme applicant,95
+2011,-6 points,Other,Main scheme applicant,35
+2011,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2011,-6 points,White,Main scheme applicant,1795
+2011,0 points,Asian,Main scheme applicant,3095
+2011,0 points,Black,Main scheme applicant,910
+2011,0 points,Mixed,Main scheme applicant,1160
+2011,0 points,Other,Main scheme applicant,265
+2011,0 points,Unknown or Prefer Not To Say,Main scheme applicant,210
+2011,0 points,White,Main scheme applicant,28945
+2011,1 point,Asian,Main scheme applicant,1400
+2011,1 point,Black,Main scheme applicant,395
+2011,1 point,Mixed,Main scheme applicant,560
+2011,1 point,Other,Main scheme applicant,130
+2011,1 point,Unknown or Prefer Not To Say,Main scheme applicant,95
+2011,1 point,White,Main scheme applicant,13415
+2011,2 points,Asian,Main scheme applicant,505
+2011,2 points,Black,Main scheme applicant,145
+2011,2 points,Mixed,Main scheme applicant,185
+2011,2 points,Other,Main scheme applicant,40
+2011,2 points,Unknown or Prefer Not To Say,Main scheme applicant,40
+2011,2 points,White,Main scheme applicant,4745
+2011,3 points,Asian,Main scheme applicant,140
+2011,3 points,Black,Main scheme applicant,45
+2011,3 points,Mixed,Main scheme applicant,65
+2011,3 points,Other,Main scheme applicant,10
+2011,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2011,3 points,White,Main scheme applicant,1315
+2011,Less than -6 points,Asian,Main scheme applicant,435
+2011,Less than -6 points,Black,Main scheme applicant,170
+2011,Less than -6 points,Mixed,Main scheme applicant,100
+2011,Less than -6 points,Other,Main scheme applicant,55
+2011,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2011,Less than -6 points,White,Main scheme applicant,1745
+2011,More than 3 points,Asian,Main scheme applicant,35
+2011,More than 3 points,Black,Main scheme applicant,15
+2011,More than 3 points,Mixed,Main scheme applicant,20
+2011,More than 3 points,Other,Main scheme applicant,5
+2011,More than 3 points,White,Main scheme applicant,285
+2012,-1 points,Asian,Main scheme applicant,3745
+2012,-1 points,Black,Main scheme applicant,1150
+2012,-1 points,Mixed,Main scheme applicant,1380
+2012,-1 points,Other,Main scheme applicant,360
+2012,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,215
+2012,-1 points,White,Main scheme applicant,32865
+2012,-2 points,Asian,Main scheme applicant,3535
+2012,-2 points,Black,Main scheme applicant,1285
+2012,-2 points,Mixed,Main scheme applicant,1245
+2012,-2 points,Other,Main scheme applicant,345
+2012,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,195
+2012,-2 points,White,Main scheme applicant,29965
+2012,-3 points,Asian,Main scheme applicant,2570
+2012,-3 points,Black,Main scheme applicant,1030
+2012,-3 points,Mixed,Main scheme applicant,835
+2012,-3 points,Other,Main scheme applicant,280
+2012,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,125
+2012,-3 points,White,Main scheme applicant,19675
+2012,-4 points,Asian,Main scheme applicant,1555
+2012,-4 points,Black,Main scheme applicant,680
+2012,-4 points,Mixed,Main scheme applicant,480
+2012,-4 points,Other,Main scheme applicant,185
+2012,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,60
+2012,-4 points,White,Main scheme applicant,9915
+2012,-5 points,Asian,Main scheme applicant,790
+2012,-5 points,Black,Main scheme applicant,340
+2012,-5 points,Mixed,Main scheme applicant,235
+2012,-5 points,Other,Main scheme applicant,85
+2012,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,30
+2012,-5 points,White,Main scheme applicant,4470
+2012,-6 points,Asian,Main scheme applicant,390
+2012,-6 points,Black,Main scheme applicant,155
+2012,-6 points,Mixed,Main scheme applicant,100
+2012,-6 points,Other,Main scheme applicant,60
+2012,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2012,-6 points,White,Main scheme applicant,1960
+2012,0 points,Asian,Main scheme applicant,3030
+2012,0 points,Black,Main scheme applicant,795
+2012,0 points,Mixed,Main scheme applicant,1060
+2012,0 points,Other,Main scheme applicant,265
+2012,0 points,Unknown or Prefer Not To Say,Main scheme applicant,185
+2012,0 points,White,Main scheme applicant,25550
+2012,1 point,Asian,Main scheme applicant,1145
+2012,1 point,Black,Main scheme applicant,350
+2012,1 point,Mixed,Main scheme applicant,470
+2012,1 point,Other,Main scheme applicant,105
+2012,1 point,Unknown or Prefer Not To Say,Main scheme applicant,70
+2012,1 point,White,Main scheme applicant,10475
+2012,2 points,Asian,Main scheme applicant,415
+2012,2 points,Black,Main scheme applicant,105
+2012,2 points,Mixed,Main scheme applicant,150
+2012,2 points,Other,Main scheme applicant,35
+2012,2 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2012,2 points,White,Main scheme applicant,3300
+2012,3 points,Asian,Main scheme applicant,120
+2012,3 points,Black,Main scheme applicant,30
+2012,3 points,Mixed,Main scheme applicant,35
+2012,3 points,Other,Main scheme applicant,10
+2012,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2012,3 points,White,Main scheme applicant,795
+2012,Less than -6 points,Asian,Main scheme applicant,425
+2012,Less than -6 points,Black,Main scheme applicant,210
+2012,Less than -6 points,Mixed,Main scheme applicant,105
+2012,Less than -6 points,Other,Main scheme applicant,60
+2012,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2012,Less than -6 points,White,Main scheme applicant,1900
+2012,More than 3 points,Asian,Main scheme applicant,35
+2012,More than 3 points,Black,Main scheme applicant,10
+2012,More than 3 points,Mixed,Main scheme applicant,10
+2012,More than 3 points,Other,Main scheme applicant,5
+2012,More than 3 points,White,Main scheme applicant,185
+2013,-1 points,Asian,Main scheme applicant,3820
+2013,-1 points,Black,Main scheme applicant,1310
+2013,-1 points,Mixed,Main scheme applicant,1510
+2013,-1 points,Other,Main scheme applicant,375
+2013,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,165
+2013,-1 points,White,Main scheme applicant,32275
+2013,-2 points,Asian,Main scheme applicant,3665
+2013,-2 points,Black,Main scheme applicant,1360
+2013,-2 points,Mixed,Main scheme applicant,1325
+2013,-2 points,Other,Main scheme applicant,375
+2013,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,175
+2013,-2 points,White,Main scheme applicant,30355
+2013,-3 points,Asian,Main scheme applicant,2805
+2013,-3 points,Black,Main scheme applicant,1195
+2013,-3 points,Mixed,Main scheme applicant,915
+2013,-3 points,Other,Main scheme applicant,265
+2013,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,115
+2013,-3 points,White,Main scheme applicant,20100
+2013,-4 points,Asian,Main scheme applicant,1570
+2013,-4 points,Black,Main scheme applicant,730
+2013,-4 points,Mixed,Main scheme applicant,495
+2013,-4 points,Other,Main scheme applicant,165
+2013,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,55
+2013,-4 points,White,Main scheme applicant,10235
+2013,-5 points,Asian,Main scheme applicant,785
+2013,-5 points,Black,Main scheme applicant,400
+2013,-5 points,Mixed,Main scheme applicant,245
+2013,-5 points,Other,Main scheme applicant,80
+2013,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2013,-5 points,White,Main scheme applicant,4775
+2013,-6 points,Asian,Main scheme applicant,400
+2013,-6 points,Black,Main scheme applicant,190
+2013,-6 points,Mixed,Main scheme applicant,110
+2013,-6 points,Other,Main scheme applicant,50
+2013,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2013,-6 points,White,Main scheme applicant,2050
+2013,0 points,Asian,Main scheme applicant,2995
+2013,0 points,Black,Main scheme applicant,845
+2013,0 points,Mixed,Main scheme applicant,1040
+2013,0 points,Other,Main scheme applicant,275
+2013,0 points,Unknown or Prefer Not To Say,Main scheme applicant,145
+2013,0 points,White,Main scheme applicant,24160
+2013,1 point,Asian,Main scheme applicant,1140
+2013,1 point,Black,Main scheme applicant,370
+2013,1 point,Mixed,Main scheme applicant,470
+2013,1 point,Other,Main scheme applicant,115
+2013,1 point,Unknown or Prefer Not To Say,Main scheme applicant,60
+2013,1 point,White,Main scheme applicant,9680
+2013,2 points,Asian,Main scheme applicant,355
+2013,2 points,Black,Main scheme applicant,105
+2013,2 points,Mixed,Main scheme applicant,115
+2013,2 points,Other,Main scheme applicant,35
+2013,2 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2013,2 points,White,Main scheme applicant,2910
+2013,3 points,Asian,Main scheme applicant,90
+2013,3 points,Black,Main scheme applicant,35
+2013,3 points,Mixed,Main scheme applicant,35
+2013,3 points,Other,Main scheme applicant,5
+2013,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2013,3 points,White,Main scheme applicant,640
+2013,Less than -6 points,Asian,Main scheme applicant,405
+2013,Less than -6 points,Black,Main scheme applicant,180
+2013,Less than -6 points,Mixed,Main scheme applicant,125
+2013,Less than -6 points,Other,Main scheme applicant,50
+2013,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2013,Less than -6 points,White,Main scheme applicant,1970
+2013,More than 3 points,Asian,Main scheme applicant,25
+2013,More than 3 points,Black,Main scheme applicant,5
+2013,More than 3 points,Mixed,Main scheme applicant,5
+2013,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2013,More than 3 points,White,Main scheme applicant,155
+2014,-1 points,Asian,Main scheme applicant,3560
+2014,-1 points,Black,Main scheme applicant,1315
+2014,-1 points,Mixed,Main scheme applicant,1485
+2014,-1 points,Other,Main scheme applicant,380
+2014,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,160
+2014,-1 points,White,Main scheme applicant,29565
+2014,-2 points,Asian,Main scheme applicant,3790
+2014,-2 points,Black,Main scheme applicant,1465
+2014,-2 points,Mixed,Main scheme applicant,1395
+2014,-2 points,Other,Main scheme applicant,395
+2014,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,175
+2014,-2 points,White,Main scheme applicant,29070
+2014,-3 points,Asian,Main scheme applicant,3085
+2014,-3 points,Black,Main scheme applicant,1250
+2014,-3 points,Mixed,Main scheme applicant,945
+2014,-3 points,Other,Main scheme applicant,305
+2014,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,110
+2014,-3 points,White,Main scheme applicant,20435
+2014,-4 points,Asian,Main scheme applicant,1890
+2014,-4 points,Black,Main scheme applicant,790
+2014,-4 points,Mixed,Main scheme applicant,515
+2014,-4 points,Other,Main scheme applicant,220
+2014,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,50
+2014,-4 points,White,Main scheme applicant,11130
+2014,-5 points,Asian,Main scheme applicant,1120
+2014,-5 points,Black,Main scheme applicant,430
+2014,-5 points,Mixed,Main scheme applicant,255
+2014,-5 points,Other,Main scheme applicant,110
+2014,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,30
+2014,-5 points,White,Main scheme applicant,5350
+2014,-6 points,Asian,Main scheme applicant,505
+2014,-6 points,Black,Main scheme applicant,230
+2014,-6 points,Mixed,Main scheme applicant,150
+2014,-6 points,Other,Main scheme applicant,65
+2014,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2014,-6 points,White,Main scheme applicant,2385
+2014,0 points,Asian,Main scheme applicant,2725
+2014,0 points,Black,Main scheme applicant,725
+2014,0 points,Mixed,Main scheme applicant,1115
+2014,0 points,Other,Main scheme applicant,290
+2014,0 points,Unknown or Prefer Not To Say,Main scheme applicant,150
+2014,0 points,White,Main scheme applicant,22425
+2014,1 point,Asian,Main scheme applicant,1000
+2014,1 point,Black,Main scheme applicant,295
+2014,1 point,Mixed,Main scheme applicant,430
+2014,1 point,Other,Main scheme applicant,115
+2014,1 point,Unknown or Prefer Not To Say,Main scheme applicant,45
+2014,1 point,White,Main scheme applicant,9210
+2014,2 points,Asian,Main scheme applicant,315
+2014,2 points,Black,Main scheme applicant,115
+2014,2 points,Mixed,Main scheme applicant,135
+2014,2 points,Other,Main scheme applicant,35
+2014,2 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2014,2 points,White,Main scheme applicant,2940
+2014,3 points,Asian,Main scheme applicant,85
+2014,3 points,Black,Main scheme applicant,20
+2014,3 points,Mixed,Main scheme applicant,40
+2014,3 points,Other,Main scheme applicant,15
+2014,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2014,3 points,White,Main scheme applicant,665
+2014,Less than -6 points,Asian,Main scheme applicant,605
+2014,Less than -6 points,Black,Main scheme applicant,265
+2014,Less than -6 points,Mixed,Main scheme applicant,155
+2014,Less than -6 points,Other,Main scheme applicant,90
+2014,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2014,Less than -6 points,White,Main scheme applicant,2420
+2014,More than 3 points,Asian,Main scheme applicant,25
+2014,More than 3 points,Black,Main scheme applicant,10
+2014,More than 3 points,Mixed,Main scheme applicant,5
+2014,More than 3 points,Other,Main scheme applicant,5
+2014,More than 3 points,White,Main scheme applicant,165
+2015,-1 points,Asian,Main scheme applicant,3740
+2015,-1 points,Black,Main scheme applicant,1245
+2015,-1 points,Mixed,Main scheme applicant,1535
+2015,-1 points,Other,Main scheme applicant,375
+2015,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,250
+2015,-1 points,White,Main scheme applicant,30130
+2015,-2 points,Asian,Main scheme applicant,3960
+2015,-2 points,Black,Main scheme applicant,1435
+2015,-2 points,Mixed,Main scheme applicant,1515
+2015,-2 points,Other,Main scheme applicant,460
+2015,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,195
+2015,-2 points,White,Main scheme applicant,29465
+2015,-3 points,Asian,Main scheme applicant,3095
+2015,-3 points,Black,Main scheme applicant,1400
+2015,-3 points,Mixed,Main scheme applicant,1165
+2015,-3 points,Other,Main scheme applicant,340
+2015,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,155
+2015,-3 points,White,Main scheme applicant,20820
+2015,-4 points,Asian,Main scheme applicant,2040
+2015,-4 points,Black,Main scheme applicant,945
+2015,-4 points,Mixed,Main scheme applicant,650
+2015,-4 points,Other,Main scheme applicant,220
+2015,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,90
+2015,-4 points,White,Main scheme applicant,11605
+2015,-5 points,Asian,Main scheme applicant,1170
+2015,-5 points,Black,Main scheme applicant,515
+2015,-5 points,Mixed,Main scheme applicant,340
+2015,-5 points,Other,Main scheme applicant,145
+2015,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,50
+2015,-5 points,White,Main scheme applicant,5580
+2015,-6 points,Asian,Main scheme applicant,635
+2015,-6 points,Black,Main scheme applicant,270
+2015,-6 points,Mixed,Main scheme applicant,170
+2015,-6 points,Other,Main scheme applicant,75
+2015,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2015,-6 points,White,Main scheme applicant,2580
+2015,0 points,Asian,Main scheme applicant,2800
+2015,0 points,Black,Main scheme applicant,765
+2015,0 points,Mixed,Main scheme applicant,1110
+2015,0 points,Other,Main scheme applicant,295
+2015,0 points,Unknown or Prefer Not To Say,Main scheme applicant,200
+2015,0 points,White,Main scheme applicant,22415
+2015,1 point,Asian,Main scheme applicant,1025
+2015,1 point,Black,Main scheme applicant,305
+2015,1 point,Mixed,Main scheme applicant,430
+2015,1 point,Other,Main scheme applicant,95
+2015,1 point,Unknown or Prefer Not To Say,Main scheme applicant,65
+2015,1 point,White,Main scheme applicant,9005
+2015,2 points,Asian,Main scheme applicant,305
+2015,2 points,Black,Main scheme applicant,100
+2015,2 points,Mixed,Main scheme applicant,140
+2015,2 points,Other,Main scheme applicant,30
+2015,2 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2015,2 points,White,Main scheme applicant,2855
+2015,3 points,Asian,Main scheme applicant,85
+2015,3 points,Black,Main scheme applicant,15
+2015,3 points,Mixed,Main scheme applicant,25
+2015,3 points,Other,Main scheme applicant,10
+2015,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,3 points,White,Main scheme applicant,680
+2015,Less than -6 points,Asian,Main scheme applicant,610
+2015,Less than -6 points,Black,Main scheme applicant,270
+2015,Less than -6 points,Mixed,Main scheme applicant,165
+2015,Less than -6 points,Other,Main scheme applicant,75
+2015,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,40
+2015,Less than -6 points,White,Main scheme applicant,2475
+2015,More than 3 points,Asian,Main scheme applicant,25
+2015,More than 3 points,Black,Main scheme applicant,5
+2015,More than 3 points,Mixed,Main scheme applicant,15
+2015,More than 3 points,Other,Main scheme applicant,5
+2015,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2015,More than 3 points,White,Main scheme applicant,170
+2016,-1 points,Asian,Main scheme applicant,3765
+2016,-1 points,Black,Main scheme applicant,1225
+2016,-1 points,Mixed,Main scheme applicant,1550
+2016,-1 points,Other,Main scheme applicant,390
+2016,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,205
+2016,-1 points,White,Main scheme applicant,29155
+2016,-2 points,Asian,Main scheme applicant,4220
+2016,-2 points,Black,Main scheme applicant,1515
+2016,-2 points,Mixed,Main scheme applicant,1595
+2016,-2 points,Other,Main scheme applicant,465
+2016,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,260
+2016,-2 points,White,Main scheme applicant,29085
+2016,-3 points,Asian,Main scheme applicant,3400
+2016,-3 points,Black,Main scheme applicant,1365
+2016,-3 points,Mixed,Main scheme applicant,1195
+2016,-3 points,Other,Main scheme applicant,360
+2016,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,190
+2016,-3 points,White,Main scheme applicant,21365
+2016,-4 points,Asian,Main scheme applicant,2200
+2016,-4 points,Black,Main scheme applicant,950
+2016,-4 points,Mixed,Main scheme applicant,685
+2016,-4 points,Other,Main scheme applicant,275
+2016,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,115
+2016,-4 points,White,Main scheme applicant,11920
+2016,-5 points,Asian,Main scheme applicant,1315
+2016,-5 points,Black,Main scheme applicant,570
+2016,-5 points,Mixed,Main scheme applicant,360
+2016,-5 points,Other,Main scheme applicant,160
+2016,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,45
+2016,-5 points,White,Main scheme applicant,6105
+2016,-6 points,Asian,Main scheme applicant,660
+2016,-6 points,Black,Main scheme applicant,285
+2016,-6 points,Mixed,Main scheme applicant,200
+2016,-6 points,Other,Main scheme applicant,75
+2016,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,30
+2016,-6 points,White,Main scheme applicant,2845
+2016,0 points,Asian,Main scheme applicant,2825
+2016,0 points,Black,Main scheme applicant,810
+2016,0 points,Mixed,Main scheme applicant,1160
+2016,0 points,Other,Main scheme applicant,255
+2016,0 points,Unknown or Prefer Not To Say,Main scheme applicant,170
+2016,0 points,White,Main scheme applicant,21120
+2016,1 point,Asian,Main scheme applicant,985
+2016,1 point,Black,Main scheme applicant,295
+2016,1 point,Mixed,Main scheme applicant,440
+2016,1 point,Other,Main scheme applicant,105
+2016,1 point,Unknown or Prefer Not To Say,Main scheme applicant,70
+2016,1 point,White,Main scheme applicant,8135
+2016,2 points,Asian,Main scheme applicant,315
+2016,2 points,Black,Main scheme applicant,120
+2016,2 points,Mixed,Main scheme applicant,135
+2016,2 points,Other,Main scheme applicant,40
+2016,2 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2016,2 points,White,Main scheme applicant,2565
+2016,3 points,Asian,Main scheme applicant,115
+2016,3 points,Black,Main scheme applicant,30
+2016,3 points,Mixed,Main scheme applicant,30
+2016,3 points,Other,Main scheme applicant,10
+2016,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,3 points,White,Main scheme applicant,640
+2016,Less than -6 points,Asian,Main scheme applicant,650
+2016,Less than -6 points,Black,Main scheme applicant,285
+2016,Less than -6 points,Mixed,Main scheme applicant,205
+2016,Less than -6 points,Other,Main scheme applicant,90
+2016,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,40
+2016,Less than -6 points,White,Main scheme applicant,2695
+2016,More than 3 points,Asian,Main scheme applicant,40
+2016,More than 3 points,Black,Main scheme applicant,5
+2016,More than 3 points,Mixed,Main scheme applicant,5
+2016,More than 3 points,Other,Main scheme applicant,5
+2016,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2016,More than 3 points,White,Main scheme applicant,140
+2017,-1 points,Asian,Main scheme applicant,3755
+2017,-1 points,Black,Main scheme applicant,1185
+2017,-1 points,Mixed,Main scheme applicant,1530
+2017,-1 points,Other,Main scheme applicant,415
+2017,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,220
+2017,-1 points,White,Main scheme applicant,26515
+2017,-2 points,Asian,Main scheme applicant,3980
+2017,-2 points,Black,Main scheme applicant,1455
+2017,-2 points,Mixed,Main scheme applicant,1500
+2017,-2 points,Other,Main scheme applicant,475
+2017,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,210
+2017,-2 points,White,Main scheme applicant,26390
+2017,-3 points,Asian,Main scheme applicant,3370
+2017,-3 points,Black,Main scheme applicant,1295
+2017,-3 points,Mixed,Main scheme applicant,1255
+2017,-3 points,Other,Main scheme applicant,425
+2017,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,160
+2017,-3 points,White,Main scheme applicant,20410
+2017,-4 points,Asian,Main scheme applicant,2395
+2017,-4 points,Black,Main scheme applicant,980
+2017,-4 points,Mixed,Main scheme applicant,785
+2017,-4 points,Other,Main scheme applicant,315
+2017,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,110
+2017,-4 points,White,Main scheme applicant,12740
+2017,-5 points,Asian,Main scheme applicant,1530
+2017,-5 points,Black,Main scheme applicant,675
+2017,-5 points,Mixed,Main scheme applicant,475
+2017,-5 points,Other,Main scheme applicant,175
+2017,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,65
+2017,-5 points,White,Main scheme applicant,7175
+2017,-6 points,Asian,Main scheme applicant,925
+2017,-6 points,Black,Main scheme applicant,385
+2017,-6 points,Mixed,Main scheme applicant,300
+2017,-6 points,Other,Main scheme applicant,120
+2017,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,30
+2017,-6 points,White,Main scheme applicant,3795
+2017,0 points,Asian,Main scheme applicant,2915
+2017,0 points,Black,Main scheme applicant,780
+2017,0 points,Mixed,Main scheme applicant,1165
+2017,0 points,Other,Main scheme applicant,270
+2017,0 points,Unknown or Prefer Not To Say,Main scheme applicant,195
+2017,0 points,White,Main scheme applicant,20675
+2017,1 point,Asian,Main scheme applicant,1205
+2017,1 point,Black,Main scheme applicant,360
+2017,1 point,Mixed,Main scheme applicant,520
+2017,1 point,Other,Main scheme applicant,125
+2017,1 point,Unknown or Prefer Not To Say,Main scheme applicant,55
+2017,1 point,White,Main scheme applicant,9085
+2017,2 points,Asian,Main scheme applicant,435
+2017,2 points,Black,Main scheme applicant,130
+2017,2 points,Mixed,Main scheme applicant,195
+2017,2 points,Other,Main scheme applicant,55
+2017,2 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2017,2 points,White,Main scheme applicant,3195
+2017,3 points,Asian,Main scheme applicant,135
+2017,3 points,Black,Main scheme applicant,40
+2017,3 points,Mixed,Main scheme applicant,50
+2017,3 points,Other,Main scheme applicant,15
+2017,3 points,Unknown or Prefer Not To Say,Main scheme applicant,10
+2017,3 points,White,Main scheme applicant,850
+2017,Less than -6 points,Asian,Main scheme applicant,1150
+2017,Less than -6 points,Black,Main scheme applicant,500
+2017,Less than -6 points,Mixed,Main scheme applicant,335
+2017,Less than -6 points,Other,Main scheme applicant,155
+2017,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,45
+2017,Less than -6 points,White,Main scheme applicant,3790
+2017,More than 3 points,Asian,Main scheme applicant,55
+2017,More than 3 points,Black,Main scheme applicant,15
+2017,More than 3 points,Mixed,Main scheme applicant,25
+2017,More than 3 points,Other,Main scheme applicant,5
+2017,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2017,More than 3 points,White,Main scheme applicant,250
+2018,-1 points,Asian,Main scheme applicant,3805
+2018,-1 points,Black,Main scheme applicant,1130
+2018,-1 points,Mixed,Main scheme applicant,1445
+2018,-1 points,Other,Main scheme applicant,410
+2018,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,225
+2018,-1 points,White,Main scheme applicant,24275
+2018,-2 points,Asian,Main scheme applicant,3935
+2018,-2 points,Black,Main scheme applicant,1415
+2018,-2 points,Mixed,Main scheme applicant,1505
+2018,-2 points,Other,Main scheme applicant,485
+2018,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,215
+2018,-2 points,White,Main scheme applicant,24000
+2018,-3 points,Asian,Main scheme applicant,3575
+2018,-3 points,Black,Main scheme applicant,1345
+2018,-3 points,Mixed,Main scheme applicant,1265
+2018,-3 points,Other,Main scheme applicant,435
+2018,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,170
+2018,-3 points,White,Main scheme applicant,19465
+2018,-4 points,Asian,Main scheme applicant,2745
+2018,-4 points,Black,Main scheme applicant,1155
+2018,-4 points,Mixed,Main scheme applicant,875
+2018,-4 points,Other,Main scheme applicant,300
+2018,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,135
+2018,-4 points,White,Main scheme applicant,12440
+2018,-5 points,Asian,Main scheme applicant,1925
+2018,-5 points,Black,Main scheme applicant,770
+2018,-5 points,Mixed,Main scheme applicant,535
+2018,-5 points,Other,Main scheme applicant,240
+2018,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,75
+2018,-5 points,White,Main scheme applicant,7475
+2018,-6 points,Asian,Main scheme applicant,1215
+2018,-6 points,Black,Main scheme applicant,515
+2018,-6 points,Mixed,Main scheme applicant,335
+2018,-6 points,Other,Main scheme applicant,155
+2018,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,35
+2018,-6 points,White,Main scheme applicant,4025
+2018,0 points,Asian,Main scheme applicant,2855
+2018,0 points,Black,Main scheme applicant,745
+2018,0 points,Mixed,Main scheme applicant,1090
+2018,0 points,Other,Main scheme applicant,285
+2018,0 points,Unknown or Prefer Not To Say,Main scheme applicant,205
+2018,0 points,White,Main scheme applicant,19270
+2018,1 point,Asian,Main scheme applicant,1075
+2018,1 point,Black,Main scheme applicant,315
+2018,1 point,Mixed,Main scheme applicant,470
+2018,1 point,Other,Main scheme applicant,120
+2018,1 point,Unknown or Prefer Not To Say,Main scheme applicant,90
+2018,1 point,White,Main scheme applicant,8330
+2018,2 points,Asian,Main scheme applicant,390
+2018,2 points,Black,Main scheme applicant,115
+2018,2 points,Mixed,Main scheme applicant,185
+2018,2 points,Other,Main scheme applicant,45
+2018,2 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2018,2 points,White,Main scheme applicant,2875
+2018,3 points,Asian,Main scheme applicant,110
+2018,3 points,Black,Main scheme applicant,40
+2018,3 points,Mixed,Main scheme applicant,50
+2018,3 points,Other,Main scheme applicant,20
+2018,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,3 points,White,Main scheme applicant,800
+2018,Less than -6 points,Asian,Main scheme applicant,1655
+2018,Less than -6 points,Black,Main scheme applicant,710
+2018,Less than -6 points,Mixed,Main scheme applicant,405
+2018,Less than -6 points,Other,Main scheme applicant,230
+2018,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,60
+2018,Less than -6 points,White,Main scheme applicant,4415
+2018,More than 3 points,Asian,Main scheme applicant,40
+2018,More than 3 points,Black,Main scheme applicant,15
+2018,More than 3 points,Mixed,Main scheme applicant,20
+2018,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2018,More than 3 points,White,Main scheme applicant,230
+2019,-1 points,Asian,Main scheme applicant,3555
+2019,-1 points,Black,Main scheme applicant,1110
+2019,-1 points,Mixed,Main scheme applicant,1420
+2019,-1 points,Other,Main scheme applicant,415
+2019,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,195
+2019,-1 points,White,Main scheme applicant,21035
+2019,-2 points,Asian,Main scheme applicant,4135
+2019,-2 points,Black,Main scheme applicant,1420
+2019,-2 points,Mixed,Main scheme applicant,1515
+2019,-2 points,Other,Main scheme applicant,495
+2019,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,225
+2019,-2 points,White,Main scheme applicant,22675
+2019,-3 points,Asian,Main scheme applicant,3855
+2019,-3 points,Black,Main scheme applicant,1455
+2019,-3 points,Mixed,Main scheme applicant,1280
+2019,-3 points,Other,Main scheme applicant,475
+2019,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,175
+2019,-3 points,White,Main scheme applicant,18810
+2019,-4 points,Asian,Main scheme applicant,3230
+2019,-4 points,Black,Main scheme applicant,1265
+2019,-4 points,Mixed,Main scheme applicant,1025
+2019,-4 points,Other,Main scheme applicant,415
+2019,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,125
+2019,-4 points,White,Main scheme applicant,13380
+2019,-5 points,Asian,Main scheme applicant,2350
+2019,-5 points,Black,Main scheme applicant,955
+2019,-5 points,Mixed,Main scheme applicant,695
+2019,-5 points,Other,Main scheme applicant,285
+2019,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,80
+2019,-5 points,White,Main scheme applicant,8640
+2019,-6 points,Asian,Main scheme applicant,1685
+2019,-6 points,Black,Main scheme applicant,665
+2019,-6 points,Mixed,Main scheme applicant,460
+2019,-6 points,Other,Main scheme applicant,210
+2019,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,70
+2019,-6 points,White,Main scheme applicant,4895
+2019,0 points,Asian,Main scheme applicant,2640
+2019,0 points,Black,Main scheme applicant,735
+2019,0 points,Mixed,Main scheme applicant,1105
+2019,0 points,Other,Main scheme applicant,320
+2019,0 points,Unknown or Prefer Not To Say,Main scheme applicant,185
+2019,0 points,White,Main scheme applicant,16465
+2019,1 point,Asian,Main scheme applicant,935
+2019,1 point,Black,Main scheme applicant,280
+2019,1 point,Mixed,Main scheme applicant,400
+2019,1 point,Other,Main scheme applicant,135
+2019,1 point,Unknown or Prefer Not To Say,Main scheme applicant,55
+2019,1 point,White,Main scheme applicant,6815
+2019,2 points,Asian,Main scheme applicant,330
+2019,2 points,Black,Main scheme applicant,100
+2019,2 points,Mixed,Main scheme applicant,140
+2019,2 points,Other,Main scheme applicant,35
+2019,2 points,Unknown or Prefer Not To Say,Main scheme applicant,25
+2019,2 points,White,Main scheme applicant,2360
+2019,3 points,Asian,Main scheme applicant,100
+2019,3 points,Black,Main scheme applicant,40
+2019,3 points,Mixed,Main scheme applicant,40
+2019,3 points,Other,Main scheme applicant,15
+2019,3 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2019,3 points,White,Main scheme applicant,710
+2019,Less than -6 points,Asian,Main scheme applicant,2710
+2019,Less than -6 points,Black,Main scheme applicant,1110
+2019,Less than -6 points,Mixed,Main scheme applicant,595
+2019,Less than -6 points,Other,Main scheme applicant,355
+2019,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,100
+2019,Less than -6 points,White,Main scheme applicant,5620
+2019,More than 3 points,Asian,Main scheme applicant,45
+2019,More than 3 points,Black,Main scheme applicant,5
+2019,More than 3 points,Mixed,Main scheme applicant,25
+2019,More than 3 points,Other,Main scheme applicant,5
+2019,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2019,More than 3 points,White,Main scheme applicant,190
+2020,-1 points,Asian,Main scheme applicant,5695
+2020,-1 points,Black,Main scheme applicant,1965
+2020,-1 points,Mixed,Main scheme applicant,2110
+2020,-1 points,Other,Main scheme applicant,710
+2020,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,290
+2020,-1 points,White,Main scheme applicant,27150
+2020,-2 points,Asian,Main scheme applicant,4890
+2020,-2 points,Black,Main scheme applicant,1725
+2020,-2 points,Mixed,Main scheme applicant,1500
+2020,-2 points,Other,Main scheme applicant,585
+2020,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,190
+2020,-2 points,White,Main scheme applicant,17990
+2020,-3 points,Asian,Main scheme applicant,3410
+2020,-3 points,Black,Main scheme applicant,1285
+2020,-3 points,Mixed,Main scheme applicant,895
+2020,-3 points,Other,Main scheme applicant,415
+2020,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,115
+2020,-3 points,White,Main scheme applicant,9640
+2020,-4 points,Asian,Main scheme applicant,1895
+2020,-4 points,Black,Main scheme applicant,815
+2020,-4 points,Mixed,Main scheme applicant,465
+2020,-4 points,Other,Main scheme applicant,280
+2020,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,50
+2020,-4 points,White,Main scheme applicant,4390
+2020,-5 points,Asian,Main scheme applicant,1055
+2020,-5 points,Black,Main scheme applicant,440
+2020,-5 points,Mixed,Main scheme applicant,210
+2020,-5 points,Other,Main scheme applicant,130
+2020,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,45
+2020,-5 points,White,Main scheme applicant,1875
+2020,-6 points,Asian,Main scheme applicant,530
+2020,-6 points,Black,Main scheme applicant,190
+2020,-6 points,Mixed,Main scheme applicant,95
+2020,-6 points,Other,Main scheme applicant,90
+2020,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2020,-6 points,White,Main scheme applicant,850
+2020,0 points,Asian,Main scheme applicant,5995
+2020,0 points,Black,Main scheme applicant,1755
+2020,0 points,Mixed,Main scheme applicant,2395
+2020,0 points,Other,Main scheme applicant,670
+2020,0 points,Unknown or Prefer Not To Say,Main scheme applicant,380
+2020,0 points,White,Main scheme applicant,32495
+2020,1 point,Asian,Main scheme applicant,2405
+2020,1 point,Black,Main scheme applicant,790
+2020,1 point,Mixed,Main scheme applicant,975
+2020,1 point,Other,Main scheme applicant,280
+2020,1 point,Unknown or Prefer Not To Say,Main scheme applicant,155
+2020,1 point,White,Main scheme applicant,15985
+2020,2 points,Asian,Main scheme applicant,815
+2020,2 points,Black,Main scheme applicant,255
+2020,2 points,Mixed,Main scheme applicant,285
+2020,2 points,Other,Main scheme applicant,100
+2020,2 points,Unknown or Prefer Not To Say,Main scheme applicant,50
+2020,2 points,White,Main scheme applicant,5335
+2020,3 points,Asian,Main scheme applicant,210
+2020,3 points,Black,Main scheme applicant,60
+2020,3 points,Mixed,Main scheme applicant,70
+2020,3 points,Other,Main scheme applicant,35
+2020,3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,3 points,White,Main scheme applicant,1230
+2020,Less than -6 points,Asian,Main scheme applicant,490
+2020,Less than -6 points,Black,Main scheme applicant,245
+2020,Less than -6 points,Mixed,Main scheme applicant,120
+2020,Less than -6 points,Other,Main scheme applicant,70
+2020,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2020,Less than -6 points,White,Main scheme applicant,850
+2020,More than 3 points,Asian,Main scheme applicant,50
+2020,More than 3 points,Black,Main scheme applicant,10
+2020,More than 3 points,Mixed,Main scheme applicant,15
+2020,More than 3 points,Other,Main scheme applicant,5
+2020,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,5
+2020,More than 3 points,White,Main scheme applicant,175
+2021,-1 points,Asian,Main scheme applicant,5650
+2021,-1 points,Black,Main scheme applicant,2075
+2021,-1 points,Mixed,Main scheme applicant,2000
+2021,-1 points,Other,Main scheme applicant,710
+2021,-1 points,Unknown or Prefer Not To Say,Main scheme applicant,280
+2021,-1 points,White,Main scheme applicant,23475
+2021,-2 points,Asian,Main scheme applicant,4240
+2021,-2 points,Black,Main scheme applicant,1605
+2021,-2 points,Mixed,Main scheme applicant,1285
+2021,-2 points,Other,Main scheme applicant,565
+2021,-2 points,Unknown or Prefer Not To Say,Main scheme applicant,135
+2021,-2 points,White,Main scheme applicant,14605
+2021,-3 points,Asian,Main scheme applicant,2770
+2021,-3 points,Black,Main scheme applicant,1125
+2021,-3 points,Mixed,Main scheme applicant,765
+2021,-3 points,Other,Main scheme applicant,330
+2021,-3 points,Unknown or Prefer Not To Say,Main scheme applicant,95
+2021,-3 points,White,Main scheme applicant,7840
+2021,-4 points,Asian,Main scheme applicant,1620
+2021,-4 points,Black,Main scheme applicant,705
+2021,-4 points,Mixed,Main scheme applicant,400
+2021,-4 points,Other,Main scheme applicant,225
+2021,-4 points,Unknown or Prefer Not To Say,Main scheme applicant,55
+2021,-4 points,White,Main scheme applicant,3885
+2021,-5 points,Asian,Main scheme applicant,880
+2021,-5 points,Black,Main scheme applicant,355
+2021,-5 points,Mixed,Main scheme applicant,210
+2021,-5 points,Other,Main scheme applicant,120
+2021,-5 points,Unknown or Prefer Not To Say,Main scheme applicant,35
+2021,-5 points,White,Main scheme applicant,1825
+2021,-6 points,Asian,Main scheme applicant,480
+2021,-6 points,Black,Main scheme applicant,210
+2021,-6 points,Mixed,Main scheme applicant,105
+2021,-6 points,Other,Main scheme applicant,50
+2021,-6 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2021,-6 points,White,Main scheme applicant,805
+2021,0 points,Asian,Main scheme applicant,7470
+2021,0 points,Black,Main scheme applicant,2125
+2021,0 points,Mixed,Main scheme applicant,2780
+2021,0 points,Other,Main scheme applicant,860
+2021,0 points,Unknown or Prefer Not To Say,Main scheme applicant,470
+2021,0 points,White,Main scheme applicant,34935
+2021,1 point,Asian,Main scheme applicant,3945
+2021,1 point,Black,Main scheme applicant,1335
+2021,1 point,Mixed,Main scheme applicant,1645
+2021,1 point,Other,Main scheme applicant,515
+2021,1 point,Unknown or Prefer Not To Say,Main scheme applicant,225
+2021,1 point,White,Main scheme applicant,22215
+2021,2 points,Asian,Main scheme applicant,1975
+2021,2 points,Black,Main scheme applicant,575
+2021,2 points,Mixed,Main scheme applicant,720
+2021,2 points,Other,Main scheme applicant,215
+2021,2 points,Unknown or Prefer Not To Say,Main scheme applicant,105
+2021,2 points,White,Main scheme applicant,10505
+2021,3 points,Asian,Main scheme applicant,695
+2021,3 points,Black,Main scheme applicant,195
+2021,3 points,Mixed,Main scheme applicant,235
+2021,3 points,Other,Main scheme applicant,95
+2021,3 points,Unknown or Prefer Not To Say,Main scheme applicant,40
+2021,3 points,White,Main scheme applicant,3500
+2021,Less than -6 points,Asian,Main scheme applicant,505
+2021,Less than -6 points,Black,Main scheme applicant,220
+2021,Less than -6 points,Mixed,Main scheme applicant,105
+2021,Less than -6 points,Other,Main scheme applicant,80
+2021,Less than -6 points,Unknown or Prefer Not To Say,Main scheme applicant,20
+2021,Less than -6 points,White,Main scheme applicant,775
+2021,More than 3 points,Asian,Main scheme applicant,265
+2021,More than 3 points,Black,Main scheme applicant,80
+2021,More than 3 points,Mixed,Main scheme applicant,75
+2021,More than 3 points,Other,Main scheme applicant,45
+2021,More than 3 points,Unknown or Prefer Not To Say,Main scheme applicant,15
+2021,More than 3 points,White,Main scheme applicant,970
