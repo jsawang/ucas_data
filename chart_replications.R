@@ -40,6 +40,14 @@ apps_indage <- apps_agegp[apps_agegp$Domicile == filter_apptype &
 
 apps_indage$`Individual age` <- as.factor(apps_indage$`Individual age`)
 
+apps_indage <- apps_indage %>%
+  select(everything()) %>%
+  mutate(
+    Gender_selector = paste(Gender, "All")
+  )
+indAgeData <- apps_indage %>%
+  filter(grepl("Women", Gender_selector))
+
 ggplot(data = apps_indage,
        aes(y = `Individual age`,
            x = Applicants,
