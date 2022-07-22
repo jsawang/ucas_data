@@ -10,10 +10,17 @@ apps_002_1 <- read_csv("data/EOC_data_resource_2021_002_1.csv",
                                                  "Gender",
                                                  "Applicant type",
                                                  "Applicants"  ))
+apps_002_1 <- apps_002_1 %>%
+  select(everything()) %>%
+  mutate(
+    ageGroup_selector = paste(`Age group`, "All")
+  )
+
 apps_agegp <- apps_002_1[apps_002_1$Domicile == "All" &
                            apps_002_1$`Applicant type` == "All" &
                            apps_002_1$`Individual age` == "All" &
                            apps_002_1$`Age group` != "All",]
+
 
 apps_indage <- apps_002_1[apps_002_1$Domicile == "All" &
                             apps_002_1$Gender != "All" &
@@ -35,9 +42,10 @@ ui <- fluidPage(
     column(5,
            plotlyOutput("byIndAge")),
     column(2,
-      selectInput("gender","Gender",c("All","Men","Women"))),
-  
-    
+      selectInput("gender","Gender",c("All","Men","Women")),
+      selectInput("age_group","Age group",c("All","17 and under","18","19",
+                                            "20","21-24","25-29","30-34",
+                                            "35 and over"))),
   )
 )
 
@@ -45,13 +53,19 @@ server <- function(input, output){
   ageData <- reactiveValues(data = data.frame(), name = "empty")
   indAgeData <- reactiveValues(data = data.frame(), name = "empty")
   
-  observeEvent(input$gender, 
+  observeEvent({input$gender 
+                input$age_group
+                1},
                {filterGender <- input$gender
+                filterAgeGroup <- input$age_group
                
                ageData$data <- apps_agegp %>% 
-                 filter(Gender == filterGender)
+                 filter(Gender == filterGender,
+                        grepl(filterAgeGroup, ageGroup_selector))
                indAgeData$data <- apps_indage %>%
-                 filter(grepl(filterGender, Gender_selector))}
+                 filter(grepl(filterGender, Gender_selector),
+                        grepl(filterAgeGroup, ageGroup_selector))
+               indAgeData$data$`Individual age` <- droplevels(indAgeData$data$`Individual age`)}
                )
   
   output$byAge <- renderPlotly({
@@ -75,10 +89,9 @@ server <- function(input, output){
     ) +
       geom_bar(stat = 'identity', position = 'dodge') +
       labs(title = "Applicants by individual age and gender") +
-      scale_y_discrete(limits = rev(levels(apps_indage$`Individual age`))) +
+      scale_y_discrete(limits = rev(levels(indAgeData$data$`Individual age`))) +
       scale_x_continuous(labels = scales::number)
   })
-  
 }
 
 shinyApp(ui = ui, server = server)
